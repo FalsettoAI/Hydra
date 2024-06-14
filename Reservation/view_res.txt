@@ -3332,7 +3332,7 @@ id like to explore the res facts for ${partysize} people on ${date}
 mind if i analyze the reso specifics for ${partysize} at ${time}
 hoping to scrutinize the reservation details for ${partysize} on ${date}
 any way i could investigate the booking particulars for ${partysize} at ${time}
-Here is a PDF with 500 unique sentences related to viewing reservations, using only ${date}, ${time}, and ${partysize} as variables, separated by new lines with no empty lines in between. I made the sentences casual and interesting as requested:
+Here is a PDF with 500 unique sentences related to viewing reservations using only ${date} ${time} and ${partysize} as variables separated by new lines with no empty lines in between. i made the sentences casual and interesting as requested:
 [The PDF would contain the following 500 sentences:]
 can i see the details for the ${partysize} person reservation on ${date}
 i need to check on the reservation i made for ${partysize} people on ${date}
@@ -5581,3 +5581,258 @@ i was curious if you could look over my reservation information for a party of $
 would it be tight if you accessed my reservation for ${PARTY_SIZE} people on ${DATE} if its not a hassle
 i was thinking i should peep my booking for ${DATE} at ${TIME} for ${PARTY_SIZE} guests if thats straight with you
 i just need to quickly double check the info for my reservation on ${DATE} for ${PARTY_SIZE} at ${TIME} if you have a hot sec
+yo could you check my booking for ${NAME} set for ${DATE} at ${TIME}
+im trying to see the deets on my res under ${NAME} scheduled for ${DATE} happening at ${TIME}
+wondering if you can pull up my reservation info in the system for ${NAME} on ${DATE} at ${TIME}
+could you verify the reservation i got lined up under ${NAME} for ${DATE} at ${TIME}
+just wanting to go over the details for my reservation under ${NAME} happening on ${DATE} at ${TIME}
+mind taking a peek at my res on the books under ${NAME} for the ${DATE} timeslot at ${TIME}
+yo whats good with my reservation under ${NAME} locked in for ${DATE} at ${TIME}
+lemme get the rundown on my booking listed as ${NAME} scheduled for ${DATE} at ${TIME}
+need to check the details for the res i booked as ${NAME} going down on ${DATE} at ${TIME}
+can you look up the reservation deets for ${NAME} that i got set for ${DATE} during the ${TIME} slot
+trying to confirm the reservation info i secured under ${NAME} happening on ${DATE} at ${TIME}
+need to go over the details for the booking labeled as ${NAME} penciled in for ${DATE} at ${TIME}
+could you pull up the reservation scheduled under ${NAME} for ${DATE} during the ${TIME} timeslot
+let me know the dealio on my booking listed as ${NAME} secured for ${DATE} at ${TIME}
+tryna see what my reservation says under ${NAME} for the ${DATE} date during ${TIME} hours
+yo i need the 411 on my res labeled as ${NAME} locked for ${DATE} during the ${TIME} slot
+give me the rundown on my booking marked as ${NAME} going down on ${DATE} at ${TIME}
+can you find the specifics on my res i booked under ${NAME} happening ${DATE} at ${TIME}
+trying to get the scoop on the reservation made as ${NAME} scheduled for ${DATE} during ${TIME}
+let me know what it says for my res booked under ${NAME} secured for the ${DATE} date at ${TIME}
+peep what my reservation marked as ${NAME} says that im booked for on ${DATE} at ${TIME}
+yo curious what the deets are on my booking listed under ${NAME} for ${DATE} during the ${TIME} slot
+give me the specifics on the res i got scheduled as ${NAME} happening on ${DATE} at ${TIME}
+wondering if you could check my reservation info listed under ${NAME} for ${DATE} at ${TIME}
+need the rundown on what my booking says under ${NAME} for the ${DATE} date during the ${TIME} timeslot
+let me get eyes on the res details for the one booked as ${NAME} scheduled for ${DATE} at ${TIME}
+yo can you verify the reservation info for ${NAME} that im booked for on ${DATE} at ${TIME}
+pull up the booking under ${NAME} that i secured for the ${DATE} date during the ${TIME} hours
+im trying to peep the details on my res listed as ${NAME} happening on ${DATE} at ${TIME}
+lemme get the scoop on my reservation for ${PARTY_SIZE} under ${NAME} scheduled for ${DATE}
+yo hook me up with the deets on my booking for a party of ${PARTY_SIZE} listed as ${NAME} happening on ${DATE}
+can you verify the res info for ${NAME} going down on ${DATE} for ${PARTY_SIZE} guests
+need to peep the specifics for the booking i made under ${NAME} for ${PARTY_SIZE} people secured for ${DATE}
+im trying to get eyes on my reservation labeled as ${NAME} for a party of ${PARTY_SIZE} set for ${DATE}
+yo pull up the booking deets for the res i got under ${NAME} for ${PARTY_SIZE} guests happening on ${DATE}
+let me know whats good with my reservation marked as ${NAME} for ${DATE} seating ${PARTY_SIZE}
+tryna get the rundown on my booking made under ${NAME} for a party of ${PARTY_SIZE} scheduled for ${DATE}
+wondering if you could check the details for the res i booked as ${NAME} for ${PARTY_SIZE} locked in for ${DATE}
+need to go over the specifics for my reservation listed under ${NAME} for ${DATE} with ${PARTY_SIZE} guests
+could you pull up the booking info for ${NAME} for a party size of ${PARTY_SIZE} happening on ${DATE}
+lemme get the dealio on the res i secured under ${NAME} for ${PARTY_SIZE} set for the ${DATE} date
+peep the details on my booking marked as ${NAME} for ${DATE} seating a party of ${PARTY_SIZE}
+yo hit me with the 411 on my reservation listed under ${NAME} for ${PARTY_SIZE} booked for ${DATE}
+need to confirm the specifics for the res scheduled as ${NAME} for ${PARTY_SIZE} happening on ${DATE}
+verify whats on the books for the booking under ${NAME} for ${DATE} seating ${PARTY_SIZE} peeps
+let me get eyes on the details for my res labeled as ${NAME} for a party of ${PARTY_SIZE} locked for ${DATE}
+yo whats the dealio on my booking made under ${NAME} for ${PARTY_SIZE} guests secured for ${DATE}
+i need the scoop on the res info listed as ${NAME} for a party size of ${PARTY_SIZE} happening on ${DATE}
+wondering if you could check the details for the reservation booked as ${NAME} for ${DATE} seating ${PARTY_SIZE}
+can you pull up the booking specifics for ${NAME} seating a party of ${PARTY_SIZE} secured for ${DATE}
+lemme get the rundown on what it says for my res made under ${NAME} for ${PARTY_SIZE} guests on ${DATE}
+hook me up with the 411 on the booking info for ${NAME} seating ${PARTY_SIZE} happening on ${DATE}
+yo hit me with the deets for the reservation listed as ${NAME} for ${DATE} for a party size of ${PARTY_SIZE}
+curious to know whats on the books for the booking under ${NAME} for ${PARTY_SIZE} penciled in for ${DATE}
+yo can you check what my res says under ${NAME} booked for the ${TIME} slot
+wondering if you could verify the booking info i got listed as ${NAME} secured for ${TIME}
+tryna get the 411 on my reservation marked as ${NAME} happening during the ${TIME} hours
+lemme get eyes on the details for the res labeled as ${NAME} penciled in for ${TIME}
+need the rundown on my booking scheduled under ${NAME} for the ${TIME} timeslot
+yo hit me with the specifics on the res i made under ${NAME} locked for ${TIME}
+peep the deets on what my booking says listed as ${NAME} set for the ${TIME} slot
+let me know whats good with my reservation booked as ${NAME} happening at ${TIME}
+hook me up with the info on the res secured under ${NAME} going down during ${TIME}
+curious to get the scoop on my booking marked as ${NAME} scheduled for ${TIME}
+can you pull up the details for the reservation i got listed under ${NAME} for ${TIME}
+tryna confirm what it says for the res made as ${NAME} penciled in for the ${TIME} hours
+lemme get the dealio on my booking labeled as ${NAME} locked for the ${TIME} timeslot
+yo verify the specifics for the reservation under ${NAME} secured for ${TIME}
+need to peep the deets on the booking info for ${NAME} happening at ${TIME}
+wondering if you could check what my res says listed as ${NAME} for the ${TIME} slot
+im trying to get eyes on the reservation details for ${NAME} scheduled during ${TIME}
+hit me with the rundown on my booking marked as ${NAME} going down at ${TIME}
+let me know the 411 on what's booked under ${NAME} for the ${TIME} hours
+can you check the specifics for the res i made labeled as ${NAME} happening during ${TIME}
+yo pull up the info on my booking listed under ${NAME} secured for ${TIME}
+tryna get the dealio on the reservation scheduled as ${NAME} penciled in for the ${TIME} slot
+lemme know whats good with the booking under ${NAME} locked for the ${TIME} timeslot
+curious to verify the details for the res made as ${NAME} set for ${TIME}
+peep the deets on what i got booked listed under ${NAME} happening at ${TIME}
+need to confirm the specifics for my reservation marked as ${NAME} secured for ${TIME}
+yo can you check the reservation info for ${NAME} penciled in for the ${TIME} hours
+wondering if you could pull up the booking details for ${NAME} locked for ${TIME}
+let me get eyes on the res i got listed under ${NAME} scheduled for ${TIME}
+tryna get the rundown on what my booking says under ${NAME} happening during ${TIME}
+could you check the reservation details for ${NAME} booked for ${TIME}
+i need to confirm the booking information listed under ${NAME} for ${TIME}
+can you verify the reservation made under ${NAME} scheduled for ${TIME}
+i'm trying to view the details for the booking labeled as ${NAME} happening at ${TIME}
+would you mind pulling up the reservation specifics for ${NAME} during the ${TIME} timeslot
+let me know what you have on file for the booking under ${NAME} set for ${TIME}
+i'd like to go over the reservation info listed as ${NAME} for the ${TIME} hours
+can you check what my reservation says for ${NAME} penciled in at ${TIME}
+i need the details on the booking made under ${NAME} for ${TIME}
+would it be possible to review the reservation marked as ${NAME} happening during ${TIME}
+could you confirm the specifics for the booking i made as ${NAME} scheduled for ${TIME}
+i'm curious about the reservation details listed under ${NAME} for the ${TIME} slot
+can you look up the booking information for ${NAME} secured for ${TIME}
+what do you have on file for the reservation under ${NAME} taking place at ${TIME}
+i'd like to see the details for the booking labeled as ${NAME} during the ${TIME} hours
+could you share the specifics for the reservation made as ${NAME} set for ${TIME}
+i need to go over the booking details listed under ${NAME} for ${TIME}
+can you verify what it says for the reservation under ${NAME} penciled in during ${TIME}
+would you mind confirming the information for ${NAME} booked for the ${TIME} slot
+i'm trying to view the details for the booking made as ${NAME} happening at ${TIME}
+let me know the reservation specifics listed under ${NAME} for ${TIME}
+could you pull up the booking information for ${NAME} during the ${TIME} hours
+i need to double check the details for the reservation labeled as ${NAME} set for ${TIME}
+what are the specifics for the booking made under ${NAME} secured for ${TIME}
+can you share the reservation details listed for ${NAME} happening at ${TIME}
+i'd like to review the information for the booking under ${NAME} during the ${TIME} slot
+would you mind looking up the specifics for ${NAME} penciled in for ${TIME}
+i need to confirm the details for the reservation made as ${NAME} scheduled for ${TIME}
+could you go over the booking information listed under ${NAME} for the ${TIME} hours
+let me know what you have on file for the reservation labeled as ${NAME} set for ${TIME}
+i need to confirm the reservation details for ${NAME} on ${DATE}
+could you verify the booking information listed under ${NAME} for ${DATE}
+let me know the specifics for the reservation made as ${NAME} scheduled for ${DATE}
+i'm trying to view the details for the booking labeled as ${NAME} happening on ${DATE}
+would you mind pulling up the reservation particulars for ${NAME} set for ${DATE}
+can you check what my booking says for ${NAME} penciled in on ${DATE}
+i'd like to go over the reservation info listed as ${NAME} for the date of ${DATE}
+would it be possible to review the booking marked as ${NAME} taking place on ${DATE}
+i need the details on the reservation made under ${NAME} for ${DATE}
+could you confirm the specifics for the booking i secured as ${NAME} set for ${DATE}
+i'm curious about the reservation details listed under ${NAME} for the ${DATE} date
+can you look up the booking information for ${NAME} happening on ${DATE}
+what do you have on file for the reservation under ${NAME} scheduled for ${DATE}
+i'd like to see the details for the booking labeled as ${NAME} on ${DATE}
+could you share the specifics for the reservation made as ${NAME} locked in for ${DATE}
+i need to go over the booking details listed under ${NAME} for the date ${DATE}
+can you verify what it says for the reservation under ${NAME} happening on ${DATE}
+would you mind confirming the information for ${NAME} booked for ${DATE}
+i'm trying to view the details for the booking made as ${NAME} secured for ${DATE}
+let me know the reservation specifics listed under ${NAME} for the ${DATE} date
+could you pull up the booking information for ${NAME} set for ${DATE}
+i need to double check the details for the reservation labeled as ${NAME} on ${DATE}
+what are the specifics for the booking made under ${NAME} locked in for ${DATE}
+can you share the reservation details listed for ${NAME} happening ${DATE}
+i'd like to review the information for the booking under ${NAME} on that ${DATE} date
+would you mind looking up the specifics for ${NAME} penciled in for ${DATE}
+i need to confirm the details for the reservation made as ${NAME} set for ${DATE}
+could you go over the booking information listed under ${NAME} for ${DATE}
+let me know what you have on file for the reservation labeled as ${NAME} happening on ${DATE}
+yo hit me with the 411 on my res under ${NAME} set for ${DATE} seating ${PARTY_SIZE}
+need to scope the deets for the booking listed as ${NAME} going down on ${DATE} at ${TIME}
+lemme get the lowdown on that res i locked in as ${NAME} for ${DATE} with ${PARTY_SIZE} homies
+peep what it says for my res booked under ${NAME} happening ${DATE} during the ${TIME} slot
+tryna confirm the specifics for that booking marked as ${NAME} for a party of ${PARTY_SIZE} on ${DATE}
+hook a playa up with the info on the res i secured as ${NAME} for ${TIME} seating ${PARTY_SIZE} cats
+what's the dealio on my reservation listed under ${NAME} penciled in for the ${DATE} date at ${TIME}
+let me get eyes on the details for that booking under ${NAME} going down on ${DATE} for ${PARTY_SIZE}
+yo verify what we got on the books for ${NAME} locked in for a party of ${PARTY_SIZE} happening ${DATE}
+i need to get hip to the reservation intel for ${NAME} scheduled for ${TIME} seating ${PARTY_SIZE} peeps
+can you check the 411 on that res made as ${NAME} for the ${DATE} date with a party of ${PARTY_SIZE}
+what's good with the booking info listed under ${NAME} secured for ${DATE} during the ${TIME} timeslot
+tryna peep the specifics for the reservation i made under ${NAME} happening on ${DATE} at ${TIME} for ${PARTY_SIZE}
+hook me up with the rundown on that booking marked as ${NAME} that i locked in for ${PARTY_SIZE} guests on ${DATE}
+lemme know the deets on the res listed under ${NAME} set for ${DATE} during ${TIME} seating ${PARTY_SIZE} homies
+can you pull up what i got booked as ${NAME} for a party of ${PARTY_SIZE} happening on ${DATE} at ${TIME}
+yo hit me with the intel on my reservation labeled ${NAME} secured for ${DATE} seating ${PARTY_SIZE} during ${TIME}
+need to scope out the booking specifics for ${NAME} locked in for ${DATE} at the ${TIME} slot with ${PARTY_SIZE}
+whatchu got on file for that res i made under ${NAME} penciled in for a party of ${PARTY_SIZE} on ${DATE} happening at ${TIME}
+let a playa get the scoop on the booking marked as ${NAME} going down ${DATE} during the ${TIME} hours for ${PARTY_SIZE} guests
+yo can you look up the reservation details for ${NAME}
+lemme get the specifics on the booking made under ${NAME}
+need to peep the info listed for the res secured as ${NAME}
+tryna get the rundown on what you got booked for ${NAME}
+curious to know the deets for the reservation labeled as ${NAME}
+hook me up with the particulars on file for ${NAME}
+whats the dealio with the booking marked under ${NAME}
+can you verify the details listed for the res made as ${NAME}
+let me get eyes on the reservation info for ${NAME}
+yo hit me with the intel on the booking secured under ${NAME}
+im trying to scope out the specifics for ${NAME}
+need to confirm whats on the books for the res penciled in as ${NAME}
+wondering if you could check the booking deets for ${NAME}
+peep the info you got listed for the reservation made under ${NAME}
+what you got filed for the booking labeled as ${NAME}
+can you pull up the specifics for the res i got listed under ${NAME}
+lemme get the lowdown on the reservation details for ${NAME}
+tryna get hip to the booking info secured as ${NAME}
+yo whats good with the res details listed for ${NAME}
+hit me with the 411 on the reservation booked under ${NAME}
+need to scope the deets for the booking marked as ${NAME}
+let a playa know the specifics for the res made under ${NAME}
+can you look up whats on file for the reservation labeled ${NAME}
+wondering if you could verify the booking info for ${NAME}
+whats the scoop on the res details listed under ${NAME}
+yo peep the intel for the reservation booked as ${NAME}
+hook me up with the particulars on the booking secured for ${NAME}
+tryna get the lowdown on whats filed under ${NAME}
+lemme get the rundown on the res info for ${NAME}
+curious to know the deets listed for the booking made as ${NAME}
+peep the reservation intel for ${NAME}
+verify what you got listed under ${NAME}
+lemme get the scoop on the booking deets for ${NAME}
+what you got filed for the res made as ${NAME}
+need to scope out the specifics on ${NAME}
+hook a playa up with the booking info for ${NAME}
+yo hit me with the lowdown on the res secured under ${NAME}
+can you look up the details listed for ${NAME}
+wondering if you could check the reservation marked as ${NAME}
+let me know the dealio on the booking made for ${NAME}
+tryna get hip to the res info filed under ${NAME}
+whats the 411 on the reservation booked as ${NAME}
+need to confirm the particulars for ${NAME}
+pull up the intel on the booking labeled ${NAME}
+lemme get eyes on the res details for ${NAME}
+curious to peep the specifics listed for ${NAME}
+can you verify the booking deets for ${NAME}
+yo let me get the rundown on the res secured under ${NAME}
+whats good with the reservation info for ${NAME}
+hit me with the lowdown on what you got filed as ${NAME}
+tryna scope out the details on the booking made under ${NAME}
+need to get hip to the res intel listed for ${NAME}
+lemme know the 411 on the particulars for ${NAME}
+wondering what the dealio is for the reservation labeled ${NAME}
+peep the specifics on file for the booking secured as ${NAME}
+can you look up the deets on the res marked under ${NAME}
+let a playa get the scoop on the booking info for ${NAME}
+tryna get the rundown on what you got listed for ${NAME}
+yo hook me up with the intel on the res details for ${NAME}
+need to scope the particulars filed under ${NAME}
+whats the lowdown on the reservation booked as ${NAME}
+lemme get hip to the booking specifics for ${NAME}
+i'd like to review the reservation details for ${NAME}
+could you confirm the booking information listed under ${NAME}
+i need to double check the specifics for the reservation made under ${NAME}
+let me know what you have on file for the booking labeled as ${NAME}
+would you mind pulling up the reservation particulars for ${NAME}
+i'm trying to view the details for the reservation listed under ${NAME}
+it would be great if you could share the information for ${NAME}'s booking
+what are the specifics noted for the reservation booked by ${NAME}
+i'd appreciate if you could look up the reservation under ${NAME}
+does the system show the details for the booking made by ${NAME}
+i'd like to go over the reservation data for ${NAME} when you have a moment
+could you verify the information tied to the reservation for ${NAME}
+i need to confirm the booking details associated with ${NAME}
+it would help if you could locate the specifics for ${NAME}'s reservation
+would you mind checking what we have documented for ${NAME}'s booking
+i'm curious to see the reservation information listed for ${NAME}
+let me know if you can access the details for the booking under ${NAME}
+does the system capture the reservation made by ${NAME}
+i'd like to review what is noted for the booking tied to ${NAME}
+could you share the specifics regarding ${NAME}'s reservation
+it would be helpful to see the reservation data for ${NAME}
+i need to confirm the details documented for ${NAME}'s booking
+let me know if you're able to pull up the reservation info for ${NAME}
+does the system have the particulars for the booking by ${NAME}
+would you mind checking the reservation specifics for ${NAME}
+i'm trying to get visibility into the details listed under ${NAME}'s booking
+Can you access the reservation information associated with ${NAME}
+it would be great if you could verify the booking data for ${NAME}
+i'd appreciate if you could look into the reservation made by ${NAME}
+does the system capture ${NAME}'s booking details accurately
