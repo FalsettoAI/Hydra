@@ -2,121 +2,121 @@ five minutes from now
 ten minutes from now
 fifteen minutes from now
 twenty minutes from now
-twenty-five minutes from now
+twenty five minutes from now
 thirty minutes from now
-thirty-five minutes from now
+thirty five minutes from now
 forty minutes from now
-forty-five minutes from now
+forty five minutes from now
 fifty minutes from now
-fifty-five minutes from now
+fifty five minutes from now
 one hour from now
 one hour and five minutes from now
 one hour and ten minutes from now
 one hour and fifteen minutes from now
 one hour and twenty minutes from now
-one hour and twenty-five minutes from now
+one hour and twenty five minutes from now
 one hour and thirty minutes from now
-one hour and thirty-five minutes from now
+one hour and thirty five minutes from now
 one hour and forty minutes from now
-one hour and forty-five minutes from now
+one hour and forty five minutes from now
 one hour and fifty minutes from now
-one hour and fifty-five minutes from now
+one hour and fifty five minutes from now
 two hours from now
 two hours and five minutes from now
 two hours and ten minutes from now
 two hours and fifteen minutes from now
 two hours and twenty minutes from now
-two hours and twenty-five minutes from now
+two hours and twenty five minutes from now
 two hours and thirty minutes from now
-two hours and thirty-five minutes from now
+two hours and thirty five minutes from now
 two hours and forty minutes from now
-two hours and forty-five minutes from now
+two hours and forty five minutes from now
 two hours and fifty minutes from now
-two hours and fifty-five minutes from now
+two hours and fifty five minutes from now
 three hours from now
 three hours and five minutes from now
 three hours and ten minutes from now
 three hours and fifteen minutes from now
 three hours and twenty minutes from now
-three hours and twenty-five minutes from now
+three hours and twenty five minutes from now
 three hours and thirty minutes from now
-three hours and thirty-five minutes from now
+three hours and thirty five minutes from now
 three hours and forty minutes from now
-three hours and forty-five minutes from now
+three hours and forty five minutes from now
 three hours and fifty minutes from now
-three hours and fifty-five minutes from now
+three hours and fifty five minutes from now
 four hours from now
 four hours and five minutes from now
 four hours and ten minutes from now
 four hours and fifteen minutes from now
 four hours and twenty minutes from now
-four hours and twenty-five minutes from now
+four hours and twenty five minutes from now
 four hours and thirty minutes from now
-four hours and thirty-five minutes from now
+four hours and thirty five minutes from now
 four hours and forty minutes from now
-four hours and forty-five minutes from now
+four hours and forty five minutes from now
 four hours and fifty minutes from now
-four hours and fifty-five minutes from now
+four hours and fifty five minutes from now
 five hours from now
 five hours and five minutes from now
 five hours and ten minutes from now
 five hours and fifteen minutes from now
 five hours and twenty minutes from now
-five hours and twenty-five minutes from now
+five hours and twenty five minutes from now
 five hours and thirty minutes from now
-five hours and thirty-five minutes from now
+five hours and thirty five minutes from now
 five hours and forty minutes from now
-five hours and forty-five minutes from now
+five hours and forty five minutes from now
 five hours and fifty minutes from now
-five hours and fifty-five minutes from now
+five hours and fifty five minutes from now
 six hours from now
 six hours and five minutes from now
 six hours and ten minutes from now
 six hours and fifteen minutes from now
 six hours and twenty minutes from now
-six hours and twenty-five minutes from now
+six hours and twenty five minutes from now
 six hours and thirty minutes from now
-six hours and thirty-five minutes from now
+six hours and thirty five minutes from now
 six hours and forty minutes from now
-six hours and forty-five minutes from now
+six hours and forty five minutes from now
 six hours and fifty minutes from now
-six hours and fifty-five minutes from now
+six hours and fifty five minutes from now
 seven hours from now
 seven hours and five minutes from now
 seven hours and ten minutes from now
 seven hours and fifteen minutes from now
 seven hours and twenty minutes from now
-seven hours and twenty-five minutes from now
+seven hours and twenty five minutes from now
 seven hours and thirty minutes from now
-seven hours and thirty-five minutes from now
+seven hours and thirty five minutes from now
 seven hours and forty minutes from now
-seven hours and forty-five minutes from now
+seven hours and forty five minutes from now
 seven hours and fifty minutes from now
-seven hours and fifty-five minutes from now
+seven hours and fifty five minutes from now
 eight hours from now
 eight hours and five minutes from now
 eight hours and ten minutes from now
 eight hours and fifteen minutes from now
 eight hours and twenty minutes from now
-eight hours and twenty-five minutes from now
+eight hours and twenty five minutes from now
 eight hours and thirty minutes from now
-eight hours and thirty-five minutes from now
+eight hours and thirty five minutes from now
 eight hours and forty minutes from now
-eight hours and forty-five minutes from now
+eight hours and forty five minutes from now
 eight hours and fifty minutes from now
-eight hours and fifty-five minutes from now
+eight hours and fifty five minutes from now
 nine hours from now
 nine hours and five minutes from now
 nine hours and ten minutes from now
 nine hours and fifteen minutes from now
 nine hours and twenty minutes from now
-nine hours and twenty-five minutes from now
+nine hours and twenty five minutes from now
 nine hours and thirty minutes from now
-nine hours and thirty-five minutes from now
+nine hours and thirty five minutes from now
 nine hours and forty minutes from now
-nine hours and forty-five minutes from now
+nine hours and forty five minutes from now
 nine hours and fifty minutes from now
-nine hours and fifty-five minutes from now
+nine hours and fifty five minutes from now
 ten hours from now
 in five minutes
 in ten minutes
@@ -853,3 +853,303 @@ twelve forty at night
 twelve forty five at night
 twelve fifty at night
 twelve fifty five at night
+fifty five till one
+fifty till one
+forty five till one
+forty till one
+thirty five till one
+thirty till one
+twenty five till one
+twenty till one
+fifteen till one
+ten till one
+five till one
+fifty five till two
+fifty till two
+forty five till two
+forty till two
+thirty five till two
+thirty till two
+twenty five till two
+twenty till two
+fifteen till two
+ten till two
+five till two
+fifty five till three
+fifty till three
+forty five till three
+forty till three
+thirty five till three
+thirty till three
+twenty five till three
+twenty till three
+fifteen till three
+ten till three
+five till three
+fifty five till four
+fifty till four
+forty five till four
+forty till four
+thirty five till four
+thirty till four
+twenty five till four
+twenty till four
+fifteen till four
+ten till four
+five till four
+fifty five till five
+fifty till five
+forty five till five
+forty till five
+thirty five till five
+thirty till five
+twenty five till five
+twenty till five
+fifteen till five
+ten till five
+five till five
+fifty five till six
+fifty till six
+forty five till six
+forty till six
+thirty five till six
+thirty till six
+twenty five till six
+twenty till six
+fifteen till six
+ten till six
+five till six
+fifty five till seven
+fifty till seven
+forty five till seven
+forty till seven
+thirty five till seven
+thirty till seven
+twenty five till seven
+twenty till seven
+fifteen till seven
+ten till seven
+five till seven
+fifty five till eight
+fifty till eight
+forty five till eight
+forty till eight
+thirty five till eight
+thirty till eight
+twenty five till eight
+twenty till eight
+fifteen till eight
+ten till eight
+five till eight
+fifty five till nine
+fifty till nine
+forty five till nine
+forty till nine
+thirty five till nine
+thirty till nine
+twenty five till nine
+twenty till nine
+fifteen till nine
+ten till nine
+five till nine
+fifty five till ten
+fifty till ten
+forty five till ten
+forty till ten
+thirty five till ten
+thirty till ten
+twenty five till ten
+twenty till ten
+fifteen till ten
+ten till ten
+five till ten
+fifty five till eleven
+fifty till eleven
+forty five till eleven
+forty till eleven
+thirty five till eleven
+thirty till eleven
+twenty five till eleven
+twenty till eleven
+fifteen till eleven
+ten till eleven
+five till eleven
+fifty five till twelve
+fifty till twelve
+forty five till twelve
+forty till twelve
+thirty five till twelve
+thirty till twelve
+twenty five till twelve
+twenty till twelve
+fifteen till twelve
+ten till twelve
+five till twelve
+five past one
+ten past one
+fifteen past one
+twenty past one
+twenty five past one
+thirty past one
+thirty five past one
+forty past one
+forty five past one
+fifty past one
+fifty five past one
+five past two
+ten past two
+fifteen past two
+twenty past two
+twenty five past two
+thirty past two
+thirty five past two
+forty past two
+forty five past two
+fifty past two
+fifty five past two
+five past three
+ten past three
+fifteen past three
+twenty past three
+twenty five past three
+thirty past three
+thirty five past three
+forty past three
+forty five past three
+fifty past three
+fifty five past three
+five past four
+ten past four
+fifteen past four
+twenty past four
+twenty five past four
+thirty past four
+thirty five past four
+forty past four
+forty five past four
+fifty past four
+fifty five past four
+five past five
+ten past five
+fifteen past five
+twenty past five
+twenty five past five
+thirty past five
+thirty five past five
+forty past five
+forty five past five
+fifty past five
+fifty five past five
+five past six
+ten past six
+fifteen past six
+twenty past six
+twenty five past six
+thirty past six
+thirty five past six
+forty past six
+forty five past six
+fifty past six
+fifty five past six
+five past seven
+ten past seven
+fifteen past seven
+twenty past seven
+twenty five past seven
+thirty past seven
+thirty five past seven
+forty past seven
+forty five past seven
+fifty past seven
+fifty five past seven
+five past eight
+ten past eight
+fifteen past eight
+twenty past eight
+twenty five past eight
+thirty past eight
+thirty five past eight
+forty past eight
+forty five past eight
+fifty past eight
+fifty five past eight
+five past nine
+ten past nine
+fifteen past nine
+twenty past nine
+twenty five past nine
+thirty past nine
+thirty five past nine
+forty past nine
+forty five past nine
+fifty past nine
+fifty five past nine
+five past ten
+ten past ten
+fifteen past ten
+twenty past ten
+twenty five past ten
+thirty past ten
+thirty five past ten
+forty past ten
+forty five past ten
+fifty past ten
+fifty five past ten
+five past eleven
+ten past eleven
+fifteen past eleven
+twenty past eleven
+twenty five past eleven
+thirty past eleven
+thirty five past eleven
+forty past eleven
+forty five past eleven
+fifty past eleven
+fifty five past eleven
+five past twelve
+ten past twelve
+fifteen past twelve
+twenty past twelve
+twenty five past twelve
+thirty past twelve
+thirty five past twelve
+forty past twelve
+forty five past twelve
+fifty past twelve
+fifty five past twelve
+quarter past one
+half past one
+quarter to two
+quarter past two
+half past two
+quarter to three
+quarter past three
+half past three
+quarter to four
+quarter past four
+half past four
+quarter to five
+quarter past five
+half past five
+quarter to six
+quarter past six
+half past six
+quarter to seven
+quarter past seven
+half past seven
+quarter to eight
+quarter past eight
+half past eight
+quarter to nine
+quarter past nine
+half past nine
+quarter to ten
+quarter past ten
+half past ten
+quarter to eleven
+quarter past eleven
+half past eleven
+quarter to twelve
+quarter past twelve
+half past twelve
+quarter to one

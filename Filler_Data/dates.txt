@@ -15,6 +15,27 @@ in two days
 in three days
 in four days
 one week from today
+monday
+tuesday
+wednesday
+thursday
+friday
+saturday
+sunday
+next monday
+next tuesday
+next wednesday
+next thursday
+next friday
+next saturday
+next sunday
+the monday after next
+the tuesday after next
+the wednesday after next
+the thursday after next
+the friday after next
+the saturday after next
+the sunday after next
 the first
 the second
 the third
@@ -767,3 +788,61 @@ the seventeenth of december
 the eighteenth of december
 the nineteenth of december
 the twentieth of december
+new year's day
+valentine's day
+st. patrick's day
+april fools' day
+easter sunday
+earth day
+cinco de mayo
+mother's day
+memorial day
+father's day
+independence day
+labor day
+halloween
+veterans day
+thanksgiving
+black friday
+cyber monday
+hanukkah
+christmas eve
+christmas
+kwanzaa
+new year's eve
+martin luther king jr. day
+groundhog day
+presidents' day
+mardi gras
+ash wednesday
+good friday
+easter monday
+the day before valentine's day
+the day before st. patrick's day
+the day before cinco de mayo
+the day before mother's day
+the day before memorial day
+the day before father's day
+the day before independence day
+the day before labor day
+the day before thanksgiving
+the day before black friday
+the day before cyber monday
+the day before christmas eve
+the day before christmas
+the day before new year's eve
+the day before ash wednesday
+the day after new year's day
+the day after valentine's day
+the day after st. patrick's day
+the day after mother's day
+the day after memorial day
+the day after father's day
+the day after halloween
+the day after thanksgiving
+the day after hanukkah
+the day after christmas eve
+the day after christmas
+the day after new year's eve
+the day after good friday
+the day after easter monday
