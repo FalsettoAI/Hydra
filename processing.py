@@ -148,4 +148,5 @@ def write_ner_data(output_file, input_file, num):
 #### OUTPUT ####
 
 #write_intent_data('Reservation/Intent/supplemental_reservation.csv', 'Reservation/NER/supplemental_reservation_ner_dynamic_sentences.txt', 100)
-write_ner_data("Reservation/NER/reservation_ner_data.jsonl", 'Reservation/NER/reservation_ner_dynamic_sentences.txt', 30000)
+write_ner_data("Reservation/NER/reservation_ner_data.jsonl", 'Reservation/NER/reservation_ner_dynamic_sentences.txt', 1000)
+write_ner_data("Reservation/NER/supplemental_reservation_ner_data.jsonl", 'Reservation/NER/supplemental_reservation_ner_dynamic_sentences.txt', 50)
