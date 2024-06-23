@@ -20,6 +20,6 @@ def reformat_csv(input_file, output_file):
 
 
 # Example usage
-input_file = "whatisName.csv"
-output_file = "name.csv"
+input_file = "order.csv"
+output_file = "main_order.csv"
 reformat_csv(input_file, output_file)
