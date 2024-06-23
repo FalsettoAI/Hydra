@@ -75,6 +75,41 @@ def extract_dynamic_variables(file_path):
     return list(dynamic_variables)
 
 
+import re
+
+
+def transform_dynamic_variables(input_file_path, output_file_path):
+    """
+    Transforms dynamic variable names in a text file to all caps and changes {name} to {FIRST_NAME}.
+
+    :param input_file_path: Path to the input text file.
+    :param output_file_path: Path to the output text file where the transformed content will be saved.
+    """
+    # Regular expression pattern to match dynamic variables
+    pattern = re.compile(r"\{(.*?)\}")
+
+    with open(input_file_path, "r") as infile, open(output_file_path, "w") as outfile:
+        for line in infile:
+            # Function to transform the match
+            def transform(match):
+                variable = match.group(1)
+                if variable == "name":
+                    return "{FIRST_NAME}"
+                else:
+                    return "{" + variable.upper() + "}"
+
+            # Use re.sub with the transform function to replace variables
+            transformed_line = pattern.sub(transform, line)
+            outfile.write(transformed_line)
+
+
+# Example usage:
+transform_dynamic_variables(
+    "Order/NER/order_ner_dynamic_sentences.txt",
+    "Order/NER/order_ner_dynamic_sentences_all_caps.txt",
+)
+
+
 # Example usage:
 # dynamic_variables = extract_dynamic_variables('path/to/your/file.txt')
 # print(dynamic_variables)

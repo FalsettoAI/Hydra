@@ -21,16 +21,16 @@ entity_files = {
     # "LAST_NAME_CHANGE": "Filler_Data/names.txt",
     # "DATE_CHANGE": 'Filler_Data/dates.txt'
     #### Order ####
-    "item": "Filler_Data/food_items.txt",
-    "num": "Filler_Data/numbers.txt",
-    "addon": "Filler_Data/addon.txt",
-    "size": "Filler_Data/size.txt",
-    "drink": "Filler_Data/drink_items.txt",
-    "d_addon": "Filler_Data/drink_addon.txt",
-    "d_num": "Filler_Data/numbers.txt",
-    "d_size": "Filler_Data/drink_size.txt",
-    "name": "Filler_Data/names.txt",
-    "last_name": "Filler_Data/names.txt",
+    "ITEM": "Filler_Data/food_items.txt",
+    "NUM": "Filler_Data/numbers.txt",
+    "ADDON": "Filler_Data/addon.txt",
+    "SIZE": "Filler_Data/size.txt",
+    "DRINK": "Filler_Data/drink_items.txt",
+    "D_ADDON": "Filler_Data/drink_addon.txt",
+    "D_NUM": "Filler_Data/numbers.txt",
+    "D_SIZE": "Filler_Data/drink_size.txt",
+    "FIRST_NAME": "Filler_Data/names.txt",
+    "LAST_NAME": "Filler_Data/names.txt",
 }
 
 
@@ -202,5 +202,7 @@ def write_ner_data(output_file, input_file, num):
 # )
 
 write_ner_data(
-    "Order/NER/order_ner_data.jsonl", "Order/NER/order_ner_dynamic_sentences.txt", 10000
+    "Order/NER/order_ner_data.jsonl",
+    "Order/NER/order_ner_dynamic_sentences_all_caps.txt",
+    10000,
 )
