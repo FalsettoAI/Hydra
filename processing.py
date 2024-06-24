@@ -12,14 +12,12 @@ from num2words import num2words
 # Define file paths for entity data
 entity_files = {
     #### Reservation ####
-    # "TIME": "Filler_Data/times.txt",
-    # "FIRST_NAME": "Filler_Data/names.txt",
-    # "LAST_NAME": "Filler_Data/names.txt",
-    # "DATE": 'Filler_Data/dates.txt',
-    # "TIME_CHANGE": "Filler_Data/times.txt",
-    # "FIRST_NAME_CHANGE": "Filler_Data/names.txt",
-    # "LAST_NAME_CHANGE": "Filler_Data/names.txt",
-    # "DATE_CHANGE": 'Filler_Data/dates.txt'
+    "TIME": "Filler_Data/times.txt",
+    "NAME": "Filler_Data/names.txt",
+    "DATE": 'Filler_Data/dates.txt',
+    "TIME_CHANGE": "Filler_Data/times.txt",
+    "NAME_CHANGE": "Filler_Data/names.txt",
+    "DATE_CHANGE": 'Filler_Data/dates.txt'
     #### Order ####
     # "ITEM": "Filler_Data/food_items.txt",
     # "NUM": "Filler_Data/numbers.txt",
@@ -31,16 +29,16 @@ entity_files = {
     # "D_SIZE": "Filler_Data/drink_size.txt",
     # "FIRST_NAME": "Filler_Data/names.txt",
     # "LAST_NAME": "Filler_Data/names.txt",
-    "item": "Filler_Data/food_items.txt",
-    "num": "Filler_Data/numbers.txt",
-    "addon": "Filler_Data/addon.txt",
-    "size": "Filler_Data/size.txt",
-    "drink": "Filler_Data/drink_items.txt",
-    "d_addon": "Filler_Data/drink_addon.txt",
-    "d_num": "Filler_Data/numbers.txt",
-    "d_size": "Filler_Data/drink_size.txt",
-    "name": "Filler_Data/names.txt",
-    "last_name": "Filler_Data/names.txt",
+    # "item": "Filler_Data/food_items.txt",
+    # "num": "Filler_Data/numbers.txt",
+    # "addon": "Filler_Data/addon.txt",
+    # "size": "Filler_Data/size.txt",
+    # "drink": "Filler_Data/drink_items.txt",
+    # "d_addon": "Filler_Data/drink_addon.txt",
+    # "d_num": "Filler_Data/numbers.txt",
+    # "d_size": "Filler_Data/drink_size.txt",
+    # "name": "Filler_Data/names.txt",
+    # "last_name": "Filler_Data/names.txt",
 }
 
 
@@ -48,7 +46,7 @@ entity_files = {
 def generateTextNumber():
     return int(2 + (20 - 2) * (random.random() ** 3))
     
-def write_intent_data(output_file, input_file, label, num):
+def write_intent_data(output_file, input_file, intent_label, num):
     # Load data from entity files
     entity_data = {}
     for label, path in entity_files.items():
@@ -105,9 +103,7 @@ def write_intent_data(output_file, input_file, label, num):
                     )
                 match = pattern.search(selected_sentence)
 
-            writer.writerow((selected_sentence, "order"))
-
-            writer.writerow((selected_sentence, label))
+            writer.writerow((selected_sentence, intent_label))
 
 def write_ner_data(output_file, input_file, num):
     # Load data from entity files
@@ -199,5 +195,10 @@ def write_ner_data(output_file, input_file, num):
 
 #### OUTPUT ####
 
-write_intent_data('Reservation/Intent/reservation.csv', 'Reservation/NER/reservation_ner_dynamic_sentences.txt', 'reservation', 31000)
-#write_ner_data("Reservation/NER/reservation_ner_data.jsonl", 'Reservation/NER/reservation_ner_dynamic_sentences.txt', 10000)
+write_intent_data('Reservation/Intent/add_res.csv', 'Reservation/Intent/add_res.txt', 'add_res', 9000)
+write_intent_data('Reservation/Intent/delete_res.csv', 'Reservation/Intent/delete_res.txt', 'delete_res', 5100)
+write_intent_data('Reservation/Intent/edit_res.csv', 'Reservation/Intent/edit_res.txt', 'edit_res', 9000)
+write_intent_data('Reservation/Intent/view_res.csv', 'Reservation/Intent/view_res.txt', 'view_res', 7000)
+write_intent_data('Reservation/Intent/prompted_date.csv', 'Reservation/prompted_date_sentences.txt', 'add_res', 350)
+write_intent_data('Reservation/Intent/prompted_time.csv', 'Reservation/prompted_time_sentences.txt', 'add_res', 350)
+write_intent_data('Reservation/Intent/prompted_party_size.csv', 'Reservation/prompted_party_size_sentences.txt', 'add_res', 500)
