@@ -202,7 +202,7 @@ def write_ner_data(output_file, input_file, num):
 # )
 
 write_ner_data(
-    "Order/NER/order_ner_data.jsonl",
-    "Order/NER/order_ner_dynamic_sentences_all_caps.txt",
-    10000,
+    "Order/NER/order_res_name.jsonl",
+    "Order/Intent/order_name_sentences.txt",
+    500,
 )

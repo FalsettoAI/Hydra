@@ -1,5 +1,6 @@
 import random
 import re
+import json
 
 
 def remove_duplicate_sentences(file_path):
@@ -103,12 +104,33 @@ def transform_dynamic_variables(input_file_path, output_file_path):
             outfile.write(transformed_line)
 
 
-# Example usage:
-transform_dynamic_variables(
-    "Order/NER/order_ner_dynamic_sentences.txt",
-    "Order/NER/order_ner_dynamic_sentences_all_caps.txt",
+def modify_jsonl_file(input_file_path, output_file_path):
+    with open(input_file_path, "r") as input_file, open(
+        output_file_path, "w"
+    ) as output_file:
+        for line in input_file:
+            data = json.loads(line)
+
+            if "textSegmentAnnotations" in data:
+                for annotation in data["textSegmentAnnotations"]:
+                    if annotation["displayName"] in ["FIRST_NAME", "LAST_NAME"]:
+                        annotation["displayName"] = "NAME"
+
+            output_file.write(json.dumps(data) + "\n")
+
+
+# Example usage
+modify_jsonl_file(
+    "Reservation/NER/OLD_reservation_ner_data.jsonl",
+    "Reservation/NER/reservation_ner_data.jsonl",
 )
 
+
+# Example usage:
+# transform_dynamic_variables(
+#     "Order/NER/order_ner_dynamic_sentences.txt",
+#     "Order/NER/order_ner_dynamic_sentences_all_caps.txt",
+# )
 
 # Example usage:
 # dynamic_variables = extract_dynamic_variables('path/to/your/file.txt')
@@ -120,4 +142,4 @@ transform_dynamic_variables(
 # remove_lines_with_string('Reservation/Intent/reservation_and_order_intent_dynamic_sentences.txt', 'res')
 # add_string_after_string('Reservation/reservation_ner_dynamic_sentences.txt', "{FIRST_NAME}", " {LAST_NAME}")
 
-print(extract_dynamic_variables("Order/make_order_dynamic.txt"))
+# print(extract_dynamic_variables("Order/make_order_dynamic.txt"))
