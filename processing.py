@@ -21,16 +21,26 @@ entity_files = {
     # "LAST_NAME_CHANGE": "Filler_Data/names.txt",
     # "DATE_CHANGE": 'Filler_Data/dates.txt'
     #### Order ####
-    "ITEM": "Filler_Data/food_items.txt",
-    "NUM": "Filler_Data/numbers.txt",
-    "ADDON": "Filler_Data/addon.txt",
-    "SIZE": "Filler_Data/size.txt",
-    "DRINK": "Filler_Data/drink_items.txt",
-    "D_ADDON": "Filler_Data/drink_addon.txt",
-    "D_NUM": "Filler_Data/numbers.txt",
-    "D_SIZE": "Filler_Data/drink_size.txt",
-    "FIRST_NAME": "Filler_Data/names.txt",
-    "LAST_NAME": "Filler_Data/names.txt",
+    # "ITEM": "Filler_Data/food_items.txt",
+    # "NUM": "Filler_Data/numbers.txt",
+    # "ADDON": "Filler_Data/addon.txt",
+    # "SIZE": "Filler_Data/size.txt",
+    # "DRINK": "Filler_Data/drink_items.txt",
+    # "D_ADDON": "Filler_Data/drink_addon.txt",
+    # "D_NUM": "Filler_Data/numbers.txt",
+    # "D_SIZE": "Filler_Data/drink_size.txt",
+    # "FIRST_NAME": "Filler_Data/names.txt",
+    # "LAST_NAME": "Filler_Data/names.txt",
+    "item": "Filler_Data/food_items.txt",
+    "num": "Filler_Data/numbers.txt",
+    "addon": "Filler_Data/addon.txt",
+    "size": "Filler_Data/size.txt",
+    "drink": "Filler_Data/drink_items.txt",
+    "d_addon": "Filler_Data/drink_addon.txt",
+    "d_num": "Filler_Data/numbers.txt",
+    "d_size": "Filler_Data/drink_size.txt",
+    "name": "Filler_Data/names.txt",
+    "last_name": "Filler_Data/names.txt",
 }
 
 
@@ -96,7 +106,7 @@ def write_intent_data(output_file, input_file, num):
                     )
                 match = pattern.search(selected_sentence)
 
-            writer.writerow((selected_sentence, "reservation"))
+            writer.writerow((selected_sentence, "order"))
 
 
 def write_ner_data(output_file, input_file, num):
@@ -201,8 +211,10 @@ def write_ner_data(output_file, input_file, num):
 #     50,
 # )
 
-write_ner_data(
-    "Order/NER/order_res_name.jsonl",
-    "Order/Intent/order_name_sentences.txt",
-    500,
-)
+# write_ner_data(
+#     "Order/NER/order_res_name.jsonl",
+#     "Order/Intent/order_name_sentences.txt",
+#     500,
+# )
+
+write_intent_data("Order/Intent/order.csv", "Order/Intent/order_sentences.txt", 45000)

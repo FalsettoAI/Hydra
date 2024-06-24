@@ -1,6 +1,7 @@
 import random
 import re
 import json
+import csv
 
 
 def remove_duplicate_sentences(file_path):
@@ -119,11 +120,23 @@ def modify_jsonl_file(input_file_path, output_file_path):
             output_file.write(json.dumps(data) + "\n")
 
 
-# Example usage
-modify_jsonl_file(
-    "Reservation/NER/OLD_reservation_ner_data.jsonl",
-    "Reservation/NER/reservation_ner_data.jsonl",
-)
+def write_csv_from_txt(input_file, output_file, type):
+    with open(input_file, "r") as file:
+        sentences = file.readlines()
+
+    with open(output_file, "w", newline="") as file:
+        writer = csv.writer(file)
+        for sentence in sentences:
+            writer.writerow([sentence.strip(), type])
+
+
+write_csv_from_txt("goodbye.txt", "farwell_sentences.csv", "goodbye")
+
+# # Example usage
+# modify_jsonl_file(
+#     "Reservation/NER/OLD_reservation_ner_data.jsonl",
+#     "Reservation/NER/reservation_ner_data.jsonl",
+# )
 
 
 # Example usage:
