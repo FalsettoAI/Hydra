@@ -5,7 +5,7 @@ import csv
 import os
 
 
-'''
+"""
 Helper Functions to manipulate/pre-process data
 
 RULES:
@@ -15,13 +15,13 @@ RULES:
 
 Chat GPT prompt for generating a proper summary of a function:
 
-'''
+"""
+
 
 def remove_duplicate_sentences(file_path):
     # Read the content of the file
     with open(file_path, "r") as file:
         sentences = file.readlines()
-
 
     # Use a set to keep track of unique sentences
     unique_sentences = set()
@@ -52,7 +52,9 @@ def remove_lines_with_string(file_path, string_to_remove):
     with open(file_path, "w") as file:
         file.writelines(lines_to_keep)
 
-remove_lines_with_string('Reservation/view_res.txt', 'blueprint')
+
+remove_lines_with_string("Reservation/view_res.txt", "blueprint")
+
 
 # inputs a given string immediately after a specific string with a random chance
 def add_string_after_string(filename, search_string, append_string, random_chance):
@@ -70,6 +72,7 @@ def add_string_after_string(filename, search_string, append_string, random_chanc
     # Write the modified lines back to the same file
     with open(filename, "w") as file:
         file.writelines(lines)
+
 
 def extract_dynamic_variables(file_path):
     """
@@ -140,6 +143,7 @@ def write_csv_from_txt(input_file, output_file, type):
         for sentence in sentences:
             writer.writerow([sentence.strip(), type])
 
+
 def combine_csv_files(input_folder, output_file, encoding="ISO-8859-1"):
     header_written = False
 
@@ -165,6 +169,7 @@ def combine_csv_files(input_folder, output_file, encoding="ISO-8859-1"):
                         next(csv_reader, None)
                     # Write the rows
                     csv_writer.writerows(csv_reader)
+
 
 def reformat_csv(input_file, output_file):
     with open(input_file, mode="r", newline="", encoding="utf-8") as infile:
