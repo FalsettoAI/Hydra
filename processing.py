@@ -103,7 +103,7 @@ def write_intent_data(output_file, input_file, intent_label, num):
                     )
                 match = pattern.search(selected_sentence)
 
-            writer.writerow((selected_sentence, intent_label))
+            writer.writerow((selected_sentence, 'order', 'reservation'))
 
 def write_ner_data(output_file, input_file, num):
     # Load data from entity files
@@ -195,10 +195,4 @@ def write_ner_data(output_file, input_file, num):
 
 #### OUTPUT ####
 
-write_intent_data('Reservation/Intent/add_res.csv', 'Reservation/Intent/add_res.txt', 'add_res', 9000)
-write_intent_data('Reservation/Intent/delete_res.csv', 'Reservation/Intent/delete_res.txt', 'delete_res', 5100)
-write_intent_data('Reservation/Intent/edit_res.csv', 'Reservation/Intent/edit_res.txt', 'edit_res', 9000)
-write_intent_data('Reservation/Intent/view_res.csv', 'Reservation/Intent/view_res.txt', 'view_res', 7000)
-write_intent_data('Reservation/Intent/prompted_date.csv', 'Reservation/prompted_date_sentences.txt', 'add_res', 350)
-write_intent_data('Reservation/Intent/prompted_time.csv', 'Reservation/prompted_time_sentences.txt', 'add_res', 350)
-write_intent_data('Reservation/Intent/prompted_party_size.csv', 'Reservation/prompted_party_size_sentences.txt', 'add_res', 500)
+write_intent_data('Reservation/prompted_name_sentences.csv', 'Reservation/NER/supplemental_reservation_ner_dynamic_sentences.txt', 'order', 600)
