@@ -25,7 +25,7 @@ entity_files = {
 def generateTextNumber ():
     return int(2 + (20 - 2) * (random.random() ** 3))
     
-def write_intent_data(output_file, input_file, num):
+def write_intent_data(output_file, input_file, label, num):
     # Load data from entity files
     entity_data = {}
     for label, path in entity_files.items():
@@ -74,7 +74,7 @@ def write_intent_data(output_file, input_file, num):
                 match = pattern.search(selected_sentence)
                 
 
-            writer.writerow((selected_sentence, 'reservation'))
+            writer.writerow((selected_sentence, label))
 
 def write_ner_data(output_file, input_file, num):
     # Load data from entity files
@@ -147,6 +147,5 @@ def write_ner_data(output_file, input_file, num):
 
 #### OUTPUT ####
 
-#write_intent_data('Reservation/Intent/supplemental_reservation.csv', 'Reservation/NER/supplemental_reservation_ner_dynamic_sentences.txt', 100)
-write_ner_data("Reservation/NER/reservation_ner_data.jsonl", 'Reservation/NER/reservation_ner_dynamic_sentences.txt', 1000)
-write_ner_data("Reservation/NER/supplemental_reservation_ner_data.jsonl", 'Reservation/NER/supplemental_reservation_ner_dynamic_sentences.txt', 50)
+write_intent_data('Reservation/Intent/reservation.csv', 'Reservation/NER/reservation_ner_dynamic_sentences.txt', 'reservation', 31000)
+#write_ner_data("Reservation/NER/reservation_ner_data.jsonl", 'Reservation/NER/reservation_ner_dynamic_sentences.txt', 10000)
