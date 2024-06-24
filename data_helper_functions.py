@@ -2,6 +2,20 @@ import random
 import re
 import json
 import csv
+import os
+
+
+"""
+Helper Functions to manipulate/pre-process data
+
+RULES:
+- Add whatever functions you create to this file so others can use them as well. Make sure that when you add a function you provide a fairly detailed summary of the function so that others can understand what it does clearly and concisely(ask chat gpt, prompt below). 
+- Try to make the function as customizable as possible, meaning putting many things into parameters so they can be easily changed without understanding the code.
+- If you added a new file, clean the file of any function calls so it doesn't mess with anyone's data accidentally, and push back to github.
+
+Chat GPT prompt for generating a proper summary of a function:
+
+"""
 
 
 def remove_duplicate_sentences(file_path):
@@ -39,8 +53,11 @@ def remove_lines_with_string(file_path, string_to_remove):
         file.writelines(lines_to_keep)
 
 
+remove_lines_with_string("Reservation/view_res.txt", "blueprint")
+
+
 # inputs a given string immediately after a specific string with a random chance
-def add_string_after_string(filename, search_string, append_string):
+def add_string_after_string(filename, search_string, append_string, random_chance):
     # Read all lines from the file
     with open(filename, "r") as file:
         lines = file.readlines()
@@ -49,7 +66,7 @@ def add_string_after_string(filename, search_string, append_string):
     for i in range(len(lines)):
         line = lines[i]
         if search_string in line:
-            if random.random() < 0.5:
+            if random.random() < random_chance:
                 lines[i] = line.replace(search_string, search_string + append_string, 1)
 
     # Write the modified lines back to the same file
@@ -75,9 +92,6 @@ def extract_dynamic_variables(file_path):
             dynamic_variables.update(matches)
 
     return list(dynamic_variables)
-
-
-import re
 
 
 def transform_dynamic_variables(input_file_path, output_file_path):
@@ -130,29 +144,46 @@ def write_csv_from_txt(input_file, output_file, type):
             writer.writerow([sentence.strip(), type])
 
 
-write_csv_from_txt("order_new_sentences.txt", "Order/Intent/order.csv", "order")
+def combine_csv_files(input_folder, output_file, encoding="ISO-8859-1"):
+    header_written = False
 
-# # Example usage
-# modify_jsonl_file(
-#     "Reservation/NER/OLD_reservation_ner_data.jsonl",
-#     "Reservation/NER/reservation_ner_data.jsonl",
-# )
+    with open(output_file, "w", newline="", encoding=encoding) as outfile:
+        csv_writer = csv.writer(outfile)
+
+        for filename in os.listdir(input_folder):
+            if filename.endswith(".csv"):
+                with open(
+                    os.path.join(input_folder, filename),
+                    "r",
+                    newline="",
+                    encoding=encoding,
+                    errors="replace",
+                ) as infile:
+                    csv_reader = csv.reader(infile)
+                    if not header_written:
+                        # Write the header only once
+                        csv_writer.writerow(next(csv_reader))
+                        header_written = True
+                    else:
+                        # Skip the header in subsequent files
+                        next(csv_reader, None)
+                    # Write the rows
+                    csv_writer.writerows(csv_reader)
 
 
-# Example usage:
-# transform_dynamic_variables(
-#     "Order/NER/order_ner_dynamic_sentences.txt",
-#     "Order/NER/order_ner_dynamic_sentences_all_caps.txt",
-# )
+def reformat_csv(input_file, output_file):
+    with open(input_file, mode="r", newline="", encoding="utf-8") as infile:
+        reader = csv.reader(infile)
+        rows = list(reader)
 
-# Example usage:
-# dynamic_variables = extract_dynamic_variables('path/to/your/file.txt')
-# print(dynamic_variables)
-
-
-# remove_duplicate_sentences('Reservation/reservation_ner_dynamic_sentences.txt')
-# remove_duplicate_sentences("goodbye.txt")
-# remove_lines_with_string('Reservation/Intent/reservation_and_order_intent_dynamic_sentences.txt', 'res')
-# add_string_after_string('Reservation/reservation_ner_dynamic_sentences.txt', "{FIRST_NAME}", " {LAST_NAME}")
-
-# print(extract_dynamic_variables("Order/make_order_dynamic.txt"))
+    with open(output_file, mode="w", newline="", encoding="utf-8") as outfile:
+        writer = csv.writer(outfile)
+        for row in rows:
+            if len(row) < 2:
+                # Skip rows with insufficient data
+                continue
+            sentence = row[0]
+            intents = row[1:]
+            # Create the new intents list with the fixed values
+            new_intents = ["order"]
+            writer.writerow([sentence] + new_intents)
