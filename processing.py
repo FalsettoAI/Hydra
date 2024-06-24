@@ -49,7 +49,7 @@ def generateTextNumber():
     return int(2 + (20 - 2) * (random.random() ** 3))
 
 
-def write_intent_data(output_file, input_file, num):
+def write_intent_data(output_file, input_file, num, entity_files):
     # Load data from entity files
     entity_data = {}
     for label, path in entity_files.items():
@@ -58,16 +58,20 @@ def write_intent_data(output_file, input_file, num):
             entity_data[label + "_copy"] = entity_data[label].copy()
 
     # Load dynamic sentences from input text file
-    sentences = []
     with open(input_file, "r") as file:
         sentences = [line.strip() for line in file.readlines()]
 
-    # Copy sentences
+    # Ensure there are enough sentences to avoid repetition
+    if num > len(sentences):
+        raise ValueError(
+            "The number of requested sentences exceeds the number of available unique sentences."
+        )
+
     sentences_copy = sentences.copy()
 
     with open(output_file, mode="w", newline="") as file:
         writer = csv.writer(file)
-        for i in range(num):
+        for _ in range(num):
             if len(sentences_copy) == 0:
                 sentences_copy = sentences.copy()
 
@@ -81,26 +85,22 @@ def write_intent_data(output_file, input_file, num):
             while match:
                 # Extract the word inside the brackets
                 bracketed_word = match.group(1)
-                if (
-                    bracketed_word == "PARTY_SIZE"
-                    or bracketed_word == "PARTY_SIZE_CHANGE"
-                ):
+                if bracketed_word in ["PARTY_SIZE", "PARTY_SIZE_CHANGE"]:
                     random_num = num2words(generateTextNumber())
                     selected_sentence = selected_sentence.replace(
                         f"{{{bracketed_word}}}", random_num, 1
                     )
                 else:
                     # Replace the bracketed word with random entity
-                    random_entity = random.choice(entity_data[bracketed_word + "_copy"])
-                    entity_data[bracketed_word + "_copy"].remove(random_entity)
-
-                    # check to replace key_copy
                     if len(entity_data[bracketed_word + "_copy"]) == 0:
                         entity_data[bracketed_word + "_copy"] = entity_data[
                             bracketed_word
                         ].copy()
 
-                    # substitute the bracketed word with random entity
+                    random_entity = random.choice(entity_data[bracketed_word + "_copy"])
+                    entity_data[bracketed_word + "_copy"].remove(random_entity)
+
+                    # Substitute the bracketed word with random entity
                     selected_sentence = selected_sentence.replace(
                         f"{{{bracketed_word}}}", random_entity, 1
                     )

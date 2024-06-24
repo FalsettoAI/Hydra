@@ -130,7 +130,7 @@ def write_csv_from_txt(input_file, output_file, type):
             writer.writerow([sentence.strip(), type])
 
 
-write_csv_from_txt("goodbye.txt", "farwell_sentences.csv", "goodbye")
+write_csv_from_txt("order_new_sentences.txt", "Order/Intent/order.csv", "order")
 
 # # Example usage
 # modify_jsonl_file(
