@@ -9,13 +9,11 @@ hi there,greeting
 hello there,greeting
 greetings,greeting
 howdy,greeting
-hiya,greeting
 good day,greeting
 morning,greeting
 afternoon,greeting
 evening,greeting
 yo,greeting
-heya,greeting
 hi folks,greeting
 hello everyone,greeting
 hey guys,greeting
@@ -28,7 +26,7 @@ hi hi,greeting
 hey hey,greeting
 aloha,greeting
 salutations,greeting
-hi yall,greeting
+hi y'all,greeting
 whats up,greeting
 hi hows it going,greeting
 hello how are you today,greeting
@@ -201,12 +199,12 @@ hi good afternoon,greeting
 hello good afternoon,greeting
 hi good evening,greeting
 hello good evening,greeting
-hi i hope youre well,greeting
-hello i hope youre well,greeting
-hi i hope youre having a good day,greeting
-hello i hope youre having a good day,greeting
-hi i hope youre having a great day,greeting
-hello i hope youre having a great day,greeting
+hi i hope you're well,greeting
+hello i hope you're well,greeting
+hi i hope you're having a good day,greeting
+hello i hope you're having a good day,greeting
+hi i hope you're having a great day,greeting
+hello i hope you're having a great day,greeting
 hi is this the restaurant,greeting
 hello is this the restaurant,greeting
 hi can you help me,greeting

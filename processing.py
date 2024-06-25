@@ -61,9 +61,7 @@ def write_intent_data(output_file, input_file, intent_label, num):
 
     # Ensure there are enough sentences to avoid repetition
     if num > len(sentences):
-        raise ValueError(
-            "The number of requested sentences exceeds the number of available unique sentences."
-        )
+        print("The number of requested sentences exceeds the number of available unique sentences.")
 
     sentences_copy = sentences.copy()
 
@@ -104,7 +102,7 @@ def write_intent_data(output_file, input_file, intent_label, num):
                     )
                 match = pattern.search(selected_sentence)
 
-            writer.writerow((selected_sentence, intent_label))
+            writer.writerow((selected_sentence, 'reservation', 'order'))
 
 
 def write_ner_data(output_file, input_file, num):
@@ -197,4 +195,4 @@ def write_ner_data(output_file, input_file, num):
 
 #### OUTPUT ####
 
-write_intent_data('Reservation/prompted_name_sentences.csv', 'Reservation/NER/supplemental_reservation_ner_dynamic_sentences.txt', 'order', 600)
+write_intent_data('Reservation/single_input_sentences.csv', 'Reservation/single_input_sentences.txt', 'reservation', 1200)

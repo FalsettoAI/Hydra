@@ -53,8 +53,6 @@ def remove_lines_with_string(file_path, string_to_remove):
         file.writelines(lines_to_keep)
 
 
-remove_lines_with_string("Reservation/view_res.txt", "blueprint")
-
 
 # inputs a given string immediately after a specific string with a random chance
 def add_string_after_string(filename, search_string, append_string, random_chance):

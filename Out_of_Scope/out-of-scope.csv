@@ -358,26 +358,6 @@ i'm wanting you to flip a coin,out-of-scope
 flip me a coin,out-of-scope
 i want you to flip a coin now,out-of-scope
 i call tails and you call heads on this coin flip i need you to do,out-of-scope
-will you start calling me chaz,out-of-scope
-stop calling me charlie and from now on always call me chip,out-of-scope
-"from now on, refer to me as chuck",out-of-scope
-please call me charlile from here on out ok,out-of-scope
-i want you to call me a different name so can you call me charchar,out-of-scope
-please change my name to tom,out-of-scope
-"from now on, my name is tom",out-of-scope
-i want to be called tom,out-of-scope
-please call me tom,out-of-scope
-you can call me jason,out-of-scope
-my name is jason,out-of-scope
-jason is my name,out-of-scope
-i prefer to be called jason,out-of-scope
-i am jason,out-of-scope
-you shall address me as nick,out-of-scope
-my name is nick,out-of-scope
-refer to me as nick,out-of-scope
-the name is nick,out-of-scope
-you could say my name is nick,out-of-scope
-i am camile,out-of-scope
 what place were you born at,out-of-scope
 where were you born as a kid,out-of-scope
 tell me where you were created,out-of-scope
@@ -559,25 +539,7 @@ what is the average time it takes to get to target in los angeles,out-of-scope
 can you please tell me how long it will take to get to target in austin,out-of-scope
 how long would it take to get to mcdonald's in houston,out-of-scope
 do you know who i am,out-of-scope
-do you have my name programmed,out-of-scope
-do you think my name is jeff,out-of-scope
-is joey my name,out-of-scope
-tell me my name,out-of-scope
-say my name in a sentence,out-of-scope
-what is my name,out-of-scope
-tell me my name the way its saved,out-of-scope
-tell me what my name is,out-of-scope
-how is my name saved,out-of-scope
-which way do you have my name saved,out-of-scope
-in what form is my name saved,out-of-scope
-how does my name appear,out-of-scope
-how is my name saved aw,out-of-scope
-how do you show my name,out-of-scope
-do you know what my name is,out-of-scope
-are you able to call me by my name,out-of-scope
 what do you want to call me,out-of-scope
-what is the name you would use for me,out-of-scope
-what name is saved for me,out-of-scope
 what is the timezone of saigon,out-of-scope
 what timezone is hanoi in,out-of-scope
 what timezone do ho chi minh use,out-of-scope
@@ -825,7 +787,6 @@ which insurance do i have,out-of-scope
 what kind of insurance do i have,out-of-scope
 what insurance do i have,out-of-scope
 which insurance plan do i have,out-of-scope
-what is the name of the insurance plan i am enrolled in,out-of-scope
 i am enrolled in what insurance plan,out-of-scope
 what is the insurance plan i am enrolled in,out-of-scope
 i am enrolled in an insurance plan and need to know what it is,out-of-scope
@@ -1593,9 +1554,7 @@ who you work for,out-of-scope
 are you one of my employees,out-of-scope
 do you work for a different employer,out-of-scope
 who is your boss by the way,out-of-scope
-i want the name of your boss,out-of-scope
 specify who your boss is,out-of-scope
-provide me the name of your boss,out-of-scope
 tell me who your boss is,out-of-scope
 who do you say you work for,out-of-scope
 what is the limit on my victoria's secret card,out-of-scope
@@ -1830,7 +1789,6 @@ can you find the exact address for where i am currently,out-of-scope
 tell me what to enter into my gps for my current location,out-of-scope
 please tell me the address of my current location,out-of-scope
 i need to know the name of my current location for the tow truck,out-of-scope
-what is this place,out-of-scope
 where exactly am i at the moment,out-of-scope
 where am i at currently,out-of-scope
 what location is this,out-of-scope
@@ -2339,25 +2297,10 @@ tell me a funny joke about men,out-of-scope
 can you tell me a joke about a lawyer,out-of-scope
 i want to hear jokes about toddlers,out-of-scope
 can i start calling you dave,out-of-scope
-i want to change your name to sarah,out-of-scope
-i want to call you maggie,out-of-scope
-can i change you name to gretchen,out-of-scope
 i'd like to call you alex,out-of-scope
 can i call you adam instead of the current name,out-of-scope
 i will now call you adam instead of your old name,out-of-scope
 will you respond to adam instead of the current name,out-of-scope
-i want to change your name to adam,out-of-scope
-i want to start calling you adam,out-of-scope
-i want your name to be gerry,out-of-scope
-i want your name to be henry,out-of-scope
-i want your name to be john,out-of-scope
-make your name jake,out-of-scope
-make your name steve,out-of-scope
-i would like to change your name to fred,out-of-scope
-i think i want your name changed to fred,out-of-scope
-can you have your name changed to fred,out-of-scope
-can you change your name to fred,out-of-scope
-change your name to fred,out-of-scope
 what is your age again,out-of-scope
 how old are you in 2019,out-of-scope
 what's your birthday,out-of-scope
