@@ -264,4 +264,97 @@ can you prepare a {d_size} {drink} and {num} {item} for {name} {last_name}
 i'd like to get a {d_size} {drink} and {num} {item} for {name} {last_name}
 can i get a {d_size} {drink} with {d_addon} for {name} {last_name} and {num} {item}
 can you prepare {d_num} {drink} with {d_addon} for {name} {last_name}
-can you prepare {d_num} {drink} with {d_addon} for {name} {last_name}id like to get {num} {item} with {addon} and {item}
+can i have {num} {item} for {name}
+can i have {num} {item} and {num} {item} with no {addon}
+can i have {num} {item} and {num} {item} with {addon}
+can i have a {item} and put it under {name}
+can i have a {item} and for {name}
+can i have a {item} with {addon} and put it under {name}
+can i have a {size} {item} with no {addon} and {num} {item} and put that under {name}
+id like to have a {item} with {addon}
+id like to have {num} {item} and {item} with {addon}
+could i have {num} {item} with no {addon}
+can i have a {item} with {addon} for {name}
+can you have me {num} {item} with no {addon}
+id like to have {item} with {addon} and {num} {item}
+id like to have a {size} {item} for {name}
+can i have a {size} {item} with {addon} for {name}
+could i have {num} {item} with {addon}
+id like to have {num} {item} for {name}
+can i have a {size} {item} with {addon} and {num} {item}
+could i have a {size} {item} with no {addon}
+id like to have {num} {item} with no {addon}
+can i have a {size} {item} with no {addon} for {name}
+could i have {num} {item} with {addon} and {addon}
+id like to have {num} {item} with {addon} and {item}
+id like to have a {size} {item} with {addon} and {num} {item}
+id like to have a {item} with no {addon} and {num} {item}
+id like to have {num} {item} for {name} with {addon}
+can i have a {size} {item} with {addon} and {num} {item} for {name}
+can i have a {item} with {addon} for {name} and {num} {item}
+could i have a {size} {item} with no {addon} and {num} {item}
+id like to have {num} {item} with no {addon} for {name}
+can i have a {size} {item} with no {addon} and {num} {item} for {name}
+could i have {num} {item} with {addon} and {num} {item}
+can i have {num} {item} with {addon} and {num} {item} with no {addon}
+id like to have {num} {item} with {addon} and {num} {item}
+id like to have {num} {item} and {num} {item} please
+can i have a {item} with {addon} and {num} {item} for {name}
+can you have me {num} {item} and {num} {item} with no {addon}
+id like to have {item} with {addon} and {num} {item} and {num} {item}
+id like to have a {size} {item} and {num} {item} for {name}
+could i have {num} {item} with {addon} and {num} {item} with no {addon}
+id like to have {num} {item} and {num} {item} for {name}
+can i have a {size} {item} with {addon} and {num} {item} with no {addon}
+can i have a {item} with {addon} for {name} and {num} {item} with no {addon}
+id like to have {num} {item} with no {addon} and {num} {item} with {addon}
+can i have a {item} with {addon} and {num} {item} with no {addon}
+id like to have {num} {item} for {name} with {addon} and {num} {item}
+id like to have a {item} with no {addon} and {num} {item} with {addon}
+id like to have {num} {item} for {name} and {num} {item} with {addon}
+could i have a {size} {item} with no {addon} and {num} {item} with {addon}
+can i have a {drink}
+Can i have a {d_size} {drink}
+can i have a {d_size} {drink} with {d_addon}
+i'd like to have a {d_size} {drink} please
+can i have {d_num} {drink} for {name}
+i'd like to have a {drink} with {d_addon} and {num} {item}
+can you have me {num} {item} with {addon} and {drink}
+can i have a {drink} with {d_addon} for {name} and {num} {item}
+can i have a {d_size} {drink} and {num} {item} with {addon}
+could i have {d_num} {drink} with no {d_addon}
+can i have a {d_size} {drink} with {d_addon} for {name}
+i'd like to have {d_num} {drink} and {num} {item} with {addon}
+can i have a {d_size} {drink} and {num} {item}
+i'd like to have a {d_size} {drink} and {num} {item} for {name}
+can i have a {d_size} {drink} with {d_addon} and {num} {item}
+could i have {d_num} {drink} with {d_addon} and {num} {item}
+can i have a {d_size} {drink} with {d_addon} for {name} and {num} {item}
+i'd like to have a {d_size} {drink} with {d_addon} and {num} {item}
+can i have a {d_size} {drink} with no {d_addon} and {num} {item}
+can i have {num} {item} for {name} {last_name}
+can i have a {item} and put it under {name} {last_name}
+can i have a {item} and for {name} {last_name}
+can i have a {item} with {addon} and put it under {name} {last_name}
+can i have a {size} {item} with no {addon} and {num} {item} and put that under {name} {last_name}
+can i have a {item} with {addon} for {name} {last_name}
+id like to have a {size} {item} for {name} {last_name}
+can i have a {size} {item} with {addon} for {name} {last_name}
+id like to have {num} {item} for {name} {last_name}
+can i have a {size} {item} with no {addon} for {name} {last_name}
+id like to have {num} {item} for {name} {last_name} with {addon}
+can i have a {size} {item} with {addon} and {num} {item} for {name} {last_name}
+can i have a {item} with {addon} for {name} {last_name} and {num} {item}
+id like to have {num} {item} with no {addon} for {name} {last_name}
+can i have a {size} {item} with no {addon} and {num} {item} for {name} {last_name}
+can i have a {item} with {addon} and {num} {item} for {name} {last_name}
+id like to have a {size} {item} and {num} {item} for {name} {last_name}
+id like to have {num} {item} and {num} {item} for {name} {last_name}
+can i have a {item} with {addon} for {name} {last_name} and {num} {item} with no {addon}
+id like to have {num} {item} for {name} {last_name} with {addon} and {num} {item}
+id like to have {num} {item} for {name} {last_name} and {num} {item} with {addon}
+can i have {d_num} {drink} for {name} {last_name}
+can i have a {drink} with {d_addon} for {name} {last_name} and {num} {item}
+can i have a {d_size} {drink} with {d_addon} for {name} {last_name}
+i'd like to have a {d_size} {drink} and {num} {item} for {name} {last_name}
+can i have a {d_size} {drink} with {d_addon} for {name} {last_name} and {num} {item}

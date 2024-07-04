@@ -53,7 +53,6 @@ def remove_lines_with_string(file_path, string_to_remove):
         file.writelines(lines_to_keep)
 
 
-
 # inputs a given string immediately after a specific string with a random chance
 def add_string_after_string(filename, search_string, append_string, random_chance):
     # Read all lines from the file
@@ -185,3 +184,6 @@ def reformat_csv(input_file, output_file):
             # Create the new intents list with the fixed values
             new_intents = ["order"]
             writer.writerow([sentence] + new_intents)
+
+
+remove_duplicate_sentences("Order/make_order_dynamic.txt")
