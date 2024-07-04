@@ -10,7 +10,7 @@ I am going to go through each folder and its purpose.
 
 - This folder stores all Python files used for processing the data.
 - processing.py contains functions to write out data into the necessary format for both intent and NER models
-- data_helper_functions.py contains every other function we use to process data. For example, deleting duplicates, or removing any line with a specific phrase. If you ever need something like this done, please check for the necessary function within the file first. If it is not there, create your own function and provide an explaination of it for others to use.
+- data_helper_functions.py contains every other function we use to process data. For example, deleting duplicates, or removing any line with a specific phrase. If you ever need something like this done, please check for the necessary function within the file first. If it is not there, create your own function and provide an explanation of it for others to use.
 
 
 
@@ -36,6 +36,14 @@ I am going to go through each folder and its purpose.
 - These two folders are very similar. They contain data that is specific to each pipeline and sectioned into meaningful groupings. It is very helpful to keep data separated into files such as prompted inputs and separate intents, then combine the data when you are compiling for a new model.
 
 
+
+## How to organize data and compile it for a new model
+
+For Order and Reservation data, you should keep all data grouped into .txt files inside the Order-Specifics and Reservation-Specifics folders. Then, when you are ready to compile, bring all the data into a final.txt and send it through processing.py to convert it into a usable format.
+
+
+
+---
 
 That's the end for now. If you have any questions please bring it up to me(Travis) as soon as possible and I can amend the document.
 
