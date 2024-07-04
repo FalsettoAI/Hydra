@@ -1456,7 +1456,7 @@ delete {d_num} {drink} and {d_num} {drink} with {d_addon}
 remove {drink} and {drink} with no {d_addon} from the order
 can i place an order
 can i have {item} with {addon}
-hi id like to order a {item} for {name}
+id like to order a {item} for {name}
 can i get {num} {item} for {name}
 can i get {item} with {addon}
 can i order a {item} with {addon}
@@ -1659,7 +1659,7 @@ i'd like to order a {drink} with {d_addon} and {num} {item}
 can i get a {d_size} {drink} with no {d_addon} and {num} {item}
 can you make {d_num} {drink} and {num} {item} with {addon}
 i'd like to place an order for {d_num} {drink} with no {d_addon} and {num} {item}
-hi id like to order a {item} for {name} {last_name}
+id like to order a {item} for {name} {last_name}
 can i get {num} {item} for {name} {last_name}
 can i get a {item} and put it under {name} {last_name}
 can i get a {item} and for {name} {last_name}
@@ -2150,7 +2150,7 @@ can i view my cart
 what is in my order
 is it possible for me to view my cart
 is it possible for me to view my order
-hi can i view my order
+can i view my order
 id like to see my current order
 can you show me my order details
 id like to check my order summary
