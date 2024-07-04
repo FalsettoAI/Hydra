@@ -1,324 +1,324 @@
-{DATE}
-{DATE} please
-how about {DATE}
-how about {DATE} please
-can you try {DATE}
-can you try {DATE} please
-lets do {DATE}
-lets do {DATE} please
-can you do {DATE}
-can you do {DATE} please
-do {DATE}
-do {DATE} please
-it will be {DATE}
-it will be {DATE} please
-try {DATE}
-try {DATE} please
-can we do {DATE}
-can we do {DATE} please
-we will do {DATE}
-we will do {DATE} please
-make it for {DATE}
-make it for {DATE} please
-make it {DATE}
-make it {DATE} please
-i need a table for {DATE}
-can i get a reservation for {DATE}
-lets book it for {DATE}
-how about {DATE}
-{DATE} works for me
-can we do {DATE}
-id like to book for {DATE}
-lets do {DATE}
-i need a spot on {DATE}
-{DATE} please
-make it for {DATE}
-can i have a reservation on {DATE}
-i want to reserve a table for {DATE}
-put me down for {DATE}
-ill take {DATE}
-im thinking {DATE}
-can you do {DATE}
-hows {DATE} looking
-can you fit me in on {DATE}
-what about {DATE}
-i want to book for {DATE}
-{DATE} is good
-how does {DATE} sound
-lets set it up for {DATE}
-{DATE} works
-can you pencil me in for {DATE}
-id like to reserve for {DATE}
-i need a booking on {DATE}
-{DATE} please and thanks
-schedule me for {DATE}
-can you get me a reservation for {DATE}
-i need a table on {DATE}
-{DATE} is perfect
-{DATE} would be great
-lets go with {DATE}
-i prefer {DATE}
-is {DATE} available
-can i book for {DATE}
-id like a reservation for {DATE}
-ill take a table on {DATE}
-put me down on {DATE}
-id like to come on {DATE}
-how about a table for {DATE}
-can we book for {DATE}
-id prefer {DATE}
-lets set the reservation for {DATE}
-how about {DATE} for a table
-what do you have for {DATE}
-how does {DATE} look
-is {DATE} open
-can you book me for {DATE}
-i want to make a reservation for {DATE}
-lets do a reservation for {DATE}
-is {DATE} free
-{DATE} sounds good
-can you reserve a table for {DATE}
-book a table for me on {DATE}
-ill need a table for {DATE}
-please book me a table for {DATE}
-set me up for {DATE}
-hows {DATE} for a reservation
-can we do a reservation on {DATE}
-i want a reservation on {DATE}
-how about making it {DATE}
-{DATE} works for a table
-what about a reservation for {DATE}
-can i get a booking for {DATE}
-{DATE} would be nice
-can you book a spot for {DATE}
-i need to book for {DATE}
-can i have a table for {DATE}
-lets go with a reservation for {DATE}
-book it for {DATE}
-how does a reservation on {DATE} sound
-can i get a spot on {DATE}
-{DATE} please book it
-{DATE} sounds perfect
-can you reserve on {DATE}
-id like to come in on {DATE}
-please book for {DATE}
-i need a spot for {DATE}
-what about {DATE} for a booking
-is there a table for {DATE}
-can you book a table on {DATE}
-i want to reserve on {DATE}
-how about {DATE} for a reservation
-can you schedule me for {DATE}
-lets set the date for {DATE}
-can i get a table on {DATE}
-i need a booking for {DATE}
-id like a table on {DATE}
-{DATE} would be perfect
-id like to book a table for {DATE}
-please reserve for {DATE}
-how about booking for {DATE}
-book a spot for me on {DATE}
-i want to book a table for {DATE}
-can i reserve a table on {DATE}
-id like to make a reservation for {DATE}
-lets go for {DATE}
-please schedule me for {DATE}
-how about a booking on {DATE}
-book me for {DATE}
-is there availability on {DATE}
-can you book me a table on {DATE}
-id prefer a reservation on {DATE}
-i want to reserve a spot for {DATE}
-lets do the reservation for {DATE}
-please put me down for {DATE}
-can we schedule for {DATE}
-id like a spot on {DATE}
-how about a reservation for {DATE}
-{DATE} would be great for me
-can we reserve a table for {DATE}
-lets set a reservation for {DATE}
-can i book a table on {DATE}
-i need a spot on {DATE}
-book a table for {DATE}
-is {DATE} good for a table
-what about reserving for {DATE}
-i want a table on {DATE}
-lets schedule for {DATE}
-how about a table for {DATE}
-reserve a table for me on {DATE}
-can we book a table for {DATE}
-id like to reserve on {DATE}
-lets make it {DATE}
-how does booking for {DATE} sound
-please reserve a table for {DATE}
-{DATE} is perfect for me
-i want to come on {DATE}
-please book a table for {DATE}
-how about we go for {DATE}
-book a spot for {DATE}
-lets book the reservation for {DATE}
-can we do {DATE} for a table
-id like to schedule for {DATE}
-how about making a reservation for {DATE}
-lets set the table for {DATE}
-is there a booking available on {DATE}
-i want to schedule for {DATE}
-can you book a reservation for {DATE}
-lets set the reservation on {DATE}
-id like to book on {DATE}
-please book the table for {DATE}
-can you reserve for {DATE}
-id like a booking on {DATE}
-lets do a table for {DATE}
-i want to book on {DATE}
-can we reserve on {DATE}
-id like a table for {DATE}
-can we book a spot for {DATE}
-im thinking of coming on {DATE}
-{DATE} sounds great
-lets reserve for {DATE}
-book me in for {DATE}
-how about reserving a spot for {DATE}
-id love to come on {DATE}
-can you get me a table on {DATE}
-id prefer a spot on {DATE}
-is {DATE} open for reservations
-put me down on the list for {DATE}
-i want to dine on {DATE}
-{DATE} works fine
-{DATE} it is
-i need a reservation on {DATE}
-what about {DATE} for dining
-can i dine on {DATE}
-lets set it for {DATE}
-book me a spot on {DATE}
-id like a table reserved for {DATE}
-can i book for {DATE} please
-{DATE} would be awesome
-lets make the reservation for {DATE}
-is {DATE} available for booking
-can i schedule a table for {DATE}
-id like to come over on {DATE}
-reserve me a spot for {DATE}
-can you book the reservation for {DATE}
-lets go with {DATE} for dinner
-i want to come in on {DATE}
-what about a reservation for {DATE}
-id like a spot reserved for {DATE}
-how about {DATE} for a dinner
-can you fit me in on {DATE} please
-id love a table on {DATE}
-lets do a booking for {DATE}
-i want a reservation for {DATE}
-{DATE} sounds perfect
-is {DATE} good for a table
-can we make it {DATE}
-id like to dine on {DATE}
-{DATE} is fine with me
-lets reserve a spot for {DATE}
-how about {DATE} for a booking
-please put me down for {DATE}
-book me a table for {DATE}
-i want to reserve for {DATE}
-can i have a spot for {DATE}
-lets go ahead with {DATE}
-id like to come by on {DATE}
-{DATE} sounds good to me
-can you book a table for {DATE} please
-id prefer {DATE} for dining
-what about a spot on {DATE}
-i want to book a table on {DATE}
-lets set up the reservation for {DATE}
-is there an opening on {DATE}
-can we do {DATE} for dining
-id like to dine on {DATE}
-can you schedule me for {DATE}
-{DATE} would be wonderful
-lets do the reservation on {DATE}
-how about booking a spot for {DATE}
-i want to come over on {DATE}
-put me down for {DATE} please
-can i get a reservation on {DATE}
-lets book it for {DATE}
-id like to schedule for {DATE}
-can you fit me in on {DATE}
-{DATE} works for me
-book a table for {DATE} please
-how about {DATE} for a spot
-lets make it {DATE}
-can we do a table on {DATE}
-id like a reservation on {DATE}
-can i get a table reserved for {DATE}
-i want to book on {DATE}
-what about dining on {DATE}
-{DATE} is perfect for me
-lets go with {DATE} for a table
-can we set the reservation for {DATE}
-id like to reserve a table on {DATE}
-how about a spot on {DATE}
-can you book me a table on {DATE}
-i want to reserve on {DATE}
-lets book the spot for {DATE}
-put me down for dining on {DATE}
-can we do the reservation for {DATE}
-id like to dine on {DATE}
-what about a table for {DATE}
-is there availability on {DATE}
-book me a spot for {DATE}
-i need a table for {DATE}
-lets set the reservation on {DATE}
-can we make a booking for {DATE}
-id like to come in on {DATE}
-how about {DATE} for a reservation
-{DATE} sounds wonderful
-can you fit me in for {DATE}
-lets make the booking for {DATE}
-i want a table on {DATE}
-what about {DATE} for dinner
-can i book a spot on {DATE}
-lets reserve the table for {DATE}
-id like to book the table for {DATE}
-can we schedule the reservation for {DATE}
-{DATE} works perfectly
-is {DATE} available for dining
-book a spot on {DATE} please
-can you book the table for {DATE}
-lets set it for {DATE} please
-id like a reservation for {DATE}
-how about booking for {DATE}
-i need a reservation for {DATE}
-can i book a table on {DATE} please
-what about {DATE} for a reservation
-lets make it for {DATE}
-is {DATE} open for a table
-can you reserve a table on {DATE}
-id like to reserve for {DATE}
-book me a reservation for {DATE}
-i want to dine on {DATE}
-lets go with booking for {DATE}
-{DATE} would be fine
-can we reserve a spot for {DATE}
-id prefer {DATE} for dinner
-what about a booking on {DATE}
-can you fit me in on {DATE} please
-id like to schedule a table for {DATE}
-lets make a reservation for {DATE}
-is {DATE} available for a spot
-can i have a table on {DATE}
-book me a table on {DATE}
-i want to come on {DATE}
-lets set the booking for {DATE}
-{DATE} sounds good
-can you schedule a reservation for {DATE}
-id like a spot for {DATE}
-how about dining on {DATE}
-lets do {DATE} for a table
-is there a reservation available on {DATE}
-can you reserve for {DATE} please
-id like to book for {DATE}
-book a reservation for {DATE}
-i want a spot on {DATE}
-lets set it up for {DATE}
-can we do a reservation for {DATE}
-{DATE} works well for me
-is {DATE} good for a reservation
+DATE
+DATE please
+how about DATE
+how about DATE please
+can you try DATE
+can you try DATE please
+lets do DATE
+lets do DATE please
+can you do DATE
+can you do DATE please
+do DATE
+do DATE please
+it will be DATE
+it will be DATE please
+try DATE
+try DATE please
+can we do DATE
+can we do DATE please
+we will do DATE
+we will do DATE please
+make it for DATE
+make it for DATE please
+make it DATE
+make it DATE please
+i need a table for DATE
+can i get a reservation for DATE
+lets book it for DATE
+how about DATE
+DATE works for me
+can we do DATE
+id like to book for DATE
+lets do DATE
+i need a spot on DATE
+DATE please
+make it for DATE
+can i have a reservation on DATE
+i want to reserve a table for DATE
+put me down for DATE
+ill take DATE
+im thinking DATE
+can you do DATE
+hows DATE looking
+can you fit me in on DATE
+what about DATE
+i want to book for DATE
+DATE is good
+how does DATE sound
+lets set it up for DATE
+DATE works
+can you pencil me in for DATE
+id like to reserve for DATE
+i need a booking on DATE
+DATE please and thanks
+schedule me for DATE
+can you get me a reservation for DATE
+i need a table on DATE
+DATE is perfect
+DATE would be great
+lets go with DATE
+i prefer DATE
+is DATE available
+can i book for DATE
+id like a reservation for DATE
+ill take a table on DATE
+put me down on DATE
+id like to come on DATE
+how about a table for DATE
+can we book for DATE
+id prefer DATE
+lets set the reservation for DATE
+how about DATE for a table
+what do you have for DATE
+how does DATE look
+is DATE open
+can you book me for DATE
+i want to make a reservation for DATE
+lets do a reservation for DATE
+is DATE free
+DATE sounds good
+can you reserve a table for DATE
+book a table for me on DATE
+ill need a table for DATE
+please book me a table for DATE
+set me up for DATE
+hows DATE for a reservation
+can we do a reservation on DATE
+i want a reservation on DATE
+how about making it DATE
+DATE works for a table
+what about a reservation for DATE
+can i get a booking for DATE
+DATE would be nice
+can you book a spot for DATE
+i need to book for DATE
+can i have a table for DATE
+lets go with a reservation for DATE
+book it for DATE
+how does a reservation on DATE sound
+can i get a spot on DATE
+DATE please book it
+DATE sounds perfect
+can you reserve on DATE
+id like to come in on DATE
+please book for DATE
+i need a spot for DATE
+what about DATE for a booking
+is there a table for DATE
+can you book a table on DATE
+i want to reserve on DATE
+how about DATE for a reservation
+can you schedule me for DATE
+lets set the date for DATE
+can i get a table on DATE
+i need a booking for DATE
+id like a table on DATE
+DATE would be perfect
+id like to book a table for DATE
+please reserve for DATE
+how about booking for DATE
+book a spot for me on DATE
+i want to book a table for DATE
+can i reserve a table on DATE
+id like to make a reservation for DATE
+lets go for DATE
+please schedule me for DATE
+how about a booking on DATE
+book me for DATE
+is there availability on DATE
+can you book me a table on DATE
+id prefer a reservation on DATE
+i want to reserve a spot for DATE
+lets do the reservation for DATE
+please put me down for DATE
+can we schedule for DATE
+id like a spot on DATE
+how about a reservation for DATE
+DATE would be great for me
+can we reserve a table for DATE
+lets set a reservation for DATE
+can i book a table on DATE
+i need a spot on DATE
+book a table for DATE
+is DATE good for a table
+what about reserving for DATE
+i want a table on DATE
+lets schedule for DATE
+how about a table for DATE
+reserve a table for me on DATE
+can we book a table for DATE
+id like to reserve on DATE
+lets make it DATE
+how does booking for DATE sound
+please reserve a table for DATE
+DATE is perfect for me
+i want to come on DATE
+please book a table for DATE
+how about we go for DATE
+book a spot for DATE
+lets book the reservation for DATE
+can we do DATE for a table
+id like to schedule for DATE
+how about making a reservation for DATE
+lets set the table for DATE
+is there a booking available on DATE
+i want to schedule for DATE
+can you book a reservation for DATE
+lets set the reservation on DATE
+id like to book on DATE
+please book the table for DATE
+can you reserve for DATE
+id like a booking on DATE
+lets do a table for DATE
+i want to book on DATE
+can we reserve on DATE
+id like a table for DATE
+can we book a spot for DATE
+im thinking of coming on DATE
+DATE sounds great
+lets reserve for DATE
+book me in for DATE
+how about reserving a spot for DATE
+id love to come on DATE
+can you get me a table on DATE
+id prefer a spot on DATE
+is DATE open for reservations
+put me down on the list for DATE
+i want to dine on DATE
+DATE works fine
+DATE it is
+i need a reservation on DATE
+what about DATE for dining
+can i dine on DATE
+lets set it for DATE
+book me a spot on DATE
+id like a table reserved for DATE
+can i book for DATE please
+DATE would be awesome
+lets make the reservation for DATE
+is DATE available for booking
+can i schedule a table for DATE
+id like to come over on DATE
+reserve me a spot for DATE
+can you book the reservation for DATE
+lets go with DATE for dinner
+i want to come in on DATE
+what about a reservation for DATE
+id like a spot reserved for DATE
+how about DATE for a dinner
+can you fit me in on DATE please
+id love a table on DATE
+lets do a booking for DATE
+i want a reservation for DATE
+DATE sounds perfect
+is DATE good for a table
+can we make it DATE
+id like to dine on DATE
+DATE is fine with me
+lets reserve a spot for DATE
+how about DATE for a booking
+please put me down for DATE
+book me a table for DATE
+i want to reserve for DATE
+can i have a spot for DATE
+lets go ahead with DATE
+id like to come by on DATE
+DATE sounds good to me
+can you book a table for DATE please
+id prefer DATE for dining
+what about a spot on DATE
+i want to book a table on DATE
+lets set up the reservation for DATE
+is there an opening on DATE
+can we do DATE for dining
+id like to dine on DATE
+can you schedule me for DATE
+DATE would be wonderful
+lets do the reservation on DATE
+how about booking a spot for DATE
+i want to come over on DATE
+put me down for DATE please
+can i get a reservation on DATE
+lets book it for DATE
+id like to schedule for DATE
+can you fit me in on DATE
+DATE works for me
+book a table for DATE please
+how about DATE for a spot
+lets make it DATE
+can we do a table on DATE
+id like a reservation on DATE
+can i get a table reserved for DATE
+i want to book on DATE
+what about dining on DATE
+DATE is perfect for me
+lets go with DATE for a table
+can we set the reservation for DATE
+id like to reserve a table on DATE
+how about a spot on DATE
+can you book me a table on DATE
+i want to reserve on DATE
+lets book the spot for DATE
+put me down for dining on DATE
+can we do the reservation for DATE
+id like to dine on DATE
+what about a table for DATE
+is there availability on DATE
+book me a spot for DATE
+i need a table for DATE
+lets set the reservation on DATE
+can we make a booking for DATE
+id like to come in on DATE
+how about DATE for a reservation
+DATE sounds wonderful
+can you fit me in for DATE
+lets make the booking for DATE
+i want a table on DATE
+what about DATE for dinner
+can i book a spot on DATE
+lets reserve the table for DATE
+id like to book the table for DATE
+can we schedule the reservation for DATE
+DATE works perfectly
+is DATE available for dining
+book a spot on DATE please
+can you book the table for DATE
+lets set it for DATE please
+id like a reservation for DATE
+how about booking for DATE
+i need a reservation for DATE
+can i book a table on DATE please
+what about DATE for a reservation
+lets make it for DATE
+is DATE open for a table
+can you reserve a table on DATE
+id like to reserve for DATE
+book me a reservation for DATE
+i want to dine on DATE
+lets go with booking for DATE
+DATE would be fine
+can we reserve a spot for DATE
+id prefer DATE for dinner
+what about a booking on DATE
+can you fit me in on DATE please
+id like to schedule a table for DATE
+lets make a reservation for DATE
+is DATE available for a spot
+can i have a table on DATE
+book me a table on DATE
+i want to come on DATE
+lets set the booking for DATE
+DATE sounds good
+can you schedule a reservation for DATE
+id like a spot for DATE
+how about dining on DATE
+lets do DATE for a table
+is there a reservation available on DATE
+can you reserve for DATE please
+id like to book for DATE
+book a reservation for DATE
+i want a spot on DATE
+lets set it up for DATE
+can we do a reservation for DATE
+DATE works well for me
+is DATE good for a reservation
