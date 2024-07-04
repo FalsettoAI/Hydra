@@ -1,6 +1,6 @@
 # Read This Before Editing Data
 
-#### The organization of this file is extremely important. You must understand, and abide by, the system.
+#### The organization of this file is extremely important. Please take the time to understand the system.
 
 I am going to go through each folder and its purpose.
 
