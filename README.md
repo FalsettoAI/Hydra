@@ -43,7 +43,7 @@ The first 3 are unique, after that they are sentence data points grouped by inte
 4. Out_of_Scope
 
 - Out of Scope intent sentences
-- data_full.json is a file of sentences I found online, the out_of_scope_processing.py file removes any intents in that which could interfere with other files and prints the necessary sentences into a .txt
+- data_full.json is a file of sentences I found online, the out_of_scope_processing.py file removes any intents in that could interfere with other files and prints the necessary sentences into a .txt
 - If anything is classified as out of scope incorrectly, check this file for conflicting sentences.
 
 
@@ -55,7 +55,7 @@ The first 3 are unique, after that they are sentence data points grouped by inte
 
 6. Change-Info
 
-- Only for the input name, if the user asks to edit their order and reservation without providing a change, we need to prompt for the correct change. At this point they can ask to change their name. Since we don't have multi-intent, a new label is necessary.
+- If a user wants to change the name on their order or reservation, it needs to apply to both pipelines. Since we don't have multi-intent, a new label is necessary.
 
 
 7. Confirm-Deny and Greeting-Farewell
