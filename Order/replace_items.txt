@@ -1,0 +1,110 @@
+replace {item} with {item}
+can you replace {drink} with {d_num} {drink}
+replace {item} with {drink}
+replace {d_num} {drink} with {item}
+can you replace {item} with {d_size} {drink}
+replace {d_size} {drink} with {d_num} {drink}
+replace {item} with {item} with {addon}
+can you replace {d_num} {drink} with {d_size} {drink}
+replace {item} with {d_num} {drink}
+replace {drink} with {item}
+can you replace {d_size} {drink} with {d_num} {drink} with {d_addon}
+replace {item} with {item} with no {addon}
+replace {drink} with {drink} with {d_addon}
+can you replace {d_size} {drink} with {item}
+replace {item} with {item} for {name}
+replace {drink} with {d_num} {drink} with no {d_addon}
+can you replace {d_num} {drink} with {item} with {addon}
+replace {item} with {d_size} {drink} for {name}
+replace {drink} with {item} for {name}
+can you replace {item} with {d_num} {drink} with no {d_addon}
+replace {d_size} {drink} with {d_num} {drink} with {d_addon}
+replace {item} with {drink} with no {d_addon}
+can you replace {d_num} {drink} with {d_size} {drink} for {name}
+replace {item} with {d_size} {drink} with {d_addon}
+replace {drink} with {item} with {addon}
+can you replace {d_size} {drink} with {d_num} {drink} for {name}
+replace {item} with {item} with no {addon} for {name}
+replace {drink} with {d_num} {drink} for {name}
+can you replace {d_size} {drink} with {item} with no {addon}
+replace {item} with {d_size} {drink} with {d_addon} for {name}
+replace {drink} with {item} with no {addon}
+can you replace {d_num} {drink} with {d_size} {drink} with {d_addon}
+replace {item} with {d_num} {drink} with {d_addon}
+replace {drink} with {d_size} {drink}
+can you replace {item} with {d_num} {drink} with {d_addon}
+replace {d_num} {drink} with {d_size} {drink} for {name}
+replace {item} with {d_size} {drink} with no {d_addon}
+can you replace {d_size} {drink} with {item} with {addon}
+replace {drink} with {item} with {addon} for {name}
+replace {item} with {d_num} {drink} with no {d_addon}
+can you replace {d_num} {drink} with {d_size} {drink} with no {d_addon}
+replace {item} with {d_num} {drink} with {d_addon} for {name}
+replace {drink} with {d_size} {drink} with {d_addon}
+can you replace {d_size} {drink} with {item} with no {addon}
+replace {item} with {d_size} {drink} with no {d_addon} for {name}
+replace {drink} with {d_num} {drink} with {d_addon}
+can you replace {item} with {item} for {name}
+replace {d_size} {drink} with {item} for {name}
+replace {item} with {d_num} {drink} with no {d_addon}
+can you replace {d_num} {drink} with {d_size} {drink} with no {d_addon}
+replace {item} with {drink} with no {d_addon} for {name}
+replace {drink} with {d_num} {drink} with {d_addon} for {name}
+can you replace {item} with {d_size} {drink} with {d_addon}
+replace {d_size} {drink} with {d_num} {drink} with no {d_addon}
+replace {item} with {drink} with {d_addon} for {name}
+can you replace {d_num} {drink} with {d_size} {drink} with {d_addon}
+replace {item} with {item} with no {addon}
+replace {drink} with {d_size} {drink} for {name}
+can you replace {d_num} {drink} with {item} with no {addon}
+replace {item} with {d_num} {drink} with {d_addon}
+replace {drink} with {d_size} {drink} with no {d_addon}
+can you replace {item} with {d_num} {drink} with no {d_addon}
+replace {d_size} {drink} with {item} with {addon} for {name}
+replace {item} with {drink} with no {d_addon}
+can you replace {drink} with {d_num} {drink} with {d_addon}
+replace {item} with {item} with {addon} for {name}
+replace {d_size} {drink} with {d_num} {drink}
+can you replace {d_num} {drink} with {d_size} {drink} with no {d_addon}
+replace {item} with {drink} for {name}
+replace {drink} with {d_num} {drink} with no {d_addon}
+can you replace {d_size} {drink} with {d_num} {drink} with {d_addon}
+replace {item} with {d_size} {drink} with no {d_addon}
+replace {drink} with {item} with {addon} for {name}
+can you replace {d_num} {drink} with {item}
+replace {item} with {drink} with {d_addon} for {name}
+replace {drink} with {d_size} {drink} with no {d_addon}
+can you replace {d_num} {drink} with {d_size} {drink} with {d_addon}
+replace {item} with {item} with no {addon}
+replace {drink} with {d_num} {drink} for {name}
+can you replace {d_size} {drink} with {item} with {addon}
+replace {item} with {d_num} {drink} with {d_addon}
+replace {drink} with {d_size} {drink} with no {d_addon} for {name}
+can you replace {d_num} {drink} with {d_size} {drink}
+replace {item} with {drink} with {d_addon} for {name}
+replace {drink} with {d_size} {drink}
+can you replace {item} with {d_num} {drink} with no {d_addon}
+replace {d_size} {drink} with {d_num} {drink} with {d_addon}
+replace {item} with {drink} for {name}
+can you replace {d_size} {drink} with {item} with no {addon}
+replace {drink} with {d_num} {drink} with no {d_addon} for {name}
+replace {item} with {d_size} {drink} with {d_addon}
+can you replace {d_num} {drink} with {d_size} {drink} with no {d_addon}
+replace {item} with {drink} with {d_addon} for {name}
+replace {drink} with {item} with {addon} for {name}
+can you replace {d_size} {drink} with {d_num} {drink}
+replace {item} with {d_size} {drink} with {d_addon}
+replace {drink} with {d_num} {drink} for {name}
+can you replace {d_num} {drink} with {item} with no {addon}
+replace {item} with {d_num} {drink} with {d_addon} for {name}
+replace {drink} with {d_size} {drink} with no {d_addon}
+actually can I replace {item} with {d_size} {drink}
+actually can I delete {d_num} {drink} from my order
+actually can I add {item} with {addon} to my cart
+actually can I swap {drink} with {d_num} {drink} with no {d_addon}
+actually can I remove {addon} from {item}
+actually can I change {d_size} {drink} to {item} with {addon}
+actually can I delete {item} and {drink} from my cart
+actually can I replace {item} with {item} with no {addon}
+actually can I replace {d_num} {drink} with {d_size} {drink} with {d_addon}
+actually can I remove {d_addon} from {d_size} {drink}

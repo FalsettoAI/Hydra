@@ -33,13 +33,14 @@ def replace_placeholders(sentence, entity_files):
             positions[placeholder] = [start, end]
     return sentence, positions
 
-def write_joint_bert_data(output_file, input_file, num):
-    # Read existing data if the output file already exists
-    if os.path.exists(output_file):
+def write_joint_bert_data(output_file, input_file, intent):
+    # Initialize data dictionary
+    data = {}
+    
+    # Read existing data if the output file already exists and is not empty
+    if os.path.exists(output_file) and os.path.getsize(output_file) > 0:
         with open(output_file, 'r') as file:
             data = json.load(file)
-    else:
-        data = {}
     
     # Read dynamic sentences from input file
     with open(input_file, 'r') as file:
@@ -64,9 +65,35 @@ def write_joint_bert_data(output_file, input_file, num):
     with open(output_file, 'w') as file:
         json.dump(data, file, indent=4)
 
-# Example usage:
-input_file = '../dynamic_sentences.txt'  # Your input file with dynamic sentences
-output_file = 'processed_data.json'  # The output JSON file
-intent = 'AddToPlaylist'  # The intent for the sentences
+def write_mutli_joint_bert_data(output_file, intent_map):
+    for key, value in intent_map.items():
+        write_joint_bert_data(output_file, key, value)
 
-write_joint_bert_data(input_file, output_file, intent)
+intent_map = {
+    "../Add_Info/prompted_date.txt": "add_info",
+    "../Add_Info/prompted_name.txt": "add_info",
+    "../Add_Info/prompted_time.txt": "add_info",
+    "../Add_Info/prompted_number.txt": "add_info",
+    "../Change_Name/change_name.txt": "add_info",
+    "../Confirm_Deny/confirm.txt": "confirm",
+    "../Confirm_Deny/deny.txt": "deny",
+    "../Greeting_Farewell/greeting.txt": "greeting",
+    "../Greeting_Farewell/farewell.txt": "farewell",
+    "../Inquiry/faq_policies.txt": "faq_policies",
+    "../Inquiry/menu_inquiry.txt": "menu_inquiry",
+    "../Order/checkout.txt": "checkout",
+    "../Order/clear_cart.txt": "clear_cart",
+    "../Order/delete_items.txt": "delete_item",
+    "../Order/make_order.txt": "make_order",
+    "../Order/replace_items.txt": "replace_item",
+    "../Order/view_order.txt": "view_order",
+    "../Out_of_Scope/out_of_scope.txt": "out_of_scope",
+    "../Reservation/add_res.txt": "add_res",
+    "../Reservation/delete_res.txt": "delete_res",
+    "../Reservation/edit_res.txt": "edit_res",
+    "../Reservation/view_res.txt": "view_res",
+}
+
+
+write_mutli_joint_bert_data('../Final_Datasets/JERTmate_data.json', intent_map)
+#write_joint_bert_data('../Final-Datasets/JERTmate_data.json', '../Add-Info/prompted_date.txt', 'confirm')
