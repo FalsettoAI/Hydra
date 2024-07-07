@@ -1,5 +1,0 @@
-short
-tall
-grande
-venti
-trenta

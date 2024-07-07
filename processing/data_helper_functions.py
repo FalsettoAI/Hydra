@@ -186,4 +186,4 @@ def reformat_csv(input_file, output_file):
             writer.writerow([sentence] + new_intents)
 
 
-remove_duplicate_sentences("Order/make_order_dynamic.txt")
+remove_duplicate_sentences("C:/Users/falkt/OneDrive/Documents/Telemate/NLP-Data/Add-Info-Intent/prompted_name_sentences.txt")
