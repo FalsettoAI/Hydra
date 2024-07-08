@@ -1,110 +1,110 @@
-replace {item} with {item}
-can you replace {drink} with {d_num} {drink}
-replace {item} with {drink}
-replace {d_num} {drink} with {item}
-can you replace {item} with {d_size} {drink}
-replace {d_size} {drink} with {d_num} {drink}
-replace {item} with {item} with {addon}
-can you replace {d_num} {drink} with {d_size} {drink}
-replace {item} with {d_num} {drink}
-replace {drink} with {item}
-can you replace {d_size} {drink} with {d_num} {drink} with {d_addon}
-replace {item} with {item} with no {addon}
-replace {drink} with {drink} with {d_addon}
-can you replace {d_size} {drink} with {item}
-replace {item} with {item} for {name}
-replace {drink} with {d_num} {drink} with no {d_addon}
-can you replace {d_num} {drink} with {item} with {addon}
-replace {item} with {d_size} {drink} for {name}
-replace {drink} with {item} for {name}
-can you replace {item} with {d_num} {drink} with no {d_addon}
-replace {d_size} {drink} with {d_num} {drink} with {d_addon}
-replace {item} with {drink} with no {d_addon}
-can you replace {d_num} {drink} with {d_size} {drink} for {name}
-replace {item} with {d_size} {drink} with {d_addon}
-replace {drink} with {item} with {addon}
-can you replace {d_size} {drink} with {d_num} {drink} for {name}
-replace {item} with {item} with no {addon} for {name}
-replace {drink} with {d_num} {drink} for {name}
-can you replace {d_size} {drink} with {item} with no {addon}
-replace {item} with {d_size} {drink} with {d_addon} for {name}
-replace {drink} with {item} with no {addon}
-can you replace {d_num} {drink} with {d_size} {drink} with {d_addon}
-replace {item} with {d_num} {drink} with {d_addon}
-replace {drink} with {d_size} {drink}
-can you replace {item} with {d_num} {drink} with {d_addon}
-replace {d_num} {drink} with {d_size} {drink} for {name}
-replace {item} with {d_size} {drink} with no {d_addon}
-can you replace {d_size} {drink} with {item} with {addon}
-replace {drink} with {item} with {addon} for {name}
-replace {item} with {d_num} {drink} with no {d_addon}
-can you replace {d_num} {drink} with {d_size} {drink} with no {d_addon}
-replace {item} with {d_num} {drink} with {d_addon} for {name}
-replace {drink} with {d_size} {drink} with {d_addon}
-can you replace {d_size} {drink} with {item} with no {addon}
-replace {item} with {d_size} {drink} with no {d_addon} for {name}
-replace {drink} with {d_num} {drink} with {d_addon}
-can you replace {item} with {item} for {name}
-replace {d_size} {drink} with {item} for {name}
-replace {item} with {d_num} {drink} with no {d_addon}
-can you replace {d_num} {drink} with {d_size} {drink} with no {d_addon}
-replace {item} with {drink} with no {d_addon} for {name}
-replace {drink} with {d_num} {drink} with {d_addon} for {name}
-can you replace {item} with {d_size} {drink} with {d_addon}
-replace {d_size} {drink} with {d_num} {drink} with no {d_addon}
-replace {item} with {drink} with {d_addon} for {name}
-can you replace {d_num} {drink} with {d_size} {drink} with {d_addon}
-replace {item} with {item} with no {addon}
-replace {drink} with {d_size} {drink} for {name}
-can you replace {d_num} {drink} with {item} with no {addon}
-replace {item} with {d_num} {drink} with {d_addon}
-replace {drink} with {d_size} {drink} with no {d_addon}
-can you replace {item} with {d_num} {drink} with no {d_addon}
-replace {d_size} {drink} with {item} with {addon} for {name}
-replace {item} with {drink} with no {d_addon}
-can you replace {drink} with {d_num} {drink} with {d_addon}
-replace {item} with {item} with {addon} for {name}
-replace {d_size} {drink} with {d_num} {drink}
-can you replace {d_num} {drink} with {d_size} {drink} with no {d_addon}
-replace {item} with {drink} for {name}
-replace {drink} with {d_num} {drink} with no {d_addon}
-can you replace {d_size} {drink} with {d_num} {drink} with {d_addon}
-replace {item} with {d_size} {drink} with no {d_addon}
-replace {drink} with {item} with {addon} for {name}
-can you replace {d_num} {drink} with {item}
-replace {item} with {drink} with {d_addon} for {name}
-replace {drink} with {d_size} {drink} with no {d_addon}
-can you replace {d_num} {drink} with {d_size} {drink} with {d_addon}
-replace {item} with {item} with no {addon}
-replace {drink} with {d_num} {drink} for {name}
-can you replace {d_size} {drink} with {item} with {addon}
-replace {item} with {d_num} {drink} with {d_addon}
-replace {drink} with {d_size} {drink} with no {d_addon} for {name}
-can you replace {d_num} {drink} with {d_size} {drink}
-replace {item} with {drink} with {d_addon} for {name}
-replace {drink} with {d_size} {drink}
-can you replace {item} with {d_num} {drink} with no {d_addon}
-replace {d_size} {drink} with {d_num} {drink} with {d_addon}
-replace {item} with {drink} for {name}
-can you replace {d_size} {drink} with {item} with no {addon}
-replace {drink} with {d_num} {drink} with no {d_addon} for {name}
-replace {item} with {d_size} {drink} with {d_addon}
-can you replace {d_num} {drink} with {d_size} {drink} with no {d_addon}
-replace {item} with {drink} with {d_addon} for {name}
-replace {drink} with {item} with {addon} for {name}
-can you replace {d_size} {drink} with {d_num} {drink}
-replace {item} with {d_size} {drink} with {d_addon}
-replace {drink} with {d_num} {drink} for {name}
-can you replace {d_num} {drink} with {item} with no {addon}
-replace {item} with {d_num} {drink} with {d_addon} for {name}
-replace {drink} with {d_size} {drink} with no {d_addon}
-actually can I replace {item} with {d_size} {drink}
-actually can I delete {d_num} {drink} from my order
-actually can I add {item} with {addon} to my cart
-actually can I swap {drink} with {d_num} {drink} with no {d_addon}
-actually can I remove {addon} from {item}
-actually can I change {d_size} {drink} to {item} with {addon}
-actually can I delete {item} and {drink} from my cart
-actually can I replace {item} with {item} with no {addon}
-actually can I replace {d_num} {drink} with {d_size} {drink} with {d_addon}
-actually can I remove {d_addon} from {d_size} {drink}
+replace ITEM with ITEM
+can you replace DRINK with NUMBER DRINK
+replace ITEM with DRINK
+replace NUMBER DRINK with ITEM
+can you replace ITEM with SIZE DRINK
+replace SIZE DRINK with NUMBER DRINK
+replace ITEM with ITEM with ADDON
+can you replace NUMBER DRINK with SIZE DRINK
+replace ITEM with NUMBER DRINK
+replace DRINK with ITEM
+can you replace SIZE DRINK with NUMBER DRINK with DRINK_ADDON
+replace ITEM with ITEM with no ADDON
+replace DRINK with DRINK with DRINK_ADDON
+can you replace SIZE DRINK with ITEM
+replace ITEM with ITEM for NAME
+replace DRINK with NUMBER DRINK with no DRINK_ADDON
+can you replace NUMBER DRINK with ITEM with ADDON
+replace ITEM with SIZE DRINK for NAME
+replace DRINK with ITEM for NAME
+can you replace ITEM with NUMBER DRINK with no DRINK_ADDON
+replace SIZE DRINK with NUMBER DRINK with DRINK_ADDON
+replace ITEM with DRINK with no DRINK_ADDON
+can you replace NUMBER DRINK with SIZE DRINK for NAME
+replace ITEM with SIZE DRINK with DRINK_ADDON
+replace DRINK with ITEM with ADDON
+can you replace SIZE DRINK with NUMBER DRINK for NAME
+replace ITEM with ITEM with no ADDON for NAME
+replace DRINK with NUMBER DRINK for NAME
+can you replace SIZE DRINK with ITEM with no ADDON
+replace ITEM with SIZE DRINK with DRINK_ADDON for NAME
+replace DRINK with ITEM with no ADDON
+can you replace NUMBER DRINK with SIZE DRINK with DRINK_ADDON
+replace ITEM with NUMBER DRINK with DRINK_ADDON
+replace DRINK with SIZE DRINK
+can you replace ITEM with NUMBER DRINK with DRINK_ADDON
+replace NUMBER DRINK with SIZE DRINK for NAME
+replace ITEM with SIZE DRINK with no DRINK_ADDON
+can you replace SIZE DRINK with ITEM with ADDON
+replace DRINK with ITEM with ADDON for NAME
+replace ITEM with NUMBER DRINK with no DRINK_ADDON
+can you replace NUMBER DRINK with SIZE DRINK with no DRINK_ADDON
+replace ITEM with NUMBER DRINK with DRINK_ADDON for NAME
+replace DRINK with SIZE DRINK with DRINK_ADDON
+can you replace SIZE DRINK with ITEM with no ADDON
+replace ITEM with SIZE DRINK with no DRINK_ADDON for NAME
+replace DRINK with NUMBER DRINK with DRINK_ADDON
+can you replace ITEM with ITEM for NAME
+replace SIZE DRINK with ITEM for NAME
+replace ITEM with NUMBER DRINK with no DRINK_ADDON
+can you replace NUMBER DRINK with SIZE DRINK with no DRINK_ADDON
+replace ITEM with DRINK with no DRINK_ADDON for NAME
+replace DRINK with NUMBER DRINK with DRINK_ADDON for NAME
+can you replace ITEM with SIZE DRINK with DRINK_ADDON
+replace SIZE DRINK with NUMBER DRINK with no DRINK_ADDON
+replace ITEM with DRINK with DRINK_ADDON for NAME
+can you replace NUMBER DRINK with SIZE DRINK with DRINK_ADDON
+replace ITEM with ITEM with no ADDON
+replace DRINK with SIZE DRINK for NAME
+can you replace NUMBER DRINK with ITEM with no ADDON
+replace ITEM with NUMBER DRINK with DRINK_ADDON
+replace DRINK with SIZE DRINK with no DRINK_ADDON
+can you replace ITEM with NUMBER DRINK with no DRINK_ADDON
+replace SIZE DRINK with ITEM with ADDON for NAME
+replace ITEM with DRINK with no DRINK_ADDON
+can you replace DRINK with NUMBER DRINK with DRINK_ADDON
+replace ITEM with ITEM with ADDON for NAME
+replace SIZE DRINK with NUMBER DRINK
+can you replace NUMBER DRINK with SIZE DRINK with no DRINK_ADDON
+replace ITEM with DRINK for NAME
+replace DRINK with NUMBER DRINK with no DRINK_ADDON
+can you replace SIZE DRINK with NUMBER DRINK with DRINK_ADDON
+replace ITEM with SIZE DRINK with no DRINK_ADDON
+replace DRINK with ITEM with ADDON for NAME
+can you replace NUMBER DRINK with ITEM
+replace ITEM with DRINK with DRINK_ADDON for NAME
+replace DRINK with SIZE DRINK with no DRINK_ADDON
+can you replace NUMBER DRINK with SIZE DRINK with DRINK_ADDON
+replace ITEM with ITEM with no ADDON
+replace DRINK with NUMBER DRINK for NAME
+can you replace SIZE DRINK with ITEM with ADDON
+replace ITEM with NUMBER DRINK with DRINK_ADDON
+replace DRINK with SIZE DRINK with no DRINK_ADDON for NAME
+can you replace NUMBER DRINK with SIZE DRINK
+replace ITEM with DRINK with DRINK_ADDON for NAME
+replace DRINK with SIZE DRINK
+can you replace ITEM with NUMBER DRINK with no DRINK_ADDON
+replace SIZE DRINK with NUMBER DRINK with DRINK_ADDON
+replace ITEM with DRINK for NAME
+can you replace SIZE DRINK with ITEM with no ADDON
+replace DRINK with NUMBER DRINK with no DRINK_ADDON for NAME
+replace ITEM with SIZE DRINK with DRINK_ADDON
+can you replace NUMBER DRINK with SIZE DRINK with no DRINK_ADDON
+replace ITEM with DRINK with DRINK_ADDON for NAME
+replace DRINK with ITEM with ADDON for NAME
+can you replace SIZE DRINK with NUMBER DRINK
+replace ITEM with SIZE DRINK with DRINK_ADDON
+replace DRINK with NUMBER DRINK for NAME
+can you replace NUMBER DRINK with ITEM with no ADDON
+replace ITEM with NUMBER DRINK with DRINK_ADDON for NAME
+replace DRINK with SIZE DRINK with no DRINK_ADDON
+actually can I replace ITEM with SIZE DRINK
+actually can I delete NUMBER DRINK from my order
+actually can I add ITEM with ADDON to my cart
+actually can I swap DRINK with NUMBER DRINK with no DRINK_ADDON
+actually can I remove ADDON from ITEM
+actually can I change SIZE DRINK to ITEM with ADDON
+actually can I delete ITEM and DRINK from my cart
+actually can I replace ITEM with ITEM with no ADDON
+actually can I replace NUMBER DRINK with SIZE DRINK with DRINK_ADDON
+actually can I remove DRINK_ADDON from SIZE DRINK
