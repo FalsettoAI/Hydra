@@ -4,12 +4,12 @@ import os
 from itertools import cycle
 
 entity_files = {
-    #### Reservation ####
+    "DRINK_ADDON": "../Filler_Data/drink_addon.txt",
     "TIME": "../Filler_Data/times.txt",
     "NAME": "../Filler_Data/names.txt",
     "DATE": "../Filler_Data/dates.txt",
     "ITEM": "../Filler_Data/food_items.txt",
-    "NUM": "../Filler_Data/numbers.txt",
+    "NUMBER": "../Filler_Data/numbers.txt",
     "ADDON": "../Filler_Data/addon.txt",
     "SIZE": "../Filler_Data/size.txt",
     "DRINK": "../Filler_Data/drink_items.txt",
@@ -21,15 +21,26 @@ def get_random_line(filepath):
     return random.choice(lines).strip()
 
 def replace_placeholders(sentence, entity_files):
-    positions = {}
+    slots = {}
     for placeholder, filepath in entity_files.items():
         while placeholder in sentence:
             replacement = get_random_line(filepath)
-            start = sentence.index(placeholder)
-            end = start + len(replacement)
+
+            # get the word indices of the inputted words
+            splitted = sentence.split()
+            indices = []
+            for i in range(len(splitted)):
+                if placeholder in splitted[i]:
+                    indices.append(i)
+
+            # add indices for number of words in replacement
+            for i in range(len(replacement.split()) - 1):
+                indices.append(indices[0] + i + 1)
+
             sentence = sentence.replace(placeholder, replacement, 1)
-            positions[placeholder] = [start, end]
-    return sentence, positions
+            if slots.get(placeholder) is None:
+                slots[placeholder] = indices
+    return sentence, slots
 
 def write_joint_bert_data(output_file, input_file, intent, num_sentences_per_file):
     # Initialize data dictionary
@@ -61,15 +72,12 @@ def write_joint_bert_data(output_file, input_file, intent, num_sentences_per_fil
     next_idx = len(data)
     
     for idx, sentence in enumerate(selected_sentences):
-        sentence, positions = replace_placeholders(sentence, entity_files)
-        
-        slots = {placeholder: sentence[start:end] for placeholder, (start, end) in positions.items()}
+        sentence, slots = replace_placeholders(sentence, entity_files)
         
         data[str(next_idx + idx)] = {
             "intent": intent,
             "text": sentence,
-            "slots": slots,
-            "positions": positions
+            "slots": slots
         }
     
     # Write the updated data back to the output file
