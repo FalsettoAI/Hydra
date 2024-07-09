@@ -108,15 +108,15 @@ intent_map = {
     "../Inquiry/menu_inquiry.txt": ["menu_inquiry"],
     "../Order/checkout.txt": ["checkout"],
     "../Order/clear_cart.txt": ["clear_cart"],
-    "../Order/delete_items.txt": ["delete_item", 2000],
-    "../Order/make_order.txt": ["make_order", 3000],
-    "../Order/replace_items.txt": ["replace_item", 3000],
+    "../Order/delete_items.txt": ["delete_item", 10000],
+    "../Order/make_order.txt": ["make_order", 10000],
+    "../Order/replace_items.txt": ["replace_item", 10000],
     "../Order/view_order.txt": ["view_order"],
     "../Out_of_Scope/out_of_scope.txt": ["out_of_scope"],
-    "../Reservation/add_res.txt": ["add_res", 4000],
-    "../Reservation/delete_res.txt": ["delete_res", 2000],
-    "../Reservation/edit_res.txt": ["edit_res", 4000],
-    "../Reservation/view_res.txt": ["view_res", 2000],
+    "../Reservation/add_res.txt": ["add_res", 10000],
+    "../Reservation/delete_res.txt": ["delete_res", 10000],
+    "../Reservation/edit_res.txt": ["edit_res", 10000],
+    "../Reservation/view_res.txt": ["view_res", 10000],
 }
 
 
