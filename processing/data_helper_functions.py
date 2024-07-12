@@ -39,7 +39,6 @@ def remove_duplicate_sentences(file_path):
         for sentence in cleaned_sentences:
             file.write(sentence + "\n")
 
-
 def remove_lines_with_string(file_path, string_to_remove):
     # Read all lines from the file
     with open(file_path, "r") as file:
@@ -185,5 +184,3 @@ def reformat_csv(input_file, output_file):
             new_intents = ["order"]
             writer.writerow([sentence] + new_intents)
 
-
-remove_duplicate_sentences("C:/Users/falkt/OneDrive/Documents/Telemate/NLP-Data/Add-Info-Intent/prompted_name_sentences.txt")

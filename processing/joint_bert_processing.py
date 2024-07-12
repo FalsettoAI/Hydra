@@ -3,8 +3,13 @@ import random
 import os
 from itertools import cycle
 
+##! Convert NAME label to be just one name label that can become just one name or first + last
+## We can process into first and last using .split()
+
+# Change JERTmate to handle BiO tags
+
 entity_files = {
-    "DRINK_ADDON": "../Filler_Data/drink_addon.txt",
+    "DRIN_ADD": "../Filler_Data/drink_addon.txt",
     "TIME": "../Filler_Data/times.txt",
     "NAME": "../Filler_Data/names.txt",
     "DATE": "../Filler_Data/dates.txt",
@@ -22,35 +27,41 @@ def get_random_line(filepath):
 
 def replace_placeholders(sentence, entity_files):
     slots = {}
-    for placeholder, filepath in entity_files.items():
-        while placeholder in sentence:
-            replacement = get_random_line(filepath)
+    splitted = sentence.split() 
+    offset = 0 #number of inserted words to offset position of future slots
 
-            # get the word indices of the inputted words
-            splitted = sentence.split()
-            indices = []
-            for i in range(len(splitted)):
-                if placeholder in splitted[i]:
-                    indices.append(i)
+    for idx in range(len(splitted)):
+        for placeholder, filepath in entity_files.items():
+            if placeholder in splitted[idx]:
+                replacement = get_random_line(filepath)
+                if placeholder == 'NAME' and random.random() < 0.5: #assign two names on a 50% chance
+                    replacement += " " + get_random_line(filepath)
 
-            # add indices for number of words in replacement
-            for i in range(len(replacement.split()) - 1):
-                indices.append(indices[0] + i + 1)
+                # get the word indices of the inputted words
+                indices = []
+                indices.append(idx + offset)
 
-            sentence = sentence.replace(placeholder, replacement, 1)
-            if slots.get(placeholder) is None:
-                slots[placeholder] = indices
+                # add indices for number of words in replacement
+                for i in range(len(replacement.split()) - 1):
+                    indices.append(indices[0] + i + 1)
+                    offset += 1
+
+                sentence = sentence.replace(placeholder, replacement, 1)
+                if slots.get(placeholder) is None:
+                    slots[placeholder] = [indices]
+                else:
+                    slots[placeholder].append(indices)
     return sentence, slots
 
 def write_joint_bert_data(output_file, input_file, intent, num_sentences_per_file):
     # Initialize data dictionary
     data = {}
-    
+
     # Read existing data if the output file already exists and is not empty
     if os.path.exists(output_file) and os.path.getsize(output_file) > 0:
         with open(output_file, 'r') as file:
             data = json.load(file)
-    
+
     # Read dynamic sentences from input file
     with open(input_file, 'r') as file:
         sentences = [line.strip() for line in file.readlines()]
@@ -90,8 +101,7 @@ def write_mutli_joint_bert_data(output_file, intent_map):
             write_joint_bert_data(output_file, key, value[0], value[1])
         else:
             write_joint_bert_data(output_file, key, value[0], None)
-
-
+ 
 intent_map = {
     "../Add_Info/prompted_date.txt": ["add_info", 600],
     "../Add_Info/prompted_name.txt": ["add_info", 600],
@@ -121,4 +131,3 @@ intent_map = {
 
 
 write_mutli_joint_bert_data('../Final_Datasets/JERTmate_data.json', intent_map)
-#write_joint_bert_data('../Final-Datasets/JERTmate_data.json', '../Add-Info/prompted_date.txt', 'confirm')

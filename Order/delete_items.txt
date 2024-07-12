@@ -1,103 +1,85 @@
 please delete ITEM from the cart
 can you remove DRINK from the cart
 delete ADDON from ITEM
-remove DRINK_ADDON from DRINK
+remove D_ADD from DRINK
 delete ITEM with ADDON from the order
 can you delete NUMBER DRINK from the order
 please remove NUMBER ITEM with ADDON from the cart
-delete SIZE DRINK with DRINK_ADDON from the order
+delete SIZE DRINK with D_ADD from the order
 can you delete ITEM with no ADDON from the cart
-remove DRINK with no DRINK_ADDON from the order
+remove DRINK with no D_ADD from the order
 please delete ADDON from NUMBER ITEM
-can you remove DRINK_ADDON from NUMBER DRINK
+can you remove D_ADD from NUMBER DRINK
 delete ITEM with ADDON and DRINK from the cart
-remove DRINK with DRINK_ADDON and ITEM from the order
-can you delete NUMBER ITEM and DRINK with DRINK_ADDON
-delete ADDON from ITEM and DRINK_ADDON from DRINK
+remove DRINK with D_ADD and ITEM from the order
+can you delete NUMBER ITEM and DRINK with D_ADD
+delete ADDON from ITEM and D_ADD from DRINK
 please remove ITEM with ADDON and SIZE DRINK
-delete DRINK with DRINK_ADDON and NUMBER ITEM
+delete DRINK with D_ADD and NUMBER ITEM
 can you remove NUMBER ITEM with ADDON and DRINK
-delete NUMBER DRINK with DRINK_ADDON and ITEM
+delete NUMBER DRINK with D_ADD and ITEM
 please remove NUMBER ITEM with no ADDON
-delete SIZE DRINK with no DRINK_ADDON
-remove ADDON from ITEM and DRINK_ADDON from DRINK
+delete SIZE DRINK with no D_ADD
+remove ADDON from ITEM and D_ADD from DRINK
 can you delete NUMBER ITEM and SIZE DRINK
 please remove ADDON from NUMBER ITEM and DRINK
-delete DRINK_ADDON from NUMBER DRINK and ITEM
+delete D_ADD from NUMBER DRINK and ITEM
 can you remove ITEM and DRINK from the cart
 delete ADDON from ITEM and DRINK
-remove DRINK_ADDON from DRINK and ITEM
+remove D_ADD from DRINK and ITEM
 please delete ITEM with ADDON and NUMBER DRINK
-can you remove DRINK with DRINK_ADDON and NUMBER ITEM
+can you remove DRINK with D_ADD and NUMBER ITEM
 delete ITEM with no ADDON and DRINK
-remove SIZE DRINK with no DRINK_ADDON and ITEM
+remove SIZE DRINK with no D_ADD and ITEM
 please delete ADDON from ITEM and NUMBER DRINK
-can you remove DRINK_ADDON from SIZE DRINK and ITEM
+can you remove D_ADD from SIZE DRINK and ITEM
 delete ITEM with ADDON and SIZE DRINK
-remove DRINK with DRINK_ADDON and NUMBER ITEM
+remove DRINK with D_ADD and NUMBER ITEM
 please delete ADDON from NUMBER ITEM and NUMBER DRINK
-can you remove DRINK_ADDON from DRINK and NUMBER ITEM
-delete ITEM and DRINK with DRINK_ADDON
+can you remove D_ADD from DRINK and NUMBER ITEM
+delete ITEM and DRINK with D_ADD
 remove ADDON from ITEM and SIZE DRINK
-please delete DRINK_ADDON from DRINK and NUMBER ITEM
+please delete D_ADD from DRINK and NUMBER ITEM
 can you remove ITEM with ADDON and NUMBER DRINK
-delete DRINK with no DRINK_ADDON and ITEM
-remove ADDON from ITEM and DRINK with DRINK_ADDON
-please delete DRINK_ADDON from SIZE DRINK and ITEM
+delete DRINK with no D_ADD and ITEM
+remove ADDON from ITEM and DRINK with D_ADD
+please delete D_ADD from SIZE DRINK and ITEM
 can you remove NUMBER ITEM with ADDON and NUMBER DRINK
 delete DRINK and NUMBER ITEM with ADDON
 remove ITEM with no ADDON and SIZE DRINK
-please delete DRINK_ADDON from DRINK and NUMBER ITEM
 can you remove ITEM with ADDON and DRINK
-delete NUMBER DRINK with DRINK_ADDON and ITEM
-remove ADDON from ITEM and SIZE DRINK
-please delete DRINK with DRINK_ADDON and NUMBER ITEM
-can you remove ITEM and DRINK with no DRINK_ADDON
+please delete DRINK with D_ADD and NUMBER ITEM
+can you remove ITEM and DRINK with no D_ADD
 delete NUMBER ITEM with ADDON and NUMBER DRINK
-remove DRINK_ADDON from DRINK and ITEM
-please delete NUMBER ITEM and DRINK with DRINK_ADDON
+please delete NUMBER ITEM and DRINK with D_ADD
 can you remove ADDON from ITEM and SIZE DRINK
-delete DRINK with DRINK_ADDON and ITEM
+delete DRINK with D_ADD and ITEM
 remove ITEM with ADDON and NUMBER DRINK
 please delete ADDON from ITEM and DRINK
-can you remove DRINK_ADDON from DRINK and NUMBER ITEM
 delete NUMBER ITEM with no ADDON and SIZE DRINK
-remove DRINK with no DRINK_ADDON and ITEM
-please delete ADDON from ITEM and NUMBER DRINK
-can you remove DRINK_ADDON from DRINK and NUMBER ITEM
+remove DRINK with no D_ADD and ITEM
 delete ITEM with ADDON and DRINK
-remove SIZE DRINK with DRINK_ADDON and NUMBER ITEM
+remove SIZE DRINK with D_ADD and NUMBER ITEM
 please delete ADDON from NUMBER ITEM and DRINK
-can you remove DRINK_ADDON from NUMBER DRINK and ITEM
+can you remove D_ADD from NUMBER DRINK and ITEM
 delete NUMBER ITEM with ADDON and DRINK
-remove ITEM with no ADDON and SIZE DRINK
-please delete DRINK_ADDON from DRINK and NUMBER ITEM
-can you remove ITEM and DRINK with DRINK_ADDON
+can you remove ITEM and DRINK with D_ADD
 delete ADDON from ITEM and SIZE DRINK
-remove DRINK_ADDON from NUMBER DRINK and NUMBER ITEM
+remove D_ADD from NUMBER DRINK and NUMBER ITEM
 please delete NUMBER ITEM with ADDON and DRINK
 can you remove ITEM and SIZE DRINK
-delete DRINK with DRINK_ADDON and ITEM
 remove NUMBER ITEM with ADDON and DRINK
-please delete ADDON from ITEM and NUMBER DRINK
-can you remove DRINK_ADDON from DRINK and NUMBER ITEM
-delete NUMBER ITEM and SIZE DRINK with DRINK_ADDON
+delete NUMBER ITEM and SIZE DRINK with D_ADD
 remove ADDON from ITEM and DRINK
-please delete DRINK_ADDON from DRINK and NUMBER ITEM
-can you remove ITEM with ADDON and NUMBER DRINK
-delete DRINK with no DRINK_ADDON and NUMBER ITEM
-remove ADDON from ITEM and SIZE DRINK
-please delete DRINK_ADDON from DRINK and NUMBER ITEM
-can you remove NUMBER ITEM with ADDON and DRINK
-delete ITEM with ADDON and SIZE DRINK
-remove DRINK_ADDON from DRINK and NUMBER ITEM
+delete DRINK with no D_ADD and NUMBER ITEM
+remove D_ADD from DRINK and NUMBER ITEM
 please delete ITEM and DRINK from the cart
 can you remove ADDON from NUMBER ITEM and DRINK
-delete DRINK_ADDON from SIZE DRINK and ITEM
-remove NUMBER ITEM and DRINK with DRINK_ADDON
+delete D_ADD from SIZE DRINK and ITEM
+remove NUMBER ITEM and DRINK with D_ADD
 please delete ITEM with no ADDON and NUMBER DRINK
 can you remove ADDON from ITEM and DRINK
-delete DRINK_ADDON from DRINK and NUMBER ITEM
+delete D_ADD from DRINK and NUMBER ITEM
 please delete NUMBER ITEM and NUMBER ITEM from the cart
 can you remove ITEM with ADDON and ITEM with no ADDON
 delete NUMBER ITEM and NUMBER ITEM with ADDON
@@ -116,25 +98,23 @@ delete NUMBER ITEM and ITEM
 remove ITEM with no ADDON and NUMBER ITEM with ADDON
 please delete NUMBER ITEM with ADDON and NUMBER ITEM
 can you remove ITEM with no ADDON and ITEM
-delete NUMBER ITEM and NUMBER ITEM with ADDON
 remove ITEM and ITEM with no ADDON from the order
 please delete NUMBER DRINK and NUMBER DRINK from the cart
-can you remove DRINK with DRINK_ADDON and DRINK with no DRINK_ADDON
-delete NUMBER DRINK and NUMBER DRINK with DRINK_ADDON
-remove DRINK and DRINK with DRINK_ADDON from the order
-please delete NUMBER DRINK with no DRINK_ADDON and NUMBER DRINK
-can you remove DRINK with DRINK_ADDON and DRINK
-delete NUMBER DRINK and DRINK with no DRINK_ADDON
-remove DRINK and NUMBER DRINK with DRINK_ADDON
-please delete NUMBER DRINK with DRINK_ADDON and NUMBER DRINK with no DRINK_ADDON
-can you remove DRINK and DRINK with no DRINK_ADDON
-delete NUMBER DRINK with DRINK_ADDON and DRINK with DRINK_ADDON
+can you remove DRINK with D_ADD and DRINK with no D_ADD
+delete NUMBER DRINK and NUMBER DRINK with D_ADD
+remove DRINK and DRINK with D_ADD from the order
+please delete NUMBER DRINK with no D_ADD and NUMBER DRINK
+can you remove DRINK with D_ADD and DRINK
+delete NUMBER DRINK and DRINK with no D_ADD
+remove DRINK and NUMBER DRINK with D_ADD
+please delete NUMBER DRINK with D_ADD and NUMBER DRINK with no D_ADD
+can you remove DRINK and DRINK with no D_ADD
+delete NUMBER DRINK with D_ADD and DRINK with D_ADD
 remove DRINK and NUMBER DRINK from the cart
-please delete NUMBER DRINK and DRINK with no DRINK_ADDON
-can you remove DRINK with DRINK_ADDON and NUMBER DRINK
+please delete NUMBER DRINK and DRINK with no D_ADD
+can you remove DRINK with D_ADD and NUMBER DRINK
 delete NUMBER DRINK and DRINK
-remove DRINK with no DRINK_ADDON and NUMBER DRINK with DRINK_ADDON
-please delete NUMBER DRINK with DRINK_ADDON and NUMBER DRINK
-can you remove DRINK with no DRINK_ADDON and DRINK
-delete NUMBER DRINK and NUMBER DRINK with DRINK_ADDON
-remove DRINK and DRINK with no DRINK_ADDON from the order
+remove DRINK with no D_ADD and NUMBER DRINK with D_ADD
+please delete NUMBER DRINK with D_ADD and NUMBER DRINK
+can you remove DRINK with no D_ADD and DRINK
+remove DRINK and DRINK with no D_ADD from the order
