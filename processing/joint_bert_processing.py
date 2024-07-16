@@ -34,11 +34,19 @@ def replace_placeholders(sentence, entity_files):
         for placeholder, filepath in entity_files.items():
             if placeholder in splitted[idx]:
                 replacement = get_random_line(filepath)
-                if placeholder == 'NAME' and random.random() < 0.5: #assign two names on a 50% chance
+                indices = []
+                remove = []
+                if placeholder == 'NAME' and random.random() < 0.5: # assign two names on a 50% chance
                     replacement += " " + get_random_line(filepath)
 
+                # check for remove prefix and subtract it
+                if "REMOVE_" in splitted[idx]:
+                    indices = [1]
+                    sentence.replace('REMOVE_', '', 1) # remove the 'REMOVE' tag
+                else:
+                    indices = [0]
+
                 # get the word indices of the inputted words
-                indices = []
                 indices.append(idx + offset)
 
                 # add indices for number of words in replacement
@@ -51,7 +59,7 @@ def replace_placeholders(sentence, entity_files):
                     slots[placeholder] = [indices]
                 else:
                     slots[placeholder].append(indices)
-    return sentence, slots
+    return sentence, slots, remove
 
 def write_joint_bert_data(output_file, input_file, intent, num_sentences_per_file):
     # Initialize data dictionary

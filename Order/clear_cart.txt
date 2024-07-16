@@ -3,6 +3,9 @@ clear the entire order
 clear everything in my order
 clear all items and drinks from my order
 clear my whole order
+delete my order
+delete my whole order
+delete everything in my cart
 remove all items from my order
 clear the order please
 clear my order entirely
