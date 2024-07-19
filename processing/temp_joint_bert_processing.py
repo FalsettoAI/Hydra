@@ -59,12 +59,15 @@ def replace_placeholders(sentence, entity_files):
 
     offset = 0
     current_slot_position = -1
-    for i in range(len(tokenized_sentence)):
-        if tokenized_sentence.startswith("##"):
+    for i in range(len(sequence_output)):
+        if sequence_output.startswith("##"):
             offset += 1
 
-        if slot_map[i - offset][0] is not 0:
-            #!!slot_memory[current_slot_position].extend(tokenized_sentence[i])
+        if slot_map[i - offset][0].startswith("B-"):
+            current_slot_position += 1
+            slot_memory[current_slot_position].extend(sequence_output[i])
+        elif slot_map[i - offset][0].startswith("I-"):
+            slot_memory[current_slot_position].extend(sequence_output[i])
 
     return sentence, slot_memory, slot_map
 
