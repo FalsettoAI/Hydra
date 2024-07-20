@@ -1,14 +1,15 @@
 import json
-import os
 import random
-import numpy as np
+import os
+import re
 from itertools import cycle
+import numpy as np
 from transformers import AutoTokenizer
 from transformers import TFBertModel
 
 model_name = "bert-base-uncased"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
-bert = TFBertModel.from_pretrained(model_name) 
+bert = TFBertModel.from_pretrained(model_name)
 
 entity_files = {
     "DRIN_ADD": "../Filler_Data/drink_addon.txt",
@@ -28,68 +29,51 @@ def get_random_line(filepath):
     return random.choice(lines).strip()
 
 def replace_placeholders(sentence, entity_files):
-    slots = []
-    splitted = sentence.split()
-    offset = 0 #number of inserted words to offset position of future slots
+    slot_map = []
+    slot_memory = []
+    splitted = sentence.split() 
 
     for idx in range(len(splitted)):
         for placeholder, filepath in entity_files.items():
             if placeholder in splitted[idx]:
+                processed_slot = splitted.split(',')
+                slot_map.append(["B-" + placeholder, processed_slot[1], processed_slot[2]])
+
                 replacement = get_random_line(filepath)
-                indices = []
-                remove = []
                 if placeholder == 'NAME' and random.random() < 0.5: # assign two names on a 50% chance
                     replacement += " " + get_random_line(filepath)
 
-                # check for remove prefix and subtract it
-                if "REMOVE_" in splitted[idx]:
-                    indices = [1]
-                    sentence.replace('REMOVE_', '', 1) # remove the 'REMOVE' tag
-                else:
-                    indices = [0]
-
-                # get the word indices of the inputted words
-                indices.append(idx + offset)
-
                 # add indices for number of words in replacement
                 for i in range(len(replacement.split()) - 1):
-                    indices.append(indices[0] + i + 1)
-                    offset += 1
+                    slot_map.append(["I-" + placeholder, processed_slot[1], processed_slot[2]])
 
-                sentence = sentence.replace(placeholder, replacement, 1)
-                if slots.get(placeholder) is None:
-                    slots[placeholder] = [indices]
-                else:
-                    slots[placeholder].append(indices)
-    return sentence, slots, remove
+                sentence = re.sub(r'[A-Z_]+,\d+,\d+', replacement, replacement)
+            else:
+                slot_map.append([0,0,0])
 
-text = "confirm booking details for ten visitor party coming on november twenty ninth"
-tokens = tokenizer.tokenize(text)
-print(tokens)
+    tokenized_sentence = tokenizer.tokenize(sentence)
+    sequence_output = bert(tokenized_sentence)
 
-trained_bert = bert(input)
-sequence_output = trained_bert.last_hidden_state
+    #remove [CLS] and [SEP]
 
-# process sequence output for memory
-slot_memory = np.array([])
-sequence_output = sequence_output[:, 1:-1, :].numpy() #remove [CLS] and [SEP]
-print(sequence_output)
 
-# process sequence output for slots
-for slot, data in slots:
+    offset = 0
+    current_slot_position = -1
+    for i in range(len(sequence_output)):
+        if sequence_output.startswith("##"):
+            offset += 1
 
-    # see if it starts with ##
-    # then it belongs to the previous token
-    if token.startswith("##"):
-        slot_memory[-1].extend(sequence_output[0][idx])
-    else:
-        slot_memory.append(np.array([slot_id, sequence_output[0][idx]]))
+        if slot_map[i - offset][0].startswith("B-"):
+            current_slot_position += 1
+            slot_memory[current_slot_position].extend(sequence_output[i])
+        elif slot_map[i - offset][0].startswith("I-"):
+            slot_memory[current_slot_position].extend(sequence_output[i])
 
-print(slot_memory)
+    return sentence, slot_memory, slot_map
 
-def write_joint_bert_data(output_file, input_file, num_sentences_per_file):
+def write_joint_bert_data(output_file, input_file, intent, num_sentences_per_file):
     # Initialize data dictionary
-    data = []
+    data = {}
 
     # Read existing data if the output file already exists and is not empty
     if os.path.exists(output_file) and os.path.getsize(output_file) > 0:
@@ -111,22 +95,20 @@ def write_joint_bert_data(output_file, input_file, num_sentences_per_file):
     sentence_cycle = cycle(sentences)
     
     # Collect the required number of sentences
-    selected_conversations = [next(sentence_cycle) for _ in range(num_sentences_per_file)]
+    selected_sentences = [next(sentence_cycle) for _ in range(num_sentences_per_file)]
     
     # Find the next index to start appending new data
     next_idx = len(data)
     
-    for idx, conversation in enumerate(selected_conversations):
-        for sentence_data in conversation.split('|'):
-            sentence_data = sentence_data.split(':')
-            sentence, slots = replace_placeholders(sentence_data[1], entity_files)
-            
-            data[str(next_idx + idx)] = {
-                "intent": sentence_data[0],
-                "text": sentence,
-                "slots": slots
-            }
-
+    for idx, sentence in enumerate(selected_sentences):
+        sentence, slots = replace_placeholders(sentence, entity_files)
+        
+        data[str(next_idx + idx)] = {
+            "intent": intent,
+            "text": sentence,
+            "slots": slots
+        }
+    
     # Write the updated data back to the output file
     with open(output_file, 'w') as file:
         json.dump(data, file, indent=4)
