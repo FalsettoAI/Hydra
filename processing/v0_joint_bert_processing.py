@@ -1,12 +1,15 @@
 import json
 import random
 import os
+import re
 from itertools import cycle
+import numpy as np
+from transformers import AutoTokenizer
+from transformers import TFBertModel
 
-##! Convert NAME label to be just one name label that can become just one name or first + last
-## We can process into first and last using .split()
-
-# Change JERTmate to handle BiO tags
+model_name = "bert-base-uncased"
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+bert = TFBertModel.from_pretrained(model_name)
 
 entity_files = {
     "DRIN_ADD": "../Filler_Data/drink_addon.txt",
@@ -25,35 +28,51 @@ def get_random_line(filepath):
         lines = file.readlines()
     return random.choice(lines).strip()
 
-def replace_placeholders(sentence, entity_files):
-    slots = {}
+def process_sentence(sentence, entity_files):
+    slot_map = []
+    slot_memory = []
     splitted = sentence.split() 
-    offset = 0 #number of inserted words to offset position of future slots
 
     for idx in range(len(splitted)):
         for placeholder, filepath in entity_files.items():
             if placeholder in splitted[idx]:
-                replacement = get_random_line(filepath)
-                if placeholder == 'NAME' and random.random() < 0.5: #assign two names on a 50% chance
-                    replacement += " " + get_random_line(filepath)
+                processed_slot = splitted[idx].split(',')
+                slot_map.append(["B-" + placeholder, processed_slot[1], processed_slot[2]])
 
-                # get the word indices of the inputted words
-                indices = []
-                indices.append(idx + offset)
+                replacement = get_random_line(filepath)
+                if placeholder == 'NAME' and random.random() < 0.5: # assign two names on a 50% chance
+                    replacement += " " + get_random_line(filepath)
 
                 # add indices for number of words in replacement
                 for i in range(len(replacement.split()) - 1):
-                    indices.append(indices[0] + i + 1)
-                    offset += 1
+                    slot_map.append(["I-" + placeholder, processed_slot[1], processed_slot[2]])
 
-                sentence = sentence.replace(placeholder, replacement, 1)
-                if slots.get(placeholder) is None:
-                    slots[placeholder] = [indices]
-                else:
-                    slots[placeholder].append(indices)
-    return sentence, slots
+                sentence = re.sub(r'[A-Z_]+,\d+,\d+', replacement, replacement)
+            else:
+                slot_map.append([0,0,0])
 
-def write_joint_bert_data(output_file, input_file, intent, num_sentences_per_file):
+    tokenized_sentence = tokenizer.tokenize(sentence, padding=True, truncation=True, return_tensors="tf")
+    sequence_output = bert(tokenizer(sentence, padding=True, truncation=True, return_tensors="tf"))
+
+    #remove [CLS] and [SEP]
+    sequence_output = sequence_output.last_hidden_state[:, 1:-1, :]
+
+    offset = 0
+    current_slot_position = -1
+    for i in range(len(sequence_output)):
+        if tokenized_sentence[i].startswith("##"):
+            offset += 1
+
+        if slot_map[i - offset][0] is not 0:
+            if slot_map[i - offset][0].startswith("B-"):
+                current_slot_position += 1
+                slot_memory[current_slot_position].extend(sequence_output[i])
+            elif slot_map[i - offset][0].startswith("I-"):
+                slot_memory[current_slot_position].extend(sequence_output[i])
+
+    return sentence, slot_memory, slot_map
+
+def compile_sentences(output_file, input_file, intent, num_sentences_per_file):
     # Initialize data dictionary
     data = {}
 
@@ -83,7 +102,7 @@ def write_joint_bert_data(output_file, input_file, intent, num_sentences_per_fil
     next_idx = len(data)
     
     for idx, sentence in enumerate(selected_sentences):
-        sentence, slots = replace_placeholders(sentence, entity_files)
+        sentence, slots = process_sentence(sentence, entity_files)
         
         data[str(next_idx + idx)] = {
             "intent": intent,
@@ -98,9 +117,9 @@ def write_joint_bert_data(output_file, input_file, intent, num_sentences_per_fil
 def write_mutli_joint_bert_data(output_file, intent_map):
     for key, value in intent_map.items():
         if(len(value) > 1):
-            write_joint_bert_data(output_file, key, value[0], value[1])
+            compile_sentences(output_file, key, value[0], value[1])
         else:
-            write_joint_bert_data(output_file, key, value[0], None)
+            compile_sentences(output_file, key, value[0], None)
  
 intent_map = {
     "../Add_Info/prompted_date.txt": ["add_info", 600],
@@ -129,5 +148,5 @@ intent_map = {
     "../Reservation/view_res.txt": ["view_res", 10000],
 }
 
-
-write_mutli_joint_bert_data('../Final_Datasets/JERTmate_data.json', intent_map)
+print(process_sentence("I want to make an order for NAME,0,0", entity_files))
+#write_mutli_joint_bert_data('../Final_Datasets/JERTmate_data.json', intent_map)
