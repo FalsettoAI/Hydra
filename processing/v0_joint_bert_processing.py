@@ -1,14 +1,12 @@
 import json
-import os
 import random
-import numpy as np
+import os
 from itertools import cycle
-from transformers import AutoTokenizer
-from transformers import TFBertModel
 
-model_name = "bert-base-uncased"
-tokenizer = AutoTokenizer.from_pretrained(model_name)
-bert = TFBertModel.from_pretrained(model_name) 
+##! Convert NAME label to be just one name label that can become just one name or first + last
+## We can process into first and last using .split()
+
+# Change JERTmate to handle BiO tags
 
 entity_files = {
     "DRIN_ADD": "../Filler_Data/drink_addon.txt",
@@ -28,8 +26,8 @@ def get_random_line(filepath):
     return random.choice(lines).strip()
 
 def replace_placeholders(sentence, entity_files):
-    slots = []
-    splitted = sentence.split()
+    slots = {}
+    splitted = sentence.split() 
     offset = 0 #number of inserted words to offset position of future slots
 
     for idx in range(len(splitted)):
@@ -55,33 +53,9 @@ def replace_placeholders(sentence, entity_files):
                     slots[placeholder].append(indices)
     return sentence, slots
 
-text = "confirm booking details for ten visitor party coming on november twenty ninth"
-tokens = tokenizer.tokenize(text)
-print(tokens)
-
-trained_bert = bert(input)
-sequence_output = trained_bert.last_hidden_state
-
-# process sequence output for memory
-slot_memory = np.array([])
-sequence_output = sequence_output[:, 1:-1, :].numpy() #remove [CLS] and [SEP]
-print(sequence_output)
-
-# process sequence output for slots
-for slot, data in slots:
-
-    # see if it starts with ##
-    # then it belongs to the previous token
-    if token.startswith("##"):
-        slot_memory[-1].extend(sequence_output[0][idx])
-    else:
-        slot_memory.append(np.array([slot_id, sequence_output[0][idx]]))
-
-print(slot_memory)
-
-def write_joint_bert_data(output_file, input_file, num_sentences_per_file):
+def write_joint_bert_data(output_file, input_file, intent, num_sentences_per_file):
     # Initialize data dictionary
-    data = []
+    data = {}
 
     # Read existing data if the output file already exists and is not empty
     if os.path.exists(output_file) and os.path.getsize(output_file) > 0:
@@ -103,22 +77,20 @@ def write_joint_bert_data(output_file, input_file, num_sentences_per_file):
     sentence_cycle = cycle(sentences)
     
     # Collect the required number of sentences
-    selected_conversations = [next(sentence_cycle) for _ in range(num_sentences_per_file)]
+    selected_sentences = [next(sentence_cycle) for _ in range(num_sentences_per_file)]
     
     # Find the next index to start appending new data
     next_idx = len(data)
     
-    for idx, conversation in enumerate(selected_conversations):
-        for sentence_data in conversation.split('|'):
-            sentence_data = sentence_data.split(':')
-            sentence, slots = replace_placeholders(sentence_data[1], entity_files)
-            
-            data[str(next_idx + idx)] = {
-                "intent": sentence_data[0],
-                "text": sentence,
-                "slots": slots
-            }
-
+    for idx, sentence in enumerate(selected_sentences):
+        sentence, slots = replace_placeholders(sentence, entity_files)
+        
+        data[str(next_idx + idx)] = {
+            "intent": intent,
+            "text": sentence,
+            "slots": slots
+        }
+    
     # Write the updated data back to the output file
     with open(output_file, 'w') as file:
         json.dump(data, file, indent=4)

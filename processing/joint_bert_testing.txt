@@ -1,0 +1,2 @@
+greeting:hello|add_res:confirm booking details for NUMBER,0,0 visitor party coming on DATE,0,0|view_res:what time is my reservation this DATE,0,0
+greeting:hi|make_order:id like to have NUMBER,0,2 ITEM,0,0 and ITEM,0,0 with no ADDON,1,3|view_order:whats in my cart|clear_cart:can you delete the all the items in my cart
