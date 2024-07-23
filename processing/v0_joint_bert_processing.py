@@ -34,10 +34,14 @@ def process_sentence(sentence, entity_files):
     splitted = sentence.split() 
 
     for idx in range(len(splitted)):
+        is_slot = False
+        print(splitted[idx])
         for placeholder, filepath in entity_files.items():
             if placeholder in splitted[idx]:
+                is_slot = True
                 processed_slot = splitted[idx].split(',')
                 slot_map.append(["B-" + placeholder, processed_slot[1], processed_slot[2]])
+                slot_memory.append([placeholder, processed_slot[1], processed_slot[2]])
 
                 replacement = get_random_line(filepath)
                 if placeholder == 'NAME' and random.random() < 0.5: # assign two names on a 50% chance
@@ -47,28 +51,30 @@ def process_sentence(sentence, entity_files):
                 for i in range(len(replacement.split()) - 1):
                     slot_map.append(["I-" + placeholder, processed_slot[1], processed_slot[2]])
 
-                sentence = re.sub(r'[A-Z_]+,\d+,\d+', replacement, replacement)
-            else:
-                slot_map.append([0,0,0])
+                sentence = re.sub(r'[A-Z_]+,\d+,\d+', replacement, sentence, count=1)
+                break
+        
+        if not is_slot:
+            slot_map.append([0,0,0])
 
     tokenized_sentence = tokenizer.tokenize(sentence, padding=True, truncation=True, return_tensors="tf")
-    sequence_output = bert(tokenizer(sentence, padding=True, truncation=True, return_tensors="tf"))
+    sequence_output = bert(tokenizer(sentence, padding=True, truncation=True, return_tensors="tf")['input_ids'].numpy())
 
     #remove [CLS] and [SEP]
-    sequence_output = sequence_output.last_hidden_state[:, 1:-1, :]
+    sequence_output = sequence_output.last_hidden_state
+    sequence_output = sequence_output[:, 1:-1, :].numpy()
 
     offset = 0
     current_slot_position = -1
-    for i in range(len(sequence_output)):
+    for i in range(len(sequence_output[0])):
         if tokenized_sentence[i].startswith("##"):
             offset += 1
 
-        if slot_map[i - offset][0] is not 0:
-            if slot_map[i - offset][0].startswith("B-"):
+        if slot_map[i - offset][0] != 0:
+            if slot_map[i - offset][0].startswith("B-") and not tokenized_sentence[i].startswith("##"):
                 current_slot_position += 1
-                slot_memory[current_slot_position].extend(sequence_output[i])
-            elif slot_map[i - offset][0].startswith("I-"):
-                slot_memory[current_slot_position].extend(sequence_output[i])
+
+            slot_memory[current_slot_position].extend(sequence_output[0][i])
 
     return sentence, slot_memory, slot_map
 
@@ -114,39 +120,4 @@ def compile_sentences(output_file, input_file, intent, num_sentences_per_file):
     with open(output_file, 'w') as file:
         json.dump(data, file, indent=4)
 
-def write_mutli_joint_bert_data(output_file, intent_map):
-    for key, value in intent_map.items():
-        if(len(value) > 1):
-            compile_sentences(output_file, key, value[0], value[1])
-        else:
-            compile_sentences(output_file, key, value[0], None)
- 
-intent_map = {
-    "../Add_Info/prompted_date.txt": ["add_info", 600],
-    "../Add_Info/prompted_name.txt": ["add_info", 600],
-    "../Add_Info/single_prompted_name.txt": ["add_info", 800],
-    "../Add_Info/prompted_time.txt": ["add_info", 600],
-    "../Add_Info/prompted_number.txt": ["add_info", 600],
-    "../Add_Info/single_prompted_inputs.txt": ["add_info", 500],
-    "../Change_Name/change_name.txt": ["change_info", 400],
-    "../Confirm_Deny/confirm.txt": ["confirm"],
-    "../Confirm_Deny/deny.txt": ["deny"],
-    "../Greeting_Farewell/greeting.txt": ["greeting"],
-    "../Greeting_Farewell/farewell.txt": ["farewell"],
-    "../Inquiry/faq_policies.txt": ["faq_policies"],
-    "../Inquiry/menu_inquiry.txt": ["menu_inquiry"],
-    "../Order/checkout.txt": ["checkout"],
-    "../Order/clear_cart.txt": ["clear_cart"],
-    "../Order/delete_items.txt": ["delete_item", 10000],
-    "../Order/make_order.txt": ["make_order", 10000],
-    "../Order/replace_items.txt": ["replace_item", 10000],
-    "../Order/view_order.txt": ["view_order"],
-    "../Out_of_Scope/out_of_scope.txt": ["out_of_scope"],
-    "../Reservation/add_res.txt": ["add_res", 10000],
-    "../Reservation/delete_res.txt": ["delete_res", 10000],
-    "../Reservation/edit_res.txt": ["edit_res", 10000],
-    "../Reservation/view_res.txt": ["view_res", 10000],
-}
-
-print(process_sentence("I want to make an order for NAME,0,0", entity_files))
-#write_mutli_joint_bert_data('../Final_Datasets/JERTmate_data.json', intent_map)
+print(process_sentence("can i make a reservation for TIME,0,0 DATE,0,0", entity_files))
