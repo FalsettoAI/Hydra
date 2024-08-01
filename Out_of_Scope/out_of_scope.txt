@@ -1,8 +1,6 @@
 "in spanish, meet me tomorrow is said how"
 "in french, how do i say, see you later"
 how do you say hello in japanese
-how do i ask about the weather in chinese
-how can i say cancel my order in french
 how do i say dinner in spanish
 how do you say good bye in french
 how do i say thank you in spanish
@@ -13,10 +11,6 @@ would you tell me how to say goodbye in france
 how do you say hello in mexico
 tell me how to say hello in chile
 i want to know how to say goodbye in france
-"would you translate a sentence into russian for me, please"
-would you translate a phrase into mandarin for me
-"can you translate this name into spanish for me, please"
-"could you translate this into chinese for me, please"
 could you translate water into dutch for me
 transfer ten dollars from my wells fargo account to my bank of america account
 take one hundred and fifty bucks from my wells fargo checking account and put it in my wells fargo savings account
@@ -218,26 +212,6 @@ show me trivia about cats
 read me some different cat trivia items
 find me cat trivia now please
 read me cat trivia
-i need new language
-switch language for me
-please change your language setting to russian
-you must change your language setting to russian
-you need to change your language setting to russian please
-change language please
-please change your language setting to spanish now
-change your language setting to spanish
-i want new language
-please change the language
-speak arabic
-speak navajo
-speak german
-speak french
-speak mandarin
-change response language from mandarin to english
-please respond to me in english from now on
-please change your response language to english
-how can i change your response language
-change the language to english
 when's the next time i get paid
 when's my next paycheck coming in
 what's the date of my next paycheck
@@ -276,29 +250,6 @@ will my new credit card be here this week
 how long does it usually take for a new credit card to come
 what is the eta on getting a replacement card
 show tracking information on my replacement credit card
-when will i get my replacement card
-will it take more than a month to get a new card
-what time is it in france
-what's the time in london right now
-what hour is it in london
-what's the time
-what is the time in london
-i need to know what time it is
-what time of day is it in london
-tell me what time it is
-what time of day is it
-what time is it in the pacific timezone
-what time is it in pacific standard time
-what time is it over in pacific time
-what time is in over there in pacific standard time
-what time is it in the pacific standard time
-what is the time in paris now
-time in manhattan
-how late is it now in ourense
-what is the current time right now in hollywood
-what time is it now in michigan
-what's the clock say
-what is the present status of my credit card application
 what is the current status of my credit card application
 in what status is my credit card application currently in
 how far along is my credit card application
@@ -327,7 +278,6 @@ is flight dl123 due to land as schedule
 will flight dl123 be on time
 are there any expected delays for flight dl123
 i would like to know flight dl123's status
-tell me flight dl123's statud
 for flight dl123 what's the status
 could you tell me the status of flight dl123
 when is my flight expected to arrive
@@ -358,66 +308,14 @@ i'm wanting you to flip a coin
 flip me a coin
 i want you to flip a coin now
 i call tails and you call heads on this coin flip i need you to do
-what place were you born at
-where were you born as a kid
-tell me where you were created
-what place were you made at
-what place were you actually born at
-what place do you come from
-where do you hale from
-what place were you born
-where are you from before you got here
-let me know when you were made
-where you from
-where are you from if i may ask
-where are you from oroginally
-where are you originally from before coming here
 what's your home town
 what country are you from
-are you from here
-were you made here
-where did you come from
-you were made where
-"i'm not sure if watermelon is on my shopping list, but if it isn't can you put it on there"
-is it possible to add grapes to my shopping list if they aren't on there already
-please add bananas to my shopping list unless i already did
-can you add apples to my shopping list if they aren't already on there
-would you be willing to add bread to my shopping list if i haven't already
 "i'm out of cleaning supplies, remind me on my list"
-"i don't have any more steak, please put that on my grocery list"
-"i'm out of apples, add that to my list"
-"i have no oranges, put them onto my list"
-do i have peanuts on my shopping list if not please add it
-do i have soda on my shopping list if not please add it
 i'm out of kleenex so will you put that on my shopping list
 i'm out of paper towels so will you put that on my shopping list
 i'm out of toilet paper so will you put that on my shopping list
-do i have graham crackers on my shopping list if not please add it
 i'm out of clorox wipes so will you put that on my shopping list
-do i have tortillas on my shopping list if not please add it
 i'm out of laundry detergent so will you put that on my shopping list
-do i have cheese on my shopping list if not please add it
-i'd like you to add oranges to my shopping list
-i do not have that information
-i can't give you an answer to that
-i do not know the answer to that
-perhaps
-possibly either one
-i don't have any idea
-can't say
-i couldn't say either could be possible
-which one i don't know either i guess
-i just don't know
-don't have any idea
-i couldn't say
-i don't know the anwser
-couldn't tell you
-either i am not sure
-either of them could be i'm not sure
-don't know
-idk
-i don't have an answer for that
-maybe it does
 procedure to change oil in car
 way to change car oil
 how to change oil of a car
@@ -458,9 +356,6 @@ i need to know how much money i have in all of my bank accounts
 how much money is in all of my bank accounts
 how much money is in my bank accounts
 can you tell me how much money i have i my bank accounts
-may you stop a paymet on my account
-how we stop my account
-can you place a stop on my account
 can we stop my bank account
 please put a block on my capital one account immediately
 please put a block on my discover account immediately
@@ -498,25 +393,6 @@ rolling over my 401k help
 assistance in rolling over my 401k
 401k rollover help
 rollover my 401k assistance
-who is your designer
-what company is responsible for your design
-who is responsible for your design
-what firm is responsible for your design
-who were you created by
-what is the company that made you
-who are you manufactured by
-who is your manufacturer
-who makes you
-what organization manufactures you
-who's your creator
-what manufactures you
-who is the person responsible for creating you
-who brought you into existence
-who formed thou
-who conjured you
-who programmed you
-where were you programmed
-what company designed you
 "who or what programmed you, do you know"
 whats the travel time to redmond right now
 "travel time to bend, oregon"
@@ -535,10 +411,6 @@ how long to seattle on a bus
 how long is it to ann arbor by bus
 how long to washington dc on a bus
 "if going to lake placid, ny, how long would it be by bus"
-what is the average time it takes to get to target in los angeles
-can you please tell me how long it will take to get to target in austin
-how long would it take to get to mcdonald's in houston
-do you know who i am
 what do you want to call me
 what is the timezone of saigon
 what timezone is hanoi in
@@ -899,26 +771,6 @@ what is a good apr
 is my apr high
 what does my credit card charge for their annual percentage rate
 do you know the apr on my chase credit card
-how healthy is shepard's pie
-how healthy is pecan pie
-how healthy is hummus
-how healthy is salad
-how healthy is pumpkin pie
-is chocolate good for you
-tell me how health chocolate is
-what is the nutritional info for kraft mac 'n' cheese
-is chocolate bad for you or good for you
-can you tell me the nutrional info of a big mac
-are french fries health or not
-tell me the nutrional info of a regular banana
-read me the nutrional info of a bag of lay's potato chips
-pull up the nutrional info of a 12 oz coke
-is chocolate healthy
-tell me how many much fat is in the hamburger
-what is the nutrition information for shrimp scampi
-how many grams of sodium are in potato chips
-is rice good for me
-is raw carrot healthy to eat
 what is tuesday's calendar like
 can you check what is on my calendar for tuesday
 check what's on my calendar for tuesday
@@ -979,26 +831,6 @@ what is seventeen plus three
 what is the derivative of x squared plus 5
 can you factor x squared plus 4 x plus 4
 is 126 divisible by 8
-give me the date
-tell me the date
-which day is it today
-what day of the week are we on
-"in 4 days, what date will it be"
-would you let me know what date it will be in 3 days
-tell me the date it will be 5 days from now
-would you let me know today's date
-i need to know the date it will be 4 days from now
-let me know what date it will be in 3 days
-let me know what today's date is
-i would like to get today's date
-what date will it be 8 days from now
-what date will it be 9 days from now
-what date will it be 6 days from now
-what date will it be 5 days from now
-what date will it be 7 days from now
-tell me what today's date is
-is today monday
-what is the current date
 can i take more than one carry on
 does more than one carry on cost extra at ryanair
 does spirit allow more than one carry on
@@ -1310,34 +1142,12 @@ what day is the cable bill owed on
 when is the electric bill due
 when do i need to pay my car insurance bill by
 how do i find out when my visa bill is due
-tell me how i know when to pay my chase bill
-tell me when my mastercard bill should be paid
 when should i pay my pg&e bill
 when is my kaiser bill due
 how long do i have to pay that bill
 is there a due date on the bill
 is the bill due this week
 i need to know what day i need to pay my water bill
-what is the calorie content of lays chips
-do you know the calorie content of a strip of bacon
-how many calories are found in bagels
-tell me the calorie content of frosted flakes
-inform me of the calorie content of vanilla ice cream
-how many calories are in apples
-how many calories are in oranges
-how many calories are in ice cream
-how many calories are in cake
-how many calories are in oreos
-how many calories does two bananas have
-"in a fried egg, how many calories are there"
-pocki sticks has how many calories
-what is the amount of calories that scrambled eggs has
-how many calories are in a donut hole
-how many calories are in a ghirardelli sea salt caramel candy
-how many calories are in a bowel of wheaties
-how many calories are in a serving of deans french onion dip
-how many calories are in mashed potatoes
-how many calories are in powdered donuts
 my card was damaged by bleach
 my card was cut by my kid
 my card is ruined and isn't working
@@ -1366,7 +1176,6 @@ i want to know the bofa routing number
 what routing number does chase in michigan use
 where can i locate the ally routing number
 what would wells fargo use as routing
-is there a routing number for wachovia
 i need to know what routing number i should use for ally
 let me know chase's routing number
 what routing number does chase use
@@ -1403,21 +1212,6 @@ what is the process to set up a meeting
 how can i set up a meeting
 what is the process to schedule a meeting
 what do i do to schedule a meeting
-i want you to set a meeting with john at 5 pm
-schedule a monday meeting with sam at 1 pm
-please schedule a meeting with kim at 10 am
-please set a meeting with nancy at 4 pm
-schedule my meeting with jim at 3pm
-get me a meeting room for 9am on friday
-secure us a meeting room for 9am on friday
-arrange a meeting room for 9am on friday
-please schedule a meeting room for 9am on friday
-make sure i get a meeting room for 9am on friday
-is it possible for you to schedule a meeting for 3:00 on wednesday
-can you create a meeting for 3:00 on wednesday
-can you arrange a meeting for 3:00 on wednesday
-can you please set up a meeting for 3:00 on wednesday
-can you hook up a meeting for 3:00 on wednesday
 what is the best type of gas for this car
 "for this car, what kind of gas should i use"
 what kind of gas is required for this car
@@ -1518,38 +1312,6 @@ i would like to know when is the next holiday here
 when is the next break
 when do we have free day
 when is the next holiday in this country
-make your volume quieter please
-adjust the volume to level 4
-i want your volume decreased please
-could you please raise your volume
-i want your volume lowered
-i want your volume louder
-i want the volume at 4 please
-i want the volume at level 4
-a volume of 4 is ideal please
-i need your volume increased
-can you please turn your volume down
-please turn the volume to 4
-please turn your volume up
-turn down your volume please
-turn up your volume
-could you increase the speaker volume please
-would you please increase the speaker volume
-increase the speaker volume please
-can you increase the speaker volume please
-please turn your speaker volume up
-do you work for another person
-"who is your supervisor, please"
-"who is your superior, please"
-who are you employed by
-who is your superior
-do you work for a different person
-"who are you employed by, please"
-"who you work for, please"
-do you work for another individual
-who is your supervisor
-do you work for a different individual
-who you work for
 are you one of my employees
 do you work for a different employer
 who is your boss by the way
@@ -1621,7 +1383,7 @@ nice song what is it
 "cool song, what is it"
 what music is this
 is this a song that i dont know
-what�s the name of this song
+whats the name of this song
 what is the current tune
 what am i listening to right now
 what is the name of the song playing right now
@@ -1790,11 +1552,8 @@ please tell me the address of my current location
 i need to know the name of my current location for the tow truck
 where exactly am i at the moment
 where am i at currently
-what location is this
 what are my coordinates
 where am i on gps
-latitude and longitude please
-"location currently, where"
 what's is the current weather forecast
 tell me the forecast
 what's the weather like
@@ -1816,45 +1575,23 @@ what's the chance of rain
 how cold is it in wisconsin today
 can you tell the temperature it will tomorrow
 how much money a year do i spend in taxes
-how much am i being taxed
-what are my tax costs
 what kinds of taxes am i facing
 what's my income tax
 what's the tax bracket for my income
 what does it look like i will be paying in federal taxes this year
-what do i get taxed at my income level
-what is my tax burden
-can you tell me what my federal tax burden is
 how much am i taxed each year
 do you know how much i pay in taxes
 how much do i pay in taxes every year
-what's my federal tax this year
-i need to know my tax rate
-what is the tax rate that applies to me
-how much do i need to pay in tax
-what's my tax rate
-tell me my tax rate
-what amount do i owe in taxes
 what is the minimum amount due on my cable bill
-what is the minimum payment
 whats the minimum payment on my electric bill
 how little can i pay on my phone bill
 what is the least i can pay towards my car bill
-what's the least i can pay towards this bill
 how little can i pay towards my car insurance
-is there a minimum amount accepted
-tell me the least i can pay
 what is the minimum payment for comcast
 what is the least i can pay on my mortgage bill
 what would be the least i could pay on this bill
-could you tell me my bill's minimum payment
-what's the least amount i can pay on this bill
-what's the minimum payment on my bill
-what's my bill's minimum payment
-i'd like to know my minimum payment please
 what's the minimum due for my electric bill
 lowest amount for cable bill
-what is the minimum payment due on my visa
 set up whisper mode
 how do i go to whisper mode
 change over to whisper mode
@@ -1876,7 +1613,6 @@ enable whisper mode
 put whisper mode on
 please use whisper mode
 "if i plan on travelling to this country, do i need a visa"
-do i need a visa if i go there
 "for going to that country, do i need a visa"
 does one need a visa to go there
 "if i travel there, do i need a visa"
@@ -1935,11 +1671,9 @@ could you tell me how many pto days do i have left
 can you let me know how many pto days do i have left
 can you tell me how many pto days do i have left
 what is the amount of time i can request off in the coming year
-spell: dessert
 how do you spell dessert
 tell me how to spell the word dessert
 what is the correct spelling of the word: dessert
-how to spell: dessert
 can you spell the word umbrella for me
 please spell the word umbrella
 please tell me how to spell umbrella
@@ -1976,10 +1710,6 @@ make my settings go back to their factory settings
 set this to my factory settings
 change to factory settings
 how do i set up direct deposit for my first national account
-how do i set up direct deposit for my fifth third account
-how do i set up direct deposit for my cefcu account
-how do i set up direct deposit for my old national account
-how do i set up direct deposit for my bank of america account
 what might i need to do to direct deposit my paycheck
 what information do i need to direct deposit my paycheck
 how do i go about getting direct deposit in my usaa account
@@ -2075,24 +1805,6 @@ i'm exploring a possible cycle flight from yyz to dublin for w to aug two
 i'm seeking a full circle flight from msy to msp for w to june 7
 i'm searching for a 2-way flight from yqg to heathrow for w to memorial day
 i'm striving to find a 2-way flight from jfk to dtw for w to july 3
-will you please read the things on my shopping list
-what is on my shopping list
-can you read the things to me that are on my shopping list
-can you read the things on my shopping list
-is it possible for you to read the things on my shopping list
-did i add salt to my shopping list
-do i have toothpaste on my shopping list
-is there lettuce on my shopping list
-did i include butter in my shopping list
-did i put elbow noodles on the shopping list
-did i forget to put protein shakes on my shopping list
-do i have butter on my list
-is waffles on my list for shopping
-do i already have cereal on my shopping list
-did i remember to add milk to my shopping list
-check my shopping list
-read my shopping list
-shopping list
 what do i need to buy
 did i remember to put eggs on my shopping list
 send a text to joe
@@ -2114,8 +1826,7 @@ i need leslie to be texted saying have a good day
 i want a text sent to bob saying i will be late
 write a text to kim saying no
 send a text to mom saying i'm on my way
-robbie needs to know aboutthis so would you text robbie to let them know
-how much is my kill bill bill for
+robbie needs to know about this so would you text robbie to let them know
 what is the amount i owe on my phone
 what is the total of my repair bill
 how much is due on the gas bill
@@ -2130,10 +1841,6 @@ what is the total of all my bills combined
 can you tell me how much i need to pay on my bills this month
 how much is my bill for capital one
 what is the total amount i am going to have to pay in bills this month
-how much do i have to pay on my amazon card this month
-how much do my bills cost this month
-how much is my xfinity cable bill
-what is the amount i owe to clay electric
 could you tell me the amount owed on gas and electric
 give my location to stan
 i'd like to share my location with stephanie
@@ -2360,15 +2067,8 @@ who can jump off my dead car battery
 my car battery died and i need help
 can i get my car jumped for this dead battery
 there is no juice in my battery please help
-i would like to learn to make cookies
-show me popular sushi recipes
-i need a pancake recipe
-find instructions on baking lemon cake
 can you give me instructions on how to make alfredo
 how do i make shrimp
-what is a good recipe for steak
-find a recipe for hamburgers
-pull up ramen recipes please
 how do you make dumplings
 how do you make blue cheese dressing
 i need a recipe for chicken cordon bleu
@@ -2398,28 +2098,7 @@ i would like to know what my income is
 tell me my income amount
 i need to know the amount of my income
 get my income amount for me
-how much do you start at
 yearly salary
-is there much traffic between here and work right now
-what's the traffic like right now for my route to work
-is the traffic bad going downtown right now
-how's the traffic this morning
-how bad is the traffic on the way to downtown
-what's the traffic like going to central park
-is there heavy traffic on the way to the city
-how bad is traffic on the way into oakville right now
-how does the traffic look on my way to work right now
-what does my commute look like
-what is the traffic like on the road to downtown dallas
-what kind of traffic is on hwy 1 going to the downtown area right now
-"how is the traffic on rt 5 towards my work , community bank"
-"is there any traffic on the road i take home from work right now, rt 40"
-tell me how the traffic is on rt 7 to the airport today
-what will the traffic be like if i headed out to work right now
-what kind of traffic can i expect on the way to church
-how's the traffic to work
-can you give me a traffic update for a trip to the grocery store
-how's the traffic looking if i headed to fred meyer
 i need more checks because i am out
 can i order new checks since i am out
 "i am now out of checks, how do i order new ones"
@@ -2433,33 +2112,12 @@ i just used my last check and need more now
 i ran out of checks and need more asap
 i would like more checks sent to my address
 how would i go about getting more checks for my western union account
-i just used my final check order more
 can i order checks online for my checking account
 please send me more checkbooks
 please notify my bank that i need more checks
 how can i order checks for my savings account
 i need to know how to order checks for my bank of america account
 who do i contact to order more checks for my td bank account
-is there a reason my card was declined
-my card was rejected at shakey's and i am wondering why
-was there a problem with my card yesterday
-my debit card was rejected at ella's and i want to know why
-my card was declined at mcdonald's and i want to know why
-i need to know why you declined my card yesterday
-"my card was rejected at the zoo, could you tell me why"
-tell me why my card was declined
-"tell me why my card was declined at auto zone, why"
-i need to know why my credit card transaction was declined
-why was my credit card not accepted
-i was in target about to buy a chair when my card got declined
-my card just got declined when i was in home depot buying tile
-i was trying to buy a chainsaw at the tractor store and they said my card was declined
-why was my card declined just now when i tried to buy a jeep at carmax
-i was at walmart trying to buy toilet paper and my card got declined
-target declined my card and i don't know why
-do you know why my card was declined at target i can't figure out why
-i can't figure out why my card was declined at target
-i was just at target and they declined my card and i can't understand why
 set a warning for when my bank account starts running low
 a show on broadway
 who has the best record in the nfl
@@ -2475,14 +2133,13 @@ are any earning reports due
 show me the channel guide
 is the pnc bank open
 where does the power steering fluid go
-when was the last time the president visited floridau
+when was the last time the president visited florida
 how can i keep my windshield from fogging up in winter
 how do i compute the median of a set of numbers
-what is happening with brexit right nowu
+what is happening with brexit right now
 are there any new companies to look out for
 can you tell me how to compute price per ounce
 how to unclog a drain
-am kind of busy now
 what new reality shows are there for 2019
 what is the purpose or benefit of a cash advance
 how can i root an android phone
@@ -2498,7 +2155,6 @@ please inform me on bad habits and overcoming them
 are bad habits closely related with addictions
 does hypnosis work to break bad habits
 king of acid
-suo2
 what university in the united states offers the best biomedical engineering program
 what's the definition of nuclear engineering
 when was electrical engineering created
@@ -2554,7 +2210,6 @@ how can i easily replace a string on my guitar
 how do you learn how to play electric violin
 can you give me the standard tuning notes
 what is the cheapest electric guitar
-you want to know about current time now
 what does it mean to have equality
 what site publishes the most fake news
 can you tell me some fake news
