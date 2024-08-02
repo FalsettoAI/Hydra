@@ -184,10 +184,8 @@ appreciate it see you soon
 thanks talk later
 bye thank you
 thanks take care
-thank you appreciate it
 goodbye see you
 bye talk soon
-appreciate it thanks
 goodbye thanks a lot
 bye have a good day
 thank you see you later
@@ -207,7 +205,6 @@ thank you have a great day
 goodbye see you soon
 thanks have a good one
 thank you take care
-appreciate it thanks again
 thanks talk soon
 bye see you
 appreciate it see you later
@@ -225,50 +222,8 @@ appreciate it have a great day
 goodbye talk soon
 bye see you soon
 thank you talk to you later
-thanks appreciate it
-appreciate it talk soon
-appreciate it see you
 thank you have a nice day
 goodbye talk to you later
-thank you see you then
-"thank you, take care"
-"thanks, see you later"
-"thank you, have a great day"
-"thanks, talk to you soon"
-"appreciate it, take care"
-"thank you, see you soon"
-"thanks, have a nice day"
-"appreciate it, talk later"
-"thank you, see you then"
-"thanks, have a good one"
-"appreciate it, see you later"
-"thanks, take care"
-"thank you, talk soon"
-"thanks, see you"
-"appreciate it, talk to you later"
-"thank you, have a good day"
-"thanks, talk later"
-"appreciate it, see you then"
-"appreciate it, have a great day"
-"appreciate it, see you"
-"thank you, talk later"
-"thanks, see you then"
-"appreciate it, have a good one"
-"appreciate it, see you soon"
-"appreciate it, have a nice day"
-"thanks, talk soon"
-"thank you, talk to you soon"
-"appreciate it, have a good day"
-"thanks, talk to you later"
-"appreciate it, talk to you soon"
-"thank you, see you later"
-"thank you, have a good one"
-"thank you, have a nice day"
-"thanks, have a great day"
-"thank you, see you"
-"thanks, have a good day"
-"appreciate it, talk soon"
-"thanks, see you soon"
 bye
 goodbye
 yes that will be all goodbye

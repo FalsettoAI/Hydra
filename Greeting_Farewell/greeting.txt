@@ -87,8 +87,6 @@ hi whats been happening
 good afternoon how are you feeling
 hey there hows life going
 hi how are things with you
-hello whats new and exciting
-hey hows your day shaping up
 hi there how have you been keeping
 good evening hows it hanging
 hello how are you doing today
@@ -105,87 +103,28 @@ hello how has your day been
 hey hows it been going
 hi whats new with you
 good evening how are you feeling
-hey there hows your world
-hi how are things shaping up
 hello whats happening in your life
 hey hows it going today
-good morning whats new and exciting
 hello how are you keeping
 hey hows everything with you today
 hi there hows the day treating you
 hey whats cooking
 hello hows your morning going
 hi hows life been lately
-good day how are you faring
-hey there whats the scoop
-hi hows everything in your neck of the woods
-hello hows your week shaping up
 hey hows it rolling
 hi there whats new and exciting in your world
 good morning how are you feeling today
 hey hows life treating you these days
-hi whats the word on the street
-hello hows your day unfolding
-hey there hows everything under the sun
 hi hows it hanging today
-good afternoon whats the latest in your life
-hey hows the world treating you
-hi there how are things on your end
-hello whats been happening lately
-hey hows your day going so far
-hi hows life in your corner of the world
-good evening hows everything stacking up
-hey there whats the buzz
-hi hows your day been unfolding
-hello hows life treating you today
-hey whats new in your universe
 hi there hows your week been going
 good day whats happening in your world
-hey hows everything in your sphere
-hi hows life been treating you lately
-hello whats the word on your end
-hey there hows your day shaping up so far
 hi whats been going on with you
-good morning hows life in your lane
 hey hows everything under your roof
 hi there whats the latest and greatest
-hello hows your world spinning today
 hey hows life been lately
 hi hows your day treating you so far
-good afternoon whats new in your book of life
-hey there hows it hanging in your world
 hi whats been cooking in your life
-hello hows everything in your universe
-hey hows your day unfolding so far
-hi there whats the scoop in your world
-good evening hows life treating you today
-hey whats happening in your neck of the woods
-hi hows your world turning today
-hello whats new and exciting with you
-hey there hows life in your lane lately
-hi whats the buzz in your world
-good day hows everything stacking up for you
-hey hows your universe aligning today
-hi there whats been happening in your sphere
-hello hows life treating you this fine day
-hey whats the word in your world
-hi hows your day shaping up so far
-good morning whats new under your sun
 hey there hows life rolling for you
-hi whats been going on in your corner
-hey hows everything in your universe
-hi there whats the latest in your life
-good afternoon hows your day treating you so far
-hey whats cooking in your world
-hi hows life unfolding for you today
-hello whats happening in your sphere
-hey there hows your day been treating you
-hi whats new and exciting in your lane
-good evening hows life in your corner today
-hey hows your world turning so far
-hi there whats the scoop in your universe
-hello hows everything aligning for you today
-hey whats been happening in your neck of the woods
 hi hows life treating you this fine day
 good day whats the buzz in your world
 hey there hows your universe treating you
@@ -205,38 +144,14 @@ hi i hope you're having a good day
 hello i hope you're having a good day
 hi i hope you're having a great day
 hello i hope you're having a great day
-hi is this the restaurant
-hello is this the restaurant
 hi can you help me
 hello can you help me
-hi can i speak to someone
-hello can i speak to someone
-hi may i speak to someone
-hello may i speak to someone
 hi can i ask a question
 hello can i ask a question
 hi do you have a moment
 hello do you have a moment
 hi do you have time to talk
 hello do you have time to talk
-hi is this the front desk
-hello is this the front desk
-hi am i speaking to someone at the restaurant
-hello am i speaking to someone at the restaurant
-hi who am i speaking to
-hello who am i speaking to
-hi who is this
-hello who is this
-hi may i ask who i’m speaking to
-hello may i ask who i’m speaking to
-hi is this the right place to call
-hello is this the right place to call
-hi is this the right number
-hello is this the right number
-hi can i talk to someone
-hello can i talk to someone
-hi can i speak with someone
-hello can i speak with someone
 hi i need some assistance
 hello i need some assistance
 hi can i get some help
@@ -271,26 +186,8 @@ hi i need to know something
 hello i need to know something
 hi can you tell me something
 hello can you tell me something
-hi am i calling the restaurant
-hello am i calling the restaurant
-hi did i reach the restaurant
-hello did i reach the restaurant
 hi do you hear me
 hello i’m calling the restaurant
-hi am i speaking to the restaurant
-hello am i speaking to the restaurant
-hi is this the correct number
-hello is this the correct number
-hi do i have the right number
-hello do i have the right number
-hi am i calling the right place
-hello am i calling the right place
-hi can you confirm this is the restaurant
-hello can you confirm this is the restaurant
-hi can you confirm i’ve reached the restaurant
-hello can you confirm i’ve reached the restaurant
 can you hear me
 hey does my audio work
 how are ya
-hello can you hear me or not
-please tell me if you hear me my microphones not so good
