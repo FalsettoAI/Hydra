@@ -1,0 +1,1230 @@
+TIME,0,0 please
+at TIME,0,0
+how about TIME,0,0
+how about TIME,0,0 please
+can you do TIME,0,0
+can i do TIME,0,0
+can i do TIME,0,0 please
+try TIME,0,0
+try TIME,0,0 please
+can i try TIME,0,0
+lets do TIME,0,0
+lets try TIME,0,0
+lets try TIME,0,0 please
+make it TIME,0,0
+make it TIME,0,0 please
+make it for TIME,0,0
+gonna have to be TIME,0,0
+TIME,0,0 sounds good to me
+can you do TIME,0,0
+how about TIME,0,0
+put me down for TIME,0,0
+TIME,0,0 works for me
+maybe TIME,0,0 if thats cool
+TIME,0,0 is when id like to come in
+im thinking TIME,0,0
+what do you have open around TIME,0,0
+TIME,0,0 if possible
+lemme get a table for TIME,0,0
+ill take TIME,0,0
+TIME,0,0 would be ideal
+TIME,0,0 is what im looking for
+TIME,0,0 is perfect
+TIME,0,0 if you got it
+im free at TIME,0,0
+could i get a reservation for TIME,0,0
+pencil me in for TIME,0,0
+TIME,0,0 is when i can make it
+TIME,0,0 works best for me
+TIME,0,0 if thats not too much trouble
+im available at TIME,0,0
+TIME,0,0 would be great if you have availability
+book me for TIME,0,0
+sign me up for TIME,0,0
+can i reserve for TIME,0,0
+ill come at TIME,0,0
+lock me in for TIME,0,0
+TIME,0,0 if theres a spot
+id like to come in around TIME,0,0
+TIME,0,0 if you got space
+how does TIME,0,0 look
+i need a table for TIME,0,0
+fit me in at TIME,0,0 if you can
+can you squeeze me in at TIME,0,0
+TIME,0,0 if theres room
+try TIME,0,0 for me
+is TIME,0,0 open
+TIME,0,0 if thats not taken
+hope you got something around TIME,0,0
+do you have TIME,0,0 available
+got anything for TIME,0,0
+whats open near TIME,0,0
+got a slot for TIME,0,0
+anything you can do around TIME,0,0
+TIME,0,0 is when id like to come
+see if you can do TIME,0,0
+ill swing by around TIME,0,0
+im shooting for TIME,0,0
+can we make it TIME,0,0
+throw me down for TIME,0,0
+TIME,0,0 if thats doable
+you got space at TIME,0,0
+lemme get a table around TIME,0,0
+is TIME,0,0 free
+anything you can do for TIME,0,0
+TIME,0,0 would work nicely
+mark me down for TIME,0,0
+TIME,0,0 is my target
+put me in for TIME,0,0
+howbout TIME,0,0
+id prefer TIME,0,0
+can you fit me in for TIME,0,0
+TIME,0,0 would rock
+TIME,0,0 if theres availability
+write me in for TIME,0,0
+my request is for TIME,0,0
+got room at TIME,0,0
+im thinking TIME,0,0
+hit me with TIME,0,0
+whats open around TIME,0,0
+pencil me in around TIME,0,0
+got a window near TIME,0,0
+i want TIME,0,0
+lemme get TIME,0,0
+can i get TIME,0,0
+what you got for TIME,0,0
+see if TIME,0,0 is open
+aiming for TIME,0,0
+gonna try for TIME,0,0
+ill take a spot at TIME,0,0
+TIME,0,0 works best
+slip me in at TIME,0,0
+should be free around TIME,0,0
+im open at TIME,0,0
+save me a spot for TIME,0,0
+TIME,0,0 if possible please
+hook me up with TIME,0,0
+im requesting TIME,0,0
+tryna do TIME,0,0
+shooting for TIME,0,0
+could you do TIME,0,0
+bout TIME,0,0
+got room for me at TIME,0,0  
+lock it in for TIME,0,0
+TIME,0,0 is what im hoping for
+TIME,0,0 if theres space
+ill take TIME,0,0 if you got it
+just put me down for TIME,0,0
+sign me up around TIME,0,0
+you got anything around TIME,0,0
+im looking for TIME,0,0
+book it for TIME,0,0
+whaddya got open around TIME,0,0
+gotcha, make it TIME,0,0 then
+TIME,0,0 please and thanks
+can i reserve for around TIME,0,0
+is TIME,0,0 available
+got a table for TIME,0,0
+gonna need TIME,0,0
+you got TIME,0,0 free
+can i get a reservation around TIME,0,0
+lemme get a spot at TIME,0,0
+do TIME,0,0 if its open
+got room at TIME,0,0
+im wide open at TIME,0,0
+TIME,0,0 if you aint booked
+TIME,0,0 if theres still space
+TIME,0,0 work for y'all
+think i can get TIME,0,0
+what is still open near TIME,0,0
+can you fit me in around TIME,0,0
+slip me in around TIME,0,0 if possible
+im thinking maybe TIME,0,0
+i gotta do TIME,0,0
+gotta be TIME,0,0
+need a table for TIME,0,0
+can y'all squeeze me in for TIME,0,0
+gonna need to do TIME,0,0
+would TIME,0,0 work
+check if TIME,0,0 is open
+put me down around TIME,0,0
+get me in for TIME,0,0
+aiming for around TIME,0,0
+whaddya got open for TIME,0,0
+sign me up for around TIME,0,0
+can you do TIME,0,0
+lemme slide in around TIME,0,0
+TIME,0,0 open yet
+got room near TIME,0,0
+lock it down for TIME,0,0
+TIME,0,0 is ideal for me
+bout TIME,0,0 if thats cool
+do ya have TIME,0,0
+TIME,0,0 if theres space available
+TIME,0,0 is my goal
+throw in TIME,0,0 if possible
+can ya pencil me in around TIME,0,0
+slide me in around TIME,0,0
+lock me down for TIME,0,0
+ill take TIME,0,0 if you got space
+write in TIME,0,0 for me
+set me up with TIME,0,0
+gonna need to make it TIME,0,0
+add me in for TIME,0,0
+mark me for TIME,0,0
+had my eyes on TIME,0,0
+is there any space at TIME,0,0
+will you have availability at TIME,0,0
+looking for TIME,0,0 if thats possible
+yeah imma need a spot for TIME,0,0
+TIME,0,0 is when id like to come in
+got a spot open around TIME,0,0
+TIME,0,0 if theres any room left
+does TIME,0,0 work for yall
+put me down for TIME,0,0 if you can
+ill take whatever you got around TIME,0,0
+yall got space for TIME,0,0
+im tryna get in around TIME,0,0
+hit me with TIME,0,0 if possible
+whaddya got available near TIME,0,0
+write me in around TIME,0,0
+im open around TIME,0,0
+got a table for around TIME,0,0
+reserve me for TIME,0,0 please
+im free at TIME,0,0
+anything open near TIME,0,0
+imma try for TIME,0,0
+just gimme TIME,0,0
+ill go with TIME,0,0
+lets shoot for TIME,0,0
+hook it up for TIME,0,0
+what do you have around TIME,0,0
+ill take a table at TIME,0,0
+TIME,0,0 would be clutch
+can ya fit me in at TIME,0,0
+got room for one more at TIME,0,0
+gonna need that TIME,0,0 spot
+slide me in at TIME,0,0 if possible
+can i get TIME,0,0
+i want TIME,0,0 if you have it
+put me on the list for TIME,0,0
+ill try for TIME,0,0
+is TIME,0,0 still free
+lets do it around TIME,0,0
+book that TIME,0,0 TIME,0,0 for me
+lemme get that TIME,0,0 reservation  
+set me up for TIME,0,0
+put me down around TIME,0,0 please
+got a spot for TIME,0,0
+does TIME,0,0 work
+imma go with TIME,0,0
+i need TIME,0,0 if possible  
+anything you can do near TIME,0,0
+hey can i get TIME,0,0
+sign me up around TIME,0,0 please
+you got TIME,0,0 available still
+TIME,0,0 is what im hoping for
+TIME,0,0 if its not booked
+im looking at TIME,0,0
+gonna need that TIME,0,0 spot
+TIME,0,0 works for my schedule  
+TIME,0,0 if theres any wiggle room
+you got space for one at TIME,0,0
+lets lock in TIME,0,0
+ill reserve for TIME,0,0
+got anything around TIME,0,0
+im requesting TIME,0,0 if available
+does TIME,0,0 have any availability left
+book it for around TIME,0,0 please
+lemme get a spot near TIME,0,0
+yall got TIME,0,0 free
+can i get in around TIME,0,0
+count me in for TIME,0,0
+squeeze me in at TIME,0,0 if ya can
+lock me down for TIME,0,0
+pencil in TIME,0,0 for me
+what you got going around TIME,0,0
+write me down for TIME,0,0
+got an opening for TIME,0,0
+yall still got TIME,0,0 open
+hit me with that TIME,0,0 TIME,0,0
+does TIME,0,0 still have space
+i want in around TIME,0,0
+imma request TIME,0,0
+yall taking TIME,0,0 reservations
+lemme get that TIME,0,0 spot if its free
+sign me up for TIME,0,0
+can you add me for TIME,0,0
+does TIME,0,0 work for yall
+whats still open near TIME,0,0
+TIME,0,0 if theres room left 
+ill come around TIME,0,0
+got space around TIME,0,0
+just put me in for TIME,0,0
+can i get a spot for TIME,0,0
+got any availability left at TIME,0,0
+is TIME,0,0 still open
+yall got room at TIME,0,0
+slide me in for TIME,0,0
+what about TIME,0,0
+can ya do TIME,0,0
+gonna go with TIME,0,0
+got room at TIME,0,0
+ill take whatever for TIME,0,0
+save me a spot around TIME,0,0
+can ya get me in around TIME,0,0
+put a pin in for TIME,0,0
+you got space around TIME,0,0  
+write in TIME,0,0 for a reservation
+could y'all do TIME,0,0
+got anything you could do near TIME,0,0
+what TIME,0,0 is open closest to TIME,0,0
+book that TIME,0,0 TIME,0,0 slot 
+can ya squeeze me in around TIME,0,0
+you able to do TIME,0,0
+lemme get in around TIME,0,0
+whats the situation around TIME,0,0
+is TIME,0,0 still available
+got room at TIME,0,0
+see if you can make TIME,0,0 work
+yeah gimme TIME,0,0
+im requesting around TIME,0,0 if possible
+count me down for TIME,0,0
+got a slot for around TIME,0,0
+when is the next opening after TIME,0,0
+will TIME,0,0 be open 
+anything you got going around TIME,0,0
+pencil me in at TIME,0,0 if ya can
+is there any space left near TIME,0,0
+book me down for TIME,0,0
+put my name in for TIME,0,0
+im hoping for TIME,0,0
+TIME,0,0 would be ideal if available
+can you hold TIME,0,0 for me
+what availability is there around TIME,0,0
+ill reserve for around TIME,0,0
+what do you have left around TIME,0,0
+got a table near TIME,0,0
+save a spot at TIME,0,0 for me
+ill take whatever is left around TIME,0,0
+ what openings near TIME,0,0  
+anything around TIME,0,0
+was hoping for around TIME,0,0
+can ya get me down for TIME,0,0  
+put me on the books for TIME,0,0
+ill take TIME,0,0 if theres nothing else
+whats still open close to TIME,0,0
+can ya try TIME,0,0
+im aiming for TIME,0,0
+anything you could do around TIME,0,0
+we are NUMBER,0,0
+we are NUMBER,0,0 please
+we are NUMBER,0,0 people
+we are NUMBER,0,0 people please
+i am NUMBER,0,0
+i am NUMBER,0,0 please
+i am NUMBER,0,0 people
+i am NUMBER,0,0 people please
+we are going to be NUMBER,0,0
+we are going to be NUMBER,0,0 please
+we are going to be NUMBER,0,0 people
+we are going to be NUMBER,0,0 people please
+how about NUMBER,0,0
+how about NUMBER,0,0 please
+how about NUMBER,0,0 people
+how about NUMBER,0,0 people please
+NUMBER,0,0 people
+NUMBER,0,0 please
+NUMBER,0,0 people please
+around NUMBER,0,0
+around NUMBER,0,0 please
+around NUMBER,0,0 people
+around NUMBER,0,0 people please
+about NUMBER,0,0
+about NUMBER,0,0 please
+about NUMBER,0,0 people
+about NUMBER,0,0 people please
+there will be NUMBER,0,0
+there will be NUMBER,0,0 please
+there will be NUMBER,0,0 people
+there will be NUMBER,0,0 people please
+its going to be around NUMBER,0,0
+its going to be around NUMBER,0,0 please
+its going to be around NUMBER,0,0 people
+its going to be around NUMBER,0,0 people please
+its going to be about NUMBER,0,0
+its going to be about NUMBER,0,0 please
+its going to be about NUMBER,0,0 people
+its going to be about NUMBER,0,0 people please
+lets do NUMBER,0,0
+lets do NUMBER,0,0 please
+lets do NUMBER,0,0 people
+lets do NUMBER,0,0 people please
+its going to be NUMBER,0,0
+its going to be NUMBER,0,0 please
+its going to be NUMBER,0,0 people
+its going to be NUMBER,0,0 people please
+it will be NUMBER,0,0
+it will be NUMBER,0,0 please
+it will be NUMBER,0,0 people
+it will be NUMBER,0,0 people please
+we will be NUMBER,0,0
+we will be NUMBER,0,0 please
+we will be NUMBER,0,0 people
+we will be NUMBER,0,0 people please
+i will be NUMBER,0,0
+i will be NUMBER,0,0 please
+i will be NUMBER,0,0 people
+i will be NUMBER,0,0 people please
+make it for NUMBER,0,0
+make it for NUMBER,0,0 people
+make it for NUMBER,0,0 please
+make it for NUMBER,0,0 people please
+make it NUMBER,0,0
+make it NUMBER,0,0 people
+make it NUMBER,0,0 please
+make it NUMBER,0,0 people please
+we have a party of NUMBER,0,0
+it's gonna be NUMBER,0,0 of us
+we're NUMBER,0,0 folks
+can you set a table for NUMBER,0,0
+we got NUMBER,0,0 people coming
+i need a reservation for NUMBER,0,0
+it's just NUMBER,0,0 of us
+we're a group of NUMBER,0,0
+there'll be NUMBER,0,0 in our party
+we need a spot for NUMBER,0,0
+we got a group of NUMBER,0,0
+there's NUMBER,0,0 of us
+i need a table for NUMBER,0,0
+we're a party of NUMBER,0,0
+we'll be NUMBER,0,0 people
+we are a party of NUMBER,0,0
+there are NUMBER,0,0 in our group
+we'll be a group of NUMBER,0,0
+we got NUMBER,0,0 in our group
+there'll be NUMBER,0,0 of us
+i need to book a table for NUMBER,0,0
+we're coming with NUMBER,0,0
+there's gonna be NUMBER,0,0 of us
+there are NUMBER,0,0 people in our group
+we need a table for NUMBER,0,0 please
+we have NUMBER,0,0 in our party
+our group is NUMBER,0,0
+the reservation is for NUMBER,0,0
+we're planning for NUMBER,0,0
+count us as NUMBER,0,0
+we need seating for NUMBER,0,0
+we'll be a party of NUMBER,0,0
+we'll have NUMBER,0,0 people
+we got a party of NUMBER,0,0
+we have a group of NUMBER,0,0
+we are bringing NUMBER,0,0 people
+it will be NUMBER,0,0 of us
+we have a table for NUMBER,0,0 people
+we need a reservation for NUMBER,0,0
+it's a party of NUMBER,0,0
+we're booking for NUMBER,0,0
+it's gonna be NUMBER,0,0 in total
+we'll need a table for NUMBER,0,0
+we have NUMBER,0,0 people coming
+there's NUMBER,0,0 of us coming
+we'll have a group of NUMBER,0,0
+we have a reservation for NUMBER,0,0
+we're NUMBER,0,0 total
+it's just NUMBER,0,0 people
+i need a booking for NUMBER,0,0
+it's gonna be NUMBER,0,0 folks
+there are NUMBER,0,0 of us coming
+we are a group of NUMBER,0,0
+can we get a table for NUMBER,0,0
+it's NUMBER,0,0 people
+we're coming with NUMBER,0,0 people
+we'll be a group of NUMBER,0,0 people
+we got a reservation for NUMBER,0,0
+we have a group of NUMBER,0,0 people
+we're coming with NUMBER,0,0
+we got NUMBER,0,0 folks
+it's gonna be NUMBER,0,0 people
+we're a group of NUMBER,0,0 people
+we have NUMBER,0,0 people
+we'll need a reservation for NUMBER,0,0
+we got a booking for NUMBER,0,0
+there's NUMBER,0,0 coming
+we'll be NUMBER,0,0 people in total
+there's NUMBER,0,0 of us in total
+we're a party of NUMBER,0,0 people
+we got NUMBER,0,0 total
+there's gonna be NUMBER,0,0 folks
+we are bringing NUMBER,0,0 folks
+it's a group of NUMBER,0,0
+we'll be a party of NUMBER,0,0 people
+there's NUMBER,0,0 of us total
+we're a group of NUMBER,0,0 folks
+we're gonna be NUMBER,0,0 people
+it's just NUMBER,0,0 of us coming
+we got a group of NUMBER,0,0 folks
+we're gonna be NUMBER,0,0 folks
+we need seating for NUMBER,0,0 people
+we're a group of NUMBER,0,0 total
+it's NUMBER,0,0 of us
+we're coming with NUMBER,0,0 total
+we have NUMBER,0,0 in our group
+we got a booking for NUMBER,0,0 people
+there's NUMBER,0,0 in our party
+we need a spot for NUMBER,0,0 people
+we got NUMBER,0,0 people coming
+we have NUMBER,0,0 people total
+we're booking for NUMBER,0,0 folks
+we need a table for NUMBER,0,0 folks
+it's a group of NUMBER,0,0 people
+we have NUMBER,0,0 total
+we're coming with NUMBER,0,0 folks
+we need a reservation for NUMBER,0,0 people
+we have a party of NUMBER,0,0 people
+we're booking for NUMBER,0,0 total
+it's gonna be NUMBER,0,0 total
+we're a group of NUMBER,0,0 total
+we need seating for NUMBER,0,0 folks
+we'll need a table for NUMBER,0,0 folks
+we got a group of NUMBER,0,0 total
+there's NUMBER,0,0 coming
+it's gonna be NUMBER,0,0 of us total
+we'll have NUMBER,0,0 people in total
+there's NUMBER,0,0 people in our group
+we'll need a table for NUMBER,0,0 people
+we have a reservation for NUMBER,0,0 folks
+we'll be NUMBER,0,0 total
+there are NUMBER,0,0 of us total
+we're a party of NUMBER,0,0 folks
+we're coming with NUMBER,0,0 folks
+we have NUMBER,0,0 total in our group
+we have a group of NUMBER,0,0 total
+we got NUMBER,0,0 total in our group
+we need a table for NUMBER,0,0 total
+there's gonna be NUMBER,0,0 of us total
+we're gonna be NUMBER,0,0 total
+we have NUMBER,0,0 in our group total
+we're a group of NUMBER,0,0 total in our party
+we have NUMBER,0,0 people total in our group
+we'll be NUMBER,0,0 total in our party
+we got NUMBER,0,0 folks in our group
+we need a reservation for NUMBER,0,0 total
+there's NUMBER,0,0 of us total in our group
+we'll be NUMBER,0,0 total in our group
+we have a party of NUMBER,0,0 total in our group
+we are a party of NUMBER,0,0 people
+there are NUMBER,0,0 of us for dinner
+i need to book for NUMBER,0,0
+we're booking a table for NUMBER,0,0
+we have NUMBER,0,0 people in total
+we need a reservation for NUMBER,0,0 folks
+there's NUMBER,0,0 coming to dine
+it's gonna be NUMBER,0,0 in our party
+we need a table for NUMBER,0,0 in total
+we're a party of NUMBER,0,0 folks
+we're coming with NUMBER,0,0 people in total
+there's NUMBER,0,0 of us coming to eat
+we got a reservation for NUMBER,0,0 folks
+we have a group of NUMBER,0,0 people in total
+we need a spot for NUMBER,0,0 folks
+we got NUMBER,0,0 total coming
+there's NUMBER,0,0 in our party coming to eat
+we need seating for NUMBER,0,0 in total
+we're a group of NUMBER,0,0 in total
+we're gonna be NUMBER,0,0 people in total
+it's just NUMBER,0,0 of us for dinner
+we got a group of NUMBER,0,0 folks in total
+we have NUMBER,0,0 folks coming to eat
+we're a group of NUMBER,0,0 people in total
+we have a party of NUMBER,0,0 in total
+we're booking a table for NUMBER,0,0 in total
+it's a party of NUMBER,0,0 folks
+we'll be NUMBER,0,0 total for dinner
+there's gonna be NUMBER,0,0 of us for dinner
+we got NUMBER,0,0 total coming to eat
+we'll need a table for NUMBER,0,0 folks
+we have a group of NUMBER,0,0 folks in total
+we got a reservation for NUMBER,0,0 in total
+we need a reservation for NUMBER,0,0 people in total
+we have a party of NUMBER,0,0 total
+there are NUMBER,0,0 in our group coming to eat
+we need a table for NUMBER,0,0 total in our group
+we have a group of NUMBER,0,0 total coming to eat
+we're a party of NUMBER,0,0 total in our group
+we're gonna be NUMBER,0,0 total in our group
+we got NUMBER,0,0 folks in total
+we have NUMBER,0,0 people coming to eat
+we'll be a party of NUMBER,0,0 total in our group
+we have NUMBER,0,0 total in our party
+we need a reservation for NUMBER,0,0 total in our group
+there's NUMBER,0,0 of us total in our party
+we'll be NUMBER,0,0 total in our party
+we got NUMBER,0,0 people total coming to eat
+we need a table for NUMBER,0,0 people total
+we have a group of NUMBER,0,0 total in our party
+we're a group of NUMBER,0,0 folks total in our group
+we're booking a table for NUMBER,0,0 total in our group
+we have NUMBER,0,0 total in our group coming to eat
+we'll need a table for NUMBER,0,0 people total
+we got NUMBER,0,0 folks total in our group
+we have a reservation for NUMBER,0,0 people total
+there's NUMBER,0,0 of us total in our group
+we're a party of NUMBER,0,0 people total in our group
+we have a group of NUMBER,0,0 people total coming to eat
+we need a reservation for NUMBER,0,0 total in our party
+we have NUMBER,0,0 total in our group to eat
+we'll be a party of NUMBER,0,0 people total in our group
+we have a party of NUMBER,0,0 people total
+we're booking for NUMBER,0,0 people in total
+we're coming with NUMBER,0,0 total to eat
+we got NUMBER,0,0 total in our party
+we're gonna be NUMBER,0,0 total for dinner
+we need seating for NUMBER,0,0 people total in our group
+we have a group of NUMBER,0,0 total in our party
+we need a table for NUMBER,0,0 total in our party
+there's NUMBER,0,0 in our group total coming to eat
+we need a reservation for NUMBER,0,0 total for dinner
+we have a group of NUMBER,0,0 people total
+we're a group of NUMBER,0,0 folks total
+we have a reservation for NUMBER,0,0 people total in our group
+we got NUMBER,0,0 total in our group to eat
+we need a reservation for NUMBER,0,0 people total in our group
+we're booking a table for NUMBER,0,0 people in total
+we're coming with NUMBER,0,0 total for dinner
+we have a group of NUMBER,0,0 people total for dinner
+we got NUMBER,0,0 total in our group coming to eat
+we're a party of NUMBER,0,0 people total
+we're gonna be NUMBER,0,0 folks total in our group
+we need a table for NUMBER,0,0 total for dinner
+we have a reservation for NUMBER,0,0 people total for dinner
+we have NUMBER,0,0 people in our group coming to eat
+we're booking for NUMBER,0,0 total in our party
+we're coming with NUMBER,0,0 people in total to eat
+we got NUMBER,0,0 total in our group for dinner
+we're gonna be NUMBER,0,0 folks total
+we need seating for NUMBER,0,0 people total for dinner
+we have a group of NUMBER,0,0 total in our group coming to eat
+we need a table for NUMBER,0,0 people total in our group
+there's NUMBER,0,0 in our group total to eat
+we need a reservation for NUMBER,0,0 total in our group to eat
+we have a group of NUMBER,0,0 people total for dinner
+we're a group of NUMBER,0,0 folks total in our party
+we have a reservation for NUMBER,0,0 total for dinner
+we have NUMBER,0,0 total in our group coming for dinner
+we'll be a party of NUMBER,0,0 total in our group to eat
+we have a party of NUMBER,0,0 total for dinner
+we're booking for NUMBER,0,0 total to eat
+we're coming with NUMBER,0,0 total in our group to eat
+we got NUMBER,0,0 total in our group to eat
+we're gonna be NUMBER,0,0 folks total in our group for dinner
+we need seating for NUMBER,0,0 people total for dinner in our group
+we have a group of NUMBER,0,0 total in our group for dinner
+we need a table for NUMBER,0,0 total in our group to eat
+there's NUMBER,0,0 in our group total for dinner
+we need a reservation for NUMBER,0,0 total in our group for dinner
+we have a group of NUMBER,0,0 people total for dinner in our group
+we're a group of NUMBER,0,0 folks total for dinner
+we have a reservation for NUMBER,0,0 total for dinner in our group
+we have NUMBER,0,0 people in our group coming for dinner
+we're booking for NUMBER,0,0 total in our group for dinner
+we're coming with NUMBER,0,0 people in total for dinner
+we got NUMBER,0,0 total in our group for dinner
+we're gonna be NUMBER,0,0 folks total in our group for dinner
+we need seating for NUMBER,0,0 people total for dinner in our group
+we have a group of NUMBER,0,0 total in our group for dinner to eat
+we need a table for NUMBER,0,0 total for dinner in our group
+there's NUMBER,0,0 in our group total for dinner coming to eat
+we need a reservation for NUMBER,0,0 total in our group for dinner to eat
+we have a group of NUMBER,0,0 people total for dinner to eat
+we're a group of NUMBER,0,0 folks total for dinner to eat
+we have a reservation for NUMBER,0,0 total for dinner in our group to eat
+we have NUMBER,0,0 people in our group coming for dinner to eat
+we're booking for NUMBER,0,0 total in our group for dinner to eat
+we're coming with NUMBER,0,0 people in total for dinner to eat
+we got NUMBER,0,0 total in our group for dinner to eat
+we're gonna be NUMBER,0,0 folks total in our group for dinner to eat
+we need seating for NUMBER,0,0 people total for dinner in our group to eat
+we have a group of NUMBER,0,0 total in our group for dinner to eat
+we need a table for NUMBER,0,0 total for dinner in our group to eat
+there's NUMBER,0,0 in our group total for dinner coming to eat
+we're bringing NUMBER,0,0 people
+count us for NUMBER,0,0
+it's NUMBER,0,0 of us total
+we have NUMBER,0,0 in our group
+reserve for NUMBER,0,0 please
+we need a table for NUMBER,0,0
+there's NUMBER,0,0 coming to dinner
+we got a reservation for NUMBER,0,0
+we'll be NUMBER,0,0 people total
+it's just NUMBER,0,0 people
+we'll have NUMBER,0,0 at our table
+there are NUMBER,0,0 of us
+we need a spot for NUMBER,0,0
+we're NUMBER,0,0 in total
+we need a reservation for NUMBER,0,0
+there's gonna be NUMBER,0,0 of us
+book a table for NUMBER,0,0
+it's gonna be NUMBER,0,0 people
+we got NUMBER,0,0 total coming
+we have NUMBER,0,0 people joining
+we'll be NUMBER,0,0 folks
+we need a reservation for NUMBER,0,0 people
+there are NUMBER,0,0 in our party
+we need seating for NUMBER,0,0
+we'll be NUMBER,0,0 total
+it's NUMBER,0,0 of us
+we have NUMBER,0,0 joining us
+we are NUMBER,0,0 total
+we're booking for NUMBER,0,0
+we need a table for NUMBER,0,0 folks
+we're a group of NUMBER,0,0 people
+we got NUMBER,0,0 in our party
+we'll be NUMBER,0,0 for dinner
+there's NUMBER,0,0 of us for dinner
+we'll need a table for NUMBER,0,0
+we're coming with NUMBER,0,0 total
+we have NUMBER,0,0 people coming
+we're gonna be NUMBER,0,0 people
+we need seating for NUMBER,0,0 folks
+there's NUMBER,0,0 people in our group
+we're NUMBER,0,0 total
+we got a party of NUMBER,0,0
+it's just NUMBER,0,0 of us coming
+we're booking for NUMBER,0,0 total
+we need a reservation for NUMBER,0,0 total
+we got NUMBER,0,0 folks coming
+it's gonna be NUMBER,0,0 of us total
+we have a group of NUMBER,0,0
+we're a party of NUMBER,0,0 total
+we'll need a reservation for NUMBER,0,0
+we have a party of NUMBER,0,0
+we got a reservation for NUMBER,0,0 people
+there's NUMBER,0,0 of us coming
+we need a table for NUMBER,0,0 total
+we're a group of NUMBER,0,0 folks
+we're booking a table for NUMBER,0,0
+it's gonna be NUMBER,0,0 folks total
+we need seating for NUMBER,0,0 people
+we got NUMBER,0,0 total in our group
+we're a party of NUMBER,0,0 people
+we'll have NUMBER,0,0 in total
+we have a reservation for NUMBER,0,0
+we're a group of NUMBER,0,0 total
+we'll be a group of NUMBER,0,0
+it's a group of NUMBER,0,0
+we're coming with NUMBER,0,0 people
+we got a group of NUMBER,0,0
+it's gonna be NUMBER,0,0 people total
+we need a reservation for NUMBER,0,0 folks
+we have a group of NUMBER,0,0 total
+we're a party of NUMBER,0,0 folks total
+we're booking a table for NUMBER,0,0 total
+we'll be NUMBER,0,0 people total
+we got NUMBER,0,0 people coming
+we're gonna be NUMBER,0,0 total
+we need seating for NUMBER,0,0 total
+it's NUMBER,0,0 of us total
+we have NUMBER,0,0 in our group
+we're a group of NUMBER,0,0 total
+we need a reservation for NUMBER,0,0 people total
+we have a party of NUMBER,0,0 people
+we need a table for NUMBER,0,0 people total
+we have NUMBER,0,0 total in our group
+we need a reservation for NUMBER,0,0 total for dinner
+we'll be a group of NUMBER,0,0 people total
+we have NUMBER,0,0 folks coming
+we'll be NUMBER,0,0 in our group
+we got a group of NUMBER,0,0 people
+it's gonna be NUMBER,0,0 folks total
+we need a table for NUMBER,0,0 total for dinner
+we're a group of NUMBER,0,0 folks total
+we have a reservation for NUMBER,0,0 people total
+we have NUMBER,0,0 people in total
+we got a booking for NUMBER,0,0
+it's a party of NUMBER,0,0 people
+we'll be NUMBER,0,0 folks total
+we got NUMBER,0,0 total in our party
+we have a group of NUMBER,0,0 people in total
+we're a group of NUMBER,0,0 total
+we need a reservation for NUMBER,0,0 people total for dinner
+we have a reservation for NUMBER,0,0 people total in our group
+we have a party of NUMBER,0,0 total
+we got a reservation for NUMBER,0,0 folks total
+we need a table for NUMBER,0,0 people total for dinner
+we're a group of NUMBER,0,0 folks total
+we're booking a table for NUMBER,0,0 people
+we have NUMBER,0,0 people total coming
+we're gonna be NUMBER,0,0 people total for dinner
+we need seating for NUMBER,0,0 people total for dinner
+we have a group of NUMBER,0,0 total in our party
+we're a group of NUMBER,0,0 folks total in our group
+we're booking a table for NUMBER,0,0 total in our group
+we have NUMBER,0,0 total in our group coming to eat
+we'll be a party of NUMBER,0,0 people total
+we have NUMBER,0,0 total in our party
+we need a reservation for NUMBER,0,0 total in our group
+there's NUMBER,0,0 of us total in our party
+we'll be NUMBER,0,0 total in our party
+we got NUMBER,0,0 people total coming to eat
+we need a table for NUMBER,0,0 people total
+we have a group of NUMBER,0,0 total in our party
+we're a group of NUMBER,0,0 folks total in our group
+we're booking a table for NUMBER,0,0 total in our group
+we have NUMBER,0,0 total in our group coming to eat
+we'll need a table for NUMBER,0,0 people total
+we got NUMBER,0,0 folks total in our group
+we have a reservation for NUMBER,0,0 people total
+there's NUMBER,0,0 of us total in our group
+we're a party of NUMBER,0,0 people total in our group
+we have a group of NUMBER,0,0 people total coming to eat
+we need a reservation for NUMBER,0,0 total in our party
+we have NUMBER,0,0 total in our group to eat
+we'll be a party of NUMBER,0,0 people total in our group to eat
+we have a party of NUMBER,0,0 people total for dinner
+we're booking for NUMBER,0,0 people in total
+we're coming with NUMBER,0,0 total to eat
+we got NUMBER,0,0 total in our party for dinner
+we're gonna be NUMBER,0,0 total for dinner to eat
+we need seating for NUMBER,0,0 people total in our group to eat
+we have a group of NUMBER,0,0 total in our party for dinner
+we need a table for NUMBER,0,0 total in our party to eat
+there's NUMBER,0,0 in our group total for dinner coming to eat
+we need a reservation for NUMBER,0,0 total in our group for dinner to eat
+we have a group of NUMBER,0,0 people total for dinner to eat
+we're a group of NUMBER,0,0 folks total for dinner to eat
+we have a reservation for NUMBER,0,0 total for dinner in our group to eat
+we have NUMBER,0,0 people in our group coming for dinner to eat
+we're booking for NUMBER,0,0 total in our group for dinner to eat
+we're coming with NUMBER,0,0 people in total for dinner to eat
+we got NUMBER,0,0 total in our group for dinner to eat
+we're gonna be NUMBER,0,0 folks total in our group for dinner to eat
+we need seating for NUMBER,0,0 people total for dinner in our group to eat
+we have a group of NUMBER,0,0 total in our group for dinner to eat
+we need a table for NUMBER,0,0 total for dinner in our group to eat
+there's NUMBER,0,0 in our group total for dinner coming to eat
+DATE,0,0 please
+how about DATE,0,0
+how about DATE,0,0 please
+can you try DATE,0,0
+can you try DATE,0,0 please
+lets do DATE,0,0
+lets do DATE,0,0 please
+can you do DATE,0,0
+can you do DATE,0,0 please
+do DATE,0,0
+do DATE,0,0 please
+it will be DATE,0,0
+it will be DATE,0,0 please
+try DATE,0,0
+try DATE,0,0 please
+can we do DATE,0,0
+can we do DATE,0,0 please
+we will do DATE,0,0
+we will do DATE,0,0 please
+make it for DATE,0,0
+make it for DATE,0,0 please
+make it DATE,0,0
+make it DATE,0,0 please
+i need a table for DATE,0,0
+can i get a reservation for DATE,0,0
+lets book it for DATE,0,0
+how about DATE,0,0
+DATE,0,0 works for me
+can we do DATE,0,0
+id like to book for DATE,0,0
+lets do DATE,0,0
+i need a spot on DATE,0,0
+DATE,0,0 please
+make it for DATE,0,0
+can i have a reservation on DATE,0,0
+i want to reserve a table for DATE,0,0
+put me down for DATE,0,0
+ill take DATE,0,0
+im thinking DATE,0,0
+can you do DATE,0,0
+hows DATE,0,0 looking
+can you fit me in on DATE,0,0
+what about DATE,0,0
+i want to book for DATE,0,0
+DATE,0,0 is good
+how does DATE,0,0 sound
+lets set it up for DATE,0,0
+DATE,0,0 works
+can you pencil me in for DATE,0,0
+id like to reserve for DATE,0,0
+i need a booking on DATE,0,0
+DATE,0,0 please and thanks
+schedule me for DATE,0,0
+can you get me a reservation for DATE,0,0
+i need a table on DATE,0,0
+DATE,0,0 is perfect
+DATE,0,0 would be great
+lets go with DATE,0,0
+i prefer DATE,0,0
+is DATE,0,0 available
+can i book for DATE,0,0
+id like a reservation for DATE,0,0
+ill take a table on DATE,0,0
+put me down on DATE,0,0
+id like to come on DATE,0,0
+how about a table for DATE,0,0
+can we book for DATE,0,0
+id prefer DATE,0,0
+lets set the reservation for DATE,0,0
+how about DATE,0,0 for a table
+what do you have for DATE,0,0
+how does DATE,0,0 look
+is DATE,0,0 open
+can you book me for DATE,0,0
+i want to make a reservation for DATE,0,0
+lets do a reservation for DATE,0,0
+is DATE,0,0 free
+DATE,0,0 sounds good
+can you reserve a table for DATE,0,0
+book a table for me on DATE,0,0
+ill need a table for DATE,0,0
+please book me a table for DATE,0,0
+set me up for DATE,0,0
+hows DATE,0,0 for a reservation
+can we do a reservation on DATE,0,0
+i want a reservation on DATE,0,0
+how about making it DATE,0,0
+DATE,0,0 works for a table
+what about a reservation for DATE,0,0
+can i get a booking for DATE,0,0
+DATE,0,0 would be nice
+can you book a spot for DATE,0,0
+i need to book for DATE,0,0
+can i have a table for DATE,0,0
+lets go with a reservation for DATE,0,0
+book it for DATE,0,0
+how does a reservation on DATE,0,0 sound
+can i get a spot on DATE,0,0
+DATE,0,0 please book it
+DATE,0,0 sounds perfect
+can you reserve on DATE,0,0
+id like to come in on DATE,0,0
+please book for DATE,0,0
+i need a spot for DATE,0,0
+what about DATE,0,0 for a booking
+is there a table for DATE,0,0
+can you book a table on DATE,0,0
+i want to reserve on DATE,0,0
+how about DATE,0,0 for a reservation
+can you schedule me for DATE,0,0
+lets set the DATE,0,0 for DATE,0,0
+can i get a table on DATE,0,0
+i need a booking for DATE,0,0
+id like a table on DATE,0,0
+DATE,0,0 would be perfect
+id like to book a table for DATE,0,0
+please reserve for DATE,0,0
+how about booking for DATE,0,0
+book a spot for me on DATE,0,0
+i want to book a table for DATE,0,0
+can i reserve a table on DATE,0,0
+id like to make a reservation for DATE,0,0
+lets go for DATE,0,0
+please schedule me for DATE,0,0
+how about a booking on DATE,0,0
+book me for DATE,0,0
+is there availability on DATE,0,0
+can you book me a table on DATE,0,0
+id prefer a reservation on DATE,0,0
+i want to reserve a spot for DATE,0,0
+lets do the reservation for DATE,0,0
+please put me down for DATE,0,0
+can we schedule for DATE,0,0
+id like a spot on DATE,0,0
+how about a reservation for DATE,0,0
+DATE,0,0 would be great for me
+can we reserve a table for DATE,0,0
+lets set a reservation for DATE,0,0
+can i book a table on DATE,0,0
+i need a spot on DATE,0,0
+book a table for DATE,0,0
+is DATE,0,0 good for a table
+what about reserving for DATE,0,0
+i want a table on DATE,0,0
+lets schedule for DATE,0,0
+how about a table for DATE,0,0
+reserve a table for me on DATE,0,0
+can we book a table for DATE,0,0
+id like to reserve on DATE,0,0
+lets make it DATE,0,0
+how does booking for DATE,0,0 sound
+please reserve a table for DATE,0,0
+DATE,0,0 is perfect for me
+i want to come on DATE,0,0
+please book a table for DATE,0,0
+how about we go for DATE,0,0
+book a spot for DATE,0,0
+lets book the reservation for DATE,0,0
+can we do DATE,0,0 for a table
+id like to schedule for DATE,0,0
+how about making a reservation for DATE,0,0
+lets set the table for DATE,0,0
+is there a booking available on DATE,0,0
+i want to schedule for DATE,0,0
+can you book a reservation for DATE,0,0
+lets set the reservation on DATE,0,0
+id like to book on DATE,0,0
+please book the table for DATE,0,0
+can you reserve for DATE,0,0
+id like a booking on DATE,0,0
+lets do a table for DATE,0,0
+i want to book on DATE,0,0
+can we reserve on DATE,0,0
+id like a table for DATE,0,0
+can we book a spot for DATE,0,0
+im thinking of coming on DATE,0,0
+DATE,0,0 sounds great
+lets reserve for DATE,0,0
+book me in for DATE,0,0
+how about reserving a spot for DATE,0,0
+id love to come on DATE,0,0
+can you get me a table on DATE,0,0
+id prefer a spot on DATE,0,0
+is DATE,0,0 open for reservations
+put me down on the list for DATE,0,0
+i want to dine on DATE,0,0
+DATE,0,0 works fine
+DATE,0,0 it is
+i need a reservation on DATE,0,0
+what about DATE,0,0 for dining
+can i dine on DATE,0,0
+lets set it for DATE,0,0
+book me a spot on DATE,0,0
+id like a table reserved for DATE,0,0
+can i book for DATE,0,0 please
+DATE,0,0 would be awesome
+lets make the reservation for DATE,0,0
+is DATE,0,0 available for booking
+can i schedule a table for DATE,0,0
+id like to come over on DATE,0,0
+reserve me a spot for DATE,0,0
+can you book the reservation for DATE,0,0
+lets go with DATE,0,0 for dinner
+i want to come in on DATE,0,0
+what about a reservation for DATE,0,0
+id like a spot reserved for DATE,0,0
+how about DATE,0,0 for a dinner
+can you fit me in on DATE,0,0 please
+id love a table on DATE,0,0
+lets do a booking for DATE,0,0
+i want a reservation for DATE,0,0
+DATE,0,0 sounds perfect
+is DATE,0,0 good for a table
+can we make it DATE,0,0
+id like to dine on DATE,0,0
+DATE,0,0 is fine with me
+lets reserve a spot for DATE,0,0
+how about DATE,0,0 for a booking
+please put me down for DATE,0,0
+book me a table for DATE,0,0
+i want to reserve for DATE,0,0
+can i have a spot for DATE,0,0
+lets go ahead with DATE,0,0
+id like to come by on DATE,0,0
+DATE,0,0 sounds good to me
+can you book a table for DATE,0,0 please
+id prefer DATE,0,0 for dining
+what about a spot on DATE,0,0
+i want to book a table on DATE,0,0
+lets set up the reservation for DATE,0,0
+is there an opening on DATE,0,0
+can we do DATE,0,0 for dining
+id like to dine on DATE,0,0
+can you schedule me for DATE,0,0
+DATE,0,0 would be wonderful
+lets do the reservation on DATE,0,0
+how about booking a spot for DATE,0,0
+i want to come over on DATE,0,0
+put me down for DATE,0,0 please
+can i get a reservation on DATE,0,0
+lets book it for DATE,0,0
+id like to schedule for DATE,0,0
+can you fit me in on DATE,0,0
+DATE,0,0 works for me
+book a table for DATE,0,0 please
+how about DATE,0,0 for a spot
+lets make it DATE,0,0
+can we do a table on DATE,0,0
+id like a reservation on DATE,0,0
+can i get a table reserved for DATE,0,0
+i want to book on DATE,0,0
+what about dining on DATE,0,0
+DATE,0,0 is perfect for me
+lets go with DATE,0,0 for a table
+can we set the reservation for DATE,0,0
+id like to reserve a table on DATE,0,0
+how about a spot on DATE,0,0
+can you book me a table on DATE,0,0
+i want to reserve on DATE,0,0
+lets book the spot for DATE,0,0
+put me down for dining on DATE,0,0
+can we do the reservation for DATE,0,0
+id like to dine on DATE,0,0
+what about a table for DATE,0,0
+is there availability on DATE,0,0
+book me a spot for DATE,0,0
+i need a table for DATE,0,0
+lets set the reservation on DATE,0,0
+can we make a booking for DATE,0,0
+id like to come in on DATE,0,0
+how about DATE,0,0 for a reservation
+DATE,0,0 sounds wonderful
+can you fit me in for DATE,0,0
+lets make the booking for DATE,0,0
+i want a table on DATE,0,0
+what about DATE,0,0 for dinner
+can i book a spot on DATE,0,0
+lets reserve the table for DATE,0,0
+id like to book the table for DATE,0,0
+can we schedule the reservation for DATE,0,0
+DATE,0,0 works perfectly
+is DATE,0,0 available for dining
+book a spot on DATE,0,0 please
+can you book the table for DATE,0,0
+lets set it for DATE,0,0 please
+id like a reservation for DATE,0,0
+how about booking for DATE,0,0
+i need a reservation for DATE,0,0
+can i book a table on DATE,0,0 please
+what about DATE,0,0 for a reservation
+lets make it for DATE,0,0
+is DATE,0,0 open for a table
+can you reserve a table on DATE,0,0
+id like to reserve for DATE,0,0
+book me a reservation for DATE,0,0
+i want to dine on DATE,0,0
+lets go with booking for DATE,0,0
+DATE,0,0 would be fine
+can we reserve a spot for DATE,0,0
+id prefer DATE,0,0 for dinner
+what about a booking on DATE,0,0
+can you fit me in on DATE,0,0 please
+id like to schedule a table for DATE,0,0
+lets make a reservation for DATE,0,0
+is DATE,0,0 available for a spot
+can i have a table on DATE,0,0
+book me a table on DATE,0,0
+i want to come on DATE,0,0
+lets set the booking for DATE,0,0
+DATE,0,0 sounds good
+can you schedule a reservation for DATE,0,0
+id like a spot for DATE,0,0
+how about dining on DATE,0,0
+lets do DATE,0,0 for a table
+is there a reservation available on DATE,0,0
+can you reserve for DATE,0,0 please
+id like to book for DATE,0,0
+book a reservation for DATE,0,0
+i want a spot on DATE,0,0
+lets set it up for DATE,0,0
+can we do a reservation for DATE,0,0
+DATE,0,0 works well for me
+is DATE,0,0 good for a reservation
+NAME,0,0 please
+my name is NAME,0,0
+my name is NAME,0,0 please
+put it under NAME,0,0
+put it under NAME,0,0 please
+for NAME,0,0
+for NAME,0,0 please
+under NAME,0,0
+under NAME,0,0 please
+put it for NAME,0,0
+put it for NAME,0,0 please
+it will be for NAME,0,0
+it will be for NAME,0,0 please
+do it for NAME,0,0
+do it for NAME,0,0 please
+lets do NAME,0,0
+lets do NAME,0,0 please
+how about NAME,0,0
+how about NAME,0,0 please
+make it for NAME,0,0
+make it for NAME,0,0 please
+make it NAME,0,0
+make it NAME,0,0 please
+sure it's NAME,0,0
+yeah it's NAME,0,0
+it's NAME,0,0
+the name is NAME,0,0
+we have it under NAME,0,0
+our name is NAME,0,0
+you can find it under NAME,0,0
+i'm NAME,0,0
+please check under NAME,0,0
+look for NAME,0,0
+i believe it's under NAME,0,0
+you'll see it under NAME,0,0
+it's NAME,0,0 for tonight
+you'll find it under NAME,0,0
+look up NAME,0,0
+should be NAME,0,0
+find it under NAME,0,0
+i think it's under NAME,0,0
+try NAME,0,0
+check for NAME,0,0
+check the NAME,0,0
+we're under NAME,0,0
+i believe it's NAME,0,0
+please find it under NAME,0,0
+should be under NAME,0,0
+it might be under NAME,0,0
+try looking for NAME,0,0
+i made it under NAME,0,0
+it's NAME,0,0 i believe
+you should have it under NAME,0,0
+it's under the NAME,0,0
+you should find NAME,0,0
+the name should be NAME,0,0
+try finding NAME,0,0
+you'll see it listed under NAME,0,0
+try the NAME,0,0
+the name to look for is NAME,0,0
+name should be NAME,0,0
+look under NAME,0,0
+i think it's listed under NAME,0,0
+we're listed under NAME,0,0
+it should be under NAME,0,0
+try my NAME,0,0
+please check the NAME,0,0
+check for the NAME,0,0
+try checking for NAME,0,0
+please check for NAME,0,0
+please look up NAME,0,0
+look up the NAME,0,0
+look for the NAME,0,0
+please look for the NAME,0,0
+check for my NAME,0,0
+it's listed under NAME,0,0
+it's under NAME,0,0 for dinner
+we're listed under the NAME,0,0
+you should find it listed as NAME,0,0
+look up my NAME,0,0
+find the NAME,0,0
+check under NAME,0,0
+you'll find it listed as NAME,0,0
+its listed under the NAME,0,0
+it is made under NAME,0,0
+should be under the name of NAME,0,0
+find it under the NAME,0,0
+check the NAME,0,0 NAME,0,0
+it's under the NAME,0,0 NAME,0,0
+try the NAME,0,0 NAME,0,0
+try my NAME,0,0 NAME,0,0
+please check the NAME,0,0 NAME,0,0
+check for the NAME,0,0 NAME,0,0
+look up the NAME,0,0 NAME,0,0
+look for the NAME,0,0 NAME,0,0
+please look for the NAME,0,0 NAME,0,0
+check for my NAME,0,0 NAME,0,0
+we're listed under the NAME,0,0 NAME,0,0
+look up my NAME,0,0 NAME,0,0
+find the NAME,0,0 NAME,0,0
+its listed under the NAME,0,0 NAME,0,0
+find it under the NAME,0,0 NAME,0,0

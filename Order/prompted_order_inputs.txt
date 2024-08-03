@@ -1,0 +1,119 @@
+NUMBER,0,1 ITEM,0,0 with extra ADDON,0,2
+can i get an ITEM,0,0 with ADDON,0,1 and no ADDON,1,1
+a SIZE,0,1 ITEM,0,0 please
+lemme add ITEM,0,0 with some ADDON,0,1 on it
+another ITEM,0,0 with NUMBER,0,1 ADDON,0,2
+just a SIZE,0,1 DRINK,0,0 thanks
+how about a DRINK,0,0 with DRINK_ADDON,0,1
+give me an ITEM,0,0 no ADDON,1,1
+could you add a SIZE,0,2 DRINK,0,0
+lemme get a NUMBER,0,2 ITEM,0,0 with ADDON,0,1
+a SIZE,0,1 DRINK,0,0 no DRINK_ADDON,1,1
+how bout an ITEM,0,0 and hold the ADDON,1,1
+a SIZE,0,2 DRINK,0,0 please
+make that NUMBER,0,1 ITEM,0,0 with ADDON,0,2
+can i have a DRINK,0,0 with extra DRINK_ADDON,0,1
+no ADDON,1,2 on my ITEM,0,0
+gimme a SIZE,0,1 ITEM,0,0 with ADDON,0,2
+a NUMBER,0,2 ITEM,0,0 but without ADDON,1,2
+a SIZE,0,1 DRINK,0,0 and DRINK_ADDON,0,2
+another ITEM,0,0 with some ADDON,0,1
+lemme get a SIZE,0,2 ITEM,0,0
+how about a NUMBER,0,2 ITEM,0,0 with ADDON,0,1
+just a SIZE,0,1 DRINK,0,0 no DRINK_ADDON,1,1
+i want an ITEM,0,0 with no ADDON,1,1
+a SIZE,0,2 DRINK,0,0 thanks
+make that NUMBER,0,2 ITEM,0,0 with ADDON,0,1
+a DRINK,0,0 with DRINK_ADDON,0,1
+no ADDON,1,2 on my ITEM,0,0 please
+give me a SIZE,0,1 ITEM,0,0
+lemme get a NUMBER,0,2 ITEM,0,0 without ADDON,1,2
+a SIZE,0,1 DRINK,0,0 with DRINK_ADDON,0,2
+another ITEM,0,0 with ADDON,0,1
+could i get a SIZE,0,2 ITEM,0,0
+how bout a NUMBER,0,2 ITEM,0,0 with ADDON,0,1
+just a SIZE,0,1 DRINK,0,0 no DRINK_ADDON,1,1 please
+i want an ITEM,0,0 with extra ADDON,0,1
+a SIZE,0,2 DRINK,0,0 and DRINK_ADDON,0,1
+make that NUMBER,0,2 ITEM,0,0 with ADDON,0,1
+a DRINK,0,0 no DRINK_ADDON,1,1
+no ADDON,1,2 on my ITEM,0,0 please
+gimme a SIZE,0,1 ITEM,0,0 with ADDON,0,2
+lemme get a NUMBER,0,2 ITEM,0,0
+a SIZE,0,1 DRINK,0,0 with DRINK_ADDON,0,2
+another ITEM,0,0 with ADDON,0,1
+could i get a SIZE,0,2 ITEM,0,0
+how about a NUMBER,0,2 ITEM,0,0 with ADDON,0,1
+just a SIZE,0,1 DRINK,0,0 no DRINK_ADDON,1,1
+i want an ITEM,0,0 with extra ADDON,0,1
+a SIZE,0,2 DRINK,0,0 thanks
+make that NUMBER,0,2 ITEM,0,0 with ADDON,0,1
+a DRINK,0,0 with DRINK_ADDON,0,1
+no ADDON,1,2 on my ITEM,0,0
+gimme a SIZE,0,1 ITEM,0,0
+lemme get a NUMBER,0,2 ITEM,0,0 without ADDON,1,2
+a SIZE,0,1 DRINK,0,0 with DRINK_ADDON,0,2
+another ITEM,0,0 with ADDON,0,1
+could i get a SIZE,0,2 ITEM,0,0
+how bout a NUMBER,0,2 ITEM,0,0 with ADDON,0,1
+just a SIZE,0,1 DRINK,0,0 no DRINK_ADDON,1,1 please
+i want an ITEM,0,0 with extra ADDON,0,1
+a SIZE,0,2 DRINK,0,0 and DRINK_ADDON,0,1
+make that NUMBER,0,2 ITEM,0,0 with ADDON,0,1
+a DRINK,0,0 no DRINK_ADDON,1,1
+no ADDON,1,2 on my ITEM,0,0 please
+gimme a SIZE,0,1 ITEM,0,0 with ADDON,0,2
+lemme get a NUMBER,0,2 ITEM,0,0
+a SIZE,0,1 DRINK,0,0 with DRINK_ADDON,0,2
+another ITEM,0,0 with ADDON,0,1
+could i get a SIZE,0,2 ITEM,0,0
+how about a NUMBER,0,2 ITEM,0,0 with ADDON,0,1
+just a SIZE,0,1 DRINK,0,0 no DRINK_ADDON,1,1
+i want an ITEM,0,0 with extra ADDON,0,1
+a SIZE,0,2 DRINK,0,0 thanks
+make that NUMBER,0,2 ITEM,0,0 with ADDON,0,1
+a DRINK,0,0 with DRINK_ADDON,0,1
+no ADDON,1,2 on my ITEM,0,0
+gimme a SIZE,0,1 ITEM,0,0
+lemme get a NUMBER,0,2 ITEM,0,0 without ADDON,1,2
+a SIZE,0,1 DRINK,0,0 with DRINK_ADDON,0,2
+another ITEM,0,0 with ADDON,0,1
+could i get a SIZE,0,2 ITEM,0,0
+how bout a NUMBER,0,2 ITEM,0,0 with ADDON,0,1
+just a SIZE,0,1 DRINK,0,0 no DRINK_ADDON,1,1 please
+i want an ITEM,0,0 with extra ADDON,0,1
+a SIZE,0,2 DRINK,0,0 and DRINK_ADDON,0,1
+make that NUMBER,0,2 ITEM,0,0 with ADDON,0,1
+a DRINK,0,0 no DRINK_ADDON,1,1
+no ADDON,1,2 on my ITEM,0,0 please
+gimme a SIZE,0,1 ITEM,0,0 with ADDON,0,2
+lemme get a NUMBER,0,2 ITEM,0,0
+a SIZE,0,1 DRINK,0,0 with DRINK_ADDON,0,2
+another ITEM,0,0 with ADDON,0,1
+could i get a SIZE,0,2 ITEM,0,0
+how about a NUMBER,0,2 ITEM,0,0 with ADDON,0,1
+just a SIZE,0,1 DRINK,0,0 no DRINK_ADDON,1,1
+i want an ITEM,0,0 with extra ADDON,0,1
+a SIZE,0,2 DRINK,0,0 thanks
+make that NUMBER,0,2 ITEM,0,0 with ADDON,0,1
+a DRINK,0,0 with DRINK_ADDON,0,1
+no ADDON,1,2 on my ITEM,0,0
+gimme a SIZE,0,1 ITEM,0,0
+lemme get a NUMBER,0,2 ITEM,0,0 without ADDON,1,2
+a SIZE,0,1 DRINK,0,0 with DRINK_ADDON,0,2
+another ITEM,0,0 with ADDON,0,1
+could i get a SIZE,0,2 ITEM,0,0
+how bout a NUMBER,0,2 ITEM,0,0 with ADDON,0,1
+just a SIZE,0,1 DRINK,0,0 no DRINK_ADDON,1,1 please
+i want an ITEM,0,0 with extra ADDON,0,1
+a SIZE,0,2 DRINK,0,0 and DRINK_ADDON,0,1
+make that NUMBER,0,2 ITEM,0,0 with ADDON,0,1
+a DRINK,0,0 no DRINK_ADDON,1,1
+no ADDON,1,2 on my ITEM,0,0 please
+gimme a SIZE,0,1 ITEM,0,0 with ADDON,0,2
+lemme get a NUMBER,0,2 ITEM,0,0
+a SIZE,0,1 DRINK,0,0 with DRINK_ADDON,0,2
+another ITEM,0,0 with ADDON,0,1
+could i get a SIZE,0,2 ITEM,0,0
+how about a NUMBER,0,2 ITEM,0,0 with ADDON,0,1
+just a SIZE,0,1 DRINK,0,0 no DRINK_ADDON,1,1
