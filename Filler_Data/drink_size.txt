@@ -1,3 +1,6 @@
+small
+medium
+large
 short
 tall
 grande

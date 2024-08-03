@@ -27,4 +27,14 @@ san pellegrino
 sparkling water
 san pellegrino limonata
 blood orange soda
+lemonade
+strawberry lemonade
+coke
+coca cola
+pepsi
+orange juice
+apple juice
+gatorade
+orange soda
+soda
 water
