@@ -51,7 +51,7 @@ please remove the ITEM,1,0
 i'll just have the ITEM,1,0 with ADDON,0,1 some other time
 not feeling the ITEM,1,0 anymore, please remove it
 no ADDON,0,2 ITEM,1,0 for me
-skip ADDON,0,2 ITEM,1,0 for now, I'm not interested.
+skip ADDON,0,2 ITEM,1,0 for now, i'm not interested.
 cancel the ITEM,1,0 for me, please
 take ITEM,1,0 out of my cart, thanks
 could you scratch off the ADDON,0,2 ITEM,1,0 for me
@@ -77,7 +77,7 @@ can you take ITEM,1,0 off my list
 cancel ADDON,0,2 ITEM,1,0, please, i don't want it anymore.
 could you delete ADDON,0,2 ITEM,1,0
 remove ITEM,1,0 and ADDON,0,1
-cancel ADDON,0,2 ITEM,1,0, thanks, I changed my mind.
+cancel ADDON,0,2 ITEM,1,0, thanks, i changed my mind.
 i changed my mind, can you take out ITEM,1,0
 i think i'll go without the ADDON,0,2 ITEM,1,0
 take ITEM,1,0 out of my cart, please
@@ -93,7 +93,7 @@ can you remove ITEM,1,0 from my cart
 can you delete ADDON,0,1 ITEM,1,0 for me
 please cancel the ADDON,0,2 ITEM,1,0
 please cancel ADDON,0,2 ITEM,1,0
-skip the ADDON,0,2 ITEM,1,0, I'm not interested in it today.
+skip the ADDON,0,2 ITEM,1,0, i'm not interested in it today.
 please remove the ITEM,1,0 and also the ADDON,0,1
 take out the ITEM,1,0 with ADDON,0,1 please
 i changed my mind, no ITEM,1,0 needed
@@ -114,7 +114,7 @@ please cancel ITEM,1,0 and ADDON,0,1 from my cart
 i've changed my mind about the ADDON,0,2 ITEM,1,0, can you take it off
 can you remove ITEM,1,0 with ADDON,0,1 for me
 can you delete ITEM,1,0 from my cart
-remove ITEM,1,0 with ADDON,0,1, please, I don't need them anymore.
+remove ITEM,1,0 with ADDON,0,1, please, i don't need them anymore.
 i think i'll go without the ADDON,0,2 ITEM,1,0, thanks anyway.
 please take ITEM,1,0 out of my cart
 can you cancel the ITEM,1,0 and the ADDON,0,1 for me
@@ -122,9 +122,9 @@ take out ITEM,1,0 for me
 take ITEM,1,0 and ADDON,0,1 off my list
 cancel the ITEM,1,0 from my order
 i don’t want ITEM,1,0 anymore, thanks
-please cancel the ITEM,1,0 and the ADDON,0,1, I won't be needing them.
-remove ITEM,1,0 and the ADDON,0,1 from my order, I don't want them anymore.
-skip ITEM,1,0 and the ADDON,0,1, thanks, I won't be needing them.
+please cancel the ITEM,1,0 and the ADDON,0,1, i won't be needing them.
+remove ITEM,1,0 and the ADDON,0,1 from my order, i don't want them anymore.
+skip ITEM,1,0 and the ADDON,0,1, thanks, i won't be needing them.
 i changed my mind about the ITEM,1,0 and the ADDON,0,1
 please cancel the ITEM,1,0 and the ADDON,0,1
 take the ITEM,1,0 and the ADDON,0,1 off my order, please
@@ -144,7 +144,7 @@ can i cancel the ADDON,0,2 ITEM,1,0
 thinking twice, i don't want the ADDON,0,2 ITEM,1,0
 remove the ADDON,0,2 ITEM,1,0 from my cart
 i'm not interested in ITEM,1,0 anymore, please remove it
-let's pass on the ADDON,0,2 ITEM,1,0, I decided I don't want it today.
+let's pass on the ADDON,0,2 ITEM,1,0, i decided i don't want it today.
 no ITEM,1,0 and ADDON,0,1 needed, please remove them.
 please take out ITEM,1,0 from my order
 i don't think i want the ADDON,0,2 ITEM,1,0 anymore
@@ -168,7 +168,7 @@ actually, i don’t really want the ITEM,1,0
 no ITEM,1,0 and ADDON,0,1 needed, can you take them off my order
 i decided i don’t need the ITEM,1,0 anymore
 on reflection, i'd like to remove the ADDON,0,2 ITEM,1,0
-remove the ITEM,1,0 and also the ADDON,0,1 from my cart, I don't need them.
+remove the ITEM,1,0 and also the ADDON,0,1 from my cart, i don't need them.
 i've decided against the ITEM,1,0 and the ADDON,0,1 too
 i've had second thoughts about the ITEM,1,0 with ADDON,0,1, let's remove it
 let's cancel the ITEM,1,0 with ADDON,0,1 please
@@ -222,7 +222,7 @@ i don't think i want to keep the ADDON,0,2 ITEM,1,0
 can you take the ITEM,1,0 with ADDON,0,1 off my order
 take the ADDON,0,2 ITEM,1,0 out, please
 actually, i changed my mind, no ITEM,1,0
-I want to cancel ITEM,1,0 with ADDON,0,1
+i want to cancel ITEM,1,0 with ADDON,0,1
 can you delete ITEM,1,0 from my list
 can you take out the ADDON,0,2 ITEM,1,0 for me
 i changed my mind, no ITEM,1,0 anymore, please
@@ -232,7 +232,7 @@ can you remove ITEM,1,0 from my list
 i've reconsidered, please cancel the ADDON,0,2 ITEM,1,0
 i don't need the ITEM,1,0 or the ADDON,0,1 anymore
 remove the ITEM,1,0 and also the ADDON,0,1 from my cart
-can you take the ITEM,1,0 with ADDON,0,1 off my order I changed my mind.
+can you take the ITEM,1,0 with ADDON,0,1 off my order i changed my mind.
 could you delete ADDON,0,2 ITEM,1,0 from my cart
 could you take out the ADDON,0,2 ITEM,1,0 from my cart
 can you cancel the ITEM,1,0 and the ADDON,0,1
@@ -242,7 +242,7 @@ i'll skip on the ADDON,0,2 ITEM,1,0 today
 take ITEM,1,0 off my cart, thanks
 please take the ADDON,0,2 ITEM,1,0 off my order
 please remove ITEM,1,0 from my order
-remove ITEM,1,0 and ADDON,0,1, I decided I don't need them.
+remove ITEM,1,0 and ADDON,0,1, i decided i don't need them.
 please take off ITEM,1,0 with ADDON,0,1
 i've decided to skip the ADDON,0,2 ITEM,1,0, please take it out
 i've decided against getting the ADDON,0,2 ITEM,1,0, please cancel it
@@ -255,11 +255,11 @@ could you remove the ADDON,0,2 ITEM,1,0 from my order
 i've changed my mind about the ADDON,0,2 ITEM,1,0, can we delete it
 no need for the ITEM,1,0 with ADDON,0,1 now, can you cancel that
 please cancel the ADDON,0,2 ITEM,1,0 from my order
-take ITEM,1,0 and ADDON,0,1 off my order, I don't need them anymore.
+take ITEM,1,0 and ADDON,0,1 off my order, i don't need them anymore.
 changed my mind on the ADDON,0,2 ITEM,1,0
 let's delete the ADDON,0,2 ITEM,1,0 from my cart
-skip ADDON,0,2 ITEM,1,0 for now, I changed my mind.
-skip ADDON,0,2 ITEM,1,0, I'm not interested today.
+skip ADDON,0,2 ITEM,1,0 for now, i changed my mind.
+skip ADDON,0,2 ITEM,1,0, i'm not interested today.
 i no longer want ITEM,1,0, please remove it
 remove ITEM,1,0 for me, thanks
 i don't need ADDON,0,2 ITEM,1,0, can you remove it from my cart
@@ -270,15 +270,15 @@ remove ITEM,1,0 from my cart, please
 hey, could you remove the ITEM,1,0 for me
 i dont need the ITEM,1,0 with ADDON,0,1 anymore
 actually, i'm good on the ADDON,0,2 ITEM,1,0, maybe another day.
-maybe remove the ITEM,1,0 with ADDON,0,1 from my cart I don't need it anymore.
+maybe remove the ITEM,1,0 with ADDON,0,1 from my cart i don't need it anymore.
 actually, no need for the ADDON,0,2 ITEM,1,0, please cancel it.
-I don't need the ITEM,1,0 or ADDON,0,1 anymore
+i don't need the ITEM,1,0 or ADDON,0,1 anymore
 on second thought, i don't need the ITEM,1,0 with ADDON,0,1 anymore
 please delete the ITEM,1,0 and the ADDON,0,1
 could you take out the ADDON,0,2 ITEM,1,0 for me
 remove ITEM,1,0 from my order, thanks
 could you remove the ITEM,1,0 with ADDON,0,1 from my order
-cancel ADDON,0,2 ITEM,1,0, thanks, I decided I don't want it.
+cancel ADDON,0,2 ITEM,1,0, thanks, i decided i don't want it.
 cancel ITEM,1,0 for me, thanks
 please take ITEM,1,0 out of my list
 i've decided to forego the ADDON,0,2 ITEM,1,0, please take it out
@@ -312,7 +312,7 @@ i've had second thoughts, please remove the ADDON,0,2 ITEM,1,0
 let's take out the ITEM,1,0 along with the ADDON,0,1
 i don't need ITEM,1,0 and ADDON,0,1, can you take them off
 i've had second thoughts about the ADDON,0,2 ITEM,1,0, please take it off
-please remove the ITEM,1,0 and the ADDON,0,1 as well, I won't be needing them.
+please remove the ITEM,1,0 and the ADDON,0,1 as well, i won't be needing them.
 i've had a change of heart about the ADDON,0,2 ITEM,1,0, please remove it
 could you please cancel ITEM,1,0 along with ADDON,0,1
 can you cancel the ADDON,0,2 ITEM,1,0
@@ -322,7 +322,7 @@ can you remove ITEM,1,0 from my list, thanks
 i've reconsidered getting the ADDON,0,2 ITEM,1,0, please remove it
 please cancel ITEM,1,0
 no more ITEM,1,0, can you take it out
-I don't want the ITEM,1,0 anymore with the ADDON,0,1
+i don't want the ITEM,1,0 anymore with the ADDON,0,1
 i don't think the ADDON,0,2 ITEM,1,0 is right for me anymore
 take ADDON,0,2 ITEM,1,0 out
 remove the ITEM,1,0 with the ADDON,0,1 please
@@ -332,13 +332,13 @@ could you take the ADDON,0,2 ITEM,1,0 off my order
 please delete ADDON,0,2 ITEM,1,0 from my list
 take out the ADDON,0,2 ITEM,1,0, please
 on reflection, i'd like to cancel the ADDON,0,2 ITEM,1,0
-take off the ITEM,1,0 and the ADDON,0,1, thanks, I changed my mind.
+take off the ITEM,1,0 and the ADDON,0,1, thanks, i changed my mind.
 remove ITEM,1,0, thanks
-i don't need ITEM,1,0 and ADDON,0,1, can you take them offI'd like to take off the ITEM,1,0 with ADDON,0,1
-I want to remove ITEM,1,0 with ADDON,0,1
+i don't need ITEM,1,0 and ADDON,0,1, can you take them offi'd like to take off the ITEM,1,0 with ADDON,0,1
+i want to remove ITEM,1,0 with ADDON,0,1
 could you cancel ADDON,0,2 ITEM,1,0
 remove ITEM,1,0 with ADDON,0,1 from my order
-I don't need ITEM,1,0 with ADDON,0,1 anymore
+i don't need ITEM,1,0 with ADDON,0,1 anymore
 thinking about it, let's take out the ADDON,0,2 ITEM,1,0
 actually, i don’t need ITEM,1,0 anymore, please take it out
 i’ve decided against ITEM,1,0, please remove it
@@ -349,17 +349,17 @@ take ITEM,1,0 out of my order, please
 could you take out ITEM,1,0 with ADDON,0,1
 i decided i don’t need ITEM,1,0 anymore, please cancel it
 i've reconsidered the ADDON,0,2 ITEM,1,0, let's remove that
-I don't want ITEM,1,0 and ADDON,0,1
+i don't want ITEM,1,0 and ADDON,0,1
 i think i'll forego the ADDON,0,2 ITEM,1,0 now
 please remove the ADDON,0,2 ITEM,1,0 from my cart
 let's skip the ADDON,0,2 ITEM,1,0 this time
-cancel ADDON,0,2 ITEM,1,0, please, I changed my mind.
+cancel ADDON,0,2 ITEM,1,0, please, i changed my mind.
 no need for ITEM,1,0 and ADDON,0,1
 i decided against ITEM,1,0, please delete it
 on second thought, i'll skip the ITEM,1,0 with ADDON,0,1
 i think i'll pass on the ADDON,0,2 ITEM,1,0 this time
 please cancel ITEM,1,0 from my order
-remove ITEM,1,0 with ADDON,0,1, I don't need them anymore.
+remove ITEM,1,0 with ADDON,0,1, i don't need them anymore.
 take ITEM,1,0 off my list, thanks
 i don't need the ITEM,1,0 or the ADDON,0,1
 actually i don’t really want a ITEM,1,0
@@ -370,7 +370,7 @@ thinking twice, i don't need the ADDON,0,2 ITEM,1,0
 could you delete the ADDON,0,2 ITEM,1,0 from my cart
 actually i don’t really want ITEM,1,0
 i'm good without the ADDON,0,2 ITEM,1,0, thanks for your help.
-cancel ADDON,0,2 ITEM,1,0, please, I decided I don't want it.
+cancel ADDON,0,2 ITEM,1,0, please, i decided i don't want it.
 I’ve decided to remove the ITEM,1,0 with ADDON,0,1
 i don't want ITEM,1,0 anymore, can you cancel it
 no ITEM,1,0 and no ADDON,0,1 for me, can you remove them from my order
@@ -386,7 +386,7 @@ i decided i don’t need ITEM,1,0 anymore
 remove ITEM,1,0 with ADDON,0,1, please
 i don't need ITEM,1,0 and ADDON,0,1, can you take them offplease take the ITEM,1,0 and the ADDON,0,1 out
 i think i'll pass on the ADDON,0,2 ITEM,1,0 for now
-I changed my mind about the ITEM,1,0 with ADDON,0,1
+i changed my mind about the ITEM,1,0 with ADDON,0,1
 i'll just have the ITEM,1,0 with ADDON,0,1 some other time, thanks.
 can you remove the ITEM,1,0 with ADDON,0,1
 thinking twice, i don't want to keep the ADDON,0,2 ITEM,1,0
@@ -396,7 +396,7 @@ actually, i want to remove ITEM,1,0 with ADDON,0,1
 i changed my mind about the ITEM,1,0 and ADDON,0,1
 i don’t need ITEM,1,0 anymore, can you cancel it
 on reflection, i won't need the ADDON,0,2 ITEM,1,0 after all
-cancel ADDON,0,2 ITEM,1,0, please, I decided against it.
+cancel ADDON,0,2 ITEM,1,0, please, i decided against it.
 i've decided against the ADDON,0,2 ITEM,1,0, please remove it
 i've reconsidered the ADDON,0,2 ITEM,1,0, let's cancel that
 i've reconsidered, please remove the ADDON,0,2 ITEM,1,0
@@ -409,7 +409,7 @@ i've decided not to keep the ADDON,0,2 ITEM,1,0, please remove it
 don’t need the ITEM,1,0 anymore, thanks
 please cancel the ITEM,1,0
 take ADDON,0,2 ITEM,1,0 off, please
-cancel the ADDON,0,2 ITEM,1,0, I decided against it.
+cancel the ADDON,0,2 ITEM,1,0, i decided against it.
 could you delete ITEM,1,0 with ADDON,0,1
 can you please take out ITEM,1,0 from my order
 can you cancel ITEM,1,0 and the ADDON,0,1 with it
@@ -430,7 +430,7 @@ i've decided against the ADDON,0,2 ITEM,1,0
 no need for the ITEM,1,0 with ADDON,0,1 now
 can you delete ITEM,1,0 from my order
 i no longer want the ITEM,1,0 and the ADDON,0,1
-I don't want the ITEM,1,0 and ADDON,0,1
+i don't want the ITEM,1,0 and ADDON,0,1
 on second thought, i'll pass on the ITEM,1,0
 i'm good without the ADDON,0,2 ITEM,1,0
 can you please cancel ITEM,1,0 with ADDON,0,1
@@ -462,12 +462,12 @@ can you cancel the ADDON,0,2 ITEM,1,0 for me
 actually, let's remove the ADDON,0,2 ITEM,1,0
 i don’t want the ITEM,1,0 anymore
 could you please remove the ITEM,1,0 with ADDON,0,1 from my order
-take ITEM,1,0 and ADDON,0,1 off, I don't need them anymore.
+take ITEM,1,0 and ADDON,0,1 off, i don't need them anymore.
 take out the ITEM,1,0, thanks
 can you take the ADDON,0,2 ITEM,1,0 off
 please delete ADDON,0,2 ITEM,1,0
 can you delete the ITEM,1,0 and the ADDON,0,1 from my cart
-I'd like to cancel the ITEM,1,0 with ADDON,0,1
+i'd like to cancel the ITEM,1,0 with ADDON,0,1
 can you cancel the ITEM,1,0 with the ADDON,0,1
 take out ITEM,1,0 and ADDON,0,1, thanks
 take ITEM,1,0 off my list, please
@@ -480,15 +480,15 @@ i no longer want ITEM,1,0, thanks
 i changed my mind, no ITEM,1,0 for me
 i'll skip ADDON,0,2 ITEM,1,0 today, thanks for understanding.
 on second thought, i won't get the ADDON,0,2 ITEM,1,0
-I want to cancel the ITEM,1,0 and ADDON,0,1
+i want to cancel the ITEM,1,0 and ADDON,0,1
 i decided against ITEM,1,0, please remove it
 i think i'll pass on the ADDON,0,2 ITEM,1,0 for now, not feeling it today.
 i've decided not to get the ITEM,1,0 and the ADDON,0,1
 i don’t need ITEM,1,0 anymore
 i don’t need the ITEM,1,0 anymore, thanks
 remove ADDON,0,1 ITEM,1,0 , please
-take the ITEM,1,0 and the ADDON,0,1 off my order, please, I don't want them anymore.
-remove ITEM,1,0 and ADDON,0,1, I don't want them anymore.
+take the ITEM,1,0 and the ADDON,0,1 off my order, please, i don't want them anymore.
+remove ITEM,1,0 and ADDON,0,1, i don't want them anymore.
 actually, no need for the ADDON,0,2 ITEM,1,0
 delete the ADDON,0,2 ITEM,1,0
 could you take ADDON,0,2 ITEM,1,0 out
