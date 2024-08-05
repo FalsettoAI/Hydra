@@ -1,119 +1,301 @@
-NUMBER,0,1 ITEM,0,0 with extra ADDON,0,2
+NUMBER,0,2 ITEM,0,0s with ADDON,0,2
 can i get an ITEM,0,0 with ADDON,0,1 and no ADDON,1,1
-a SIZE,0,1 ITEM,0,0 please
+a SIZE,0,2 ITEM,0,0 please
 lemme add ITEM,0,0 with some ADDON,0,1 on it
-another ITEM,0,0 with NUMBER,0,1 ADDON,0,2
-just a SIZE,0,1 DRINK,0,0 thanks
-how about a DRINK,0,0 with DRINK_ADDON,0,1
+another ITEM,0,0 with NUMBER,0,3 ADDON,0,1s
+just a SIZE,0,2 DRINK,0,0 thanks
+how about a DRINK,0,0 with D_ADD,0,1
 give me an ITEM,0,0 no ADDON,1,1
 could you add a SIZE,0,2 DRINK,0,0
-lemme get a NUMBER,0,2 ITEM,0,0 with ADDON,0,1
-a SIZE,0,1 DRINK,0,0 no DRINK_ADDON,1,1
+lemme get a NUMBER,0,2 ITEM,0,0 with ADDON,0,2
+a SIZE,0,2 DRINK,0,0 no D_ADD,1,2
 how bout an ITEM,0,0 and hold the ADDON,1,1
 a SIZE,0,2 DRINK,0,0 please
-make that NUMBER,0,1 ITEM,0,0 with ADDON,0,2
-can i have a DRINK,0,0 with extra DRINK_ADDON,0,1
-no ADDON,1,2 on my ITEM,0,0
-gimme a SIZE,0,1 ITEM,0,0 with ADDON,0,2
+make that NUMBER,0,2 ITEM,0,0s with ADDON,0,2
+can i have a DRINK,0,0 with D_ADD,0,1
+gimme a SIZE,0,2 ITEM,0,0 with ADDON,0,2
 a NUMBER,0,2 ITEM,0,0 but without ADDON,1,2
-a SIZE,0,1 DRINK,0,0 and DRINK_ADDON,0,2
+a SIZE,0,2 DRINK,0,0 with D_ADD,0,2
 another ITEM,0,0 with some ADDON,0,1
 lemme get a SIZE,0,2 ITEM,0,0
-how about a NUMBER,0,2 ITEM,0,0 with ADDON,0,1
-just a SIZE,0,1 DRINK,0,0 no DRINK_ADDON,1,1
-i want an ITEM,0,0 with no ADDON,1,1
-a SIZE,0,2 DRINK,0,0 thanks
-make that NUMBER,0,2 ITEM,0,0 with ADDON,0,1
-a DRINK,0,0 with DRINK_ADDON,0,1
-no ADDON,1,2 on my ITEM,0,0 please
-give me a SIZE,0,1 ITEM,0,0
-lemme get a NUMBER,0,2 ITEM,0,0 without ADDON,1,2
-a SIZE,0,1 DRINK,0,0 with DRINK_ADDON,0,2
-another ITEM,0,0 with ADDON,0,1
-could i get a SIZE,0,2 ITEM,0,0
-how bout a NUMBER,0,2 ITEM,0,0 with ADDON,0,1
-just a SIZE,0,1 DRINK,0,0 no DRINK_ADDON,1,1 please
-i want an ITEM,0,0 with extra ADDON,0,1
-a SIZE,0,2 DRINK,0,0 and DRINK_ADDON,0,1
-make that NUMBER,0,2 ITEM,0,0 with ADDON,0,1
-a DRINK,0,0 no DRINK_ADDON,1,1
-no ADDON,1,2 on my ITEM,0,0 please
-gimme a SIZE,0,1 ITEM,0,0 with ADDON,0,2
-lemme get a NUMBER,0,2 ITEM,0,0
-a SIZE,0,1 DRINK,0,0 with DRINK_ADDON,0,2
-another ITEM,0,0 with ADDON,0,1
-could i get a SIZE,0,2 ITEM,0,0
-how about a NUMBER,0,2 ITEM,0,0 with ADDON,0,1
-just a SIZE,0,1 DRINK,0,0 no DRINK_ADDON,1,1
-i want an ITEM,0,0 with extra ADDON,0,1
-a SIZE,0,2 DRINK,0,0 thanks
-make that NUMBER,0,2 ITEM,0,0 with ADDON,0,1
-a DRINK,0,0 with DRINK_ADDON,0,1
-no ADDON,1,2 on my ITEM,0,0
-gimme a SIZE,0,1 ITEM,0,0
-lemme get a NUMBER,0,2 ITEM,0,0 without ADDON,1,2
-a SIZE,0,1 DRINK,0,0 with DRINK_ADDON,0,2
-another ITEM,0,0 with ADDON,0,1
-could i get a SIZE,0,2 ITEM,0,0
-how bout a NUMBER,0,2 ITEM,0,0 with ADDON,0,1
-just a SIZE,0,1 DRINK,0,0 no DRINK_ADDON,1,1 please
-i want an ITEM,0,0 with extra ADDON,0,1
-a SIZE,0,2 DRINK,0,0 and DRINK_ADDON,0,1
-make that NUMBER,0,2 ITEM,0,0 with ADDON,0,1
-a DRINK,0,0 no DRINK_ADDON,1,1
-no ADDON,1,2 on my ITEM,0,0 please
-gimme a SIZE,0,1 ITEM,0,0 with ADDON,0,2
-lemme get a NUMBER,0,2 ITEM,0,0
-a SIZE,0,1 DRINK,0,0 with DRINK_ADDON,0,2
-another ITEM,0,0 with ADDON,0,1
-could i get a SIZE,0,2 ITEM,0,0
-how about a NUMBER,0,2 ITEM,0,0 with ADDON,0,1
-just a SIZE,0,1 DRINK,0,0 no DRINK_ADDON,1,1
-i want an ITEM,0,0 with extra ADDON,0,1
-a SIZE,0,2 DRINK,0,0 thanks
-make that NUMBER,0,2 ITEM,0,0 with ADDON,0,1
-a DRINK,0,0 with DRINK_ADDON,0,1
-no ADDON,1,2 on my ITEM,0,0
-gimme a SIZE,0,1 ITEM,0,0
-lemme get a NUMBER,0,2 ITEM,0,0 without ADDON,1,2
-a SIZE,0,1 DRINK,0,0 with DRINK_ADDON,0,2
-another ITEM,0,0 with ADDON,0,1
-could i get a SIZE,0,2 ITEM,0,0
-how bout a NUMBER,0,2 ITEM,0,0 with ADDON,0,1
-just a SIZE,0,1 DRINK,0,0 no DRINK_ADDON,1,1 please
-i want an ITEM,0,0 with extra ADDON,0,1
-a SIZE,0,2 DRINK,0,0 and DRINK_ADDON,0,1
-make that NUMBER,0,2 ITEM,0,0 with ADDON,0,1
-a DRINK,0,0 no DRINK_ADDON,1,1
-no ADDON,1,2 on my ITEM,0,0 please
-gimme a SIZE,0,1 ITEM,0,0 with ADDON,0,2
-lemme get a NUMBER,0,2 ITEM,0,0
-a SIZE,0,1 DRINK,0,0 with DRINK_ADDON,0,2
-another ITEM,0,0 with ADDON,0,1
-could i get a SIZE,0,2 ITEM,0,0
-how about a NUMBER,0,2 ITEM,0,0 with ADDON,0,1
-just a SIZE,0,1 DRINK,0,0 no DRINK_ADDON,1,1
-i want an ITEM,0,0 with extra ADDON,0,1
-a SIZE,0,2 DRINK,0,0 thanks
-make that NUMBER,0,2 ITEM,0,0 with ADDON,0,1
-a DRINK,0,0 with DRINK_ADDON,0,1
-no ADDON,1,2 on my ITEM,0,0
-gimme a SIZE,0,1 ITEM,0,0
-lemme get a NUMBER,0,2 ITEM,0,0 without ADDON,1,2
-a SIZE,0,1 DRINK,0,0 with DRINK_ADDON,0,2
-another ITEM,0,0 with ADDON,0,1
-could i get a SIZE,0,2 ITEM,0,0
-how bout a NUMBER,0,2 ITEM,0,0 with ADDON,0,1
-just a SIZE,0,1 DRINK,0,0 no DRINK_ADDON,1,1 please
-i want an ITEM,0,0 with extra ADDON,0,1
-a SIZE,0,2 DRINK,0,0 and DRINK_ADDON,0,1
-make that NUMBER,0,2 ITEM,0,0 with ADDON,0,1
-a DRINK,0,0 no DRINK_ADDON,1,1
-no ADDON,1,2 on my ITEM,0,0 please
-gimme a SIZE,0,1 ITEM,0,0 with ADDON,0,2
-lemme get a NUMBER,0,2 ITEM,0,0
-a SIZE,0,1 DRINK,0,0 with DRINK_ADDON,0,2
-another ITEM,0,0 with ADDON,0,1
-could i get a SIZE,0,2 ITEM,0,0
-how about a NUMBER,0,2 ITEM,0,0 with ADDON,0,1
-just a SIZE,0,1 DRINK,0,0 no DRINK_ADDON,1,1
+lemme get a SIZE,0,2 ITEM,0,0 with ADDON,0,2
+yo can i add a DRINK,0,0 to that order
+ill do a ITEM,0,0
+lets just have NUMBER,0,2 ITEM,0,0s
+i would like NUMBER,0,2 ITEM,0,0s
+can i have a ITEM,0,0
+an ITEM,0,0 with SIZE,0,3 ADDON,0,1
+a SIZE,0,2 ITEM,0,0 with ADDON_SIZE,0,4 ADDON,0,2
+a SIZE,0,2 ITEM,0,0 with NUMBER,0,4 ADDON,0,2
+SIZE,0,2 ITEM,0,0
+a ITEM,0,0 with ADDON,0,1
+a ITEM,0,0 with no ADDON,1,1
+a ITEM,0,0 with ADDON_SIZE,0,3 ADDON,0,1
+NUMBER,0,2 ITEM,0,0s
+NUMBER,0,2 ITEM,0,0s with ADDON,0,2
+NUMBER,0,2 ITEM,0,0s with no ADDON,1,2
+NUMBER,0,2 ITEM,0,0s with ADDON_SIZE,0,4 ADDON,0,2
+NUMBER,0,2 ITEM,0,0s with NUMBER,0,4 ADDON,0,2
+a ITEM,0,0 with ADDON,0,1 ADDON,0,1 and ADDON,0,1 but no ADDON,0,1
+a ITEM,0,0 with ADDON,0,1 and ADDON,0,1 but no ADDON,0,1
+a ITEM,0,0 with ADDON,0,1 but no ADDON,0,1
+a ITEM,0,0 with ADDON,0,1 ADDON,0,1 and ADDON,0,1
+NUMBER,0,2 ITEM,0,0 with ADDON,0,2 ADDON,0,2 and ADDON,0,2 but no ADDON,0,2
+NUMBER,0,2 ITEM,0,0 with ADDON,0,2 and ADDON,0,2 but no ADDON,0,2
+NUMBER,0,2 ITEM,0,0 with ADDON,0,2 but no ADDON,0,2
+NUMBER,0,2 ITEM,0,0 with ADDON,0,2 ADDON,0,2 and ADDON,0,2
+SIZE,0,2 ITEM,0,0 with ADDON,0,2 ADDON,0,2 and ADDON,0,2 but no ADDON,0,2
+SIZE,0,2 ITEM,0,0 with ADDON,0,2 and ADDON,0,2 but no ADDON,0,2
+SIZE,0,2 ITEM,0,0 with ADDON,0,2 but no ADDON,0,2
+SIZE,0,2 ITEM,0,0 with ADDON,0,2 ADDON,0,2 and ADDON,0,2
+NUMBER,0,3 SIZE,0,3 ITEM,0,0 with ADDON,0,3 ADDON,0,3 and ADDON,0,3 but no ADDON,0,3
+NUMBER,0,3 SIZE,0,3 ITEM,0,0 with ADDON,0,3 and ADDON,0,3 but no ADDON,0,3
+NUMBER,0,3 SIZE,0,3 ITEM,0,0 with ADDON,0,3 but no ADDON,0,3
+NUMBER,0,3 SIZE,0,3 ITEM,0,0 with ADDON,0,3 ADDON,0,3 and ADDON,0,3
+a SIZE,0,2 DRINK,0,0 with ADDON_SIZE,0,4 D_ADD,0,2
+a SIZE,0,2 DRINK,0,0 with NUMBER,0,4 D_ADD,0,2
+SIZE,0,2 DRINK,0,0
+a DRINK,0,0 with D_ADD,0,1
+a DRINK,0,0 with no D_ADD,1,1
+a DRINK,0,0 with ADDON_SIZE,0,3 D_ADD,0,1
+NUMBER,0,2 DRINK,0,0s
+NUMBER,0,2 DRINK,0,0s with D_ADD,0,2
+NUMBER,0,2 DRINK,0,0s with no D_ADD,1,2
+NUMBER,0,2 DRINK,0,0s with ADDON_SIZE,0,4 D_ADD,0,2
+NUMBER,0,2 DRINK,0,0s with NUMBER,0,4 D_ADD,0,2
+how bout a SIZE,0,2 DRINK,0,0 with D_ADD,0,2
+throw in an ITEM,0,0 but hold the ADDON,1,1
+gimme one of them ITEM,0,0s with ADDON,0,1
+i want a SIZE,0,2 ITEM,0,0 no ADDON,1,2
+could you add a DRINK,0,0 with some D_ADD,0,1
+lets go with NUMBER,0,2 ITEM,0,0s and ADDON,0,2
+toss in an ITEM,0,0 and pile on the ADDON,0,1
+can i get that ITEM,0,0 without any ADDON,1,1
+make it a SIZE,0,2 DRINK,0,0 with a splash of D_ADD,0,2
+ill take NUMBER,0,2 ITEM,0,0s and load em up with ADDON,0,2
+how about adding a DRINK,0,0 no D_ADD,1,1
+lets do a SIZE,0,2 ITEM,0,0
+gimme one of those ITEM,0,0s but skip the ADDON,1,1
+NUMBER,0,2 ITEM,0,0s and ADDON_SIZE,0,4 ADDON,0,2
+i need a SIZE,0,2 DRINK,0,0 with ADDON_SIZE,0,4 D_ADD,0,2
+can you add an ITEM,0,0 and ADDON_SIZE,0,3 ADDON,0,1
+make that a SIZE,0,2 ITEM,0,0 but no ADDON,1,2
+lets get a DRINK,0,0 and top it off with D_ADD,0,1
+NUMBER,0,2 ITEM,0,0s and dont skimp on the ADDON,0,2
+how bout a SIZE,0,2 DRINK,0,0 with ADDON_SIZE,0,4 D_ADD,0,2
+toss in an ITEM,0,0 and ADDON,0,1
+ill take a DRINK,0,0 but hold the D_ADD,1,1
+gimme a SIZE,0,2 ITEM,0,0 and make it snappy
+add NUMBER,0,2 ITEM,0,0s with a sprinkle of ADDON,0,2
+lets do a DRINK,0,0 with a dash of D_ADD,0,1
+hook me up with a SIZE,0,2 ITEM,0,0 with ADDON,0,2
+can i get an ITEM,0,0 minus the ADDON,1,1
+throw in a SIZE,0,2 DRINK,0,0 and go ADDON_SIZE,0,4 D_ADD,0,2
+make it NUMBER,0,2 ITEM,0,0s including ADDON,0,2
+how about adding a DRINK,0,0 with a twist of D_ADD,0,1
+lets get a SIZE,0,2 ITEM,0,0
+i want an ITEM,0,0 but no the ADDON,1,1
+can you toss in a DRINK,0,0
+NUMBER,0,2 ITEM,0,0s and throw in some ADDON,0,2
+gimme a SIZE,0,2 DRINK,0,0 with a shot of D_ADD,0,2
+add an ITEM,0,0 and pile on the ADDON,0,1
+lets do a SIZE,0,2 ITEM,0,0 but skip the ADDON,1,2
+how bout a DRINK,0,0 with a splash of D_ADD,0,1
+NUMBER,0,2 ITEM,0,0s
+i need a SIZE,0,2 DRINK,0,0
+can you add an ITEM,0,0 with all the fixins
+make that a SIZE,0,2 ITEM,0,0 hold the ADDON,1,2
+throw in a DRINK,0,0
+NUMBER,0,2 ITEM,0,0s with a side of ADDON,0,2
+lets get a SIZE,0,2 DRINK,0,0
+toss in an ITEM,0,0 and slather it with ADDON,0,1
+ill have a DRINK,0,0
+gimme a SIZE,0,2 ITEM,0,0 and dont be stingy
+add NUMBER,0,2 ITEM,0,0s with a dollop of ADDON,0,2
+lets do a DRINK,0,0 with a kick of D_ADD,0,1
+hook me up with a SIZE,0,2 ITEM,0,0
+can i get an ITEM,0,0 no ADDON,1,1
+throw in a SIZE,0,2 DRINK,0,0
+make it NUMBER,0,2 ITEM,0,0s piled high with ADDON,0,2
+how about adding a DRINK,0,0 with a pinch of D_ADD,0,1
+lets get a SIZE,0,2 ITEM,0,0 and make it sing
+i want an ITEM,0,0 but nix the ADDON,1,1
+can you toss in a DRINK,0,0 and make it pop
+NUMBER,0,2 ITEM,0,0s with ADDON,0,2
+gimme a SIZE,0,2 DRINK,0,0 with a float of D_ADD,0,2
+add an ITEM,0,0 and ADDON,0,1
+lets do a SIZE,0,2 ITEM,0,0 but ditch the ADDON,1,2
+how bout a DRINK,0,0 with a spritz of D_ADD,0,1
+can you add an ITEM,0,0 with the works
+NUMBER,0,2 ITEM,0,0s with ADDON_SIZE,0,4 ADDON,0,2
+toss in an ITEM,0,0 and ADDON_SIZE,0,3 ADDON,0,1
+add NUMBER,0,2 ITEM,0,0s with a schmear of ADDON,0,2
+lets do a DRINK,0,0 with a blast of D_ADD,0,1
+can i get an ITEM,0,0 minus the ADDON,1,1 please
+throw in a DRINK,0,0 make it a SIZE,0,2
+make it NUMBER,0,2 ITEM,0,0s smothered in ADDON,0,2
+how about adding a DRINK,0,0 with a dash of D_ADD,0,1
+lets get a SIZE,0,2 ITEM,0,0 and kick it up a notch
+i want an ITEM,0,0 but pass on the ADDON,1,1
+gimme a SIZE,0,2 DRINK,0,0 with a swirl of D_ADD,0,2
+add an ITEM,0,0 and amp up the ADDON,0,1
+lets do a SIZE,0,2 ITEM,0,0 but lose the ADDON,1,2
+how bout a DRINK,0,0 with D_ADD,0,1
+can you add an ITEM,0,0
+NUMBER,0,2 ITEM,0,0s with ADDON_SIZE,0,4 ADDON,0,2
+toss in an ITEM,0,0 and ADDON_SIZE,0,3 ADDON,0,1
+lets do a DRINK,0,0 with a punch of D_ADD,0,1
+can i get an ITEM,0,0 stripped of ADDON,1,1
+make it NUMBER,0,2 ITEM,0,0s ADDON_SIZE,0,4 ADDON,0,2
+how about adding a DRINK,0,0 with D_ADD,0,1
+i want an ITEM,0,0 but cut the ADDON,1,1
+NUMBER,0,2 ITEM,0,0s and ADDON_SIZE,0,4 ADDON,0,2
+gimme a SIZE,0,2 DRINK,0,0 with D_ADD,0,2
+add an ITEM,0,0
+lets do a SIZE,0,2 ITEM,0,0 but ax the ADDON,1,2
+how bout a DRINK,0,0 with ADDON_SIZE,0,3 D_ADD,0,1
+lets get a SIZE,0,2 DRINK,0,0 blended with D_ADD,0,2
+toss in an ITEM,0,0 and douse it in ADDON,0,1
+add NUMBER,0,2 ITEM,0,0s with a drizzle of ADDON,0,2
+lets do a DRINK,0,0 with a burst of D_ADD,0,1
+can i get an ITEM,0,0 free from ADDON,1,1
+make it NUMBER,0,2 ITEM,0,0s swimming in ADDON,0,2
+how about adding a DRINK,0,0 with a splash of D_ADD,0,1
+i want an ITEM,0,0 but ditch the ADDON,1,1
+NUMBER,0,2 ITEM,0,0s and coat em in ADDON,0,2
+gimme a SIZE,0,2 DRINK,0,0 with a squeeze of D_ADD,0,2
+add an ITEM,0,0 and ADDON_SIZE,0,3 ADDON,0,1
+lets do a SIZE,0,2 ITEM,0,0 but skip the ADDON,1,2
+how bout a DRINK,0,0 with a zest of D_ADD,0,1
+gimme a NUMBER,0,2 ITEM,0,0 with ADDON_SIZE,0,4 ADDON,0,2
+can i get a SIZE,0,2 DRINK,0,0 and ADDON_SIZE,0,4 D_ADD,0,2
+throw in an ITEM,0,0 but ADDON_SIZE,0,3 ADDON,0,1
+how bout NUMBER,0,2 ITEM,0,0s without ADDON,1,2
+lemme get a DRINK,0,0 with ADDON_SIZE,0,3 D_ADD,0,1
+ill take a SIZE,0,2 ITEM,0,0
+can you do a DRINK,0,0 but make it with ADDON_SIZE,0,3 D_ADD,0,1
+add NUMBER,0,2 ITEM,0,0s and ADDON_SIZE,0,4 ADDON,0,2
+yo toss in a SIZE,0,2 ITEM,0,0 minus the ADDON,1,2
+how about a DRINK,0,0 with ADDON_SIZE,0,3 D_ADD,0,1
+give me an ITEM,0,0 with ADDON,0,1
+lets get NUMBER,0,2 ITEM,0,0s with ADDON_SIZE,0,4 ADDON,0,2
+ill have a SIZE,0,2 DRINK,0,0
+can you add an ITEM,0,0 but ADDON_SIZE,0,3 ADDON,0,1
+make that NUMBER,0,2 ITEM,0,0s and ADDON_SIZE,0,4 the ADDON,0,2
+how bout a DRINK,0,0 with a ADDON_SIZE,0,3 splash of D_ADD,0,1
+throw in a SIZE,0,2 ITEM,0,0 and ADDON_SIZE,0,3 ADDON,0,2
+gimme a DRINK,0,0 but hold the D_ADD,1,1
+can i get NUMBER,0,2 ITEM,0,0s with ADDON_SIZE,0,4 ADDON,0,2
+add a DRINK,0,0 with ADDON_SIZE,0,3 D_ADD,0,1
+ill take an ITEM,0,0 but with ADDON_SIZE,0,3 ADDON,0,1
+how about NUMBER,0,2 ITEM,0,0s without any ADDON,1,2
+can you make a SIZE,0,2 DRINK,0,0 with ADDON_SIZE,0,4 D_ADD,0,2
+toss in an ITEM,0,0 with ADDON,0,1
+lemme get a DRINK,0,0 but ADDON_SIZE,0,3 D_ADD,0,1
+give me NUMBER,0,2 ITEM,0,0s
+how bout a SIZE,0,2 ITEM,0,0 minus the ADDON,1,2
+can i add a DRINK,0,0 with ADDON_SIZE,0,3 D_ADD,0,1
+throw in an ITEM,0,0 with ADDON_SIZE,0,3 ADDON,0,1
+ill have NUMBER,0,2 ITEM,0,0s but ADDON_SIZE,0,4 ADDON,0,2
+lets get a SIZE,0,2 DRINK,0,0 and ADDON_SIZE,0,4 D_ADD,0,2
+can you do an ITEM,0,0 without the ADDON,1,1
+make that a DRINK,0,0 but ADDON_SIZE,0,3 D_ADD,0,1
+gimme NUMBER,0,2 ITEM,0,0s and ADDON_SIZE,0,4 ADDON,0,2
+how about a SIZE,0,2 ITEM,0,0 with ADDON_SIZE,0,4 ADDON,0,2
+toss in a DRINK,0,0 and make it with ADDON_SIZE,0,3 D_ADD,0,1
+ill take an ITEM,0,0 but ADDON_SIZE,0,3 ADDON,0,1
+can i get NUMBER,0,2 ITEM,0,0s
+lets do a SIZE,0,2 DRINK,0,0 with a ADDON_SIZE,0,4 D_ADD,0,2
+add an ITEM,0,0 but skip the ADDON,1,1
+how bout a DRINK,0,0 with D_ADD,0,1
+give me NUMBER,0,2 ITEM,0,0s
+can you make a SIZE,0,2 ITEM,0,0 without ADDON,1,2 or ADDON,1,2
+throw in a DRINK,0,0 and with D_ADD,0,1
+lemme get an ITEM,0,0 with ADDON,0,1
+ill have NUMBER,0,2 ITEM,0,0s and ADDON_SIZE,0,4 ADDON,0,2
+how about a SIZE,0,2 DRINK,0,0 with D_ADD,0,2
+can i add an ITEM,0,0 but make it with ADDON,0,1
+toss in NUMBER,0,2 ITEM,0,0s minus the ADDON,1,2
+gimme a SIZE,0,2 DRINK,0,0 and ADDON_SIZE,0,4 D_ADD,0,2
+lets get an ITEM,0,0 with ADDON_SIZE,0,3 ADDON,0,1
+can you do NUMBER,0,2 ITEM,0,0s
+a SIZE,0,2 DRINK,0,0 with D_ADD,0,2
+ill take an ITEM,0,0 but hold the ADDON,1,1
+how bout NUMBER,0,2 ITEM,0,0s with ADDON_SIZE,0,4 ADDON,0,2
+throw in a SIZE,0,2 DRINK,0,0
+add an ITEM,0,0 with ADDON,0,1 and ADDON,0,1 but no ADDON,1,1
+can i get NUMBER,0,2 ITEM,0,0s without any ADDON,1,2
+lets do a SIZE,0,2 DRINK,0,0 with D_ADD,0,2
+gimme an ITEM,0,0 but make it with ADDON_SIZE,0,3 ADDON,0,1
+how about NUMBER,0,2 ITEM,0,0s
+toss in a SIZE,0,2 DRINK,0,0 with ADDON_SIZE,0,4 D_ADD,0,2
+ill have an ITEM,0,0 minus the ADDON,1,1
+can you add NUMBER,0,2 ITEM,0,0s
+lemme get a SIZE,0,2 DRINK,0,0
+give me an ITEM,0,0 and ADDON_SIZE,0,3 ADDON,0,1
+how bout NUMBER,0,2 ITEM,0,0s but skip the ADDON,1,2
+throw in a SIZE,0,2 DRINK,0,0
+can i get an ITEM,0,0 with ADDON_SIZE,0,3 ADDON,0,1
+ill take a SIZE,0,2 DRINK,0,0 but ADDON_SIZE,0,4 D_ADD,0,2
+lets get an ITEM,0,0 without the ADDON,1,1
+add NUMBER,0,2 ITEM,0,0s and ADDON_SIZE,0,4 ADDON,0,2
+gimme a SIZE,0,2 DRINK,0,0 with ADDON_SIZE,0,4 D_ADD,0,2
+can you do an ITEM,0,0 and make it ADDON_SIZE,0,3 ADDON,0,1
+how about NUMBER,0,2 ITEM,0,0s minus the ADDON,1,2
+toss in a SIZE,0,2 DRINK,0,0
+ill have an ITEM,0,0 but ADDON_SIZE,0,3 ADDON,0,1
+lets do a SIZE,0,2 DRINK,0,0 without D_ADD,1,2
+throw in an ITEM,0,0 and make it with ADDON,0,1
+how bout NUMBER,0,2 ITEM,0,0s with ADDON_SIZE,0,4 ADDON,0,2
+gimme a SIZE,0,2 DRINK,0,0 containing D_ADD,0,2
+can you add an ITEM,0,0 but hold the ADDON,1,1
+ill take a SIZE,0,2 DRINK,0,0
+lets get an ITEM,0,0 and ADDON_SIZE,0,3 ADDON,0,1
+add NUMBER,0,2 ITEM,0,0s without ADDON,1,2
+how about a SIZE,0,2 DRINK,0,0 and make it NUMBER,0,4 D_ADD,0,2
+can i get an ITEM,0,0 with ADDON,0,1
+toss in NUMBER,0,2 ITEM,0,0s no ADDON,1,2
+gimme a DRINK,0,0
+ill have an ITEM,0,0 minus the ADDON,1,1
+can you do NUMBER,0,2 ITEM,0,0s and without ADDON,1,2
+lemme get a SIZE,0,2 DRINK,0,0 with D_ADD,0,2
+throw in an ITEM,0,0 and make it ADDON_SIZE,0,3 ADDON,0,1
+how bout NUMBER,0,2 ITEM,0,0s but skip the ADDON,1,2
+add a SIZE,0,2 DRINK,0,0 with NUMBER,0,4 D_ADD,0,2
+give me an ITEM,0,0
+can i get NUMBER,0,2 ITEM,0,0s and ADDON_SIZE,0,4 ADDON,0,2
+lets do a SIZE,0,2 DRINK,0,0 without any D_ADD,1,2
+toss in an ITEM,0,0 but make it without ADDON,1,1
+ill take NUMBER,0,2 ITEM,0,0s
+how about a SIZE,0,2 DRINK,0,0 with D_ADD,0,2
+can you add an ITEM,0,0 minus the ADDON,1,1
+NUMBER,0,2 ITEM,0,0s and ADDON_SIZE,0,4 ADDON,0,2
+gimme NUMBER,0,3 SIZE,0,3 DRINK,0,0s
+lets get an ITEM,0,0 with ADDON_SIZE,0,3 ADDON,0,1
+throw in NUMBER,0,2 ITEM,0,0s without any ADDON,1,2
+how bout a SIZE,0,2 DRINK,0,0 and make it ADDON_SIZE,0,4 D_ADD,0,2
+can i get an ITEM,0,0 and ADDON_SIZE,0,3 ADDON,0,1
+add NUMBER,0,3 SIZE,0,3 ITEM,0,0s
+ill have a SIZE,0,2 DRINK,0,0 but hold the D_ADD,1,2
+toss in an ITEM,0,0 with ADDON,0,1
+lemme get NUMBER,0,2 ITEM,0,0s with ADDON,0,2 and ADDON_SIZE,0,5 ADDON,0,2
+can you do a SIZE,0,2 DRINK,0,0 with ADDON_SIZE,0,4 D_ADD,0,2 and ADDON_SIZE,0,6 D_ADD,0,2
+give me an ITEM,0,0 but skip the ADDON,1,1
+how about NUMBER,0,2 ITEM,0,0s and hold the ADDON,1,2 and ADDON,1,2
+throw in a SIZE,0,2 DRINK,0,0 with a ADDON,0,2
+ill take an ITEM,0,0 and make it ADDON_SIZE,0,3 ADDON,0,1
+can i add NUMBER,0,2 ITEM,0,0s minus the ADDON,1,2
+lets get a SIZE,0,2 DRINK,0,0 and no D_ADD,1,2
+gimme an ITEM,0,0 with ADDON_SIZE,0,3 ADDON,0,1
+how bout NUMBER,0,3 SIZE,0,3 ITEM,0,0s and ADDON,0,3
+toss in a SIZE,0,2 DRINK,0,0 but ADDON_SIZE,0,4 D_ADD,0,2
+can you make an ITEM,0,0 without ADDON,1,1
+add NUMBER,0,2 ITEM,0,0s and ADDON_SIZE,0,4 ADDON,0,2
+ill have a DRINK,0,0 with ADDON_SIZE,0,3 D_ADD,0,1 D_ADD,0,1 and no D_ADD,1,1
+lets do an ITEM,0,0
+throw in NUMBER,0,2 ITEM,0,0s but hold the ADDON,1,2
+how about a DRINK,0,0 and make it SIZE,0,1
+can i get an ITEM,0,0 with ADDON_SIZE,0,3 ADDON,0,1
+NUMBER,0,2 ITEM,0,0s with ADDON,0,2
+gimme a SIZE,0,2 DRINK,0,0 without D_ADD,1,2
+ill take an ITEM,0,0 and ADDON_SIZE,0,3 ADDON,0,1
