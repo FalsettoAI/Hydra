@@ -155,54 +155,54 @@ could i get a SIZE ITEM with no ADDON and NUMBER ITEM with ADDON
 can i place an order for a DRINK
 can i get a DRINK
 Can i get a SIZE DRINK
-can i get a SIZE DRINK with D_ADD
-i'd like to order a DRINK with D_ADD
-can you prepare NUMBER DRINK with no D_ADD
-could i have a SIZE DRINK with D_ADD for NAME
+can i get a SIZE DRINK with DRINK_ADDON
+i'd like to order a DRINK with DRINK_ADDON
+can you prepare NUMBER DRINK with no DRINK_ADDON
+could i have a SIZE DRINK with DRINK_ADDON for NAME
 can you add a DRINK to my order
 i'd like to get a SIZE DRINK please
 can i get NUMBER DRINK for NAME
-can i order DRINK with D_ADD
-can you make a SIZE DRINK with no D_ADD for NAME
-could you add a SIZE DRINK with D_ADD to my order
-can you prepare a DRINK with D_ADD and NUMBER ITEM
-i'd like to get a DRINK with D_ADD and NUMBER ITEM
-can i place an order for NUMBER ITEM and a DRINK with D_ADD
+can i order DRINK with DRINK_ADDON
+can you make a SIZE DRINK with no DRINK_ADDON for NAME
+could you add a SIZE DRINK with DRINK_ADDON to my order
+can you prepare a DRINK with DRINK_ADDON and NUMBER ITEM
+i'd like to get a DRINK with DRINK_ADDON and NUMBER ITEM
+can i place an order for NUMBER ITEM and a DRINK with DRINK_ADDON
 can you get me NUMBER ITEM with ADDON and DRINK
 can i order NUMBER DRINK and NUMBER ITEM with ADDON
-can i get a DRINK with D_ADD for NAME and NUMBER ITEM
+can i get a DRINK with DRINK_ADDON for NAME and NUMBER ITEM
 can you add NUMBER DRINK to my order for NAME
 i'd like to order NUMBER ITEM with ADDON and a DRINK
 can i get a SIZE DRINK and NUMBER ITEM with ADDON
-can you prepare NUMBER DRINK with D_ADD and NUMBER ITEM
-could i get NUMBER DRINK with no D_ADD
-i'd like a SIZE DRINK with D_ADD
-can i get a SIZE DRINK with D_ADD for NAME
-can you prepare a SIZE DRINK with D_ADD
-can you make NUMBER DRINK with no D_ADD
+can you prepare NUMBER DRINK with DRINK_ADDON and NUMBER ITEM
+could i get NUMBER DRINK with no DRINK_ADDON
+i'd like a SIZE DRINK with DRINK_ADDON
+can i get a SIZE DRINK with DRINK_ADDON for NAME
+can you prepare a SIZE DRINK with DRINK_ADDON
+can you make NUMBER DRINK with no DRINK_ADDON
 could i order NUMBER DRINK and NUMBER ITEM
 i'd like to get NUMBER DRINK and NUMBER ITEM with ADDON
 can you add NUMBER DRINK to my order with ADDON
-can i place an order for a SIZE DRINK with no D_ADD
+can i place an order for a SIZE DRINK with no DRINK_ADDON
 can i get a SIZE DRINK and NUMBER ITEM
 can you prepare a SIZE DRINK and NUMBER ITEM for NAME
-i'd like to order NUMBER DRINK with no D_ADD and NUMBER ITEM
-can you add NUMBER DRINK with D_ADD to my order
+i'd like to order NUMBER DRINK with no DRINK_ADDON and NUMBER ITEM
+can you add NUMBER DRINK with DRINK_ADDON to my order
 could i place an order for NUMBER DRINK
 i'd like to get a SIZE DRINK and NUMBER ITEM for NAME
-can i order a SIZE DRINK with D_ADD
-can you make NUMBER DRINK with no D_ADD and NUMBER ITEM
-can i get a SIZE DRINK with D_ADD and NUMBER ITEM
-can you prepare NUMBER DRINK with no D_ADD and NUMBER ITEM
-could i get NUMBER DRINK with D_ADD and NUMBER ITEM
-can i get a SIZE DRINK with D_ADD for NAME and NUMBER ITEM
+can i order a SIZE DRINK with DRINK_ADDON
+can you make NUMBER DRINK with no DRINK_ADDON and NUMBER ITEM
+can i get a SIZE DRINK with DRINK_ADDON and NUMBER ITEM
+can you prepare NUMBER DRINK with no DRINK_ADDON and NUMBER ITEM
+could i get NUMBER DRINK with DRINK_ADDON and NUMBER ITEM
+can i get a SIZE DRINK with DRINK_ADDON for NAME and NUMBER ITEM
 can i place an order for a SIZE DRINK and NUMBER ITEM
-i'd like to get a SIZE DRINK with D_ADD and NUMBER ITEM
-can you prepare NUMBER DRINK with D_ADD for NAME
-i'd like to order a DRINK with D_ADD and NUMBER ITEM
-can i get a SIZE DRINK with no D_ADD and NUMBER ITEM
+i'd like to get a SIZE DRINK with DRINK_ADDON and NUMBER ITEM
+can you prepare NUMBER DRINK with DRINK_ADDON for NAME
+i'd like to order a DRINK with DRINK_ADDON and NUMBER ITEM
+can i get a SIZE DRINK with no DRINK_ADDON and NUMBER ITEM
 can you make NUMBER DRINK and NUMBER ITEM with ADDON
-i'd like to place an order for NUMBER DRINK with no D_ADD and NUMBER ITEM
+i'd like to place an order for NUMBER DRINK with no DRINK_ADDON and NUMBER ITEM
 can i have NUMBER ITEM for NAME
 can i have NUMBER ITEM and NUMBER ITEM with no ADDON
 can i have NUMBER ITEM and NUMBER ITEM with ADDON
@@ -254,20 +254,20 @@ id like to have NUMBER ITEM for NAME and NUMBER ITEM with ADDON
 could i have a SIZE ITEM with no ADDON and NUMBER ITEM with ADDON
 can i have a DRINK
 Can i have a SIZE DRINK
-can i have a SIZE DRINK with D_ADD
+can i have a SIZE DRINK with DRINK_ADDON
 i'd like to have a SIZE DRINK please
 can i have NUMBER DRINK for NAME
-i'd like to have a DRINK with D_ADD and NUMBER ITEM
+i'd like to have a DRINK with DRINK_ADDON and NUMBER ITEM
 can you have me NUMBER ITEM with ADDON and DRINK
-can i have a DRINK with D_ADD for NAME and NUMBER ITEM
+can i have a DRINK with DRINK_ADDON for NAME and NUMBER ITEM
 can i have a SIZE DRINK and NUMBER ITEM with ADDON
-could i have NUMBER DRINK with no D_ADD
-can i have a SIZE DRINK with D_ADD for NAME
+could i have NUMBER DRINK with no DRINK_ADDON
+can i have a SIZE DRINK with DRINK_ADDON for NAME
 i'd like to have NUMBER DRINK and NUMBER ITEM with ADDON
 can i have a SIZE DRINK and NUMBER ITEM
 i'd like to have a SIZE DRINK and NUMBER ITEM for NAME
-can i have a SIZE DRINK with D_ADD and NUMBER ITEM
-could i have NUMBER DRINK with D_ADD and NUMBER ITEM
-can i have a SIZE DRINK with D_ADD for NAME and NUMBER ITEM
-i'd like to have a SIZE DRINK with D_ADD and NUMBER ITEM
-can i have a SIZE DRINK with no D_ADD and NUMBER ITEM
+can i have a SIZE DRINK with DRINK_ADDON and NUMBER ITEM
+could i have NUMBER DRINK with DRINK_ADDON and NUMBER ITEM
+can i have a SIZE DRINK with DRINK_ADDON for NAME and NUMBER ITEM
+i'd like to have a SIZE DRINK with DRINK_ADDON and NUMBER ITEM
+can i have a SIZE DRINK with no DRINK_ADDON and NUMBER ITEM
