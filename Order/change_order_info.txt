@@ -65,7 +65,7 @@ i need to switch my PREV_DRINK,1,0 for a SIZE,0,3 DRINK,0,0 no DRINK_ADDON,1,3 p
 how about changing my PREV_ITEM,1,0 to a ITEM,0,0 with ADDON,0,2 and ADDON,0,2
 can you swap the PREV_DRINK,1,0 for NUMBER,0,3 DRINK,0,0s with ADDON_SIZE,0,5 DRINK_ADDON,0,3
 yo im gonna need to change that PREV_ITEM,1,0 to a SIZE,0,3 ITEM,0,0 hold the ADDON,1,3
-lemme get a ITEM,0,0 instead of the PREV_ITEM,1,0 and add some ADDON_SIZE,0,4 ADDON,0,2
+lemme get a ITEM,0,0 instead of the PREV_ITEM,1,0 and add some ADDON_SIZE,0,4 ADDON,0,1
 hey can you replace my PREV_DRINK,1,0 with a DRINK,0,0 make it ADDON_SIZE,0,4 DRINK_ADDON,0,2
 i wanna switch out the PREV_ITEM,1,0 for NUMBER,0,3 ITEM,0,0s with ADDON,0,3 on top
 yo change my PREV_DRINK,1,0 to a SIZE,0,3 DRINK,0,0 and throw in some DRINK_ADDON,0,3
@@ -91,7 +91,7 @@ can you switch my PREV_DRINK,1,0 to a DRINK,0,0 with ADDON_SIZE,0,4 DRINK_ADDON,
 could you change the PREV_ITEM,1,0 to NUMBER,0,3 ITEM,0,0s and add ADDON,0,3 on top
 i need to swap out my PREV_DRINK,1,0 for a SIZE,0,3 DRINK,0,0 with DRINK_ADDON,0,3
 lemme replace that PREV_ITEM,1,0 with a ITEM,0,0 and throw in some ADDON_SIZE,0,4 ADDON,0,2
-yo change my PREV_DRINK,1,0 to NUMBER,0,3 DRINK,0,0s ADDON_SIZE,0,6 DRINK_ADDON,0,4
+yo change my PREV_DRINK,1,0 to NUMBER,0,3 DRINK,0,0s ADDON_SIZE,0,5 DRINK_ADDON,0,3
 can you make that PREV_ITEM,1,0 a SIZE,0,3 ITEM,0,0 instead and add ADDON,0,3
 i wanna switch my PREV_DRINK,1,0 for a DRINK,0,0 ADDON_SIZE,0,4 DRINK_ADDON,0,2 if thats okay
 lemme change my PREV_DRINK,1,0 to a SIZE,0,3 DRINK,0,0 hold the DRINK_ADDON,1,3
@@ -110,7 +110,7 @@ hey could you change my PREV_DRINK,1,0 to a SIZE,0,3 DRINK,0,0 ADDON_SIZE,0,5 DR
 i need to replace that PREV_ITEM,1,0 with a ITEM,0,0 and add ADDON,0,2 ADDON,0,2 and ADDON,0,2
 switch out my PREV_DRINK,1,0 for NUMBER,0,3 DRINK,0,0s but ADDON_SIZE,0,5 DRINK_ADDON,0,4
 can you change the PREV_ITEM,1,0 to a SIZE,0,3 ITEM,0,0 and toss in ADDON_SIZE,0,5 ADDON,0,3
-lemme get a DRINK,0,0 instead of the PREV_DRINK,1,0 with ADDON_SIZE,0,4 DRINK_ADDON,0,2
+lemme get a DRINK,0,0 instead of the PREV_DRINK,1,0 with ADDON_SIZE,0,4 DRINK_ADDON,0,1
 i wanna change my PREV_DRINK,1,0 to a SIZE,0,3 DRINK,0,0 no DRINK_ADDON,1,3 please
 can you replace the PREV_ITEM,1,0 with a ITEM,0,0 and throw in ADDON_SIZE,0,4 ADDON,0,2
 how bout switching my PREV_DRINK,1,0 for NUMBER,0,3 DRINK,0,0s with ADDON_SIZE,0,5 DRINK_ADDON,0,3
@@ -183,10 +183,10 @@ lemme swap my PREV_DRINK,1,0 for a SIZE,0,3 DRINK,0,0 but no DRINK_ADDON,1,3
 how bout replacing the PREV_ITEM,1,0 with NUMBER,0,3 ITEM,0,0s ADDON_SIZE,0,5 ADDON,0,3
 can you switch my PREV_DRINK,1,0 to a DRINK,0,0 ADDON_SIZE,0,4 DRINK_ADDON,0,2
 yo make that PREV_ITEM,1,0 a SIZE,0,3 ITEM,0,0 with ADDON,0,3 on top
-i wanna change my PREV_DRINK,1,0 to NUMBER,0,3 DRINK,0,0s no DRINK_ADDON,3,1
+i wanna change my PREV_DRINK,1,0 to NUMBER,0,3 DRINK,0,0s no DRINK_ADDON,1,3
 lemme get a ITEM,0,0 not the PREV_ITEM,1,0 and add ADDON_SIZE,0,4 ADDON,0,2
 could you swap my PREV_DRINK,1,0 for a SIZE,0,3 DRINK,0,0 ADDON_SIZE,0,5 DRINK_ADDON,0,3
 can you replace the PREV_ITEM,1,0 with a ITEM,0,0 and ADDON,0,2
-i need to switch my PREV_DRINK,1,0 to NUMBER,0,3 DRINK,0,0s with no DRINK_ADDON,3,1
+i need to switch my PREV_DRINK,1,0 to NUMBER,0,3 DRINK,0,0s with no DRINK_ADDON,1,3
 yo change that PREV_ITEM,1,0 to a SIZE,0,3 ITEM,0,0 and add ADDON,0,3
 lemme get a DRINK,0,0 instead of the PREV_DRINK,1,0 but ADDON_SIZE,0,4 DRINK_ADDON,0,2
