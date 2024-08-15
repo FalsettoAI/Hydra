@@ -2,7 +2,6 @@ THIS IS NOT FOR FINAL DATA
 it is storage for the change_order_info file Generate data here and push this with delete_items to create the change_order_info file
 
 ADDITIONAL SCENARIOS
-- Using the Name to signify order
 - Replacing just addons, sizes, or numbers from item objects
 - Adding more than one item or drink and modifying a few of them separately
     + i would like three burritos and put jalapenos on two
@@ -539,7 +538,7 @@ in my order for PREV_NAME,0,1,0 please replace PREV_ITEM,1,0,0 with PREV_ADDON,2
 add a ITEM,0,0,0 with ADDON_SIZE,0,0,3 ADDON,0,0,1 to the order for PREV_NAME,0,1,0 instead of PREV_ITEM,1,0,0 with PREV_ADDON,2,1,5 on the side
 can i replace PREV_ITEM,1,0,0 with a ITEM,0,0,0 and ITEM,0,0,0 in the order for PREV_NAME,0,1,0
 my name is PREV_NAME,0,1,0 and i want to swap PREV_ITEM,1,0,0 for a ITEM,0,0,0 with ADDON,0,0,3
-change out the PREV_DRINK,1,0,0 with PREV_ADDON,2,1,1 for a DRINK,0,0,0 in the order for PREV_NAME,0,1,0
+change out the PREV_DRINK,1,0,0 with PREV_DRINK_ADDON,2,1,1 for a DRINK,0,0,0 in the order for PREV_NAME,0,1,0
 replace PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 for ITEM,0,0,0 in my order under PREV_NAME,0,1,0
 for the order under PREV_NAME,0,1,0 swap PREV_DRINK,1,0,0 with PREV_DRINK_ADDON,0,0,2 for a SIZE,0,0,5 DRINK,0,0,0
 i need to add a SIZE,0,0,2 ITEM,0,0,0 with ADDON,0,0,2 in the order for PREV_NAME,0,1,0 and take out PREV_ITEM,1,0,0
@@ -552,7 +551,53 @@ i want to replace PREV_ITEM,1,0,0 in my order for PREV_NAME,0,1,0 with a ITEM,0,
 
 
 // swap addons
+can you swap my PREV_ITEM,0,1,0 with PREV_ADDON,1,0,1 to have a ADDON,0,0,1 instead
+can you put ADDON,0,0,2 on my PREV_ITEM,0,1,0 instead of PREV_ADDON,1,0,0
+can you put ADDON,0,0,2 on my PREV_ITEM,0,1,0
+can you put ADDON,0,0,3 and ADDON,0,0,3 on my PREV_ITEM,0,1,0
+replace PREV_ADDON,1,0,2 on my PREV_ITEM,0,1,0 with a ADDON,2,0,2 but put it on the side
+replace PREV_ADDON,1,0,2 on my PREV_ITEM,0,1,0 with a ADDON,0,0,2
+can you replace PREV_ADDON,1,0,2 on my PREV_ITEM,0,1,0 with ADDON,0,0,2 instead
+switch out PREV_DRINK_ADDON,1,0,2 on my PREV_DRINK,0,1,0 with DRINK_ADDON,0,0,2
+add ADDON,0,0,3 and remove PREV_ADDON,1,0,3 on my PREV_ITEM,0,1,0
+put DRINK_ADDON,0,0,2 on my PREV_DRINK,0,1,0 instead of PREV_DRINK_ADDON,1,0,2
+swap PREV_ADDON,1,0,2 on my PREV_ITEM,0,1,0 for ADDON,0,0,2 and ADDON,0,0,2 as well
+remove PREV_ADDON,1,0,2 from my PREV_ITEM,0,1,0 and add ADDON,0,0,2
+can you put DRINK_ADDON,0,0,3 and DRINK_ADDON,0,0,3 on my PREV_DRINK,0,1,0 instead of PREV_ADDON,1,0,3
+take off PREV_ADDON,1,0,2 on my PREV_ITEM,0,1,0 and swap it for ADDON,0,0,2
+replace PREV_DRINK_ADDON,1,0,2 on my PREV_DRINK,0,1,0 with DRINK_ADDON,0,0,2
+can you switch out PREV_ADDON,1,0,3 on my PREV_ITEM,0,1,0 for a ADDON,0,0,3 and ADDON,0,0,3
+put ADDON,0,0,2 on my PREV_ITEM,0,1,0 instead of PREV_ADDON,1,0,2
+replace PREV_DRINK_ADDON,1,0,2 on my PREV_DRINK,0,1,0 with DRINK_ADDON,2,0,2 on the side
+take off PREV_ADDON,1,0,2 from my PREV_ITEM,0,1,0 and add ADDON,0,0,2 and ADDON,0,0,2
+can you add ADDON,0,0,2 to my PREV_DRINK,0,1,0 and remove PREV_ADDON,1,0,2
 
+replace PREV_ADDON,1,0,2 with ADDON,0,0,1 and ADDON,0,0,3 on my PREV_ITEM,0,1,0
+swap out PREV_ADDON,1,0,0 on my PREV_DRINK,0,1,0 for ADDON,0,0,2 and ADDON,0,0,4
+can you put ADDON,0,0,3 on my PREV_ITEM,0,1,0 and swap out PREV_ADDON,1,0,1
+add ADDON,0,0,2 to my PREV_DRINK,0,1,0 and replace PREV_ADDON,1,0,0
+take off PREV_ADDON,1,0,0 from my PREV_ITEM,0,1,0 and put ADDON,0,0,4 on the side
+replace PREV_ADDON,1,0,1 on my PREV_ITEM,0,1,0 with ADDON,0,0,3 and ADDON,0,0,2
+can you add ADDON,0,0,4 and remove PREV_ADDON,1,0,0 on my PREV_DRINK,0,1,0
+switch PREV_ADDON,1,0,2 on my PREV_ITEM,0,1,0 for ADDON,0,0,3 and ADDON,0,0,1
+replace PREV_ADDON,1,0,1 with ADDON,0,0,2 and ADDON,0,0,4 on my PREV_DRINK,0,1,0
+add ADDON,0,0,2 and ADDON,0,0,3 to my PREV_ITEM,0,1,0 instead of PREV_ADDON,1,0,0
+can you put ADDON,0,0,4 on my PREV_DRINK,0,1,0 instead of PREV_ADDON,1,0,1
+swap PREV_ADDON,1,0,2 for ADDON,0,0,3 and ADDON,0,0,4 on my PREV_ITEM,0,1,0
+replace PREV_ADDON,1,0,0 on my PREV_DRINK,0,1,0 with ADDON,0,0,2 and ADDON,0,0,3
+take off PREV_ADDON,1,0,1 and add ADDON,0,0,3 to my PREV_ITEM,0,1,0
+can you put ADDON,0,0,4 and remove PREV_ADDON,1,0,0 from my PREV_DRINK,0,1,0
+switch out PREV_ADDON,1,0,2 with ADDON,0,0,1 and ADDON,0,0,4 on my PREV_ITEM,0,1,0
+add ADDON,0,0,2 and ADDON,0,0,3 to my PREV_ITEM,0,1,0 and take off PREV_ADDON,1,0,0
+replace PREV_ADDON,1,0,1 with ADDON,0,0,3 and ADDON,0,0,2 on my PREV_DRINK,0,1,0
+take off PREV_ADDON,1,0,0 and swap it for ADDON,0,0,3 and ADDON,0,0,4 on my PREV_ITEM,0,1,0
+can you put ADDON,0,0,2 and remove PREV_ADDON,1,0,1 on my PREV_DRINK,0,1,0
+swap PREV_ADDON,1,0,2 for ADDON,0,0,3 and ADDON,0,0,4 on my PREV_ITEM,0,1,0
+replace PREV_ADDON,1,0,0 with ADDON,0,0,1 and ADDON,0,0,3 on my PREV_DRINK,0,1,0
+add ADDON,0,0,4 and remove PREV_ADDON,1,0,2 from my PREV_ITEM,0,1,0
+take off PREV_ADDON,1,0,1 and add ADDON,0,0,3 and ADDON,0,0,4 on my PREV_DRINK,0,1,0
+replace PREV_ADDON,1,0,0 with ADDON,0,0,3 and ADDON,0,0,2 on my PREV_ITEM,0,1,0
+switch out PREV_ADDON,1,0,1 with ADDON,0,0,4 and ADDON,0,0,3 on my PREV_DRINK,0,1,0
 
 
 //swap addon size and number
