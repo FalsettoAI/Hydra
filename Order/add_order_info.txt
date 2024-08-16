@@ -271,3 +271,9 @@ could i have NUMBER DRINK with ADDON and NUMBER ITEM
 can i have a SIZE DRINK with ADDON for NAME and NUMBER ITEM
 i'd like to have a SIZE DRINK with ADDON and NUMBER ITEM
 can i have a SIZE DRINK with no ADDON and NUMBER ITEM
+
+
+// intent sentences with no labels
+
+// add multiple objects and modify a couple of them specifically
+can i have NUMBER,0,0,2 
