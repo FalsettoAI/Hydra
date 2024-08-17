@@ -1,3 +1,4 @@
+// no slots
 clear my order
 clear the entire order
 clear everything in my order
@@ -402,3 +403,166 @@ actually can i empty my cart of all items and drinks
 actually can you clear my cart right now
 actually can i get all items and drinks removed from my cart
 actually can you help me clear out my cart completely
+
+
+
+// name slot only
+clear all items and drinks from PREV_NAME,0,1,0s order fully
+clear PREV_NAME,0,1,0s order totally now
+clear everything in PREV_NAME,0,1,0s order fully now
+clear all items from PREV_NAME,0,1,0s order fully please
+clear everything from PREV_NAME,0,1,0s order now fully
+clear the entire order for PREV_NAME,0,1,0 now please
+clear PREV_NAME,0,1,0s order out completely now
+actually can i clear PREV_NAME,0,1,0s order
+actually can you empty PREV_NAME,0,1,0s order
+actually can i delete everything in PREV_NAME,0,1,0s order
+actually can i remove all items from PREV_NAME,0,1,0s order
+actually can i start over and clear PREV_NAME,0,1,0s order
+wipe PREV_NAME,0,1,0s order clean please
+erase everything from PREV_NAME,0,1,0s order now
+reset PREV_NAME,0,1,0s entire order please
+delete all items and drinks for PREV_NAME,0,1,0
+cancel PREV_NAME,0,1,0s whole order now
+remove everything from PREV_NAME,0,1,0s order please
+start fresh by clearing PREV_NAME,0,1,0s order
+empty out PREV_NAME,0,1,0s entire order now
+scratch PREV_NAME,0,1,0s complete order please
+nullify PREV_NAME,0,1,0s order entirely
+void all items in PREV_NAME,0,1,0s order now
+clear the slate for PREV_NAME,0,1,0s order
+delete PREV_NAME,0,1,0s order in its entirety
+remove all entries from PREV_NAME,0,1,0s order
+cancel everything in PREV_NAME,0,1,0s order please
+wipe out PREV_NAME,0,1,0s order completely
+erase all items from PREV_NAME,0,1,0s order now
+reset PREV_NAME,0,1,0s order to zero please
+clear out PREV_NAME,0,1,0s entire order now
+delete the whole order for PREV_NAME,0,1,0
+remove every item from PREV_NAME,0,1,0s order
+start anew by clearing PREV_NAME,0,1,0s order
+empty PREV_NAME,0,1,0s order completely please
+scratch off all items in PREV_NAME,0,1,0s order
+void PREV_NAME,0,1,0s entire order now
+clear all entries for PREV_NAME,0,1,0s order
+delete everything associated with PREV_NAME,0,1,0s order
+remove the full order for PREV_NAME,0,1,0 please
+cancel all items and drinks for PREV_NAME,0,1,0
+wipe PREV_NAME,0,1,0s order slate clean
+erase the complete order for PREV_NAME,0,1,0 now
+reset everything in PREV_NAME,0,1,0s order please
+clear out all entries for PREV_NAME,0,1,0
+delete PREV_NAME,0,1,0s order from top to bottom
+remove every single item from PREV_NAME,0,1,0s order
+start from scratch with PREV_NAME,0,1,0s order
+empty the entire contents of PREV_NAME,0,1,0s order
+scratch PREV_NAME,0,1,0s whole order please
+void all entries in PREV_NAME,0,1,0s order now
+clear PREV_NAME,0,1,0s order completely and utterly
+delete all traces of PREV_NAME,0,1,0s order
+remove everything related to PREV_NAME,0,1,0s order
+cancel PREV_NAME,0,1,0s order in its entirety please
+wipe away all items in PREV_NAME,0,1,0s order
+erase PREV_NAME,0,1,0s order from existence
+reset PREV_NAME,0,1,0s order to a blank slate
+clear every single item from PREV_NAME,0,1,0s order
+delete the full contents of PREV_NAME,0,1,0s order
+remove all traces of PREV_NAME,0,1,0s order please
+start over by clearing PREV_NAME,0,1,0s entire order
+empty out everything in PREV_NAME,0,1,0s order
+scratch off PREV_NAME,0,1,0s complete order now
+void PREV_NAME,0,1,0s order in its totality
+clear all items associated with PREV_NAME,0,1,0s order
+delete every entry in PREV_NAME,0,1,0s order please
+remove the entire order placed by PREV_NAME,0,1,0
+cancel everything related to PREV_NAME,0,1,0s order
+wipe PREV_NAME,0,1,0s order clean and start over
+erase all contents of PREV_NAME,0,1,0s order now
+reset PREV_NAME,0,1,0s order from scratch please
+clear out PREV_NAME,0,1,0s order entirely
+delete all items listed under PREV_NAME,0,1,0s name
+remove every single entry from PREV_NAME,0,1,0s order
+start afresh by clearing PREV_NAME,0,1,0s entire order
+empty PREV_NAME,0,1,0s order of all items please
+scratch everything off PREV_NAME,0,1,0s order list
+void the complete order for PREV_NAME,0,1,0 now
+clear away all entries in PREV_NAME,0,1,0s order
+delete PREV_NAME,0,1,0s order and start anew
+remove all items and drinks from PREV_NAME,0,1,0s order
+cancel the entirety of PREV_NAME,0,1,0s order please
+wipe out every item in PREV_NAME,0,1,0s order
+erase PREV_NAME,0,1,0s order and begin again
+reset the whole order for PREV_NAME,0,1,0 please
+clear PREV_NAME,0,1,0s order down to zero
+delete everything listed for PREV_NAME,0,1,0
+remove all entries associated with PREV_NAME,0,1,0s order
+start from the beginning by clearing PREV_NAME,0,1,0s order
+empty out PREV_NAME,0,1,0s order in its entirety
+scratch off every item from PREV_NAME,0,1,0s order
+void all contents of PREV_NAME,0,1,0s order now
+clear away the full order for PREV_NAME,0,1,0
+delete PREV_NAME,0,1,0s entire order and start over
+remove everything currently in PREV_NAME,0,1,0s order
+cancel all items listed under PREV_NAME,0,1,0s name
+wipe PREV_NAME,0,1,0s order completely clean now
+
+
+
+// cart slots
+clear my whole order including that PREV_SIZE,0,1,2 PREV_ITEM,0,1,0 i asked for
+remove all items including the PREV_NUMBER,0,1,2 PREV_ITEM,0,1,0s from my order
+cancel the entire order even that PREV_ITEM,0,1,0 with PREV_ADDON,2,1,1 on the side
+wipe out everything i ordered including the PREV_DRINK,0,1,0
+clear all items even the PREV_SIZE,0,1,2 PREV_ITEM,0,1,0 with PREV_ADDON,0,1,1
+delete my whole order including that PREV_NUMBER,0,1,2 PREV_DRINK,0,1,0
+remove everything even the PREV_ITEM,0,1,0 with PREV_ADDON,3,1,1 on top
+cancel all items including the PREV_SIZE,0,1,2 PREV_DRINK,0,1,0 i ordered
+can you delete the order for PREV_NAME,0,1,0 with PREV_ITEM,0,1,0
+remove my order for PREV_ITEM,0,1,0 and PREV_DRINK,0,1,0
+yo can you cancel my order with PREV_ITEM,0,1,0 and PREV_DRINK,0,1,0
+i need to scratch that order with PREV_ITEM,0,1,0
+delete the order under PREV_NAME,0,1,0 with PREV_ITEM,0,1,0
+get rid of my order for PREV_ITEM,0,1,0 and PREV_ITEM,0,1,0
+nix that order with PREV_DRINK,0,1,0 please
+wipe out the order for PREV_NAME,0,1,0 with PREV_ITEM,0,1,0
+axe my order with PREV_ITEM,0,1,0 and PREV_DRINK,0,1,0
+scrap that order for PREV_NAME,0,1,0 with PREV_ITEM,0,1,0
+cancel the whole shebang with PREV_ITEM,0,1,0
+trash my order with PREV_DRINK,0,1,0 and PREV_ITEM,0,1,0
+kill that order for PREV_NAME,0,1,0 with PREV_ITEM,0,1,0
+erase the order with PREV_ITEM,0,1,0 and PREV_ITEM,0,1,0
+zap my order for PREV_DRINK,0,1,0 please
+lemme cancel that order with PREV_ITEM,0,1,0
+remove the order under PREV_NAME,0,1,0 with PREV_DRINK,0,1,0
+86 that order with PREV_ITEM,0,1,0 and PREV_ITEM,0,1,0
+ditch my order for PREV_DRINK,0,1,0 please
+wanna delete the order for PREV_NAME,0,1,0 with PREV_ITEM,0,1,0
+chuck out my order with PREV_ITEM,0,1,0 and PREV_DRINK,0,1,0
+nuke that order for PREV_NAME,0,1,0 with PREV_ITEM,0,1,0
+clear out the order with PREV_DRINK,0,1,0
+can you drop my order for PREV_ITEM,0,1,0 and PREV_ITEM,0,1,0
+flush that order under PREV_NAME,0,1,0 with PREV_DRINK,0,1,0
+eliminate my order with PREV_ITEM,0,1,0 please
+wipe the slate clean for the order with PREV_ITEM,0,1,0
+scratch out that order for PREV_NAME,0,1,0 with PREV_DRINK,0,1,0
+obliterate my order with PREV_ITEM,0,1,0 and PREV_ITEM,0,1,0
+purge that order for PREV_DRINK,0,1,0 please
+want to cancel the order under PREV_NAME,0,1,0 with PREV_ITEM,0,1,0
+strike my order with PREV_ITEM,0,1,0 from the record
+demolish that order for PREV_NAME,0,1,0 with PREV_DRINK,0,1,0
+vaporize my order with PREV_ITEM,0,1,0 and PREV_ITEM,0,1,0
+terminate the order for PREV_DRINK,0,1,0 please
+annihilate my order under PREV_NAME,0,1,0 with PREV_DRINK,0,1,0
+deep six that order with PREV_ITEM,0,1,0 and PREV_ITEM,0,1,0
+dissolve my order for PREV_DRINK,0,1,0 please
+pull the plug on that order for PREV_NAME,0,1,0 with PREV_ITEM,0,1,0
+exterminate my order with PREV_ITEM,0,1,0 and PREV_DRINK,0,1,0
+shred that order under PREV_NAME,0,1,0 with PREV_ITEM,0,1,0
+bust up my order for PREV_DRINK,0,1,0 please
+do away with that order with PREV_ITEM,0,1,0 and PREV_ITEM,0,1,0
+give my order with PREV_DRINK,0,1,0 the boot
+knock out that order for PREV_NAME,0,1,0 with PREV_ITEM,0,1,0
+delete my order with PREV_ITEM,0,1,0 and PREV_DRINK,0,1,0
+scuttle that order under PREV_NAME,0,1,0 with PREV_ITEM,0,1,0
+null and void my order for PREV_DRINK,0,1,0 please
+throw out that order with PREV_ITEM,0,1,0 and PREV_ITEM,0,1,0

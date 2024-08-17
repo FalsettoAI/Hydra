@@ -1,0 +1,22 @@
+// intent sentences with no labels
+
+
+
+
+// basic sentences
+
+
+
+
+// multiple objects at once
+
+
+
+
+// include name
+
+
+
+
+// add multiple objects and modify a couple of them specifically
+can i have NUMBER,0,0,2 
