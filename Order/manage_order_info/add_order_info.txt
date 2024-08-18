@@ -1,22 +1,707 @@
-// intent sentences with no labels
-
+// no labels
+hi there im calling to place an order
+could i start a new order please
+id like to begin an order if thats alright
+im ready to place my order
+can we get an order going
+calling to start an order
+hi im phoning in to make an order
+lets kick off an order if you dont mind
+im hoping to place an order
+could you start an order for me please
+calling to get an order underway
+id like to set up an order
+hey id like to place an order
+can we start a new order
+im looking to make an order
+ready to start my order
+hi there id like to begin an order
+could you get an order started for me
+im calling to place an order
+lets get an order rolling
+speaking id like to start my order
+hi can i get an order going
+id like to place an order please
+could we begin an order
+hey there looking to start an order
+id like to get an order going
+can i start placing an order
+wanting to make an order
+hi im calling to set up an order
+lets begin an order please
+im phoning to place an order
+could you start a new order for me
+calling to kick off an order
+hey id like to get an order started
+can we initiate an order
+im ready to start my order
+hi there id like to commence an order
+could you begin a new order
+looking to place an order
+lets get the ball rolling on an order
+im calling to start a new order
+hey there can i place an order
+id like to get an order going
+hi im ready to start my order
+could we get an order underway
+id like to begin placing my order
+hey there im looking to start an order
+can you kick off a new order for me
+calling to initiate an order please
+hi there id like to get the ball rolling on an order
 
 
 
 // basic sentences
+NUMBER,0,0,2 ITEM,0,0,0s with ADDON,0,0,2
+can i get an ITEM,0,0,0 with ADDON,0,0,1 and no ADDON,1,0,1
+a SIZE,0,0,2 ITEM,0,0,0 please
+lemme add ITEM,0,0,0 with some ADDON,0,0,1 on it
+another ITEM,0,0,0 with NUMBER,0,0,3 ADDON,0,0,1s
+just a SIZE,0,0,2 DRINK,0,0,0 thanks
+how about a DRINK,0,0,0 with ADDON,0,0,1
+give me an ITEM,0,0,0 no ADDON,1,0,1
+could you add a SIZE,0,0,2 DRINK,0,0,0
+lemme get a NUMBER,0,0,2 ITEM,0,0,0 with ADDON,0,0,2
+a SIZE,0,0,2 DRINK,0,0,0 no ADDON,1,0,2
+how bout an ITEM,0,0,0 and hold the ADDON,1,0,1
+a SIZE,0,0,2 DRINK,0,0,0 please
+make that NUMBER,0,0,2 ITEM,0,0,0s with ADDON,0,0,2
+can i have a DRINK,0,0,0 with ADDON,0,0,1
+gimme a SIZE,0,0,2 ITEM,0,0,0 with ADDON,0,0,2
+a NUMBER,0,0,2 ITEM,0,0,0 but without ADDON,1,0,2
+a SIZE,0,0,2 DRINK,0,0,0 with ADDON,0,0,2
+another ITEM,0,0,0 with some ADDON,0,0,1
+lemme get a SIZE,0,0,2 ITEM,0,0,0
+lemme get a SIZE,0,0,2 ITEM,0,0,0 with ADDON,0,0,2
+yo can i add a DRINK,0,0,0 to that order
+ill do a ITEM,0,0,0
+lets just have NUMBER,0,0,2 ITEM,0,0,0s
+i would like NUMBER,0,0,2 ITEM,0,0,0s
+can i have a ITEM,0,0,0
+an ITEM,0,0,0 with SIZE,0,0,3 ADDON,0,0,1
+a SIZE,0,0,2 ITEM,0,0,0 with SIZE,0,0,4 ADDON,0,0,2
+a SIZE,0,0,2 ITEM,0,0,0 with NUMBER,0,0,4 ADDON,0,0,2
+SIZE,0,0,2 ITEM,0,0,0
+a ITEM,0,0,0 with ADDON,0,0,1
+a ITEM,0,0,0 with no ADDON,1,0,1
+a ITEM,0,0,0 with SIZE,0,0,3 ADDON,0,0,1
+NUMBER,0,0,2 ITEM,0,0,0s
+NUMBER,0,0,2 ITEM,0,0,0s with ADDON,0,0,2
+NUMBER,0,0,2 ITEM,0,0,0s with no ADDON,1,0,2
+NUMBER,0,0,2 ITEM,0,0,0s with SIZE,0,0,4 ADDON,0,0,2
+NUMBER,0,0,2 ITEM,0,0,0s with NUMBER,0,0,4 ADDON,0,0,2
+a ITEM,0,0,0 with ADDON,0,0,1 ADDON,0,0,1 and ADDON,0,0,1 but no ADDON,0,0,1
+a ITEM,0,0,0 with ADDON,0,0,1 and ADDON,0,0,1 but no ADDON,0,0,1
+a ITEM,0,0,0 with ADDON,0,0,1 but no ADDON,0,0,1
+a ITEM,0,0,0 with ADDON,0,0,1 ADDON,0,0,1 and ADDON,0,0,1
+NUMBER,0,0,2 ITEM,0,0,0 with ADDON,0,0,2 ADDON,0,0,2 and ADDON,0,0,2 but no ADDON,0,0,2
+NUMBER,0,0,2 ITEM,0,0,0 with ADDON,0,0,2 and ADDON,0,0,2 but no ADDON,0,0,2
+NUMBER,0,0,2 ITEM,0,0,0 with ADDON,0,0,2 but no ADDON,0,0,2
+NUMBER,0,0,2 ITEM,0,0,0 with ADDON,0,0,2 ADDON,0,0,2 and ADDON,0,0,2
+SIZE,0,0,2 ITEM,0,0,0 with ADDON,0,0,2 ADDON,0,0,2 and ADDON,0,0,2 but no ADDON,0,0,2
+SIZE,0,0,2 ITEM,0,0,0 with ADDON,0,0,2 and ADDON,0,0,2 but no ADDON,0,0,2
+SIZE,0,0,2 ITEM,0,0,0 with ADDON,0,0,2 but no ADDON,0,0,2
+SIZE,0,0,2 ITEM,0,0,0 with ADDON,0,0,2 ADDON,0,0,2 and ADDON,0,0,2
+NUMBER,0,0,3 SIZE,0,0,3 ITEM,0,0,0 with ADDON,0,0,3 ADDON,0,0,3 and ADDON,0,0,3 but no ADDON,0,0,3
+NUMBER,0,0,3 SIZE,0,0,3 ITEM,0,0,0 with ADDON,0,0,3 and ADDON,0,0,3 but no ADDON,0,0,3
+NUMBER,0,0,3 SIZE,0,0,3 ITEM,0,0,0 with ADDON,0,0,3 but no ADDON,0,0,3
+NUMBER,0,0,3 SIZE,0,0,3 ITEM,0,0,0 with ADDON,0,0,3 ADDON,0,0,3 and ADDON,0,0,3
+a SIZE,0,0,2 DRINK,0,0,0 with SIZE,0,0,4 ADDON,0,0,2
+a SIZE,0,0,2 DRINK,0,0,0 with NUMBER,0,0,4 ADDON,0,0,2
+SIZE,0,0,2 DRINK,0,0,0
+a DRINK,0,0,0 with ADDON,0,0,1
+a DRINK,0,0,0 with no ADDON,1,0,1
+a DRINK,0,0,0 with SIZE,0,0,3 ADDON,0,0,1
+NUMBER,0,0,2 DRINK,0,0,0s
+NUMBER,0,0,2 DRINK,0,0,0s with ADDON,0,0,2
+NUMBER,0,0,2 DRINK,0,0,0s with no ADDON,1,0,2
+NUMBER,0,0,2 DRINK,0,0,0s with SIZE,0,0,4 ADDON,0,0,2
+NUMBER,0,0,2 DRINK,0,0,0s with NUMBER,0,0,4 ADDON,0,0,2
+how bout a SIZE,0,0,2 DRINK,0,0,0 with ADDON,0,0,2
+throw in an ITEM,0,0,0 but hold the ADDON,1,0,1
+gimme one of them ITEM,0,0,0s with ADDON,0,0,1
+i want a SIZE,0,0,2 ITEM,0,0,0 no ADDON,1,0,2
+could you add a DRINK,0,0,0 with some ADDON,0,0,1
+lets go with NUMBER,0,0,2 ITEM,0,0,0s and ADDON,0,0,2
+toss in an ITEM,0,0,0 and pile on the ADDON,0,0,1
+can i get that ITEM,0,0,0 without any ADDON,1,0,1
+make it a SIZE,0,0,2 DRINK,0,0,0 with a splash of ADDON,0,0,2
+ill take NUMBER,0,0,2 ITEM,0,0,0s and load em up with ADDON,0,0,2
+how about adding a DRINK,0,0,0 no ADDON,1,0,1
+lets do a SIZE,0,0,2 ITEM,0,0,0
+gimme one of those ITEM,0,0,0s but skip the ADDON,1,0,1
+NUMBER,0,0,2 ITEM,0,0,0s and SIZE,0,0,4 ADDON,0,0,2
+i need a SIZE,0,0,2 DRINK,0,0,0 with SIZE,0,0,4 ADDON,0,0,2
+can you add an ITEM,0,0,0 and SIZE,0,0,3 ADDON,0,0,1
+make that a SIZE,0,0,2 ITEM,0,0,0 but no ADDON,1,0,2
+lets get a DRINK,0,0,0 and top it off with ADDON,0,0,1
+NUMBER,0,0,2 ITEM,0,0,0s and ADDON,0,0,2
+how bout a SIZE,0,0,2 DRINK,0,0,0 with SIZE,0,0,4 ADDON,0,0,2
+toss in an ITEM,0,0,0 and ADDON,0,0,1
+ill take a DRINK,0,0,0 but hold the ADDON,1,0,1
+gimme a SIZE,0,0,2 ITEM,0,0,0 and make it snappy
+add NUMBER,0,0,2 ITEM,0,0,0s with a sprinkle of ADDON,0,0,2
+lets do a DRINK,0,0,0 with a dash of ADDON,0,0,1
+hook me up with a SIZE,0,0,2 ITEM,0,0,0 with ADDON,0,0,2
+can i get an ITEM,0,0,0 minus the ADDON,1,0,1
+throw in a SIZE,0,0,2 DRINK,0,0,0 and go SIZE,0,0,4 ADDON,0,0,2
+make it NUMBER,0,0,2 ITEM,0,0,0s including ADDON,0,0,2
+how about adding a DRINK,0,0,0 with a twist of ADDON,0,0,1
+lets get a SIZE,0,0,2 ITEM,0,0,0
+i want an ITEM,0,0,0 but no the ADDON,1,0,1
+can you toss in a DRINK,0,0,0
+NUMBER,0,0,2 ITEM,0,0,0s and throw in some ADDON,0,0,2
+gimme a SIZE,0,0,2 DRINK,0,0,0 with ADDON,0,0,2
+add an ITEM,0,0,0 and pile on the ADDON,0,0,1
+lets do a SIZE,0,0,2 ITEM,0,0,0 but skip the ADDON,1,0,2
+how bout a DRINK,0,0,0 with ADDON,0,0,1
+NUMBER,0,0,2 ITEM,0,0,0s
+i need a SIZE,0,0,2 DRINK,0,0,0
+can you add an ITEM,0,0,0
+make that a SIZE,0,0,2 ITEM,0,0,0 hold the ADDON,1,0,2
+throw in a DRINK,0,0,0
+NUMBER,0,0,2 ITEM,0,0,0s with a side of ADDON,0,0,2
+lets get a SIZE,0,0,2 DRINK,0,0,0
+toss in an ITEM,0,0,0 and slather it with ADDON,0,0,1
+ill have a DRINK,0,0,0
+gimme a SIZE,0,0,2 ITEM,0,0,0
+add NUMBER,0,0,2 ITEM,0,0,0s with a dollop of ADDON,0,0,2
+lets do a DRINK,0,0,0 with a kick of ADDON,0,0,1
+hook me up with a SIZE,0,0,2 ITEM,0,0,0
+can i get an ITEM,0,0,0 no ADDON,1,0,1
+throw in a SIZE,0,0,2 DRINK,0,0,0
+make it NUMBER,0,0,2 ITEM,0,0,0s with ADDON,0,0,2
+how about adding a DRINK,0,0,0 with a pinch of ADDON,0,0,1
+lets get a SIZE,0,0,2 ITEM,0,0,0 and make it sing
+i want an ITEM,0,0,0 but nix the ADDON,1,0,1
+can you toss in a DRINK,0,0,0 and make it pop
+NUMBER,0,0,2 ITEM,0,0,0s with ADDON,0,0,2
+gimme a SIZE,0,0,2 DRINK,0,0,0 with a float of ADDON,0,0,2
+add an ITEM,0,0,0 and ADDON,0,0,1
+lets do a SIZE,0,0,2 ITEM,0,0,0 but ditch the ADDON,1,0,2
+how bout a DRINK,0,0,0 with a spritz of ADDON,0,0,1
+can you add an ITEM,0,0,0 with the works
+NUMBER,0,0,2 ITEM,0,0,0s with SIZE,0,0,4 ADDON,0,0,2
+toss in an ITEM,0,0,0 and SIZE,0,0,3 ADDON,0,0,1
+add NUMBER,0,0,2 ITEM,0,0,0s with a schmear of ADDON,0,0,2
+lets do a DRINK,0,0,0 with a blast of ADDON,0,0,1
+can i get an ITEM,0,0,0 minus the ADDON,1,0,1 please
+throw in a DRINK,0,0,0 make it a SIZE,0,0,2
+make it NUMBER,0,0,2 ITEM,0,0,0s smothered in ADDON,0,0,2
+how about adding a DRINK,0,0,0 with a dash of ADDON,0,0,1
+lets get a SIZE,0,0,2 ITEM,0,0,0 and kick it up a notch
+i want an ITEM,0,0,0 but pass on the ADDON,1,0,1
+gimme a SIZE,0,0,2 DRINK,0,0,0 with a swirl of ADDON,0,0,2
+add an ITEM,0,0,0 and amp up the ADDON,0,0,1
+lets do a SIZE,0,0,2 ITEM,0,0,0 but lose the ADDON,1,0,2
+how bout a DRINK,0,0,0 with ADDON,0,0,1
+can you add an ITEM,0,0,0
+NUMBER,0,0,2 ITEM,0,0,0s with SIZE,0,0,4 ADDON,0,0,2
+toss in an ITEM,0,0,0 and SIZE,0,0,3 ADDON,0,0,1
+lets do a DRINK,0,0,0 with a punch of ADDON,0,0,1
+can i get an ITEM,0,0,0 stripped of ADDON,1,0,1
+make it NUMBER,0,0,2 ITEM,0,0,0s SIZE,0,0,4 ADDON,0,0,2
+how about adding a DRINK,0,0,0 with ADDON,0,0,1
+i want an ITEM,0,0,0 but cut the ADDON,1,0,1
+NUMBER,0,0,2 ITEM,0,0,0s and SIZE,0,0,4 ADDON,0,0,2
+gimme a SIZE,0,0,2 DRINK,0,0,0 with ADDON,0,0,2
+add an ITEM,0,0,0
+lets do a SIZE,0,0,2 ITEM,0,0,0 but ax the ADDON,1,0,2
+how bout a DRINK,0,0,0 with SIZE,0,0,3 ADDON,0,0,1
+lets get a SIZE,0,0,2 DRINK,0,0,0 blended with ADDON,0,0,2
+add NUMBER,0,0,2 ITEM,0,0,0s with a drizzle of ADDON,0,0,2
+lets do a DRINK,0,0,0 with a burst of ADDON,0,0,1
+can i get an ITEM,0,0,0 free from ADDON,1,0,1
+make it NUMBER,0,0,2 ITEM,0,0,0s swimming in ADDON,0,0,2
+how about adding a DRINK,0,0,0 with a splash of ADDON,0,0,1
+i want an ITEM,0,0,0 but ditch the ADDON,1,0,1
+NUMBER,0,0,2 ITEM,0,0,0s and coat em in ADDON,0,0,2
+gimme a SIZE,0,0,2 DRINK,0,0,0 with a squeeze of ADDON,0,0,2
+add an ITEM,0,0,0 and SIZE,0,0,3 ADDON,0,0,1
+lets do a SIZE,0,0,2 ITEM,0,0,0 but skip the ADDON,1,0,2
+how bout a DRINK,0,0,0 with a zest of ADDON,0,0,1
+gimme a NUMBER,0,0,2 ITEM,0,0,0 with SIZE,0,0,4 ADDON,0,0,2
+can i get a SIZE,0,0,2 DRINK,0,0,0 and SIZE,0,0,4 ADDON,0,0,2
+throw in an ITEM,0,0,0 but SIZE,0,0,3 ADDON,0,0,1
+how bout NUMBER,0,0,2 ITEM,0,0,0s without ADDON,1,0,2
+lemme get a DRINK,0,0,0 with SIZE,0,0,3 ADDON,0,0,1
+ill take a SIZE,0,0,2 ITEM,0,0,0
+can you do a DRINK,0,0,0 but make it with SIZE,0,0,3 ADDON,0,0,1
+add NUMBER,0,0,2 ITEM,0,0,0s and SIZE,0,0,4 ADDON,0,0,2
+yo toss in a SIZE,0,0,2 ITEM,0,0,0 minus the ADDON,1,0,2
+how about a DRINK,0,0,0 with SIZE,0,0,3 ADDON,0,0,1
+give me an ITEM,0,0,0 with ADDON,0,0,1
+lets get NUMBER,0,0,2 ITEM,0,0,0s with SIZE,0,0,4 ADDON,0,0,2
+ill have a SIZE,0,0,2 DRINK,0,0,0
+can you add an ITEM,0,0,0 but SIZE,0,0,3 ADDON,0,0,1
+make that NUMBER,0,0,2 ITEM,0,0,0s and SIZE,0,0,4 the ADDON,0,0,2
+how bout a DRINK,0,0,0 with a SIZE,0,0,3 splash of ADDON,0,0,1
+throw in a SIZE,0,0,2 ITEM,0,0,0 and SIZE,0,0,3 ADDON,0,0,2
+gimme a DRINK,0,0,0 but hold the ADDON,1,0,1
+can i get NUMBER,0,0,2 ITEM,0,0,0s with SIZE,0,0,4 ADDON,0,0,2
+add a DRINK,0,0,0 with SIZE,0,0,3 ADDON,0,0,1
+ill take an ITEM,0,0,0 but with SIZE,0,0,3 ADDON,0,0,1
+how about NUMBER,0,0,2 ITEM,0,0,0s without any ADDON,1,0,2
+can you make a SIZE,0,0,2 DRINK,0,0,0 with SIZE,0,0,4 ADDON,0,0,2
+toss in an ITEM,0,0,0 with ADDON,0,0,1
+lemme get a DRINK,0,0,0 but SIZE,0,0,3 ADDON,0,0,1
+give me NUMBER,0,0,2 ITEM,0,0,0s
+how bout a SIZE,0,0,2 ITEM,0,0,0 minus the ADDON,1,0,2
+can i add a DRINK,0,0,0 with SIZE,0,0,3 ADDON,0,0,1
+throw in an ITEM,0,0,0 with SIZE,0,0,3 ADDON,0,0,1
+ill have NUMBER,0,0,2 ITEM,0,0,0s but SIZE,0,0,4 ADDON,0,0,2
+lets get a SIZE,0,0,2 DRINK,0,0,0 and SIZE,0,0,4 ADDON,0,0,2
+can you do an ITEM,0,0,0 without the ADDON,1,0,1
+make that a DRINK,0,0,0 but SIZE,0,0,3 ADDON,0,0,1
+gimme NUMBER,0,0,2 ITEM,0,0,0s and SIZE,0,0,4 ADDON,0,0,2
+how about a SIZE,0,0,2 ITEM,0,0,0 with SIZE,0,0,4 ADDON,0,0,2
+toss in a DRINK,0,0,0 and make it with SIZE,0,0,3 ADDON,0,0,1
+ill take an ITEM,0,0,0 but SIZE,0,0,3 ADDON,0,0,1
+can i get NUMBER,0,0,2 ITEM,0,0,0s
+lets do a SIZE,0,0,2 DRINK,0,0,0 with a SIZE,0,0,4 ADDON,0,0,2
+add an ITEM,0,0,0 but skip the ADDON,1,0,1
+how bout a DRINK,0,0,0 with ADDON,0,0,1
+give me NUMBER,0,0,2 ITEM,0,0,0s
+can you make a SIZE,0,0,2 ITEM,0,0,0 without ADDON,1,0,2 or ADDON,1,0,2
+throw in a DRINK,0,0,0 and with ADDON,0,0,1
+lemme get an ITEM,0,0,0 with ADDON,0,0,1
+ill have NUMBER,0,0,2 ITEM,0,0,0s and SIZE,0,0,4 ADDON,0,0,2
+how about a SIZE,0,0,2 DRINK,0,0,0 with ADDON,0,0,2
+can i add an ITEM,0,0,0 but make it with ADDON,0,0,1
+toss in NUMBER,0,0,2 ITEM,0,0,0s minus the ADDON,1,0,2
+gimme a SIZE,0,0,2 DRINK,0,0,0 and SIZE,0,0,4 ADDON,0,0,2
+lets get an ITEM,0,0,0 with SIZE,0,0,3 ADDON,0,0,1
+can you do NUMBER,0,0,2 ITEM,0,0,0s
+a SIZE,0,0,2 DRINK,0,0,0 with ADDON,0,0,2
+ill take an ITEM,0,0,0 but hold the ADDON,1,0,1
+how bout NUMBER,0,0,2 ITEM,0,0,0s with SIZE,0,0,4 ADDON,0,0,2
+throw in a SIZE,0,0,2 DRINK,0,0,0
+add an ITEM,0,0,0 with ADDON,0,0,1 and ADDON,0,0,1 but no ADDON,1,0,1
+can i get NUMBER,0,0,2 ITEM,0,0,0s without any ADDON,1,0,2
+lets do a SIZE,0,0,2 DRINK,0,0,0 with ADDON,0,0,2
+gimme an ITEM,0,0,0 but make it with SIZE,0,0,3 ADDON,0,0,1
+how about NUMBER,0,0,2 ITEM,0,0,0s
+toss in a SIZE,0,0,2 DRINK,0,0,0 with SIZE,0,0,4 ADDON,0,0,2
+ill have an ITEM,0,0,0 minus the ADDON,1,0,1
+can you add NUMBER,0,0,2 ITEM,0,0,0s
+lemme get a SIZE,0,0,2 DRINK,0,0,0
+give me an ITEM,0,0,0 and SIZE,0,0,3 ADDON,0,0,1
+how bout NUMBER,0,0,2 ITEM,0,0,0s but skip the ADDON,1,0,2
+throw in a SIZE,0,0,2 DRINK,0,0,0
+can i get an ITEM,0,0,0 with SIZE,0,0,3 ADDON,0,0,1
+ill take a SIZE,0,0,2 DRINK,0,0,0 but SIZE,0,0,4 ADDON,0,0,2
+lets get an ITEM,0,0,0 without the ADDON,1,0,1
+add NUMBER,0,0,2 ITEM,0,0,0s and SIZE,0,0,4 ADDON,0,0,2
+gimme a SIZE,0,0,2 DRINK,0,0,0 with SIZE,0,0,4 ADDON,0,0,2
+can you do an ITEM,0,0,0 and make it SIZE,0,0,3 ADDON,0,0,1
+how about NUMBER,0,0,2 ITEM,0,0,0s minus the ADDON,1,0,2
+toss in a SIZE,0,0,2 DRINK,0,0,0
+ill have an ITEM,0,0,0 but SIZE,0,0,3 ADDON,0,0,1
+lets do a SIZE,0,0,2 DRINK,0,0,0 without ADDON,1,0,2
+throw in an ITEM,0,0,0 and make it with ADDON,0,0,1
+how bout NUMBER,0,0,2 ITEM,0,0,0s with SIZE,0,0,4 ADDON,0,0,2
+gimme a SIZE,0,0,2 DRINK,0,0,0 containing ADDON,0,0,2
+can you add an ITEM,0,0,0 but hold the ADDON,1,0,1
+ill take a SIZE,0,0,2 DRINK,0,0,0
+lets get an ITEM,0,0,0 and SIZE,0,0,3 ADDON,0,0,1
+add NUMBER,0,0,2 ITEM,0,0,0s without ADDON,1,0,2
+how about a SIZE,0,0,2 DRINK,0,0,0 and make it NUMBER,0,0,4 ADDON,0,0,2
+can i get an ITEM,0,0,0 with ADDON,0,0,1
+toss in NUMBER,0,0,2 ITEM,0,0,0s no ADDON,1,0,2
+gimme a DRINK,0,0,0
+ill have an ITEM,0,0,0 minus the ADDON,1,0,1
+can you do NUMBER,0,0,2 ITEM,0,0,0s and without ADDON,1,0,2
+lemme get a SIZE,0,0,2 DRINK,0,0,0 with ADDON,0,0,2
+throw in an ITEM,0,0,0 and make it SIZE,0,0,3 ADDON,0,0,1
+how bout NUMBER,0,0,2 ITEM,0,0,0s but skip the ADDON,1,0,2
+add a SIZE,0,0,2 DRINK,0,0,0 with NUMBER,0,0,4 ADDON,0,0,2
+give me an ITEM,0,0,0
+can i get NUMBER,0,0,2 ITEM,0,0,0s and SIZE,0,0,4 ADDON,0,0,2
+lets do a SIZE,0,0,2 DRINK,0,0,0 without any ADDON,1,0,2
+toss in an ITEM,0,0,0 but make it without ADDON,1,0,1
+ill take NUMBER,0,0,2 ITEM,0,0,0s
+how about a SIZE,0,0,2 DRINK,0,0,0 with ADDON,0,0,2
+can you add an ITEM,0,0,0 minus the ADDON,1,0,1
+NUMBER,0,0,2 ITEM,0,0,0s and SIZE,0,0,4 ADDON,0,0,2
+gimme NUMBER,0,0,3 SIZE,0,0,3 DRINK,0,0,0s
+lets get an ITEM,0,0,0 with SIZE,0,0,3 ADDON,0,0,1
+throw in NUMBER,0,0,2 ITEM,0,0,0s without any ADDON,1,0,2
+how bout a SIZE,0,0,2 DRINK,0,0,0 and make it SIZE,0,0,4 ADDON,0,0,2
+can i get an ITEM,0,0,0 and SIZE,0,0,3 ADDON,0,0,1
+add NUMBER,0,0,3 SIZE,0,0,3 ITEM,0,0,0s
+ill have a SIZE,0,0,2 DRINK,0,0,0 but hold the ADDON,1,0,2
+toss in an ITEM,0,0,0 with ADDON,0,0,1
+lemme get NUMBER,0,0,2 ITEM,0,0,0s with ADDON,0,0,2 and SIZE,0,0,5 ADDON,0,0,2
+can you do a SIZE,0,0,2 DRINK,0,0,0 with SIZE,0,0,4 ADDON,0,0,2 and SIZE,0,0,6 ADDON,0,0,2
+give me an ITEM,0,0,0 but skip the ADDON,1,0,1
+how about NUMBER,0,0,2 ITEM,0,0,0s and hold the ADDON,1,0,2 and ADDON,1,0,2
+throw in a SIZE,0,0,2 DRINK,0,0,0 with a ADDON,0,0,2
+ill take an ITEM,0,0,0 and make it SIZE,0,0,3 ADDON,0,0,1
+can i add NUMBER,0,0,2 ITEM,0,0,0s minus the ADDON,1,0,2
+lets get a SIZE,0,0,2 DRINK,0,0,0 and no ADDON,1,0,2
+gimme an ITEM,0,0,0 with SIZE,0,0,3 ADDON,0,0,1
+how bout NUMBER,0,0,3 SIZE,0,0,3 ITEM,0,0,0s and ADDON,0,0,3
+toss in a SIZE,0,0,2 DRINK,0,0,0 but SIZE,0,0,4 ADDON,0,0,2
+can you make an ITEM,0,0,0 without ADDON,1,0,1
+add NUMBER,0,0,2 ITEM,0,0,0s and SIZE,0,0,4 ADDON,0,0,2
+ill have a DRINK,0,0,0 with SIZE,0,0,3 ADDON,0,0,1 ADDON,0,0,1 and no ADDON,1,0,1
+lets do an ITEM,0,0,0
+throw in NUMBER,0,0,2 ITEM,0,0,0s but hold the ADDON,1,0,2
+how about a DRINK,0,0,0 and make it SIZE,0,0,1
+can i get an ITEM,0,0,0 with SIZE,0,0,3 ADDON,0,0,1
+NUMBER,0,0,2 ITEM,0,0,0s with ADDON,0,0,2
+gimme a SIZE,0,0,2 DRINK,0,0,0 without ADDON,1,0,2
+ill take an ITEM,0,0,0 and SIZE,0,0,3 ADDON,0,0,1
 
 
 
+// specify create order
+id like to start an order with NUMBER,0,0,2 ITEM,0,0,0s
+lets create an order and add a DRINK,0,0,0 with ADDON,0,0,1
+can i make a new order with NUMBER,0,0,3 SIZE,0,0,3 ITEM,0,0,0s
+im ready to order ill have NUMBER,0,0,2 DRINK,0,0,0s
+start an order for me with ITEM,0,0,0 with ADDON,0,0,1
+lets begin my order with a SIZE,0,0,2 DRINK,0,0,0
+id like to place an order for NUMBER,0,0,2 ITEM,0,0,0s please
+can we start a new order with DRINK,3,0,0 that has ADDON,0,0,1 on it
+im gonna order now give me SIZE,0,0,2 ITEM,0,0,0
+lets kick off my order with NUMBER,0,0,2 DRINK,0,0,0s
+time to order ill take ITEM,0,0,0 with ADDON,2,0,1 on the side
+can you start an order with SIZE,0,0,2 DRINK,0,0,0 for me
+id like to begin my order with NUMBER,0,0,2 ITEM,0,0,0s
+lets get an order going with a DRINK,0,0,0 and put ADDON,3,0,1 on it
+im ready to place my order give me a SIZE,0,0,2 ITEM,0,0,0
+can we start a new ticket with NUMBER,0,0,2 DRINK,0,0,0s
+id like to order now ill have an ITEM,0,0,0 with ADDON,0,0,1
+lets start my order off with a SIZE,0,0,2 DRINK,0,0,0
+im gonna place an order for NUMBER,0,0,2 ITEM,0,0,0s
+can you begin a new order with DRINK,0,0,0 but put ADDON,2,0,1 on the side
+id like to get an order going with NUMBER,0,0,3 SIZE,0,0,3 ITEM,0,0,0s that have ADDON,3,0,3 on them
+lets create a new ticket with NUMBER,0,0,2 DRINK,0,0,0s
+im ready to start my order ill take ITEM,0,0,0 with NUMBER,0,0,3 ADDON,3,0,1s on top
+can we begin my order with NUMBER,0,0,3 SIZE,0,0,3 DRINK,0,0,0
+id like to kick off my order with NUMBER,0,0,2 ITEM,0,0,0s
+im gonna order now give me a SIZE,0,0,2 ITEM,0,0,0
+can you create a new ticket with NUMBER,0,0,2 DRINK,0,0,0s
+id like to place my order with a ITEM,0,0,0 that has ADDON,2,0,1 on the side
 
-// multiple objects at once
+
+
+// "on the side"
+lemme get a SIZE,0,0,2 DRINK,0,0,0 with ADDON,2,0,2 separately
+ITEM,0,0,0 and ADDON,2,0,1 separately
+NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,2 separately
+SIZE,0,0,2 DRINK,0,0,0 and ADDON,2,0,2 separately
+can i get an ITEM,0,0,0 with ADDON,2,0,1 separately
+ill take a DRINK,0,0,0 and ADDON,2,0,1 as a side dish
+lets do NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,2 as a side dish
+add a SIZE,0,0,2 DRINK,0,0,0 and ADDON,2,0,2 as a side dish
+toss in an ITEM,0,0,0 with ADDON,2,0,1 as a side dish
+how about a DRINK,0,0,0 and ADDON,2,0,1 as a side dish
+can you do NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,2 as a side dish
+give me a SIZE,0,0,2 DRINK,0,0,0 and ADDON,2,0,2 as a side dish
+ill have an ITEM,0,0,0 with ADDON,2,0,1 alongside
+lets get a DRINK,0,0,0 and ADDON,2,0,1 alongside
+throw in NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,2 alongside
+SIZE,0,0,2 DRINK,0,0,0 and ADDON,2,0,2 alongside please
+ITEM,0,0,0 with ADDON,2,0,1 alongside
+SIZE,0,0,2 DRINK,0,0,0 and ADDON,2,0,2 alongside
+ITEM,0,0,0 with ADDON,2,0,1 alongside
+DRINK,0,0,0 and ADDON,2,0,1 alongside
+NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,2 alongside
+SIZE,0,0,2 DRINK,0,0,0 and ADDON,2,0,2 alongside
+ITEM,0,0,0 with ADDON,2,0,1 alongside
+DRINK,0,0,0 and ADDON,2,0,1 alongside
+gimme NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,2 off to the side
+can you do a SIZE,0,0,2 DRINK,0,0,0 and ADDON,2,0,2 off to the side
+give me a DRINK,0,0,0 and ADDON,2,0,1 off to the side
+ill take an ITEM,0,0,0 with ADDON,2,0,1 off to the side
+how about NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,2 off to the side
+ill have a DRINK,0,0,0 and ADDON,2,0,1 off to the side
+toss in NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,2 off to the side
+how bout a SIZE,0,0,2 DRINK,0,0,0 and ADDON,2,0,2 off to the side
+throw in a SIZE,0,0,2 DRINK,0,0,0 and ADDON,2,0,2 off to the side
+give me an ITEM,0,0,0 with ADDON,2,0,1 off to the side
+can you do a DRINK,0,0,0 and ADDON,2,0,1 on the side
+SIZE,0,0,2 DRINK,0,0,0 and ADDON,2,0,2 on the side
+SIZE,0,0,2 DRINK,0,0,0 and ADDON,2,0,2 served apart
+DRINK,0,0,0 and ADDON,2,0,1 served apart
+add NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,2 served apart
+can you do an ITEM,0,0,0 with ADDON,2,0,1 served apart
+toss in a DRINK,0,0,0 and ADDON,2,0,1 served apart
+lets get NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,2 served apart
+gimme NUMBER,0,0,3 SIZE,0,0,3 ITEM,0,0,0s and a DRINK,0,0,0 with ADDON,2,0,4 served apart
+toss in a ITEM,0,0,0 with SIZE,0,0,3 ADDON,2,0,1 served apart and NUMBER,0,0,5 DRINK,0,0,0s
+SIZE,0,0,2 DRINK,0,0,0 plus NUMBER,0,0,4 ITEM,0,0,0s with ADDON,2,0,4 served apart
+ADDON,2,0,3 served apart with a SIZE,0,0,3 ITEM,0,0,0 and a DRINK,0,0,0
+NUMBER,0,0,2 DRINK,0,0,0s and an ITEM,0,0,0 with SIZE,0,0,5 ADDON,2,0,3 served apart
+ITEM,0,0,0 SIZE,0,0,1 and DRINK,0,0,0 with NUMBER,0,0,5 ADDON,2,0,3 served apart
+SIZE,0,0,2 ADDON,2,0,3 served apart for my ITEM,0,0,0 and NUMBER,0,0,5 DRINK,0,0,0s
+NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,2 served apart and a SIZE,0,0,5 DRINK,0,0,0
+SIZE,0,0,2 DRINK,0,0,0 and ITEM,0,0,0 with ADDON,2,0,3 served apart
+NUMBER,0,0,3 SIZE,0,0,3 ITEM,0,0,0s and ADDON,2,0,5 on its own for my DRINK,0,0,0
+ITEM,0,0,0 with ADDON,2,0,1 on its own and NUMBER,0,0,5 SIZE,0,0,5 DRINK,0,0,0s
+ADDON,2,0,3 on its own with NUMBER,0,0,3 ITEM,0,0,0s and a SIZE,0,0,5 DRINK,0,0,0
+ill have SIZE,0,0,2 ADDON,2,0,3 on its own for my DRINK,0,0,0 and NUMBER,0,0,5 ITEM,0,0,0s
+add NUMBER,0,0,2 DRINK,0,0,0s and an ITEM,0,0,0 with SIZE,0,0,5 ADDON,2,0,3 on its own
+can i get a SIZE,0,0,2 ITEM,0,0,0 and NUMBER,0,0,4 DRINK,0,0,0s with ADDON,2,0,4 on its own
+how bout NUMBER,0,0,3 SIZE,0,0,3 ITEM,0,0,0s and a DRINK,0,0,0 with ADDON,2,0,4 on its own
+gimme a DRINK,0,0,0 and ITEM,0,0,0 with SIZE,0,0,4 ADDON,2,0,2 on its own
+lets do NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,2 on its own and a SIZE,0,0,5 DRINK,0,0,0
+SIZE,0,0,2 ADDON,2,0,3 on its own for my ITEM,0,0,0 and NUMBER,0,0,5 DRINK,0,0,0s
+SIZE,0,0,2 DRINK,0,0,0 and NUMBER,0,0,4 ITEM,0,0,0s with ADDON,2,0,4 on the side
+ADDON,2,0,4 on the side with NUMBER,0,0,4 SIZE,0,0,4 ITEM,0,0,0s and a DRINK,0,0,0
+how about a SIZE,0,0,2 ITEM,0,0,0 and NUMBER,0,0,4 DRINK,0,0,0s with ADDON,2,0,4 on the side
+lemme get NUMBER,0,0,2 DRINK,0,0,0s and an ITEM,0,0,0 with SIZE,0,0,5 ADDON,2,0,3 on the side
+add ADDON,2,0,3 on the side to my SIZE,0,0,3 ITEM,0,0,0 and NUMBER,0,0,5 DRINK,0,0,0s
+can i have a ITEM,0,0,0 with ADDON,2,0,1 on the side and NUMBER,0,0,5 SIZE,0,0,5 DRINK,0,0,0s
+give me NUMBER,0,0,3 SIZE,0,0,3 ITEM,0,0,0s and a DRINK,0,0,0 with ADDON,2,0,4 on the side
+SIZE,0,0,2 ADDON,2,0,3 on the side for my DRINK,0,0,0 and NUMBER,0,0,5 ITEM,0,0,0s
+ITEM,0,0,0 and SIZE,0,0,4 NUMBER,0,0,4 DRINK,0,0,0s with ADDON,2,0,4 on the side
+ADDON,2,0,3 on the side with my SIZE,0,0,3 ITEM,0,0,0 and NUMBER,0,0,5 DRINK,0,0,0s
+can you do NUMBER,0,0,2 ITEM,0,0,0s with SIZE,0,0,4 ADDON,2,0,5 on the side and a DRINK,0,0,0
+lets get a DRINK,0,0,0 and SIZE,0,0,3 ITEM,0,0,0 with ADDON,2,0,3 on the side
+gimme NUMBER,0,0,3 SIZE,0,0,3 DRINK,0,0,0s and an ITEM,0,0,0 with ADDON,2,0,4 on the side
+throw in ADDON,2,0,2 on the side with my ITEM,0,0,0 and NUMBER,0,0,5 SIZE,0,0,5 DRINK,0,0,0s
+how about NUMBER,0,0,2 DRINK,0,0,0s and a SIZE,0,0,4 ITEM,0,0,0 with ADDON,2,0,4 on the side
+ITEM,0,0,0 with SIZE,0,0,3 ADDON,2,0,1 on the side and NUMBER,0,0,5 DRINK,0,0,0s
+ADDON,2,0,4 on the side for my NUMBER,0,0,4 SIZE,0,0,4 ITEM,0,0,0s and a DRINK,0,0,0
+SIZE,0,0,1 ADDON,2,0,3 on the side with my DRINK,0,0,0 and NUMBER,0,0,5 ITEM,0,0,0s
+NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,2 on the side and a SIZE,0,0,5 DRINK,0,0,0
+DRINK,0,0,0 and SIZE,0,0,3 ITEM,0,0,0 with NUMBER,0,0,5 ADDON,2,0,3 on the side
+ADDON,2,0,4 on the side for my NUMBER,0,0,4 SIZE,0,0,4 DRINK,0,0,0s and an ITEM,0,0,0
+SIZE,0,0,2 ITEM,0,0,0 with ADDON,2,0,2 on the side and NUMBER,0,0,5 DRINK,0,0,0s
+NUMBER,0,0,2 DRINK,0,0,0s and a SIZE,0,0,4 ITEM,0,0,0 with ADDON,2,0,4 on the side
+ADDON,2,0,2 on the side to my ITEM,0,0,0 and NUMBER,0,0,5 SIZE,0,0,5 DRINK,0,0,0s
+gimme a DRINK,0,0,0 NUMBER,0,0,2 ITEM,0,0,0s and a ITEM,0,0,0 with ADDON,2,0,4 on the side
 
 
 
+// "on top"
+yo can i get a SIZE,0,0,2 ITEM,0,0,0 with ADDON,3,0,2 on top
+NUMBER,0,0,2 DRINK,0,0,0s and make em ADDON,3,0,2 on top
+how bout an SIZE,0,0,2 ITEM,0,0,0 with ADDON,3,0,2 on top and a DRINK,0,0,0
+lemme get a DRINK,0,0,0 with ADDON,3,0,1 on top and NUMBER,0,0,4 ITEM,0,0,0s
+can you do SIZE,0,0,2 ADDON,3,0,3 on top for my ITEM,0,0,0 and a DRINK,0,0,0
+NUMBER,0,0,2 ITEM,0,0,0s with ADDON,3,0,2 on top and a SIZE,0,0,5 DRINK,0,0,0
+add a DRINK,0,0,0 SIZE,0,0,3 ADDON,3,0,1 on top and an ITEM,0,0,0
+gimme an ITEM,0,0,0 with ADDON,3,0,1 on it and NUMBER,0,0,5 SIZE,0,0,5 DRINK,0,0,0s
+lets get NUMBER,0,0,2 DRINK,0,0,0s ADDON,3,0,2 on it and a SIZE,0,0,5 ITEM,0,0,0
+SIZE,0,0,2 ITEM,0,0,0 and NUMBER,0,0,4 DRINK,0,0,0s but put ADDON,3,0,4 on it
+ADDON,3,0,2 on it for my DRINK,0,0,0 and NUMBER,0,0,5 SIZE,0,0,5 ITEM,0,0,0s
+ITEM,0,0,0 with SIZE,0,0,3 ADDON,3,0,1 on it and a DRINK,0,0,0
+NUMBER,0,0,2 DRINK,0,0,0s and make em with ADDON,3,0,2 on it and an ITEM,0,0,0
+give me a SIZE,0,0,2 ITEM,0,0,0 ADDON,3,0,2 on it and NUMBER,0,0,5 DRINK,0,0,0s
+ADDON,3,0,3 on it for my NUMBER,0,0,3 DRINK,0,0,0s and a SIZE,0,0,5 ITEM,0,0,0
+lets do an SIZE,0,0,2 ITEM,0,0,0 with ADDON,3,0,2 on it and NUMBER,0,0,5 DRINK,0,0,0s
+throw in a DRINK,0,0,0 ADDON,3,0,1 in it and NUMBER,0,0,5 SIZE,0,0,5 ITEM,0,0,0s
+can you add SIZE,0,0,2 ADDON,3,0,3 in it to my ITEM,0,0,0 and a DRINK,0,0,0
+lemme get NUMBER,0,0,2 ITEM,0,0,0s with ADDON,3,0,2 in them and a SIZE,0,0,5 DRINK,0,0,0
+ill have a DRINK,0,0,0 with SIZE,0,0,3 ADDON,3,0,1 in it and an ITEM,0,0,0
+gimme ADDON,3,0,3 in it for my SIZE,0,0,3 ITEM,0,0,0 and NUMBER,0,0,5 DRINK,0,0,0s
+how about NUMBER,0,0,2 DRINK,0,0,0s with ADDON,3,0,2 in them and a SIZE,0,0,5 ITEM,0,0,0
+add aa ITEM,0,0,0 with SIZE,0,0,3 ADDON,3,0,1 in it and NUMBER,0,0,5 DRINK,0,0,0s
+can i get a DRINK,0,0,0 but ADDON,3,0,1 in it and NUMBER,0,0,5 SIZE,0,0,5 ITEM,0,0,0s
+NUMBER,0,0,2 ITEM,0,0,0s with ADDON,3,0,2 layered on and a SIZE,0,0,5 DRINK,0,0,0
+lets get a SIZE,0,0,2 DRINK,0,0,0 but ADDON,3,0,2 layered on and an ITEM,0,0,0
+ill take ADDON,3,0,3 layered on for my NUMBER,0,0,3 ITEM,0,0,0s and a SIZE,0,0,5 DRINK,0,0,0
+DRINK,0,0,0 with SIZE,0,0,3 ADDON,3,0,1 layered on and NUMBER,0,0,5 ITEM,0,0,0s
+NUMBER,0,0,3 SIZE,0,0,3 ITEM,0,0,0s ADDON,3,0,3 inside and a DRINK,0,0,0
+ITEM,0,0,0 but put ADDON,3,0,1 inside and NUMBER,0,0,5 SIZE,0,0,5 DRINK,0,0,0s
+ADDON,3,0,3 in a SIZE,0,0,3 DRINK,0,0,0 and NUMBER,0,0,5 ITEM,0,0,0s
+NUMBER,0,0,2 ITEM,0,0,0s with ADDON,3,0,2 inside and a SIZE,0,0,5 DRINK,0,0,0
+SIZE,0,0,2 DRINK,0,0,0 with ADDON,3,0,2 inside and an ITEM,0,0,0
+an ITEM,0,0,0 with SIZE,0,0,3 ADDON,3,0,1 inside and NUMBER,0,0,5 DRINK,0,0,0s
 
-// include name
 
+
+// name + cart info
+ill take a ITEM,0,0,0 with ADDON,3,0,1 on the side for NAME,0,0,0
+how about NUMBER,0,0,2 ITEM,0,0,0s and make it for NAME,0,0,0
+lets try NUMBER,0,0,3 SIZE,0,0,3 DRINK,0,0,0s with ADDON,0,0,3 on top for NAME,0,0,0
+yo can i get a SIZE,0,0,2 ITEM,0,0,0 and NUMBER,0,0,4 DRINK,0,0,0s for NAME,0,0,0
+throw in a ITEM,0,0,0 with ADDON,3,0,1 on top for NAME,0,0,0
+lemme grab NUMBER,0,0,3 SIZE,0,0,3 ITEM,0,0,0s and put it under NAME,0,0,0
+how bout we do a DRINK,0,0,0 with ADDON,0,0,1 for NAME,0,0,0
+toss in an ITEM,0,0,0 without ADDON,1,0,1 or ADDON,1,0,1 for NAME,0,0,0
+lets get NUMBER,0,0,2 DRINK,0,0,0s with SIZE,0,0,4 ADDON,0,0,2 for NAME,0,0,0
+gimme a SIZE,0,0,2 ITEM,0,0,0 ADDON,3,0,2 on it for NAME,0,0,0
+my name is NAME,0,0,0 and id like a DRINK,0,0,0 along with NUMBER,0,0,4 ITEM,0,0,0s
+can we add a ITEM,0,0,0 minus the ADDON,1,0,1 for NAME,0,0,0
+whip up NUMBER,0,0,3 SIZE,0,0,3 DRINK,0,0,0s with ADDON,0,0,3 for NAME,0,0,0
+im thinking a ITEM,0,0,0 that has ADDON,3,0,1 on the side for NAME,0,0,0
+lets do NUMBER,0,0,2 ITEM,0,0,0s and a DRINK,0,0,0 for NAME,0,0,0
+how about a SIZE,0,0,2 ITEM,0,0,0 with SIZE,0,0,4 ADDON,0,0,2 for NAME,0,0,0
+hi im NAME,0,0,0 can i have a DRINK,0,0,0 with ADDON,0,0,1
+could you add NUMBER,0,0,2 ITEM,0,0,0s but ADDON,3,0,2 on em for NAME,0,0,0
+lets make an order for NAME,0,0,0 with a SIZE,0,0,3 DRINK,0,0,0 and NUMBER,0,0,5 ITEM,0,0,0s
+throw together a ITEM,0,0,0 hold the ADDON,1,0,1 for NAME,0,0,0
+im NAME,0,0,0 and i need NUMBER,0,0,3 DRINK,0,0,0s with ADDON,2,0,3 off to the side
+can we do a SIZE,0,0,2 ITEM,0,0,0 but put ADDON,3,0,2 on it and make it for NAME,0,0,0
+hey its NAME,0,0,0 can i get a SIZE,0,0,3 ITEM,0,0,0 and NUMBER,0,0,5 DRINK,0,0,0s
+im NAME,0,0,0 and id like an ITEM,0,0,0 with ADDON,2,0,2 on the side please
+could you put in NUMBER,0,0,3 SIZE,0,0,3 DRINK,0,0,0s under NAME,0,0,0
+this is for NAME,0,0,0 id like a ITEM,0,0,0 minus the ADDON,1,0,2
+NAME,0,0,0 here can i get NUMBER,0,0,3 ITEM,0,0,0s with ADDON,3,0,3 on em
+for NAME,0,0,0 lets do a SIZE,0,0,3 DRINK,0,0,0 with NUMBER,0,0,5 ADDON,0,0,3
+hi NAME,0,0,0 speaking id like an ITEM,0,0,0 and NUMBER,0,0,5 SIZE,0,0,5 DRINK,0,0,0s
+put me down for a ITEM,0,0,0 ADDON,3,0,1 on top under the name NAME,0,0,0s
+NAME,0,0,0 here throw in NUMBER,0,0,3 DRINK,0,0,0s with ADDON,2,0,3 on the side
+can i get a SIZE,0,0,2 ITEM,0,0,0 extra ADDON,0,0,2 for NAME,0,0,0
+NAME,0,0,0 calling id like NUMBER,0,0,3 ITEM,0,0,0s hold the ADDON,1,0,3
+this is NAME,0,0,0 how about a DRINK,0,0,0 with ADDON,0,0,2 as well
+for NAME,0,0,0 can we do an ITEM,0,0,0 and NUMBER,0,0,5 SIZE,0,0,5 DRINK,0,0,0s
+NAME,0,0,0 here gimme a SIZE,0,0,3 ITEM,0,0,0 ADDON,3,0,3 if you could
+im placing an order for NAME,0,0,0 lets get NUMBER,0,0,3 DRINK,0,0,0s with ADDON,0,0,3
+hey its NAME,0,0,0 can i grab an ITEM,0,0,0 without ADDON,1,0,2
+NAME,0,0,0 speaking and id like NUMBER,0,0,3 SIZE,0,0,3 ITEM,0,0,0s and a DRINK,0,0,0
+put a SIZE,0,0,2 ITEM,0,0,0 under NAME,0,0,0 with can i have ADDON,2,0,2 off to the side
+this is for NAME,0,0,0 how bout NUMBER,0,0,3 DRINK,0,0,0s and an ITEM,0,0,0
+NAME,0,0,0 here can you add a ITEM,0,0,0 but with ADDON,3,0,2 on it
+this is for NAME,0,0,0 and lets do NUMBER,0,0,4 SIZE,0,0,4 DRINK,0,0,0s and SIZE,0,0,7 ADDON,0,0,4
+hi its NAME,0,0,0 id like an ITEM,0,0,0 but skip the ADDON,1,0,2
+NAME,0,0,0 calling can i get a DRINK,0,0,0 with ADDON,0,0,2 and NUMBER,0,0,5 ITEM,0,0,0s
+throw in a SIZE,0,0,2 ITEM,0,0,0 for NAME,0,0,0 and actually no ADDON,1,0,2 please
+NAME,0,0,0 here how about NUMBER,0,0,3 DRINK,0,0,0s with ADDON,2,0,3 on the side
+im NAME,0,0,0 can we do an ITEM,0,0,0 and make it with SIZE,0,0,4 ADDON,0,0,2
+for NAME,0,0,0 id like NUMBER,0,0,3 SIZE,0,0,3 ITEM,0,0,0s minus the ADDON,1,0,3
+hey its NAME,0,0,0 can i get an ITEM,0,0,0 and NUMBER,0,0,5 SIZE,0,0,5 DRINK,0,0,0s
+this is NAME,0,0,0 lets do NUMBER,0,0,3 ITEM,0,0,0s with ADDON,3,0,3 on top
+NAME,0,0,0 here id like a SIZE,0,0,3 DRINK,0,0,0 with ADDON,0,0,3
+for NAME,0,0,0 can we add an ITEM,0,0,0 but put ADDON,2,0,2 on the side please
+im NAME,0,0,0 how bout NUMBER,0,0,3 DRINK,0,0,0s and a SIZE,0,0,5 ITEM,0,0,0
+put me down for NUMBER,0,0,3 SIZE,0,0,3 DRINK,0,0,0s under the name NAME,0,0,0s
+hi NAME,0,0,0 here and id like to get ITEM,0,0,0 but hold the ADDON,1,0,2
+for NAME,0,0,0 lets do a SIZE,0,0,3 DRINK,0,0,0 and NUMBER,0,0,5 ITEM,0,0,0s
+NAME,0,0,0 speaking and id like an ITEM,0,0,0 with ADDON,3,0,2 on top
+this is NAME,0,0,0 how about NUMBER,0,0,3 DRINK,0,0,0s with ADDON,0,0,3
+im placing an order for NAME,0,0,0 can we get a SIZE,0,0,3 ITEM,0,0,0 and put ADDON,3,0,3 in it
+NAME,0,0,0 here gimme NUMBER,0,0,3 ITEM,0,0,0s and a DRINK,0,0,0 on the side
+hey its NAME,0,0,0 and id like a SIZE,0,0,3 DRINK,0,0,0 minus the ADDON,1,0,3
+for NAME,0,0,0 can you add an ITEM,0,0,0 with ADDON,2,0,2 separate
+NAME,0,0,0 calling lets do NUMBER,0,0,4 SIZE,0,0,4 ITEM,0,0,0s with SIZE,0,0,6 ADDON,0,0,4
+im NAME,0,0,0 how bout a DRINK,0,0,0 with ADDON,0,0,2 and NUMBER,0,0,5 ITEM,0,0,0s
+this is for NAME,0,0,0 can i get a SIZE,0,0,3 ITEM,0,0,0 ADDON,3,0,3 on it
+NAME,0,0,0 here throw in NUMBER,0,0,3 DRINK,0,0,0s and an ITEM,0,0,0 on the side
+hi its NAME,0,0,0 id like a SIZE,0,0,3 ITEM,0,0,0 with ADDON,2,0,3 separate
+
+
+
+// name only
+hello i would like to place an order for NAME,0,0,0
+can i make an order under NAME,0,0,0
+lets do an order for NAME,0,0,0
+i would like to create an order under the name NAME,0,0,0
+my name is NAME,0,0,0 and i would like to start an order
+hey there im calling to place an order for NAME,0,0,0
+could i start a new order under NAME,0,0,0 please
+id like to begin an order and the names NAME,0,0,0
+im NAME,0,0,0 and im ready to place my order
+can we get an order going for NAME,0,0,0
+NAME,0,0,0 here looking to start an order
+hi im phoning in to make an order for NAME,0,0,0
+lets kick off an order under the name NAME,0,0,0
+im hoping to place an order my names NAME,0,0,0
+could you start an order for NAME,0,0,0 please
+NAME,0,0,0 calling to get an order underway
+id like to set up an order for NAME,0,0,0
+hey im NAME,0,0,0 and id like to place an order
+can we start a new order its for NAME,0,0,0
+im looking to make an order under NAME,0,0,0
+NAME,0,0,0 here ready to start my order
+hi there id like to begin an order for NAME,0,0,0
+could you get an order started for NAME,0,0,0
+im calling to place an order under NAME,0,0,0
+lets get an order rolling for NAME,0,0,0
+NAME,0,0,0 speaking id like to start my order
+hi can i get an order going under NAME,0,0,0
+im NAME,0,0,0 and id like to place an order please
+could we begin an order for NAME,0,0,0
+hey there im NAME,0,0,0 looking to start an order
+id like to get an order going names NAME,0,0,0
+can i start placing an order for NAME,0,0,0
+NAME,0,0,0 here wanting to make an order
+hi im calling to set up an order for NAME,0,0,0
+lets begin an order under NAME,0,0,0 please
+im phoning to place an order my name is NAME,0,0,0
+could you start a new order for NAME,0,0,0
+NAME,0,0,0 calling to kick off an order
+hey id like to get an order started for NAME,0,0,0
+can we initiate an order under NAME,0,0,0
+im NAME,0,0,0 and im ready to start my order
+hi there id like to commence an order for NAME,0,0,0
+could you begin a new order its NAME,0,0,0 here
+NAME,0,0,0 speaking and im looking to place an order
+lets get the ball rolling on an order for NAME,0,0,0
+im calling to start a new order names NAME,0,0,0
+hey there can i place an order under NAME,0,0,0
+NAME,0,0,0 here id like to get an order going
+hi im ready to start my order its NAME,0,0,0
+could we get an order underway for NAME,0,0,0
+im NAME,0,0,0 and id like to begin placing my order
+hey there im looking to start an order for NAME,0,0,0
+can you kick off a new order under NAME,0,0,0
+NAME,0,0,0 calling to initiate an order please
+hi there id like to get the ball rolling on an order for NAME,0,0,0
 
 
 
 // add multiple objects and modify a couple of them specifically
-can i have NUMBER,0,0,2 
+can i have NUMBER,0,0,2 ITEM,0,0,0s and put ADDON,3,0,4 on NUMBER,0,0,2
+give me NUMBER,0,0,2 ITEM,0,0,0s with ADDON,3,0,4 in NUMBER,0,0,2
+NUMBER,0,0,2 DRINK,0,0,0s with ADDON,3,0,4 put in NUMBER,0,0,2
+NUMBER,0,0,2 DRINK,0,0,0s with ADDON,2,0,4 on the side of NUMBER,0,0,2
+let me get NUMBER,0,0,2 DRINK,0,0,0s with ADDON,2,0,4 off to the side NUMBER,0,0,2
+how about NUMBER,0,0,2 ITEM,0,0,0s and on NUMBER,0,0,2 put ADDON,3,0,3
+NUMBER,0,0,2 DRINK,0,0,0s but on NUMBER,0,0,2 put in ADDON,3,0,3
+NUMBER,0,0,2 DRINK,0,0,0s and NUMBER,0,0,2 with ADDON,2,0,3 on the side
+lets do NUMBER,0,0,2 DRINK,0,0,0s with NUMBER,0,0,2 SIZE,0,0,3 and NUMBER,0,0,2 of them SIZE,0,0,5
+let me get NUMBER,0,0,2 DRINK,0,0,0s and NUMBER,0,0,2 of them should be SIZE,0,0,3
+gimme NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,2 of em SIZE,0,0,3
+toss in NUMBER,0,0,2 DRINK,0,0,0s with ADDON,3,0,4 in NUMBER,0,0,2 of those
+how bout NUMBER,0,0,2 ITEM,0,0,0s and slap some ADDON,3,0,4 on NUMBER,0,0,2
+NUMBER,0,0,2 DRINK,0,0,0s and make NUMBER,0,0,2 SIZE,0,0,3
+throw in NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,4 on the side for NUMBER,0,0,2
+NUMBER,0,0,2 DRINK,0,0,0s and add ADDON,3,0,4 to NUMBER,0,0,2
+ill take NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,2 of em SIZE,0,0,3
+can i get NUMBER,0,0,2 DRINK,0,0,0s with ADDON,2,0,4 on the side for NUMBER,0,0,2
+NUMBER,0,0,2 ITEM,0,0,0s and toss ADDON,3,0,4 on NUMBER,0,0,2
+yo hit me with NUMBER,0,0,2 DRINK,0,0,0s and make NUMBER,0,0,2 SIZE,0,0,3
+how about NUMBER,0,0,2 ITEM,0,0,0s and add ADDON,3,0,4 to NUMBER,0,0,2 of em
+NUMBER,0,0,2 DRINK,0,0,0s and make NUMBER,0,0,2 SIZE,0,0,3
+slide me NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,4 off to the side for NUMBER,0,0,2
+lets do NUMBER,0,0,2 DRINK,0,0,0s and pour some ADDON,3,0,4 in NUMBER,0,0,2
+give us NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,2 of those bad boys SIZE,0,0,3
+add NUMBER,0,0,2 DRINK,0,0,0s to that and stick ADDON,3,0,4 in NUMBER,0,0,2
+swing NUMBER,0,0,2 ITEM,0,0,0s my way and slap ADDON,3,0,4 on NUMBER,0,0,2
+drop in NUMBER,0,0,2 DRINK,0,0,0s and make NUMBER,0,0,2 of em SIZE,0,0,3
+NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,4 on the side for NUMBER,0,0,2
+NUMBER,0,0,2 DRINK,0,0,0s and blast NUMBER,0,0,2 with ADDON,3,0,3
+hows about NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,2 SIZE,0,0,3
+NUMBER,0,0,2 DRINK,0,0,0s and put ADDON,2,0,4 on the side for NUMBER,0,0,2
+lets rock NUMBER,0,0,2 ITEM,0,0,0s and smack ADDON,3,0,4 on NUMBER,0,0,2
+NUMBER,0,0,2 DRINK,0,0,0s and make NUMBER,0,0,2 of em SIZE,0,0,3
+swing by with NUMBER,0,0,2 ITEM,0,0,0s and drop ADDON,3,0,4 on NUMBER,0,0,2
+NUMBER,0,0,2 DRINK,0,0,0s and give NUMBER,0,0,2 a splash of ADDON,3,0,3
+hook a brother up with NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,2 SIZE,0,0,3
+NUMBER,0,0,2 DRINK,0,0,0s over here and put ADDON,2,0,4 on the side for NUMBER,0,0,2
+toss NUMBER,0,0,2 ITEM,0,0,0s my way and slap ADDON,3,0,4 on NUMBER,0,0,2
+gimme NUMBER,0,0,2 DRINK,0,0,0s and make NUMBER,0,0,2 of those babies SIZE,0,0,3
+NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,4 along for NUMBER,0,0,2
+throw down NUMBER,0,0,2 DRINK,0,0,0s and jazz up NUMBER,0,0,2 with ADDON,3,0,3
+lets nail NUMBER,0,0,2 ITEM,0,0,0s and pump up NUMBER,0,0,2 to SIZE,0,0,3
+slide me NUMBER,0,0,2 DRINK,0,0,0s and give NUMBER,0,0,2 a kick of ADDON,3,0,3
+drop NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,2 extra SIZE,0,0,3 for me
+NUMBER,0,0,2 DRINK,0,0,0s and ADDON,2,0,4 on the side for NUMBER,0,0,2
+NUMBER,0,0,2 ITEM,0,0,0s and slam ADDON,3,0,4 on NUMBER,0,0,2
+NUMBER,0,0,2 DRINK,0,0,0s and bump NUMBER,0,0,2 up to SIZE,0,0,3
+NUMBER,0,0,2 ITEM,0,0,0s and toss ADDON,3,0,4 on NUMBER,0,0,2
+sling NUMBER,0,0,2 DRINK,0,0,0s my way and make NUMBER,0,0,2 SIZE,0,0,3
+NUMBER,0,0,2 ITEM,0,0,0s and throw ADDON,2,0,4 on the side for NUMBER,0,0,2
+NUMBER,0,0,2 DRINK,0,0,0s on me and hit NUMBER,0,0,2 with ADDON,3,0,3
+NUMBER,0,0,2 ITEM,0,0,0s and jack NUMBER,0,0,2 up to SIZE,0,0,3
+UMBER,0,0,2 DRINK,0,0,0s and slide ADDON,2,0,4 on the side for NUMBER,0,0,2
+NUMBER,0,0,2 ITEM,0,0,0s and smack ADDON,3,0,4 on NUMBER,0,0,2 of em
+NUMBER,0,0,2 DRINK,0,0,0s and crank NUMBER,0,0,2 up to SIZE,0,0,3
+NUMBER,0,0,2 ITEM,0,0,0s and slam ADDON,3,0,4 on NUMBER,0,0,2

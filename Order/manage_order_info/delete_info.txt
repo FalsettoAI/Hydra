@@ -1,3 +1,57 @@
+// no slots
+can i remove one of the items from my order
+id like to take something off my list
+is it possible to delete an item from my cart
+could you remove one thing from my order
+i need to scratch off one of my selections
+can we cancel one of the items i picked
+id like to drop an item from my order
+is there a way to take out one of my choices
+could you delete something from my cart please
+i want to remove one of the things i ordered
+can i cancel out one item from my selection
+id like to get rid of something in my order
+is it okay to remove one of my picks
+could we scratch one item off my list
+i need to delete one of the things in my cart
+can you take off an item from my order
+id like to remove one of my selections
+is there a chance to cancel something i ordered
+could you drop one item from my list
+i want to take out one of my choices
+can we delete an item from my cart
+id like to scratch off one of my picks
+is it possible to remove something i ordered
+could you cancel one of the items on my list
+i need to take off one thing from my order
+can i drop one of my selections
+id like to get rid of an item in my cart
+is there a way to delete one of my choices
+could we remove something from my order
+i want to scratch off one of the items i picked
+can you cancel out one of my selections
+id like to take out an item from my cart
+is it okay to remove one thing i ordered
+could you get rid of one of my picks
+i need to delete something from my list
+can we take off one of the items i chose
+id like to drop something from my order
+is there a chance to remove one of my selections
+could you scratch off an item from my cart
+i want to cancel one of the things i ordered
+can i take out one of my picks
+id like to delete an item from my list
+is it possible to remove one of my choices
+could we get rid of something i ordered
+i need to drop one item from my cart
+can you scratch off one of my selections
+id like to cancel out something in my order
+is there a way to take off one of my picks
+could you remove an item from my list
+i want to delete one thing from my order
+
+
+
 // basic sentences
 remove the PREV_ITEM,1,0,0 from my order
 take off that PREV_DRINK,1,0,0 i changed my mind
@@ -8,7 +62,6 @@ scratch that PREV_DRINK,1,0,0 off the list
 get rid of the PREV_ITEM,1,0,0 for me
 take the PREV_DRINK,1,0,0 off my order
 actually im not feeling the PREV_ITEM,1,0,0 anymore
-could you remove that PREV_DRINK,1,0,0 i ordered earlier
 nix the PREV_ITEM,1,0,0 from my order
 lets drop the PREV_DRINK,1,0,0 from the list
 i wanna cancel the PREV_ITEM,1,0,0
@@ -17,7 +70,6 @@ remove that PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 please
 scratch out the PREV_DRINK,1,0,0 from my order
 actually forget about the PREV_ITEM,1,0,0
 take that PREV_DRINK,1,0,0 off please
-can you cancel the PREV_ITEM,1,0,0 i asked for earlier
 remove the PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 from my order
 i changed my mind about the PREV_ITEM,1,0,0 take it off
 delete that PREV_DRINK,1,0,0 from the order
@@ -32,7 +84,6 @@ delete the PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 from my list
 can you remove that PREV_ITEM,1,0,0 i asked for
 scratch off the PREV_DRINK,1,0,0 from the order
 take away the PREV_ITEM,1,0,0 with no PREV_ADDON,1,1,1
-remove the PREV_DRINK,1,0,0 i ordered earlier
 cancel the PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0 from my order
 delete that PREV_DRINK,1,0,0 with PREV_ADDON,0,1,1
 remove the PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 with PREV_ADDON,0,1,2
@@ -42,7 +93,6 @@ delete the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 from my order
 take away the PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0 i asked for
 remove that PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 on the side
 cancel the PREV_DRINK,1,0,0 with PREV_ADDON,0,1,1 please
-can you take off the PREV_ITEM,1,0,0 i ordered earlier
 delete the PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 from my order
 remove that PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top
 take away the PREV_DRINK,1,0,0 i mentioned before
@@ -51,7 +101,6 @@ remove the PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0 with PREV_ADDON,0,2,1
 remove the PREV_ITEM,1,0,0 please
 take off that PREV_DRINK,1,0,0 from my order
 cancel the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1
-delete the PREV_DRINK,1,0,0 i ordered earlier
 get rid of the PREV_ITEM,1,0,0 for me
 scratch that PREV_DRINK,1,0,0 from the list
 i dont want the PREV_ITEM,1,0,0 anymore
@@ -81,7 +130,6 @@ delete the PREV_DRINK,1,0,0 from my list
 remove that PREV_ITEM,1,0,0 i asked for
 scratch off the PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0
 take away the PREV_ITEM,1,0,0 with no PREV_ADDON,1,1,1
-remove the PREV_DRINK,1,0,0 i ordered earlier
 cancel the PREV_ITEM,1,0,0 from my order
 delete that PREV_SIZE,0,1,2 PREV_DRINK,1,0,0
 take off the PREV_ITEM,1,0,0 i mentioned before
@@ -92,89 +140,11 @@ delete the PREV_ITEM,1,0,0 from my order
 take away the PREV_DRINK,1,0,0 i asked for
 remove that PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1
 cancel the PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 please
-take off the PREV_ITEM,1,0,0 i ordered earlier
 delete the PREV_DRINK,1,0,0 from my order
 remove that PREV_ITEM,1,0,0 with no PREV_ADDON,1,1,1
 take away the PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0
 can you scratch off the PREV_ITEM,1,0,0 from my list
 remove the PREV_DRINK,1,0,0 with PREV_ADDON,2,1,1 on the side
-
-
-
-// use name to reference order
-remove the PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s order please
-take off that PREV_DRINK,1,0,0 from the order for PREV_NAME,0,1,0
-cancel the PREV_ITEM,1,0,0 on PREV_NAME,0,1,0s order
-delete the PREV_DRINK,1,0,0 from PREV_NAME,0,1,0s list
-get rid of the PREV_ITEM,1,0,0 for PREV_NAME,0,1,0
-scratch that PREV_DRINK,1,0,0 off PREV_NAME,0,1,0s order
-i dont want the PREV_ITEM,1,0,0 on PREV_NAME,0,1,0s order anymore
-take the PREV_DRINK,1,0,0 off the order for PREV_NAME,0,1,0
-remove that PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s order
-cancel the PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0s on PREV_NAME,0,1,0s list
-get rid of the PREV_ITEM,1,0,0 from the order for PREV_NAME,0,1,0
-drop the PREV_DRINK,1,0,0 from PREV_NAME,0,1,0s order please
-i wanna cancel the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 for PREV_NAME,0,1,0
-can you take off the PREV_DRINK,1,0,0 from PREV_NAME,0,1,0s order
-remove that PREV_ITEM,1,0,0 i mentioned for PREV_NAME,0,1,0
-scratch out the PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 from PREV_NAME,0,1,0s list
-forget about the PREV_ITEM,1,0,0 on PREV_NAME,0,1,0s order
-take that PREV_DRINK,1,0,0 with PREV_ADDON,0,1,1 off PREV_NAME,0,1,0s list
-cancel the PREV_ITEM,1,0,0 i asked for on PREV_NAME,0,1,0s order
-remove the PREV_DRINK,1,0,0 from the order for PREV_NAME,0,1,0
-i changed my mind about the PREV_ITEM,1,0,0 on PREV_NAME,0,1,0s order
-delete that PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0 from PREV_NAME,0,1,0s list
-remove the PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 on the side for PREV_NAME,0,1,0
-scratch the PREV_DRINK,1,0,0 off PREV_NAME,0,1,0s order
-take away the PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s list
-can you delete that PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 for PREV_NAME,0,1,0
-remove the PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s order please
-cancel out the PREV_DRINK,1,0,0 i ordered for PREV_NAME,0,1,0
-take off the PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top from PREV_NAME,0,1,0s list
-delete the PREV_DRINK,1,0,0 from the order for PREV_NAME,0,1,0
-remove that PREV_ITEM,1,0,0 i asked for on PREV_NAME,0,1,0s order
-scratch off the PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0 for PREV_NAME,0,1,0
-take away the PREV_ITEM,1,0,0 with no PREV_ADDON,1,1,1 from PREV_NAME,0,1,0s list
-remove the PREV_DRINK,1,0,0 i ordered earlier for PREV_NAME,0,1,0
-cancel the PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s order
-delete that PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 on PREV_NAME,0,1,0s list
-take off the PREV_ITEM,1,0,0 i mentioned before for PREV_NAME,0,1,0
-remove the PREV_DRINK,1,0,0 with PREV_ADDON,0,1,1 from PREV_NAME,0,1,0s order
-can you cancel the PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s list
-scratch out that PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0s for PREV_NAME,0,1,0
-delete the PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s order
-take away the PREV_DRINK,1,0,0 i asked for on PREV_NAME,0,1,0s list
-remove that PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 for PREV_NAME,0,1,0
-cancel the PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 from PREV_NAME,0,1,0s order please
-take off the PREV_ITEM,1,0,0 i ordered earlier for PREV_NAME,0,1,0
-delete the PREV_DRINK,1,0,0 from PREV_NAME,0,1,0s list
-remove that PREV_ITEM,1,0,0 with no PREV_ADDON,1,1,1 on PREV_NAME,0,1,0s order
-take away the PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0s for PREV_NAME,0,1,0
-can you scratch off the PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s order
-remove the PREV_DRINK,1,0,0 with PREV_ADDON,2,1,1 on the side for PREV_NAME,0,1,0
-can you delete the PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s order
-remove the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 for PREV_NAME,0,1,0 please
-scratch off the PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s list
-delete that PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 for PREV_NAME,0,1,0
-take off the PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s order
-cancel the PREV_ITEM,1,0,0 for PREV_NAME,0,1,0s order please
-delete the PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 on the side for PREV_NAME,0,1,0
-remove that PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s list
-take away the PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s order
-can you remove the PREV_ITEM,1,0,0 for PREV_NAME,0,1,0
-scratch that PREV_ITEM,1,0,0 off PREV_NAME,0,1,0s list please
-delete the PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top for PREV_NAME,0,1,0
-take off that PREV_SIZE,0,1,3 PREV_ITEM,1,0,0 for PREV_NAME,0,1,0
-cancel the PREV_ITEM,1,0,0 on PREV_NAME,0,1,0s order please
-delete that PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0 for PREV_NAME,0,1,0
-remove the PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s order
-scratch off the PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 on the side for PREV_NAME,0,1,0
-take away that PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s list
-cancel the PREV_ITEM,1,0,0 for PREV_NAME,0,1,0 please
-remove that PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s order
-take off the PREV_ITEM,1,0,0 with no PREV_ADDON,1,1,1 for PREV_NAME,0,1,0
-delete that PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s list please
-scratch the PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0 off PREV_NAME,0,1,0s order
 
 
 

@@ -1,8 +1,66 @@
+// no slots
+can i swap out one of my items
+i would like to swap one of my items
+is it possible for me to change one of the items in my cart
+can i change the addons on one of the drinks in my cart
+can i swap the size of one of my items
+is it possible to switch out one of my selections
+can i make a change to something in my order
+id like to swap an item if thats okay
+could i alter one of the things i picked
+mind if i modify one of my choices
+is there a way to exchange an item in my cart
+can we tweak one of the items i ordered
+id like to adjust something in my order
+is it possible to substitute one of my picks
+could i revise one of my selections please
+can i switch up one of the things i chose
+id like to change an item if possible
+is there a way to modify my order a bit
+could we alter one of my selections
+can i update one of the items in my cart
+id like to make a small change to my order
+is it okay if i swap out one of my choices
+could i revise a part of my order
+can we adjust one of the items i picked
+id like to exchange something in my cart
+is there a chance to modify one of my selections
+could i change up one of my choices
+can i alter a detail in my order
+id like to switch one item if possible
+is it feasible to revise part of my order
+could we modify one of my picks
+can i update a selection in my cart
+id like to tweak one of my choices
+is it alright to change an item i ordered
+could i swap something in my order
+can we revise one of my selections
+id like to alter an item if thats okay
+is there a way to adjust part of my order
+could i modify one of the things i chose
+can i change a detail in my cart
+id like to substitute one of my picks
+is it possible to switch up part of my order
+could we revise one of my choices
+can i tweak something i selected
+id like to update an item in my cart
+is there a chance to alter one of my picks
+could i change a part of my order
+can we modify one of my selections
+id like to swap out something if possible
+is it okay to revise one of my choices
+could i adjust an item in my order
+can i exchange one of my picks
+id like to alter a detail if thats alright
+is there a way to change up one of my selections
+could we update part of my order please
+
+
+
 // basic sentences
 can you swap my PREV_ITEM,1,0,0 for a SIZE,0,0,3 ITEM,0,0,0 with SIZE,0,0,5 ADDON,0,0,3
 i wanna change my PREV_DRINK,1,0,0 to a DRINK,0,0,0 no ADDON,1,0,2 please
 yo can you switch out the PREV_ITEM,1,0,0 for NUMBER,0,0,3 ITEM,0,0,0s instead
-lemme get a ITEM,0,0,0 instead of that PREV_ITEM,1,0,0 i ordered earlier
 hey could you replace the PREV_ITEM,1,0,0 with a ITEM,0,0,0 and add some ADDON,0,0,2
 i need to swap my PREV_DRINK,1,0,0 for a SIZE,0,0,3 DRINK,0,0,0 with ADDON,0,0,3
 can you take off the PREV_ADDON,1,0,2 from my PREV_ITEM,0,1,0 and add ADDON,0,0,2 instead
@@ -32,7 +90,6 @@ yo change my PREV_DRINK,1,0,0 to a DRINK,0,0,0 make it a SIZE,0,0,4 ADDON,0,0,2
 can you switch the PREV_ITEM,1,0,0 for a SIZE,0,0,3 ITEM,0,0,0 with ADDON,0,0,3
 yo can you swap my PREV_ITEM,1,0,0 for a ITEM,0,0,0 with SIZE,0,0,4 ADDON,0,0,2
 i wanna change my PREV_DRINK,1,0,0 to a SIZE,0,0,3 DRINK,0,0,0 please
-lemme get NUMBER,0,0,2 ITEM,0,0,0s instead of that PREV_ITEM,1,0,0 i ordered earlier
 hey could you replace the PREV_ITEM,1,0,0 with a ITEM,0,0,0 and throw in some ADDON,0,0,2
 can you take off the PREV_ADDON,1,0,2 from my PREV_ITEM,0,1,0 and add SIZE,0,0,4 ADDON,0,0,2 instead
 im gonna need to change my PREV_ITEM,1,0,0 to a SIZE,0,0,3 ITEM,0,0,0 with ADDON,0,0,3
@@ -509,35 +566,6 @@ put in a SIZE,0,0,2 DRINK,0,0,0 and then remove the PREV_DRINK,1,0,0 with PREV_A
 swap in a ITEM,0,0,0 with SIZE,0,0,3 ADDON,0,0,1 before taking out the PREV_ITEM,1,0,0 with PREV_ADDON,2,1,4 on the side
 add a SIZE,0,0,2 DRINK,0,0,0 with ADDON,0,0,2 and then replace the PREV_DRINK,1,0,0 that has PREV_ADDON,2,1,4 on the side
 first put in a ITEM,0,0,0 with ADDON,0,0,1 then get rid of the PREV_ITEM,1,0,0 with PREV_ADDON,2,1,3 on the side
-
-
-
-// use name to reference order
-swap PREV_ITEM,1,0,0 out for ITEM,0,0,0 in my order for PREV_NAME,0,1,0
-my name is PREV_NAME,0,1,0 and i want to swap PREV_ITEM,1,0,0 for a ITEM,0,0,0 with ADDON,0,0,3 in my order
-i have an order for PREV_NAME,0,1,0 and i want to swap PREV_DRINK,1,0,0 with PREV_ADDON,2,0,2 on the side for a PREV_DRINK,0,0,0 with ADDON,0,0,4
-i would like to swap out my PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 in the order for PREV_NAME,0,0,0 in exchange for ITEM,0,0,0 with SIZE,0,0,6 ADDON,0,0,4
-can i add ITEM,0,0,0 with ADDON,0,0,1 and ADDON,0,0,1 to the order for PREV_NAME,0,0,0 instead of PREV_ITEM,1,0,0 with PREV_ADDON,2,1,5 on the side
-i need to replace PREV_ITEM,1,0,0 with a ITEM,0,0,0 in the order for PREV_NAME,0,1,0
-swap out my PREV_DRINK,1,0,0 for a DRINK,0,0,0 with ADDON,0,0,2 in the order under PREV_NAME,0,1,0
-for the order under PREV_NAME,0,1,0 i want to swap PREV_ITEM,1,0,0 for a ITEM,0,0,0 with ADDON,0,0,3
-can you switch out PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 on the side for a SIZE,0,0,4 ITEM,0,0,0 in the order under PREV_NAME,0,1,0
-replace the PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 for ITEM,0,0,0 in the order with the name PREV_NAME,0,1,0
-i need to swap PREV_DRINK,1,0,0 for a SIZE,0,0,2 DRINK,0,0,0 in my order under PREV_NAME,0,1,0
-in my order for PREV_NAME,0,1,0 please replace PREV_ITEM,1,0,0 with PREV_ADDON,2,1,2 on the side for ITEM,0,0,0
-add a ITEM,0,0,0 with SIZE,0,0,3 ADDON,0,0,1 to the order for PREV_NAME,0,1,0 instead of PREV_ITEM,1,0,0 with PREV_ADDON,2,1,5 on the side
-can i replace PREV_ITEM,1,0,0 with a ITEM,0,0,0 and ITEM,0,0,0 in the order for PREV_NAME,0,1,0
-my name is PREV_NAME,0,1,0 and i want to swap PREV_ITEM,1,0,0 for a ITEM,0,0,0 with ADDON,0,0,3
-change out the PREV_DRINK,1,0,0 with PREV_ADDON,2,1,1 for a DRINK,0,0,0 in the order for PREV_NAME,0,1,0
-replace PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 for ITEM,0,0,0 in my order under PREV_NAME,0,1,0
-for the order under PREV_NAME,0,1,0 swap PREV_DRINK,1,0,0 with PREV_ADDON,0,0,2 for a SIZE,0,0,5 DRINK,0,0,0
-i need to add a SIZE,0,0,2 ITEM,0,0,0 with ADDON,0,0,2 in the order for PREV_NAME,0,1,0 and take out PREV_ITEM,1,0,0
-switch out PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 for a ITEM,0,0,0 with ADDON,0,0,3 in the order under PREV_NAME,0,1,0
-i’d like to change my order for PREV_NAME,0,1,0 by swapping out PREV_ITEM,1,0,0 for a SIZE,0,0,4 ITEM,0,0,0
-can you replace PREV_ITEM,1,0,0 in the order for PREV_NAME,0,1,0 with a SIZE,0,0,4 ITEM,0,0,0
-i need to change PREV_DRINK,1,0,0 for a DRINK,0,0,0 with ADDON,0,0,2 in my order under PREV_NAME,0,1,0
-in the order for PREV_NAME,0,1,0 please switch out PREV_ITEM,1,0,0 with PREV_ADDON,0,1,2 for ITEM,0,0,0 with ADDON,0,0,4
-i want to replace PREV_ITEM,1,0,0 in my order for PREV_NAME,0,1,0 with a ITEM,0,0,0 with ADDON,0,0,3 ADDON,0,0,3 and ADDON,0,0,3
 
 
 

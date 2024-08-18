@@ -1,0 +1,485 @@
+// no slots
+can i edit my previous order
+can i change the order i made a couple minutes ago
+can i add some items to my previous order
+i want to swap an item in the order i just made
+can i modify my last order
+id like to make some changes to what i just ordered
+is it possible to adjust the order i placed earlier
+can you help me update my recent order
+i need to tweak the order i made a bit ago
+could i revise the items in my previous order
+is there a way to alter my last purchase
+i want to make a few adjustments to my order
+can we go back and edit what i just got
+id like to make some corrections to my order
+is it too late to change something in my last order
+can i add or remove items from what i ordered
+i forgot something can we modify my order
+can you pull up my last order i need to change it
+id like to revisit and adjust my recent purchase
+is it possible to amend the order i just placed
+can we go over my order again and make some edits
+i think i made a mistake with my last order
+could you help me fix up my previous order
+can we modify the details of what i just ordered
+id like to make a quick change to my recent order
+is there any way to update what i just bought
+can i revise the specifics of my last order
+i need to make a small tweak to what i ordered
+could we revisit my order and make some changes
+can you help me adjust the items in my last purchase
+id like to alter a few things in my recent order
+is it okay if we modify what i just ordered
+can we go back and revamp my previous order
+i want to make some last minute changes to my order
+could you assist me in updating my recent purchase
+can we review and edit the order i just placed
+id like to fine tune the details of my last order
+is there a chance to revise what i ordered earlier
+can you help me correct a few things in my order
+i need to make a couple adjustments to my last purchase
+could we go over my order again and make some tweaks
+can i modify some items from what i just got
+id like to change up a few things in my recent order
+is it possible to alter the specifics of what i ordered
+can we take another look at my order and edit it
+i want to make some quick updates to my last purchase
+could you help me revise the details of my recent order
+can we adjust a few items in what i just ordered
+id like to make some minor changes to my last order
+is there a way to tweak what i bought a moment ago
+can you assist me in modifying my previous purchase
+i need to update some things in the order i just placed
+could we revisit my last order and make a few edits
+
+
+
+// name to signify order
+can we edit the order i just made for PREV_NAME,0,1,0
+can i swap some items in the order for PREV_NAME,0,1,0
+lets delete some items in the order that was just made a couple minutes ago for PREV_NAME,0,1,0
+i would like to access the order i just placed for PREV_NAME,0,1,0
+can we modify the order for PREV_NAME,0,1,0
+id like to change some items in PREV_NAME,0,1,0s order
+lets update the purchase i just made for PREV_NAME,0,1,0
+could you pull up PREV_NAME,0,1,0s recent order for changes
+i need to tweak what we got for PREV_NAME,0,1,0
+can we revise the order placed under PREV_NAME,0,1,0
+id like to adjust PREV_NAME,0,1,0s last purchase
+lets edit the items in PREV_NAME,0,1,0s order
+could you help me modify PREV_NAME,0,1,0s recent buy
+i want to alter the order for PREV_NAME,0,1,0
+can we review and change PREV_NAME,0,1,0s last order
+id like to make some corrections to PREV_NAME,0,1,0s purchase
+lets update what i just got for PREV_NAME,0,1,0
+could you assist in tweaking PREV_NAME,0,1,0s order
+i need to revamp the items for PREV_NAME,0,1,0
+can we adjust the recent order under PREV_NAME,0,1,0
+id like to modify PREV_NAME,0,1,0s last selection
+lets revise the purchase made for PREV_NAME,0,1,0
+could you help change PREV_NAME,0,1,0s order details
+i want to update what we ordered for PREV_NAME,0,1,0
+can we edit PREV_NAME,0,1,0s recent purchase
+id like to tweak the order placed for PREV_NAME,0,1,0
+lets modify the items in PREV_NAME,0,1,0s last buy
+could you assist in updating PREV_NAME,0,1,0s order
+i need to change some things in PREV_NAME,0,1,0s purchase
+can we alter the recent selection for PREV_NAME,0,1,0
+id like to revise what i got for PREV_NAME,0,1,0
+lets adjust PREV_NAME,0,1,0s order details
+could you help modify the items for PREV_NAME,0,1,0
+i want to make some changes to PREV_NAME,0,1,0s last order
+can we update the purchase under PREV_NAME,0,1,0
+id like to edit PREV_NAME,0,1,0s recent selection
+lets change some items in the order for PREV_NAME,0,1,0
+could you assist in tweaking PREV_NAME,0,1,0s last buy
+i need to revise the order placed for PREV_NAME,0,1,0
+can we modify what we got for PREV_NAME,0,1,0
+id like to adjust the items in PREV_NAME,0,1,0s purchase
+lets update PREV_NAME,0,1,0s recent order details
+could you help change what i ordered for PREV_NAME,0,1,0
+i want to tweak PREV_NAME,0,1,0s last selection
+can we edit the recent purchase for PREV_NAME,0,1,0
+id like to alter PREV_NAME,0,1,0s order items
+lets modify the buy made under PREV_NAME,0,1,0
+could you assist in updating PREV_NAME,0,1,0s last order
+i need to change the selection for PREV_NAME,0,1,0
+can we revise what was ordered for PREV_NAME,0,1,0
+id like to adjust PREV_NAME,0,1,0s recent purchase
+lets edit the items bought for PREV_NAME,0,1,0
+could you help modify PREV_NAME,0,1,0s order details
+i want to update the last selection for PREV_NAME,0,1,0
+can we change PREV_NAME,0,1,0s recent order items
+id like to tweak the purchase made for PREV_NAME,0,1,0
+lets alter what we got for PREV_NAME,0,1,0
+could you assist in revising PREV_NAME,0,1,0s last buy
+i need to modify the order under PREV_NAME,0,1,0
+can we adjust PREV_NAME,0,1,0s recent selection
+id like to update the items ordered for PREV_NAME,0,1,0
+lets change PREV_NAME,0,1,0s last purchase details
+could you help edit what i got for PREV_NAME,0,1,0
+i want to revise the recent order for PREV_NAME,0,1,0
+can we tweak PREV_NAME,0,1,0s last selection
+id like to modify the items in PREV_NAME,0,1,0s order
+lets update the order details for PREV_NAME,0,1,0
+could you assist in changing PREV_NAME,0,1,0s recent buy
+i need to adjust the order made for PREV_NAME,0,1,0
+can we edit what was selected for PREV_NAME,0,1,0
+id like to alter PREV_NAME,0,1,0s last order items
+lets modify the recent purchase for PREV_NAME,0,1,0
+
+
+
+// cart items to signify order
+i would like to edit my previous order containing PREV_ITEM,0,1,0
+can we modify the recent order i made with PREV_ITEM,0,1,0 and PREV_DRINK,0,1,0
+i just made an order with PREV_ITEM,0,1,0 that had PREV_ADDON,0,1,1 on it and would like to edit it
+can we change my order with PREV_ITEM,0,1,0 and PREV_DRINK,0,1,0
+id like to modify the purchase containing PREV_ITEM,0,1,0
+lets update my recent order of PREV_ITEM,0,1,0 with PREV_ADDON,0,1,1
+could you pull up the order with PREV_DRINK,0,1,0 for changes
+i need to tweak my order that had PREV_ITEM,0,1,0 and PREV_ITEM,0,1,0
+can we revise the purchase with PREV_DRINK,0,1,0 and PREV_ADDON,0,1,1
+id like to adjust my order containing PREV_ITEM,0,1,0 and PREV_ADDON,0,1,1
+can i add an item to my order with PREV_DRINK,0,1,0
+could you help me add items the order that had PREV_ITEM,0,1,0
+i want to alter my purchase of PREV_ITEM,0,1,0 and PREV_DRINK,0,1,0
+id like to make corrections to my order containing PREV_DRINK,0,1,0
+lets update what i got with PREV_ITEM,0,1,0 and PREV_ADDON,0,1,1
+could you assist in tweaking my order of PREV_DRINK,0,1,0
+i need to revamp the items in my order with PREV_ITEM,0,1,0
+can we adjust my recent purchase of PREV_ITEM,0,1,0 and PREV_DRINK,0,1,0
+id like to add items my order that had PREV_ITEM,0,1,0 with PREV_ADDON,0,1,1
+lets revise the order containing PREV_DRINK,0,1,0 and PREV_ITEM,0,1,0
+could you help delete some items my order with PREV_ITEM,0,1,0 and PREV_ADDON,0,1,1
+i want to update what i ordered with PREV_DRINK,0,1,0
+can we edit my recent purchase of PREV_ITEM,0,1,0 and PREV_ITEM,0,1,0
+id like to tweak the order that had PREV_DRINK,0,1,0 with PREV_ADDON,0,1,1
+lets modify the items in my order containing PREV_ITEM,0,1,0
+could you assist in updating my purchase with PREV_DRINK,0,1,0
+i need to delete some things in my order of PREV_ITEM,0,1,0 and PREV_ADDON,0,1,1
+can we alter my recent order with PREV_DRINK,0,1,0 and PREV_ITEM,0,1,0
+id like to revise what i got with PREV_ITEM,0,1,0 and PREV_ADDON,0,1,1
+lets adjust my order details for the purchase with PREV_DRINK,0,1,0
+could you help modify the items in my order containing PREV_ITEM,0,1,0
+i want to make changes to my order with PREV_DRINK,0,1,0 and PREV_ADDON,0,1,1
+can we update my purchase that had PREV_ITEM,0,1,0 and PREV_ITEM,0,1,0
+id like to edit my recent order of PREV_DRINK,0,1,0 with PREV_ADDON,0,1,1
+lets change some items in my order containing PREV_ITEM,0,1,0
+could you assist in tweaking my purchase with PREV_DRINK,0,1,0 and PREV_ITEM,0,1,0
+i need to revise the order i placed with PREV_ITEM,0,1,0 and PREV_ADDON,0,1,1
+can we modify what i got with PREV_DRINK,0,1,0 and PREV_ITEM,0,1,0
+id like to add some items to the items in my order containing PREV_ITEM,0,1,0
+id like to delete some order details for PREV_DRINK,0,1,0 with PREV_ADDON,0,1,1
+could you help change what i ordered with PREV_ITEM,0,1,0 and PREV_ITEM,0,1,0
+i want to tweak my order that had PREV_DRINK,0,1,0 and PREV_ADDON,0,1,1
+can we edit my recent purchase containing PREV_ITEM,0,1,0
+id like to alter the items in my order with PREV_DRINK,0,1,0
+lets modify the order i made with PREV_ITEM,0,1,0 and PREV_ADDON,0,1,1
+could you assist in updating my purchase of PREV_DRINK,0,1,0 and PREV_ITEM,0,1,0
+i need to change my order that contained PREV_ITEM,0,1,0 with PREV_ADDON,0,1,1
+can we revise what was ordered with PREV_DRINK,0,1,0 and PREV_ITEM,0,1,0
+id like to add some items to my recent purchase of PREV_ITEM,0,1,0 and PREV_ADDON,0,1,1
+lets edit the items i bought with PREV_DRINK,0,1,0 and PREV_ITEM,0,1,0
+could you help modify my order details for PREV_ITEM,0,1,0 and PREV_ADDON,0,1,1
+
+
+
+// swap info - without NAME
+lemme get NUMBER,0,0,2 ITEM,0,0,0s instead of that PREV_ITEM,1,0,0 i ordered earlier
+lemme get a ITEM,0,0,0 instead of that PREV_ITEM,1,0,0 i ordered a couple minutes ago
+can i remove the PREV_ITEM,1,0,0 from my previous order and swap it for ITEM,0,0,0
+i want to swap PREV_ITEM,1,0,0 for a ITEM,0,0,0 with ADDON,0,0,3 in the order i just made
+i called a while ago to make an order and i want to swap PREV_DRINK,1,0,0 with PREV_ADDON,2,0,2 on the side for a PREV_DRINK,0,0,0 with ADDON,0,0,4
+i would like to swap out my PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 in the order i made an hour ago in exchange for ITEM,0,0,0 with SIZE,0,0,6 ADDON,0,0,4
+can i add ITEM,0,0,0 with ADDON,0,0,1 and ADDON,0,0,1 to the order i made previously instead of PREV_ITEM,1,0,0 with PREV_ADDON,2,1,5 on the side
+can i switch the PREV_ITEM,1,0,0 from my last order to ITEM,0,0,0
+id like to replace PREV_DRINK,1,0,0 i ordered with my previous call for a DRINK,0,0,0
+swap out the PREV_ITEM,1,0,0 from my order a couple minutes ago for NUMBER,0,0,3 ITEM,0,0,0s
+change my PREV_ITEM,1,0,0 from the previous order to ITEM,0,0,0 with ADDON,0,0,2
+trade the PREV_DRINK,1,0,0 i got in my previous call for a DRINK,0,0,0 with ADDON,0,0,2
+switch PREV_ITEM,1,0,0 from my last order to ITEM,0,0,0 with SIZE,0,0,4 ADDON,0,0,3
+replace the PREV_ITEM,1,0,0 i placed in our previous conversation with NUMBER,0,0,3 ITEM,0,0,0s
+can you change the PREV_DRINK,1,0,0 from my previous order to DRINK,0,0,0
+trade out PREV_ITEM,1,0,0 from my previous call for ITEM,0,0,0 with SIZE,0,0,4 ADDON,0,0,3
+switch up the PREV_DRINK,1,0,0 i got last time to NUMBER,0,0,3 DRINK,0,0,0s
+replace my PREV_ITEM,1,0,0 from the last order with ITEM,0,0,0 and ADDON,0,0,2
+swap the PREV_DRINK,1,0,0 i ordered previously for DRINK,0,0,0 with SIZE,0,0,4 ADDON,0,0,3
+trade PREV_ITEM,1,0,0 from my earlier order for NUMBER,0,0,3 ITEM,0,0,0s
+switch out PREV_ITEM,1,0,0 i put in my cart last time for ITEM,0,0,0 with ADDON,0,0,2
+replace PREV_DRINK,1,0,0 from my last order with DRINK,0,0,0 and ADDON,0,0,2
+change up PREV_ITEM,1,0,0 i wanted from my last call to ITEM,0,0,0 with SIZE,0,0,4 ADDON,0,0,3
+swap my PREV_ITEM,1,0,0 from last order for NUMBER,0,0,3 ITEM,0,0,0s with ADDON,0,0,3
+trade out the PREV_DRINK,1,0,0 i got previously for DRINK,0,0,0 with ADDON,0,0,2
+switch PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 from my last order to ITEM,0,0,0
+replace the PREV_ITEM,1,0,0 i wanted from my last call with ITEM,0,0,0 and SIZE,0,0,4 ADDON,0,0,3
+change PREV_DRINK,1,0,0 from my previous order to NUMBER,0,0,3 DRINK,0,0,0s
+swap out PREV_ITEM,1,0,0 i got before for ITEM,0,0,0 with ADDON,0,0,2
+trade the PREV_ITEM,1,0,0 from earlier for ITEM,0,0,0 and put ADDON,3,0,2 on it
+
+
+
+
+// swap info - with NAME
+swap PREV_ITEM,1,0,0 out for ITEM,0,0,0 in my order for PREV_NAME,0,1,0
+my name is PREV_NAME,0,1,0 and i want to swap PREV_ITEM,1,0,0 for a ITEM,0,0,0 with ADDON,0,0,3 in my order
+i have an order for PREV_NAME,0,1,0 and i want to swap PREV_DRINK,1,0,0 with PREV_ADDON,2,0,2 on the side for a PREV_DRINK,0,0,0 with ADDON,0,0,4
+i would like to swap out my PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 in the order for PREV_NAME,0,0,0 in exchange for ITEM,0,0,0 with SIZE,0,0,6 ADDON,0,0,4
+can i add ITEM,0,0,0 with ADDON,0,0,1 and ADDON,0,0,1 to the order for PREV_NAME,0,0,0 instead of PREV_ITEM,1,0,0 with PREV_ADDON,2,1,5 on the side
+i need to replace PREV_ITEM,1,0,0 with a ITEM,0,0,0 in the order for PREV_NAME,0,1,0
+swap out my PREV_DRINK,1,0,0 for a DRINK,0,0,0 with ADDON,0,0,2 in the order under PREV_NAME,0,1,0
+for the order under PREV_NAME,0,1,0 i want to swap PREV_ITEM,1,0,0 for a ITEM,0,0,0 with ADDON,0,0,3
+can you switch out PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 on the side for a SIZE,0,0,4 ITEM,0,0,0 in the order under PREV_NAME,0,1,0
+replace the PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 for ITEM,0,0,0 in the order with the name PREV_NAME,0,1,0
+i need to swap PREV_DRINK,1,0,0 for a SIZE,0,0,2 DRINK,0,0,0 in my order under PREV_NAME,0,1,0
+in my order for PREV_NAME,0,1,0 please replace PREV_ITEM,1,0,0 with PREV_ADDON,2,1,2 on the side for ITEM,0,0,0
+add a ITEM,0,0,0 with SIZE,0,0,3 ADDON,0,0,1 to the order for PREV_NAME,0,1,0 instead of PREV_ITEM,1,0,0 with PREV_ADDON,2,1,5 on the side
+can i replace PREV_ITEM,1,0,0 with a ITEM,0,0,0 and ITEM,0,0,0 in the order for PREV_NAME,0,1,0
+my name is PREV_NAME,0,1,0 and i want to swap PREV_ITEM,1,0,0 for a ITEM,0,0,0 with ADDON,0,0,3
+change out the PREV_DRINK,1,0,0 with PREV_ADDON,2,1,1 for a DRINK,0,0,0 in the order for PREV_NAME,0,1,0
+replace PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 for ITEM,0,0,0 in my order under PREV_NAME,0,1,0
+for the order under PREV_NAME,0,1,0 swap PREV_DRINK,1,0,0 with PREV_ADDON,0,0,2 for a SIZE,0,0,5 DRINK,0,0,0
+i need to add a SIZE,0,0,2 ITEM,0,0,0 with ADDON,0,0,2 in the order for PREV_NAME,0,1,0 and take out PREV_ITEM,1,0,0
+switch out PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 for a ITEM,0,0,0 with ADDON,0,0,3 in the order under PREV_NAME,0,1,0
+i’d like to change my order for PREV_NAME,0,1,0 by swapping out PREV_ITEM,1,0,0 for a SIZE,0,0,4 ITEM,0,0,0
+can you replace PREV_ITEM,1,0,0 in the order for PREV_NAME,0,1,0 with a SIZE,0,0,4 ITEM,0,0,0
+i need to change PREV_DRINK,1,0,0 for a DRINK,0,0,0 with ADDON,0,0,2 in my order under PREV_NAME,0,1,0
+in the order for PREV_NAME,0,1,0 please switch out PREV_ITEM,1,0,0 with PREV_ADDON,0,1,2 for ITEM,0,0,0 with ADDON,0,0,4
+i want to replace PREV_ITEM,1,0,0 in my order for PREV_NAME,0,1,0 with a ITEM,0,0,0 with ADDON,0,0,3 ADDON,0,0,3 and ADDON,0,0,3
+
+
+
+// delete info - without NAME
+take off the PREV_ITEM,1,0,0 i ordered earlier
+remove the PREV_DRINK,1,0,0 i ordered earlier
+delete the PREV_DRINK,1,0,0 i ordered earlier
+can you take off the PREV_ITEM,1,0,0 i ordered earlier
+remove the PREV_DRINK,1,0,0 i ordered earlier
+can you cancel the PREV_ITEM,1,0,0 i asked for earlier
+could you remove that PREV_DRINK,1,0,0 i ordered earlier
+can you remove PREV_ITEM,1,0,0 from the order i placed earlier
+take off the PREV_ADDON,1,0,2 from my PREV_ITEM,0,1,0 in my last call
+id like to cancel the PREV_DRINK,1,0,0 i asked for a bit ago
+scratch that PREV_ITEM,1,0,0 from what i wanted last time
+delete PREV_NUMBER,0,0,2 PREV_ITEM,1,0,0s from the order i made before
+get rid of the PREV_ADDON,1,0,2 on my PREV_ITEM,0,1,0 from earlier
+drop the PREV_DRINK,1,0,0 from what i ordered in our previous chat
+remove the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 from my last order
+erase PREV_NUMBER,0,0,2 PREV_DRINK,1,0,0s from what i got a while back
+take out the PREV_ADDON,1,0,2 from the PREV_ITEM,0,1,0 i wanted before
+cut the PREV_ITEM,1,0,0 from my previous order please
+cancel that PREV_DRINK,1,0,0 i mentioned in our last conversation
+axe the PREV_ADDON,1,0,2 from my PREV_ITEM,0,1,0 in the earlier order
+remove PREV_NUMBER,0,0,2 PREV_ITEM,1,0,0s from what i asked for last time
+strike the PREV_DRINK,1,0,0 from the order i made a bit ago
+delete that PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 from my previous request
+take off PREV_NUMBER,0,0,2 PREV_DRINK,1,0,0s from what i got earlier
+scratch the PREV_ADDON,1,0,2 on the PREV_ITEM,0,1,0 from my last order
+remove that PREV_ITEM,1,0,0 i wanted in our previous call
+drop the PREV_DRINK,1,0,0 with PREV_ADDON,0,1,1 from what i ordered before
+erase the PREV_ITEM,1,0,0 from the cart i made a while back
+cancel PREV_NUMBER,0,0,2 PREV_DRINK,1,0,0s from my last request
+get rid of that PREV_ADDON,1,0,2 on the PREV_ITEM,0,1,0 i asked for earlier
+take out the PREV_ITEM,1,0,0 from what i wanted in our previous chat
+cut PREV_NUMBER,0,0,2 PREV_DRINK,1,0,0s from the order i placed before
+axe that PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 from my last call
+remove the PREV_DRINK,1,0,0 i mentioned a bit ago
+strike PREV_NUMBER,0,0,2 PREV_ITEM,1,0,0s from what i got earlier
+delete the PREV_ADDON,1,0,2 from my PREV_ITEM,0,1,0 in the previous order
+scratch that PREV_DRINK,1,0,0 i asked for in our last conversation
+remove PREV_NUMBER,0,0,2 PREV_ITEM,1,0,0s from the cart i made before
+drop the PREV_ADDON,1,0,2 on my PREV_ITEM,0,1,0 from what i wanted earlier
+erase that PREV_DRINK,1,0,0 with PREV_ADDON,0,1,1 from my last request
+take off the PREV_ITEM,1,0,0 i mentioned in our previous chat
+cancel PREV_NUMBER,0,0,2 PREV_DRINK,1,0,0s from what i ordered a while back
+get rid of that PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 from my earlier order
+take out the PREV_DRINK,1,0,0 i asked for last time
+cut the PREV_ADDON,1,0,2 from my PREV_ITEM,0,1,0 in the order i placed before
+axe PREV_NUMBER,0,0,2 PREV_ITEM,1,0,0s from what i wanted in our last call
+remove that PREV_DRINK,1,0,0 with PREV_ADDON,0,1,1 from my previous request
+strike the PREV_ITEM,1,0,0 i mentioned a bit ago
+delete PREV_NUMBER,0,0,2 PREV_DRINK,1,0,0s from the cart i made earlier
+scratch the PREV_ADDON,1,0,2 on my PREV_ITEM,0,1,0 from what i ordered before
+remove that PREV_ITEM,1,0,0 i asked for in our previous conversation
+drop PREV_NUMBER,0,0,2 PREV_DRINK,1,0,0s from my last order
+erase the PREV_ADDON,1,0,2 from the PREV_ITEM,0,1,0 i wanted a while back
+take off that PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 from what i got earlier
+cancel the PREV_DRINK,1,0,0 i mentioned in our last chat
+get rid of PREV_NUMBER,0,0,2 PREV_ITEM,1,0,0s from the order i placed before
+
+
+
+
+// delete info - with NAME
+remove the PREV_DRINK,1,0,0 i ordered earlier for PREV_NAME,0,1,0
+take off the PREV_ITEM,1,0,0 i ordered earlier for PREV_NAME,0,1,0
+remove the PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s order please
+take off that PREV_DRINK,1,0,0 from the order for PREV_NAME,0,1,0
+cancel the PREV_ITEM,1,0,0 on PREV_NAME,0,1,0s order
+delete the PREV_DRINK,1,0,0 from PREV_NAME,0,1,0s list
+get rid of the PREV_ITEM,1,0,0 for PREV_NAME,0,1,0
+scratch that PREV_DRINK,1,0,0 off PREV_NAME,0,1,0s order
+i dont want the PREV_ITEM,1,0,0 on PREV_NAME,0,1,0s order anymore
+take the PREV_DRINK,1,0,0 off the order for PREV_NAME,0,1,0
+remove that PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s order
+cancel the PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0s on PREV_NAME,0,1,0s list
+get rid of the PREV_ITEM,1,0,0 from the order for PREV_NAME,0,1,0
+drop the PREV_DRINK,1,0,0 from PREV_NAME,0,1,0s order please
+i wanna cancel the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 for PREV_NAME,0,1,0
+can you take off the PREV_DRINK,1,0,0 from PREV_NAME,0,1,0s order
+remove that PREV_ITEM,1,0,0 i mentioned for PREV_NAME,0,1,0
+scratch out the PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 from PREV_NAME,0,1,0s list
+forget about the PREV_ITEM,1,0,0 on PREV_NAME,0,1,0s order
+take that PREV_DRINK,1,0,0 with PREV_ADDON,0,1,1 off PREV_NAME,0,1,0s list
+cancel the PREV_ITEM,1,0,0 i asked for on PREV_NAME,0,1,0s order
+remove the PREV_DRINK,1,0,0 from the order for PREV_NAME,0,1,0
+i changed my mind about the PREV_ITEM,1,0,0 on PREV_NAME,0,1,0s order
+delete that PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0 from PREV_NAME,0,1,0s list
+remove the PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 on the side for PREV_NAME,0,1,0
+scratch the PREV_DRINK,1,0,0 off PREV_NAME,0,1,0s order
+take away the PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s list
+can you delete that PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 for PREV_NAME,0,1,0
+remove the PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s order please
+cancel out the PREV_DRINK,1,0,0 i ordered for PREV_NAME,0,1,0
+take off the PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top from PREV_NAME,0,1,0s list
+delete the PREV_DRINK,1,0,0 from the order for PREV_NAME,0,1,0
+remove that PREV_ITEM,1,0,0 i asked for on PREV_NAME,0,1,0s order
+scratch off the PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0 for PREV_NAME,0,1,0
+take away the PREV_ITEM,1,0,0 with no PREV_ADDON,1,1,1 from PREV_NAME,0,1,0s list
+cancel the PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s order
+delete that PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 on PREV_NAME,0,1,0s list
+take off the PREV_ITEM,1,0,0 i mentioned before for PREV_NAME,0,1,0
+remove the PREV_DRINK,1,0,0 with PREV_ADDON,0,1,1 from PREV_NAME,0,1,0s order
+can you cancel the PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s list
+scratch out that PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0s for PREV_NAME,0,1,0
+delete the PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s order
+take away the PREV_DRINK,1,0,0 i asked for on PREV_NAME,0,1,0s list
+remove that PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 for PREV_NAME,0,1,0
+cancel the PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 from PREV_NAME,0,1,0s order please
+delete the PREV_DRINK,1,0,0 from PREV_NAME,0,1,0s list
+remove that PREV_ITEM,1,0,0 with no PREV_ADDON,1,1,1 on PREV_NAME,0,1,0s order
+take away the PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0s for PREV_NAME,0,1,0
+can you scratch off the PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s order
+remove the PREV_DRINK,1,0,0 with PREV_ADDON,2,1,1 on the side for PREV_NAME,0,1,0
+can you delete the PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s order
+remove the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 for PREV_NAME,0,1,0 please
+scratch off the PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s list
+delete that PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 for PREV_NAME,0,1,0
+take off the PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s order
+cancel the PREV_ITEM,1,0,0 for PREV_NAME,0,1,0s order please
+delete the PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 on the side for PREV_NAME,0,1,0
+remove that PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s list
+take away the PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s order
+can you remove the PREV_ITEM,1,0,0 for PREV_NAME,0,1,0
+scratch that PREV_ITEM,1,0,0 off PREV_NAME,0,1,0s list please
+delete the PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top for PREV_NAME,0,1,0
+take off that PREV_SIZE,0,1,3 PREV_ITEM,1,0,0 for PREV_NAME,0,1,0
+cancel the PREV_ITEM,1,0,0 on PREV_NAME,0,1,0s order please
+delete that PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0 for PREV_NAME,0,1,0
+remove the PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s order
+scratch off the PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 on the side for PREV_NAME,0,1,0
+take away that PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s list
+cancel the PREV_ITEM,1,0,0 for PREV_NAME,0,1,0 please
+remove that PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s order
+take off the PREV_ITEM,1,0,0 with no PREV_ADDON,1,1,1 for PREV_NAME,0,1,0
+delete that PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s list please
+scratch the PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0 off PREV_NAME,0,1,0s order
+
+
+
+// add info - with NAME
+can you add NUMBER,0,0,2 ITEM,0,0,0s to the order for PREV_NAME,0,1,0
+toss a DRINK,0,0,0 with ADDON,0,0,1 into PREV_NAME,0,1,0s previous order
+put SIZE,0,0,2 ITEM,0,0,0 in the cart i made under PREV_NAME,0,1,0
+add ADDON,3,0,2 on the PREV_ITEM,0,1,0 from PREV_NAME,0,1,0s last order
+throw NUMBER,0,0,2 DRINK,0,0,0s into what PREV_NAME,0,1,0 got earlier
+slide a SIZE,0,0,2 ITEM,0,0,0 into the order PREV_NAME,0,1,0 made before
+add ADDON,0,0,2 with the PREV_ITEM,0,1,0 from PREV_NAME,0,1,0s earlier order
+add a SIZE,0,0,2 ITEM,0,0,0 to the order PREV_NAME,0,1,0 made last time
+put NUMBER,0,0,2 DRINK,0,0,0s in PREV_NAME,0,1,0s previous request
+lets add SIZE,0,0,2 ITEM,0,0,0 to what PREV_NAME,0,1,0 wanted earlier
+put ADDON,3,0,2 on that PREV_ITEM,0,1,0 from PREV_NAME,0,1,0s last order
+throw in NUMBER,0,0,2 DRINK,0,0,0s for PREV_NAME,0,1,0s order from before
+can we add ADDON,2,0,2 on the side with PREV_ITEM,0,1,0 for PREV_NAME,0,1,0
+put SIZE,0,0,2 ITEM,0,0,0 in the cart PREV_NAME,0,1,0 made earlier
+add ADDON,0,0,2 to that PREV_ITEM,0,1,0 from PREV_NAME,0,1,0s last request
+include NUMBER,0,0,2 DRINK,0,0,0s in what PREV_NAME,0,1,0 ordered before
+tack on a SIZE,0,0,2 ITEM,0,0,0 to PREV_NAME,0,1,0s previous order
+add ADDON,3,0,2 onto the PREV_ITEM,0,1,0 PREV_NAME,0,1,0 mentioned earlier
+put in NUMBER,0,0,2 DRINK,0,0,0s to what PREV_NAME,0,1,0 got before
+can i add ADDON,3,0,2 on the PREV_ITEM,0,1,0 PREV_NAME,0,1,0 asked for earlier
+put SIZE,0,0,2 ITEM,0,0,0 in what PREV_NAME,0,1,0 ordered last time
+include NUMBER,0,0,2 DRINK,0,0,0s in the order PREV_NAME,0,1,0 made before
+can we have ADDON,0,0,2 with the PREV_ITEM,0,1,0 from PREV_NAME,0,1,0s last call
+add SIZE,0,0,2 ITEM,0,0,0 to what PREV_NAME,0,1,0 got a bit ago
+put ADDON,0,0,2 with that PREV_ITEM,0,1,0 PREV_NAME,0,1,0 wanted earlier
+include NUMBER,0,0,2 DRINK,0,0,0s in PREV_NAME,0,1,0s order from before
+how about ADDON,0,0,2 with the PREV_ITEM,0,1,0 from PREV_NAME,0,1,0s previous chat
+add SIZE,0,0,2 ITEM,0,0,0 to the cart PREV_NAME,0,1,0 made a while back
+add SIZE,0,0,2 ITEM,0,0,0 to PREV_NAME,0,1,0s order from our previous conversation
+put ADDON,3,0,2 on the PREV_ITEM,0,1,0 PREV_NAME,0,1,0 wanted before
+add NUMBER,0,0,2 DRINK,0,0,0s to what PREV_NAME,0,1,0 got a bit ago
+include SIZE,0,0,2 ITEM,0,0,0 in PREV_NAME,0,1,0s cart from earlier
+add ADDON,0,0,2 with that PREV_ITEM,0,1,0 from PREV_NAME,0,1,0s last request
+put NUMBER,0,0,2 DRINK,0,0,0s into the order PREV_NAME,0,1,0 made before
+i made an order for PREV_NAME,0,1,0 and would like to add ITEM,0,0,0
+i just made an order for PREV_NAME,0,1,0 and want to add ADDON,0,0,3 to that PREV_ITEM,0,1,0
+i just called in an order for PREV_NAME,0,1,0 and need to include NUMBER,0,0,3 DRINK,0,0,0s
+i called in an order for PREV_NAME,0,1,0 a couple minutes ago and would like to tack on a SIZE,0,0,3 ITEM,0,0,0
+i made an order for PREV_NAME,0,1,0 and would like to add ADDON,0,0,3 to that PREV_ITEM,0,1,0
+i just made an order for PREV_NAME,0,1,0 and want to sprinkle ADDON,2,0,3 on the side of the PREV_ITEM,0,1,0
+i just called in an order for PREV_NAME,0,1,0 and need to put in SIZE,0,0,3 ITEM,0,0,0
+i called in an order for PREV_NAME,0,1,0 a couple minutes ago and would like to add ADDON,2,0,3 on that PREV_ITEM,0,1,0
+
+
+
+// add info - without NAME
+can you toss NUMBER,0,0,2 ITEM,0,0,0s into my order from earlier
+add a DRINK,0,0,0 with ADDON,0,0,1 to what i got last time
+throw in SIZE,0,0,2 ITEM,0,0,0 to the stuff i ordered before
+include ADDON,3,0,2 on my PREV_ITEM,0,1,0 from our previous chat
+pop NUMBER,0,0,2 DRINK,0,0,0s into the cart i made a bit ago
+stick ADDON,3,0,2 on that PREV_ITEM,0,1,0 i wanted earlier
+slide a SIZE,0,0,2 ITEM,0,0,0 into my last order please
+chuck NUMBER,0,0,2 DRINK,0,0,0s into what i asked for before
+squeeze ADDON,0,0,2 with the PREV_ITEM,0,1,0 from my previous request
+maybe put SIZE,0,0,2 ITEM,0,0,0 into the order i made a while back
+sneak NUMBER,0,0,2 DRINK,0,0,0s into what i got last time
+slap ADDON,3,0,2 on that PREV_ITEM,0,1,0 i mentioned earlier
+wedge a SIZE,0,0,2 ITEM,0,0,0 into my order from our last call
+inject NUMBER,0,0,2 DRINK,0,0,0s into the cart i put together before
+sprinkle ADDON,2,0,2 on the side of the PREV_ITEM,0,1,0 from my previous order
+lets do SIZE,0,0,2 ITEM,0,0,0 into what i wanted a bit ago
+funnel NUMBER,0,0,2 DRINK,0,0,0s into the stuff i asked for earlier
+ill take ADDON,3,0,2 onto that PREV_ITEM,0,1,0 from our last chat
+stuff a SIZE,0,0,2 ITEM,0,0,0 into my order from before
+ill have NUMBER,0,0,2 DRINK,0,0,0s into what i got a while back
+i wold like to ad ADDON,2,0,2 alongside the PREV_ITEM,0,1,0 i wanted last time
+can you put SIZE,0,0,2 ITEM,0,0,0 into the cart i made earlier
+lets do ADDON,0,0,2 with that PREV_ITEM,0,1,0 from my previous request
+slip NUMBER,0,0,2 DRINK,0,0,0s into what i ordered before
+tack on a SIZE,0,0,2 ITEM,0,0,0 to my order from our last conversation
+splash ADDON,3,0,2 onto the PREV_ITEM,0,1,0 i mentioned a bit ago
+squeeze in NUMBER,0,0,2 DRINK,0,0,0s to what i got earlier
+paste ADDON,3,0,2 on top of that PREV_ITEM,0,1,0 from my last order
+jam a SIZE,0,0,2 ITEM,0,0,0 into the stuff i wanted before
+dump NUMBER,0,0,2 DRINK,0,0,0s into my cart from our previous chat
+can i do ADDON,3,0,2 on the PREV_ITEM,0,1,0 i asked for a while back
+cram in SIZE,0,0,2 ITEM,0,0,0 to what i ordered last time
+inject ADDON,3,0,2 into that PREV_ITEM,0,1,0 from my earlier request
+slide NUMBER,0,0,2 DRINK,0,0,0s into the order i made before
+can i have ADDON,0,0,2 with the PREV_ITEM,0,1,0 from our last call
+put in SIZE,0,0,2 ITEM,0,0,0 to what i got a bit ago
+actually ADDON,0,0,2 with that PREV_ITEM,0,1,0 i wanted earlier
+plop NUMBER,0,0,2 DRINK,0,0,0s into my order from before
+how about ADDON,0,0,2 with the PREV_ITEM,0,1,0 from my previous chat
+stuff in SIZE,0,0,2 ITEM,0,0,0 to the cart i made a while back
+drip ADDON,3,0,2 over that PREV_ITEM,0,1,0 i mentioned last time
+squeeze NUMBER,0,0,2 DRINK,0,0,0s into what i asked for earlier
+slap on SIZE,0,0,2 ITEM,0,0,0 to my order from our previous conversation
+douse ADDON,3,0,2 on the PREV_ITEM,0,1,0 i wanted before
+shove in NUMBER,0,0,2 DRINK,0,0,0s to what i got a bit ago
+put SIZE,0,0,2 ITEM,0,0,0 onto my cart from earlier
+add ADDON,0,0,2 with that PREV_ITEM,0,1,0 from my last request
+add NUMBER,0,0,2 DRINK,0,0,0s into the order i made before

@@ -566,3 +566,56 @@ delete my order with PREV_ITEM,0,1,0 and PREV_DRINK,0,1,0
 scuttle that order under PREV_NAME,0,1,0 with PREV_ITEM,0,1,0
 null and void my order for PREV_DRINK,0,1,0 please
 throw out that order with PREV_ITEM,0,1,0 and PREV_ITEM,0,1,0
+
+
+
+// delete entire order while adding new items
+actually can i start my order over with NUMBER,0,0,2 ITEM,0,0,0s
+can i delete my order and start again with a DRINK,0,0,0
+scratch that lets start over with NUMBER,0,0,3 SIZE,0,0,3 ITEM,0,0,0s
+can we wipe the slate clean and begin with a DRINK,0,0,0
+actually id like to restart my order with an ITEM,0,0,0 and NUMBER,0,0,3 DRINK,0,0,0s
+lets scrap this and kick off with a SIZE,0,0,2 ITEM,0,0,0 instead
+hold up can we start fresh with NUMBER,0,0,2 DRINK,0,0,0s
+on second thought lets reset and go with an ITEM,0,0,0 but put ADDON,3,0,1 on it
+forget all that how about we begin again with NUMBER,0,0,3 SIZE,0,0,3 DRINK,0,0,0s
+could we clear my order and start with ITEM,0,0,0 minus ADDON,1,0,1
+wait let me change everything and start with NUMBER,0,0,2 ITEM,0,0,0s and a DRINK,0,0,0
+actually can we wipe it all and begin with SIZE,0,0,2 DRINK,0,0,0 and ADDON,3,0,2 in it
+lets delete everything and kick off with NUMBER,0,0,2 ITEM,0,0,0s and ADDON,2,0,2 on the side for each
+hold on id like to redo my order starting with a DRINK,0,0,0 and SIZE,0,0,3 ITEM,0,0,0
+scratch that entire thing lets go with NUMBER,0,0,3 SIZE,0,0,3 DRINK,0,0,0s instead
+can we erase all that and begin with ITEM,0,0,0 ADDON,3,0,1 on top
+you know what lets start from scratch with NUMBER,0,0,2 DRINK,0,0,0s and an ITEM,0,0,0
+actually can we clear the cart and start with a SIZE,0,0,2 ITEM,0,0,0 and ADDON,2,0,2 on the side
+forget my previous order lets kick off with NUMBER,0,0,2 DRINK,0,0,0s with ADDON,3,0,2 in them
+wait can we reset everything and begin with an ITEM,0,0,0 and NUMBER,0,0,4 SIZE,0,0,4 DRINK,0,0,0s
+lets wipe the board clean and start with NUMBER,0,0,2 ITEM,0,0,0s with ADDON,0,0,2
+hold up can we delete it all and go with a SIZE,0,0,2 DRINK,0,0,0 and ITEM,0,0,0
+on second thought lets redo the whole thing starting with NUMBER,0,0,3 SIZE,0,0,3 ITEM,0,0,0s
+actually id like to scrap everything and begin with a DRINK,0,0,0 with ADDON,3,0,1 on the side
+can we start over completely with NUMBER,0,0,2 ITEM,0,0,0s and a SIZE,0,0,4 DRINK,0,0,0
+forget all that noise lets reset with an ITEM,0,0,0 ADDON,3,0,1 on it
+you know what scratch my entire order and lets do NUMBER,0,0,2 DRINK,0,0,0s instead
+wait let me change my mind entirely and start with SIZE,0,0,2 ITEM,0,0,0 minus ADDON,1,0,2
+lets clear out everything and kick off with NUMBER,0,0,3 SIZE,0,0,3 DRINK,0,0,0s that have SIZE,0,0,5 ADDON,3,0,3 in them
+actually can we wipe the slate and begin with ITEM,0,0,0 and NUMBER,0,0,3 DRINK,0,0,0s
+hold on id like to delete it all and start fresh with SIZE,0,0,2 ITEM,0,0,0 that have ADDON,2,0,2 on the side
+scratch my whole order lets go with NUMBER,0,0,2 DRINK,0,0,0s and an ITEM,0,0,0
+can we erase everything and begin again with SIZE,0,0,2 ITEM,0,0,0 with ADDON,0,0,2
+you know what lets start my order over again with NUMBER,0,0,3 SIZE,0,0,3 DRINK,0,0,0s
+actually id like to reset the entire order and start with an ITEM,0,0,0 that has ADDON,3,0,1 on top
+wait can we clear out the cart and start over with NUMBER,0,0,2 DRINK,0,0,0s and ADDON,2,0,2 on the side
+lets wipe everything clean and kick off with SIZE,0,0,2 ITEM,0,0,0 and NUMBER,0,0,4 DRINK,0,0,0s
+hold up can we delete all that and begin with NUMBER,0,0,2 ITEM,0,0,0s minus ADDON,1,0,2
+on second thought lets scrap it all and start with DRINK,0,0,0 and a SIZE,0,0,3 ITEM,0,0,0
+actually can we redo the whole order starting again with NUMBER,0,0,3 SIZE,0,0,3 ITEM,0,0,0s that all have ADDON,3,0,3 on them
+forget my entire order lets begin fresh with DRINK,0,0,0 and NUMBER,0,0,3 ITEM,0,0,0s
+can we start over from scratch with SIZE,0,0,2 ITEM,0,0,0 and put ADDON,2,0,2 separate
+you know what lets clear everything out and go with NUMBER,0,0,2 DRINK,0,0,0s that have ADDON,0,0,2
+wait let me change the whole thing and start with ITEM,0,0,0 and SIZE,0,0,3 DRINK,0,0,0
+lets delete it all and kick off with NUMBER,0,0,3 SIZE,0,0,3 ITEM,0,0,0s ADDON,3,0,3 on top
+actually can we wipe out the entire order and begin with DRINK,0,0,0 minus ADDON,1,0,1
+hold on id like to reset everything and start anew with NUMBER,0,0,2 ITEM,0,0,0s and a SIZE,0,0,4 DRINK,0,0,0
+scratch all that lets go with SIZE,0,0,2 ITEM,0,0,0 and ADDON,2,0,2 on the side
+can we erase my whole order and start over with NUMBER,0,0,2 DRINK,0,0,0s and an ITEM,0,0,0
