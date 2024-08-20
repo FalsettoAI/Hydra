@@ -248,3 +248,88 @@ UMBER,0,0,2 DRINK,0,0,0s and slide ADDON,2,0,4 on the side for NUMBER,0,0,2
 NUMBER,0,0,2 ITEM,0,0,0s and smack ADDON,3,0,4 on NUMBER,0,0,2 of em
 NUMBER,0,0,2 DRINK,0,0,0s and crank NUMBER,0,0,2 up to SIZE,0,0,3
 NUMBER,0,0,2 ITEM,0,0,0s and slam ADDON,3,0,4 on NUMBER,0,0,2
+
+
+// multiple pointers - objects add addons
+ITEM,0,0 and ITEM,0,0 both with ADDON,0,0,1,2
+NUMBER,0,0,2 ITEM,0,0,0s and a ITEM,0,0 with ADDON,3,0,2,3 on everything
+how about NUMBER,0,0,2 ITEM,0,0,0s and a ITEM,0,0 with ADDON,2,0,2,3 on the side for all of it
+maybe ITEM,0,0 ITEM,0,0 and ITEM,0,0 and put ADDON,2,0,1,2,3 on the side for each
+DRINK,0,0 DRINK,0,0 and DRINK,0,0 with ADDON,3,0,1,2 on the first two
+try DRINK,0,0 and DRINK,0,0 with ADDON,0,0,1,2 and ADDON,0,0,1,2 for each
+yea DRINK,0,0 and DRINK,0,0 with ADDON,0,0,1,2 for each
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//              ****  MULTIPLE POINTERS ****
+
+
+// multiple pointers - objects remove addons
+ITEM,0,0 and ITEM,0,0 with no ADDON,1,0,1,2 on either
+ITEM,0,0 ITEM,0,0 and ITEM,0,0 with no ADDON,1,0,1,2,3 or ADDON,1,0,1,2,3 on any of them
+
+
+
+// multiple pointers - objects and sizes
+a ITEM,0,0 and a ITEM,0,0 both SIZE,0,0,1,2
+lets try NUMBER,0,0,2 DRINK,0,0s and a DRINK,0,0 all SIZE,0,0,2,3
+
+
+
+//multiple pointers - objects and numbers
+
+
+
+// slot callback - multiple pointers - objects and addons
+a ITEM,0,0 and ITEM,0,0|lets put ADDON,0,0,1,2 on both
+maybe NUMBER,0,0,2 ITEM,0,0,0s and a ITEM,0,0|and actually put ADDON,3,0,2,3 on everything
+im thinking NUMBER,0,0,2 ITEM,0,0,0s and a ITEM,0,0|and ADDON,3,0,2,3 on the side for all of it
+DRINK,0,0 DRINK,0,0 and DRINK,0,0| and put ADDON,3,0,1,2 on the first two
+DRINK,0,0 and DRINK,0,0|actually lets have ADDON,0,0,1,2 and ADDON,0,0,1,2 for each
+a DRINK,0,0 and DRINK,0,0|with ADDON,0,0,1,2 for each please
+
+
+
+// slot callback - multiple pointers - objects remove addons
+
+
+
+
+// slot callback - multiple pointers - objects and sizes
+
+
+
+// slot callback - multiple pointers - objects and numbers
+
+
+
+// multiple pointers - addons only
+
+
+
+// multiple pointers - sizes only
+
+
+
+// multiple pointers - numbers only
+
+
+
+
+
+
+
+
+
+//              ****  SLOT CALLBACK ****

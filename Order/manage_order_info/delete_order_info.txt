@@ -239,6 +239,18 @@ take off the PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top and PREV_ADDON,0,1,1
 
 
 // delete addon from a previous object
+actually no ADDON,1,0,2 on that PREV_ITEM,0,1 please
+actually i dont need PREV_ADDON,1,0,2 on the PREV_DRINK,0,1 please
+
+
+
+// multiple pointers
+
+
+
+
+// multiple pointers - remove addons
+
 
 
 
@@ -296,12 +308,9 @@ i want to delete one thing from my order
 
 
 
-// split intent - basic sentences
-
-
-
 
 // split intent - multiple objects
+can i remove some items from my order|
 
 
 

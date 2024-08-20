@@ -795,6 +795,75 @@ switch that PREV_SIZE,1,0,2 PREV_DRINK,0,1,0 with PREV_NUMBER,0,1,4 PREV_ADDON,0
 
 
 
+// multiple pointers - remove multiple, add one
+can i have a ITEM,0,0 and ITEM,0,0 both with ADDON,0,0,1,2 instead of the PREV_ITEM,1,0
+
+
+
+// multiple pointers - remove one, add multiple
+
+
+
+
+// multiple pointers - swap sizes
+
+
+
+
+// multiple pointers - swap numbers
+
+
+
+
+// multiple pointers - swap addons
+
+
+
+
+// multiple pointers - swap addon size
+
+
+
+
+// multiple pointers - swap addon number
+
+
+
+// split intent - multiple pointers - remove multiple, add one
+can i have a ITEM,0,0 and ITEM,0,0 both with ADDON,0,0,1,2 instead of the PREV_ITEM,1,0
+
+
+
+// split intent - multiple pointers - remove one, add multiple
+
+
+
+
+// split intent - multiple pointers - swap sizes
+
+
+
+
+// split intent - multiple pointers - swap numbers
+
+
+
+
+// split intent - multiple pointers - swap addons
+
+
+
+
+// split intent - multiple pointers - swap addon size
+
+
+
+
+// split intent - multiple pointers - swap addon number
+
+
+
+
 // split intent - basic sentences
 i would like to swap one of my items|PREV_ITEM,1,0,0 for ITEM,0,0,0
 is it possible for me to change one of the items in my cart|ITEM,0,0,0 instead of PREV_ITEM,1,0,0

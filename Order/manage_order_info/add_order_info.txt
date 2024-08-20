@@ -372,13 +372,111 @@ throw in NUMBER,0,0,2 DRINK,0,0,0s and give NUMBER,0,0,2 with ADDON,3,0,3
 i would like to add NUMBER,0,0,2 DRINK,0,0,0s and give NUMBER,0,0,2 a kick of ADDON,3,0,3
 
 
+
+
+
+
+
+
+
+
+//              ****  MULTIPLE POINTERS ****
+
+
+// multiple pointers - objects add addons
+can i have a ITEM,0,0 and ITEM,0,0 both with ADDON,0,0,1,2
+lets add NUMBER,0,0,2 ITEM,0,0,0s and a ITEM,0,0 with ADDON,3,0,2,3 on everything
+i need NUMBER,0,0,2 ITEM,0,0,0s and a ITEM,0,0 with ADDON,2,0,2,3 on the side for all of it
+i would like ITEM,0,0 ITEM,0,0 and ITEM,0,0 and put ADDON,2,0,1,2,3 on the side for each
+can i get DRINK,0,0 DRINK,0,0 and DRINK,0,0 with ADDON,3,0,1,2 on the first two
+let me add DRINK,0,0 and DRINK,0,0 with ADDON,0,0,1,2 and ADDON,0,0,1,2 for each
+ill need DRINK,0,0 and DRINK,0,0 with ADDON,0,0,1,2 for each
+
+
+
+// multiple pointers - objects remove addons
+i would like ITEM,0,0 and ITEM,0,0 with no ADDON,1,0,1,2 on either
+i need ITEM,0,0 ITEM,0,0 with no ADDON,1,0,1,2 for both and a DRINK,0,0
+
+
+
+// multiple pointers - objects and sizes
+can i get a ITEM,0,0 and a ITEM,0,0 both SIZE,0,0,1,2
+can i have NUMBER,0,0,2 DRINK,0,0s and a DRINK,0,0 all SIZE,0,0,2,3
+
+
+
+//multiple pointers - objects and numbers
+
+
+
+// slot callback - multiple pointers - objects and addons
+can i have a ITEM,0,0 and ITEM,0,0|lets put ADDON,0,0,1,2 on both
+lets get NUMBER,0,0,2 ITEM,0,0,0s and a ITEM,0,0|and actually put ADDON,3,0,2,3 on everything
+i need NUMBER,0,0,2 ITEM,0,0,0s and a ITEM,0,0|and ADDON,3,0,2,3 on the side for all of it
+can i have DRINK,0,0 DRINK,0,0 and DRINK,0,0| and put ADDON,3,0,1,2 on the first two
+lets have DRINK,0,0 and DRINK,0,0|actually lets have ADDON,0,0,1,2 and ADDON,0,0,1,2 for each
+lets get DRINK,0,0 and DRINK,0,0|with ADDON,0,0,1,2 for each please
+
+
+
+// slot callback - multiple pointers - objects remove addons
+
+
+
+
+// slot callback - multiple pointers - objects and sizes
+
+
+
+// slot callback - multiple pointers - objects and numbers
+
+
+
+// multiple pointers - addons only
+
+
+
+// multiple pointers - sizes only
+
+
+
+// multiple pointers - numbers only
+
+
+
+
+
+
+
+
+//              ****  SPLIT INTENT ****
+
+
 // split intent - basic
+i would like to add a item to my cart
+i would like to add an item to my order
+can i add an item to my cart
+let me add an item to my order
+can i add an item to my order|ITEM,0,0,0 please
 
 
+
+
+
+
+
+
+
+
+//              ****  SLOT CALLBACK ****
 
 
 // split intent - "on top"
-
+can i add something on the PREV_ITEM,0,1,0|some ADDON,3,0,1 please
+i need to put something in my PREV_ITEM,0,1,0|ADDON,3,0,1
+can i add to my PREV_ITEM,0,1,0|i need ADDON,3,0,1 on it please
+i need to add to my PREV_ITEM,0,1,0 and PREV_ITEM,0,1,0
 
 
 
@@ -393,7 +491,20 @@ i would like to add NUMBER,0,0,2 DRINK,0,0,0s and give NUMBER,0,0,2 a kick of AD
 
 
 // split intent - name
+i would like to add a name to my order|NAME,0,0,0
+can you add the name for my order|NAME,0,0,0
+let me give you the name|its NAME,0,0,0
 
 
 
 // split intent - add addons on previous objects
+can i add to my PREV_ITEM,0,1,0|i would like ADDON,3,0,1 on it
+i need to add to my PREV_ITEM,0,1,0|can i have ADDON,0,0,1 with it
+actually i would like to add something to my PREV_ITEM,0,1,0|i need ADDON,2,0,1 on the side
+
+
+
+
+
+
+//              ****  SPLIT INTENT ****
