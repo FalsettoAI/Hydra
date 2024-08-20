@@ -1,57 +1,3 @@
-// no slots
-can i remove one of the items from my order
-id like to take something off my list
-is it possible to delete an item from my cart
-could you remove one thing from my order
-i need to scratch off one of my selections
-can we cancel one of the items i picked
-id like to drop an item from my order
-is there a way to take out one of my choices
-could you delete something from my cart please
-i want to remove one of the things i ordered
-can i cancel out one item from my selection
-id like to get rid of something in my order
-is it okay to remove one of my picks
-could we scratch one item off my list
-i need to delete one of the things in my cart
-can you take off an item from my order
-id like to remove one of my selections
-is there a chance to cancel something i ordered
-could you drop one item from my list
-i want to take out one of my choices
-can we delete an item from my cart
-id like to scratch off one of my picks
-is it possible to remove something i ordered
-could you cancel one of the items on my list
-i need to take off one thing from my order
-can i drop one of my selections
-id like to get rid of an item in my cart
-is there a way to delete one of my choices
-could we remove something from my order
-i want to scratch off one of the items i picked
-can you cancel out one of my selections
-id like to take out an item from my cart
-is it okay to remove one thing i ordered
-could you get rid of one of my picks
-i need to delete something from my list
-can we take off one of the items i chose
-id like to drop something from my order
-is there a chance to remove one of my selections
-could you scratch off an item from my cart
-i want to cancel one of the things i ordered
-can i take out one of my picks
-id like to delete an item from my list
-is it possible to remove one of my choices
-could we get rid of something i ordered
-i need to drop one item from my cart
-can you scratch off one of my selections
-id like to cancel out something in my order
-is there a way to take off one of my picks
-could you remove an item from my list
-i want to delete one thing from my order
-
-
-
 // basic sentences
 remove the PREV_ITEM,1,0,0 from my order
 take off that PREV_DRINK,1,0,0 i changed my mind
@@ -289,3 +235,75 @@ delete that PREV_DRINK,1,0,0 with PREV_ADDON,3,1,1 on top and PREV_ADDON,2,1,1 o
 remove PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0s with PREV_ADDON,0,1,2 and PREV_ADDON,0,1,2
 cancel that PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 with PREV_ADDON,2,1,2 on the side and PREV_ADDON,0,1,2
 take off the PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top and PREV_ADDON,0,1,1
+
+
+
+// delete addon from a previous object
+
+
+
+// split intent - basic
+can i remove one of the items from my order
+id like to take something off my list
+is it possible to delete an item from my cart
+could you remove one thing from my order
+i need to scratch off one of my selections
+can we cancel one of the items i picked
+id like to drop an item from my order
+is there a way to take out one of my choices
+could you delete something from my cart please
+i want to remove one of the things i ordered
+can i cancel out one item from my selection
+id like to get rid of something in my order
+is it okay to remove one of my picks
+could we scratch one item off my list
+i need to delete one of the things in my cart
+can you take off an item from my order
+id like to remove one of my selections
+is there a chance to cancel something i ordered
+could you drop one item from my list
+i want to take out one of my choices
+can we delete an item from my cart
+id like to scratch off one of my picks
+is it possible to remove something i ordered
+could you cancel one of the items on my list
+i need to take off one thing from my order
+can i drop one of my selections
+id like to get rid of an item in my cart
+is there a way to delete one of my choices
+could we remove something from my order
+i want to scratch off one of the items i picked
+can you cancel out one of my selections
+id like to take out an item from my cart
+is it okay to remove one thing i ordered
+could you get rid of one of my picks
+i need to delete something from my list
+can we take off one of the items i chose
+id like to drop something from my order
+is there a chance to remove one of my selections
+could you scratch off an item from my cart
+i want to cancel one of the things i ordered
+can i take out one of my picks
+id like to delete an item from my list
+is it possible to remove one of my choices
+could we get rid of something i ordered
+i need to drop one item from my cart
+can you scratch off one of my selections
+id like to cancel out something in my order
+is there a way to take off one of my picks
+could you remove an item from my list
+i want to delete one thing from my order
+
+
+
+// split intent - basic sentences
+
+
+
+
+// split intent - multiple objects
+
+
+
+
+// split intent - delete addons on previous objects
