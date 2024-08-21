@@ -2,56 +2,53 @@
 can i edit my previous order
 can i change the order i made a couple minutes ago
 can i add some items to my previous order
-i want to swap an item in the order i just made
+i want to swap an item in the order i just called in
 can i modify my last order
-id like to make some changes to what i just ordered
 is it possible to adjust the order i placed earlier
 can you help me update my recent order
+can you help me update my order i made a couple minutes ago
 i need to tweak the order i made a bit ago
 could i revise the items in my previous order
 is there a way to alter my last purchase
-i want to make a few adjustments to my order
-can we go back and edit what i just got
-id like to make some corrections to my order
+i want to make a few adjustments to my order from my call a couple minutes ago
 is it too late to change something in my last order
-can i add or remove items from what i ordered
-i forgot something can we modify my order
+can i add or remove items from what i ordered in my previous call
+i forgot something can we modify my order from last call
 can you pull up my last order i need to change it
 id like to revisit and adjust my recent purchase
-is it possible to amend the order i just placed
-can we go over my order again and make some edits
+is it possible to amend the order i just placed last call
 i think i made a mistake with my last order
 could you help me fix up my previous order
-can we modify the details of what i just ordered
 id like to make a quick change to my recent order
-is there any way to update what i just bought
+is there any way to update what i just bought in our previous conversation
 can i revise the specifics of my last order
-i need to make a small tweak to what i ordered
-could we revisit my order and make some changes
-can you help me adjust the items in my last purchase
+could we revisit my previous order and make some changes
 id like to alter a few things in my recent order
-is it okay if we modify what i just ordered
-can we go back and revamp my previous order
-i want to make some last minute changes to my order
+can we go back and edit my previous order
+i want to make some last minute changes to my previous order
 could you assist me in updating my recent purchase
 can we review and edit the order i just placed
 id like to fine tune the details of my last order
 is there a chance to revise what i ordered earlier
-can you help me correct a few things in my order
 i need to make a couple adjustments to my last purchase
-could we go over my order again and make some tweaks
-can i modify some items from what i just got
 id like to change up a few things in my recent order
-is it possible to alter the specifics of what i ordered
-can we take another look at my order and edit it
 i want to make some quick updates to my last purchase
 could you help me revise the details of my recent order
-can we adjust a few items in what i just ordered
 id like to make some minor changes to my last order
 is there a way to tweak what i bought a moment ago
 can you assist me in modifying my previous purchase
 i need to update some things in the order i just placed
 could we revisit my last order and make a few edits
+i just called in an order
+i called to place an order a couple minutes ago
+we just had a conversation where i placed an order
+i just talked to you about placing an order
+we just had a conversation about making an order
+we just discussed my placing an order
+i just placed an order with you
+i just called to place an order
+i called a couple minutes ago about placing an order
+we talked about placing an order a while ago
 
 
 
@@ -383,7 +380,6 @@ take away that PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s list
 cancel the PREV_ITEM,1,0,0 for PREV_NAME,0,1,0 please
 remove that PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s order
 take off the PREV_ITEM,1,0,0 with no PREV_ADDON,1,1,1 for PREV_NAME,0,1,0
-delete that PREV_ITEM,1,0,0 from PREV_NAME,0,1,0s list please
 scratch the PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0 off PREV_NAME,0,1,0s order
 
 
@@ -483,3 +479,67 @@ shove in NUMBER,0,0,2 DRINK,0,0,0s to what i got a bit ago
 put SIZE,0,0,2 ITEM,0,0,0 onto my cart from earlier
 add ADDON,0,0,2 with that PREV_ITEM,0,1,0 from my last request
 add NUMBER,0,0,2 DRINK,0,0,0s into the order i made before
+
+
+
+
+
+
+
+
+
+
+
+
+//                     **** SPLIT INTENT ****
+
+// no slots
+i just called you a couple minutes ago|id like to make some changes to what i ordered
+|can we adjust some of the items
+we just had a conversation a couple minutes ago|i want to add some items to my order
+
+
+
+// name to signify order
+
+
+
+
+// cart details to signify order
+
+
+
+
+// add info
+
+
+
+
+// add info - with name
+
+
+
+
+// delete info
+
+
+
+
+// delete info - with name
+
+
+
+
+
+// swap info
+
+
+
+
+
+// swap info - with name
+
+
+
+
+
