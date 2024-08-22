@@ -240,9 +240,59 @@ take off the PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top and PREV_ADDON,0,1,1
 
 // delete addon from a previous object
 actually no ADDON,1,0,2 on that PREV_ITEM,0,1 please
-actually i dont need PREV_ADDON,1,0,2 on the PREV_DRINK,0,1 please
+actually i dont need ADDON,1,0,2 on the PREV_DRINK,0,1 please
+please take the ADDON,1,0,2 off my PREV_ITEM,0,1
+can you access the PREV_DRINK,0,1 and take ADDON,1,0,1 off it
+actually no ADDON,1,0,2 on that PREV_ITEM,0,1 anymore
+can you remove the ADDON,1,0,2 from my PREV_DRINK,0,1
+i don’t want ADDON,1,0,2 on that PREV_ITEM,0,1 now
+please take ADDON,1,0,2 off the PREV_DRINK,0,1
+actually remove ADDON,1,0,2 from the PREV_ITEM,0,1 for me
+can you take off ADDON,1,0,2 on my PREV_DRINK,0,1
+i decided i don’t need ADDON,1,0,2 on that PREV_ITEM,0,1
+could you take out the ADDON,1,0,2 from the PREV_DRINK,0,1
+please take off the ADDON,1,0,2 on my PREV_ITEM,0,1
+can you go ahead and remove ADDON,1,0,2 from the PREV_DRINK,0,1
+actually leave out the ADDON,1,0,2 on that PREV_ITEM,0,1
+i don’t need ADDON,1,0,2 on my PREV_DRINK,0,1 anymore
+can you just remove ADDON,1,0,2 from the PREV_ITEM,0,1
+please skip the ADDON,1,0,2 on my PREV_DRINK,0,1
+could you access the PREV_ITEM,0,1 and take out ADDON,1,0,1
+take off the ADDON,1,0,2 from my PREV_DRINK,0,1 please
+actually no more ADDON,1,0,2 on the PREV_ITEM,0,1
+please remove the ADDON,1,0,2 from the PREV_DRINK,0,1
+can you leave out ADDON,1,0,2 from my PREV_ITEM,0,1
+i don’t want ADDON,1,0,2 on the PREV_DRINK,0,1 anymore
+can you skip the ADDON,1,0,2 on the PREV_ITEM,0,1
+please take out the ADDON,1,0,2 from my PREV_DRINK,0,1
+actually take off the ADDON,1,0,2 from the PREV_DRINK,0,1
+leave out ADDON,1,0,2 on that PREV_ITEM,0,1 please
+could you skip ADDON,1,0,2 on the PREV_DRINK,0,1
+actually take away ADDON,1,0,2 from the PREV_ITEM,0,1
+can you take off ADDON,1,0,2 from my PREV_DRINK,0,1
+i changed my mind, remove ADDON,1,0,2 from that PREV_ITEM,0,1
+please leave out the ADDON,1,0,2 from my PREV_DRINK,0,1
+could you remove the ADDON,1,0,2 on my PREV_ITEM,0,1
+skip ADDON,1,0,2 on the PREV_DRINK,0,1 for me
+actually don’t include ADDON,1,0,2 on that PREV_ITEM,0,1
+leave out the ADDON,1,0,2 from my PREV_ITEM,0,1
+can you remove the ADDON,1,0,2 on the PREV_DRINK,0,1
+actually take ADDON,1,0,2 off the PREV_ITEM,0,1
+i don’t want ADDON,1,0,2 on my PREV_DRINK,0,1 anymore
+could you skip the ADDON,1,0,2 on the PREV_ITEM,0,1
+please take out ADDON,1,0,2 from my PREV_DRINK,0,1
+please don’t add ADDON,1,0,2 on that PREV_ITEM,0,1
+could you take off ADDON,1,0,2 from my PREV_DRINK,0,1
+actually skip ADDON,1,0,2 on the PREV_ITEM,0,1
+please leave out ADDON,1,0,2 on the PREV_ITEM,0,1
+could you take away ADDON,1,0,2 from my PREV_DRINK,0,1
+actually no more ADDON,1,0,2 on that PREV_ITEM,0,1
 
 
+
+
+
+//                              ****  MULTIPLE POINTERS ****
 
 // multiple pointers
 
@@ -250,6 +300,11 @@ actually i dont need PREV_ADDON,1,0,2 on the PREV_DRINK,0,1 please
 
 
 // multiple pointers - remove addons
+
+
+
+
+
 
 
 

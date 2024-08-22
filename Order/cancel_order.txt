@@ -624,10 +624,29 @@ can we erase my whole order and start over with NUMBER,0,0,2 DRINK,0,0,0s and an
 
 // delete everything, except...
 can you delete everything in my cart except the PREV_ITEM,0,0 
-
-
-
-
+i would like to delete everything on my order except the PREV_ITEM,0,0 with PREV_ADDON,0,0,1
+can you remove everything in more order with the exception of the PREV_DRINK,0,0 with NUMBER,0,0,3 ADDON,3,0,1 in it
+id like to remove my entire cart apart from PREV_DRINK,0,0
+can we delete my order but keep PREV_ITEM,0,0
+id like to delete my entire order excluding the PREV_ITEM,0,0 with ADDON,0,0,1 and ADDON,0,0,1
+can you clear my cart but leave the PREV_ITEM,0,0 with ADDON,0,0,1 in it
+i want to delete everything but keep the PREV_DRINK,0,0 with ADDON,0,0,1
+please remove all items except the PREV_ITEM,0,0 with ADDON,0,0,1 and no ADDON,1,0,1
+i’d like to clear my order except for the PREV_ITEM,0,0 and PREV_DRINK,0,0
+delete everything in the cart except the PREV_DRINK,0,0 with SIZE,0,0,3 ADDON,0,0,1
+can you remove everything in my order but keep that PREV_ITEM,0,0 with PREV_SIZE,0,0,3 PREV_ADDON,0,0,1 and PREV_ADDON,3,0,1 on top
+clear the whole order except the PREV_DRINK,0,0 with PREV_ADDON,0,0,1
+delete everything in my order except PREV_ITEM,0,0 with SIZE,0,0,3 ADDON,3,0,1 on it
+please clear my order but hold on to the PREV_DRINK,0,0 with PREV_NUMBER,0,1,3 PREV_ADDON,2,0,1 on the side
+can you get rid of everything but keep PREV_ITEM,0,0 with PREV_ADDON,3,0,1 on top and ADDON,2,0,1 on the side
+delete my whole cart except the PREV_ITEM,0,0 and PREV_DRINK,0,0
+id like to remove everything i ordered except the PREV_DRINK,0,0 with PREV_ADDON,0,0,1 and SIZE,0,0,4 ADDON,0,0,1
+clear my order but leave PREV_ITEM,0,0 with PREV_ADDON,3,0,1 on top
+delete my entire order but that PREV_DRINK,0,0 with PREV_ADDON,0,0,1
+remove the whole order but keep PREV_DRINK,0,0 with PREV_ADDON,3,0,1 on top and ADDON,0,0,1
+clear my cart but keep the PREV_ITEM,0,0 with PREV_ADDON,2,0,1 on the side
+get rid of everything except the PREV_DRINK,0,0
+delete all but keep PREV_ITEM,0,0 with PREV_SIZE,0,0,3 ADDON,0,0,1
 
 
 

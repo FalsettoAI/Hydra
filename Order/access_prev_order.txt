@@ -415,6 +415,9 @@ add NUMBER,0,0,2 DRINK,0,0,0s into the order i made before
 
 
 
+//                      ****  MULTIPLE POINTERS ****
+
+
 
 
 

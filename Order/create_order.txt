@@ -185,3 +185,12 @@ this is NAME,0,0,0 id like to place an order with NUMBER,0,0,3 ITEM,0,0,0s and A
 can you take an order for NAME,0,0,0 add a SIZE,0,0,3 ITEM,0,0,0 and DRINK,0,0,0
 i need to place an order for NAME,0,0,0 with SIZE,0,0,3 ITEM,0,0,0 and ADDON,3,0,3
 im placing an order for NAME,0,0,0 can you add a SIZE,0,0,3 DRINK,0,0,0 with ADDON,3,0,3 on top
+
+
+
+
+
+
+
+
+//                              ****  MULTIPLE POINTERS ****

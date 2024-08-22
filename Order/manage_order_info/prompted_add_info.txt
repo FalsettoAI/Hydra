@@ -274,7 +274,6 @@ yea DRINK,0,0 and DRINK,0,0 with ADDON,0,0,1,2 for each
 
 //              ****  MULTIPLE POINTERS ****
 
-
 // multiple pointers - objects remove addons
 ITEM,0,0 and ITEM,0,0 with no ADDON,1,0,1,2 on either
 ITEM,0,0 ITEM,0,0 and ITEM,0,0 with no ADDON,1,0,1,2,3 or ADDON,1,0,1,2,3 on any of them
