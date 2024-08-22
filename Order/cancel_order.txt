@@ -619,3 +619,24 @@ actually can we wipe out the entire order and begin with DRINK,0,0,0 minus ADDON
 hold on id like to reset everything and start anew with NUMBER,0,0,2 ITEM,0,0,0s and a SIZE,0,0,4 DRINK,0,0,0
 scratch all that lets go with SIZE,0,0,2 ITEM,0,0,0 and ADDON,2,0,2 on the side
 can we erase my whole order and start over with NUMBER,0,0,2 DRINK,0,0,0s and an ITEM,0,0,0
+
+
+
+// delete everything, except...
+can you delete everything in my cart except the PREV_ITEM,0,0 
+
+
+
+
+
+
+
+
+
+
+
+
+//                     **** SPLIT INTENT ****
+
+// basic sentences
+access_prev_order:i called to place a order a while ago|can you cancel it

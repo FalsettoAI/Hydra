@@ -873,9 +873,9 @@ can i make a change to something in my order|i want a DRINK,0,0,0 instead of a P
 
 
 // split intent - view -> swap
-do i have a PREV_ITEM,0,1,0 in my cart|can you swap it for a ITEM,0,0,0*PREV_ITEM,1,0,1
-do i have a PREV_ITEM,0,1,0 in my cart|actually i said a ITEM,0,0,0*PREV_ITEM,1,0,1
-do i have a PREV_ITEM,0,1,0 in my cart|no i wanted a ITEM,0,0,0*PREV_ITEM,1,0,1
+view_order:do i have a PREV_ITEM,0,1,0 in my cart|can you swap it for a ITEM,0,0,0*PREV_ITEM,1,0,1
+view_order:do i have a PREV_ITEM,0,1,0 in my cart|actually i said a ITEM,0,0,0*PREV_ITEM,1,0,1
+view_order:do i have a PREV_ITEM,0,1,0 in my cart|no i wanted a ITEM,0,0,0*PREV_ITEM,1,0,1
 
 
 
