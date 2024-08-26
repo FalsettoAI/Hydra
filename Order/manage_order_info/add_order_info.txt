@@ -1,3 +1,7 @@
+//                          ****  BASIC  ****
+
+
+
 // basic sentences
 can i get an ITEM,0,0,0 with ADDON,0,0,1 and no ADDON,1,0,1
 give me an ITEM,0,0,0 no ADDON,1,0,1
@@ -33,7 +37,6 @@ i want an ITEM,0,0,0 but no the ADDON,1,0,1
 can you toss in a DRINK,0,0,0
 gimme a SIZE,0,0,2 DRINK,0,0,0 with ADDON,0,0,2
 add an ITEM,0,0,0 and pile on the ADDON,0,0,1
-how bout a DRINK,0,0,0 with ADDON,0,0,1
 can you add an ITEM,0,0,0
 throw in a DRINK,0,0,0
 lets get a SIZE,0,0,2 DRINK,0,0,0
@@ -61,7 +64,6 @@ lets get a SIZE,0,0,2 ITEM,0,0,0 and kick it up a notch
 i want an ITEM,0,0,0 but pass on the ADDON,1,0,1
 gimme a SIZE,0,0,2 DRINK,0,0,0 with a swirl of ADDON,0,0,2
 add an ITEM,0,0,0 and amp up the ADDON,0,0,1
-how bout a DRINK,0,0,0 with ADDON,0,0,1
 can you add an ITEM,0,0,0
 toss in an ITEM,0,0,0 and SIZE,0,0,3 ADDON,0,0,1
 how about adding a DRINK,0,0,0 with ADDON,0,0,1
@@ -349,40 +351,6 @@ can you give my PREV_ITEM,0,1,0 a ADDON,0,0,2
 
 
 
-// add multiple objects and modify a couple of them specifically
-can i have NUMBER,0,0,2 ITEM,0,0,0s and put ADDON,3,0,4 on NUMBER,0,0,2
-give me NUMBER,0,0,2 ITEM,0,0,0s with ADDON,3,0,4 in NUMBER,0,0,2
-let me get NUMBER,0,0,2 DRINK,0,0,0s with ADDON,2,0,4 off to the side NUMBER,0,0,2
-let me get NUMBER,0,0,2 DRINK,0,0,0s and NUMBER,0,0,2 of them should be SIZE,0,0,3
-gimme NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,2 of em SIZE,0,0,3
-toss in NUMBER,0,0,2 DRINK,0,0,0s with ADDON,3,0,4 in NUMBER,0,0,2 of those
-throw in NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,4 on the side for NUMBER,0,0,2
-ill take NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,2 of em SIZE,0,0,3
-can i get NUMBER,0,0,2 DRINK,0,0,0s with ADDON,2,0,4 on the side for NUMBER,0,0,2
-yo hit me with NUMBER,0,0,2 DRINK,0,0,0s and make NUMBER,0,0,2 SIZE,0,0,3
-slide me NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,4 off to the side for NUMBER,0,0,2
-give us NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,2 of those bad boys SIZE,0,0,3
-add NUMBER,0,0,2 DRINK,0,0,0s to that and stick ADDON,3,0,4 in NUMBER,0,0,2
-swing NUMBER,0,0,2 ITEM,0,0,0s my way and slap ADDON,3,0,4 on NUMBER,0,0,2
-drop in NUMBER,0,0,2 DRINK,0,0,0s and make NUMBER,0,0,2 of em SIZE,0,0,3
-gimme NUMBER,0,0,2 DRINK,0,0,0s and make NUMBER,0,0,2 of those babies SIZE,0,0,3
-i would like NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,2 SIZE,0,0,3
-lets get NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,2 to be SIZE,0,0,3
-throw in NUMBER,0,0,2 DRINK,0,0,0s and give NUMBER,0,0,2 with ADDON,3,0,3
-i would like to add NUMBER,0,0,2 DRINK,0,0,0s and give NUMBER,0,0,2 a kick of ADDON,3,0,3
-
-
-
-// multiple pointers
-
-
-
-
-
-
-//                          ****  MULTIPLE POINTERS ****
-
-
 // multiple pointers - objects add addons
 can i have a ITEM,0,0 and ITEM,0,0 both with ADDON,0,0,1,2
 lets add NUMBER,0,0,2 ITEM,0,0,0s and a ITEM,0,0 with ADDON,3,0,2,3 on everything
@@ -406,9 +374,200 @@ can i have NUMBER,0,0,2 DRINK,0,0s and a DRINK,0,0 all SIZE,0,0,2,3
 
 
 
-//multiple pointers - objects and numbers
+// multiple pointers - objects and numbers
+i would like NUMBER,0,0,2,3 of each ITEM,0,0s and ITEM,0,0s
+i will need NUMBER,0,0,2,3 of both ITEM,0,0s and ITEM,0,0s
+i am going to want a ITEM,0,0 and a ITEM,0,0 but ill have NUMBER,0,0,1,2 of each
 
 
+
+// multiple pointers - addons and numbers
+im gonna need an ITEM,0,0 with NUMBER,0,0,3,4 of each ADDON,0,0,1 and ADDON,0,0,1
+lets do ITEM,0,0 with ADDON,0,0,1 and ADDON,0,0,1 but ill take NUMBER,0,0,2,3 of both those
+
+
+
+// multiple pointers - addons and sizes
+can i get ITEM,0,0 with SIZE,0,0,3,4 of each ADDON,0,0,1 and ADDON,0,0,1
+lets try ITEM,0,0 with ADDON,0,0,1 and ADDON,0,0,1 but ill take SIZE,0,0,2,3 of both those
+
+
+
+// Partial Specification
+can i have NUMBER,0,0,2 ITEM,0,0,0s and put ADDON,3,0,4 on NUMBER,0,0,2
+give me NUMBER,0,0,2 ITEM,0,0,0s with ADDON,3,0,4 in NUMBER,0,0,2
+let me get NUMBER,0,0,2 DRINK,0,0,0s with ADDON,2,0,4 off to the side NUMBER,0,0,2
+let me get NUMBER,0,0,2 DRINK,0,0,0s and NUMBER,0,0,2 of them should be SIZE,0,0,3
+gimme NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,2 of em SIZE,0,0,3
+toss in NUMBER,0,0,2 DRINK,0,0,0s with ADDON,3,0,4 in NUMBER,0,0,2 of those
+throw in NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,4 on the side for NUMBER,0,0,2
+ill take NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,2 of em SIZE,0,0,3
+can i get NUMBER,0,0,2 DRINK,0,0,0s with ADDON,2,0,4 on the side for NUMBER,0,0,2
+yo hit me with NUMBER,0,0,2 DRINK,0,0,0s and make NUMBER,0,0,2 SIZE,0,0,3
+slide me NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,4 off to the side for NUMBER,0,0,2
+give us NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,2 of those bad boys SIZE,0,0,3
+add NUMBER,0,0,2 DRINK,0,0,0s to that and stick ADDON,3,0,4 in NUMBER,0,0,2
+swing NUMBER,0,0,2 ITEM,0,0,0s my way and slap ADDON,3,0,4 on NUMBER,0,0,2
+drop in NUMBER,0,0,2 DRINK,0,0,0s and make NUMBER,0,0,2 of em SIZE,0,0,3
+gimme NUMBER,0,0,2 DRINK,0,0,0s and make NUMBER,0,0,2 of those babies SIZE,0,0,3
+i would like NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,2 SIZE,0,0,3
+lets get NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,2 to be SIZE,0,0,3
+throw in NUMBER,0,0,2 DRINK,0,0,0s and give NUMBER,0,0,2 with ADDON,3,0,3
+i would like to add NUMBER,0,0,2 DRINK,0,0,0s and give NUMBER,0,0,2 a kick of ADDON,3,0,3
+
+
+
+
+
+
+
+
+//              ****  SPLIT INTENT ****
+
+// basic sentences
+yo can i add an item to my order|an DRINK,0,0,0 please
+can i have an extra item on my order|ITEM,0,0,0
+id like to throw another item onto my order|ITEM,0,0,0 but hold the ADDON,1,0,1
+gimme another item on my order|one of them ITEM,0,0,0s with ADDON,0,0,1
+i need to add something to my order|i want a SIZE,0,0,2 ITEM,0,0,0 no ADDON,1,0,2
+could you add a item to my cart|DRINK,0,0,0 with some ADDON,0,0,1
+toss in another item onto my order|ITEM,0,0,0 and pile on the ADDON,0,0,1
+id like something else on my order|ITEM,0,0,0 without any ADDON,1,0,1
+how about adding another thing to my cart|DRINK,0,0,0 no ADDON,1,0,1
+let me add an item to my order|can we try ITEM,0,0 and ADDON,3,0,1 on top
+
+
+
+// multiple pointers - add multiple objects with addons
+can i have a more things on my order|ITEM,0,0 and ITEM,0,0 both with ADDON,0,0,1,2
+lets add some stuff to my cart|NUMBER,0,0,2 ITEM,0,0,0s and a ITEM,0,0 with ADDON,3,0,2,3 on everything
+i need more things on my order|NUMBER,0,0,2 ITEM,0,0,0s and a ITEM,0,0 with ADDON,2,0,2,3 on the side for all of it
+i would like to add to my cart|ITEM,0,0 ITEM,0,0 and ITEM,0,0 and put ADDON,2,0,1,2,3 on the side for each
+can i get more stuff into my order|ill get DRINK,0,0 DRINK,0,0 and DRINK,0,0 with ADDON,3,0,1,2 on the first two
+let me add to my cart|DRINK,0,0 and DRINK,0,0 with ADDON,0,0,1,2 and ADDON,0,0,1,2 for each
+ill need some extra stuff for my order|lets do DRINK,0,0 and DRINK,0,0 with ADDON,0,0,1,2 for each
+
+
+
+// multiple pointers - add multiple objects removing addons
+i would like some more things on my order|ITEM,0,0 and ITEM,0,0 with no ADDON,1,0,1,2 on either
+i need more things on my order|ITEM,0,0 ITEM,0,0 with no ADDON,1,0,1,2 for both and a DRINK,0,0
+
+
+
+// multiple pointers - add multiple objects with sizes
+can i get an extra couple items|ITEM,0,0 and a ITEM,0,0 both SIZE,0,0,1,2
+can i have some more stuff on top of my order|NUMBER,0,0,2 DRINK,0,0s and a DRINK,0,0 all SIZE,0,0,2,3
+
+
+
+// multiple pointers - add multiple objects with numbers
+i would like to add a couple items to my order|NUMBER,0,0,2,3 of each ITEM,0,0s and ITEM,0,0s
+i will need to add some items to my cart|NUMBER,0,0,2,3 of both ITEM,0,0s and ITEM,0,0s
+i am going to want to add some stuff to my request|ITEM,0,0 and a ITEM,0,0 but ill have NUMBER,0,0,1,2 of each
+
+
+
+// multiple pointers - add objects with multiple addons that have numbers
+im gonna need an extra item on my order|ITEM,0,0 with NUMBER,0,0,3,4 of each ADDON,0,0,1 and ADDON,0,0,1
+lets try to add an item to my order|ITEM,0,0 with ADDON,0,0,1 and ADDON,0,0,1 but ill take NUMBER,0,0,2,3 of both those
+
+
+
+// multiple pointers - add objects with multiple addons that have numbers
+id like to add to my order|lets do ITEM,0,0 with SIZE,0,0,3,4 of all ADDON,0,0,1 ADDON,0,0,1 and ADDON,0,0,1
+can i add an item to by order|ITEM,0,0 with ADDON,0,0,1 and ADDON,0,0,1 but ill take SIZE,0,0,2,3 of both those
+
+
+// name + cart
+id like to add some stuff to an order for NAME,0,0|ITEM,0,0 and ITEM,0,0 with ADDON,0,0,3
+
+
+
+// name
+i would like to add a name to my order|NAME,0,0,0
+can you add the name for my order|NAME,0,0,0
+let me give you the name|its NAME,0,0,0
+
+
+
+// add addons to previous objects
+can i add to my PREV_ITEM,0,1,0|i would like ADDON,3,0,1 on it
+i need to add to my PREV_ITEM,0,1,0|ADDON,0,0,1 with it
+actually i would like to add something to my PREV_ITEM,0,1,0|i need ADDON,2,0,1 on the side
+can i add something on the PREV_ITEM,0,1,0|some ADDON,3,0,1 please
+i need to put something in my PREV_ITEM,0,1,0|ADDON,3,0,1
+can i add to my PREV_ITEM,0,1,0|i need ADDON,3,0,1 on it please
+i need to add to my PREV_ITEM,0,1,0|ADDON,2,0,1 on the top please
+can i add something to the PREV_ITEM,0,0 from my cart|id like ADDON,2,0,1 on the side
+
+// multiple pointers
+can you add something to both my PREV_ITEM,0,1 and PREV_ITEM,0,1|ADDON,0,0,1,2
+
+
+
+// add sizes to previous object
+
+
+// add numbers to previous object
+
+
+// add sizes to previous addon
+
+
+// add numbers to previous addons
+
+
+
+// remove addons from previous objects
+i want to remove something from my PREV_ITEM,0,1|the ADDON,1,0,1 please
+
+
+
+// multiple pointers - add multiple objects removing addons
+i would like some more things on my order|ITEM,0,0 and ITEM,0,0 with no ADDON,1,0,1,2 on either
+i need more things on my order|ITEM,0,0 ITEM,0,0 with no ADDON,1,0,1,2 for both and a DRINK,0,0
+
+
+
+// multiple pointers - add multiple objects with sizes
+can i get an extra couple items|ITEM,0,0 and a ITEM,0,0 both SIZE,0,0,1,2
+can i have some more stuff on top of my order|NUMBER,0,0,2 DRINK,0,0s and a DRINK,0,0 all SIZE,0,0,2,3
+
+
+
+// multiple pointers - add multiple objects with numbers
+i would like to add a couple items to my order|NUMBER,0,0,2,3 of each ITEM,0,0s and ITEM,0,0s
+i will need to add some items to my cart|NUMBER,0,0,2,3 of both ITEM,0,0s and ITEM,0,0s
+i am going to want to add some stuff to my request|ITEM,0,0 and a ITEM,0,0 but ill have NUMBER,0,0,1,2 of each
+
+
+
+// multiple pointers - add objects with multiple addons that have numbers
+im gonna need an extra item on my order|ITEM,0,0 with NUMBER,0,0,3,4 of each ADDON,0,0,1 and ADDON,0,0,1
+lets try to add an item to my order|ITEM,0,0 with ADDON,0,0,1 and ADDON,0,0,1 but ill take NUMBER,0,0,2,3 of both those
+
+
+
+// multiple pointers - add objects with multiple addons that have numbers
+id like to add to my order|lets do ITEM,0,0 with SIZE,0,0,3,4 of all ADDON,0,0,1 ADDON,0,0,1 and ADDON,0,0,1
+can i add an item to by order|ITEM,0,0 with ADDON,0,0,1 and ADDON,0,0,1 but ill take SIZE,0,0,2,3 of both those
+
+
+
+// Partial Specification
+give us NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,2 of those bad boys SIZE,0,0,3
+add NUMBER,0,0,2 DRINK,0,0,0s to that and stick ADDON,3,0,4 in NUMBER,0,0,2
+swing NUMBER,0,0,2 ITEM,0,0,0s my way and slap ADDON,3,0,4 on NUMBER,0,0,2
+drop in NUMBER,0,0,2 DRINK,0,0,0s and make NUMBER,0,0,2 of em SIZE,0,0,3
+gimme NUMBER,0,0,2 DRINK,0,0,0s and make NUMBER,0,0,2 of those babies SIZE,0,0,3
+i would like NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,2 SIZE,0,0,3
+lets get NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,2 to be SIZE,0,0,3
+
+
+
+
+//              ****  Other Intent (referencing obj) → Intent ****
 
 // slot callback - multiple pointers - objects and addons
 can i have a ITEM,0,0 and ITEM,0,0|lets put ADDON,0,0,1,2 on both
@@ -417,94 +576,3 @@ i need NUMBER,0,0,2 ITEM,0,0,0s and a ITEM,0,0|and ADDON,3,0,2,3 on the side for
 can i have DRINK,0,0 DRINK,0,0 and DRINK,0,0| and put ADDON,3,0,1,2 on the first two
 lets have DRINK,0,0 and DRINK,0,0|actually lets have ADDON,0,0,1,2 and ADDON,0,0,1,2 for each
 lets get DRINK,0,0 and DRINK,0,0|with ADDON,0,0,1,2 for each please
-
-
-
-// slot callback - multiple pointers - objects remove addons
-
-
-
-
-// slot callback - multiple pointers - objects and sizes
-
-
-
-// slot callback - multiple pointers - objects and numbers
-
-
-
-// multiple pointers - addons only
-
-
-
-// multiple pointers - sizes only
-
-
-
-// multiple pointers - numbers only
-
-
-
-
-
-
-
-
-//              ****  SPLIT INTENT ****
-
-
-// split intent - basic
-i would like to add a item to my cart
-i would like to add an item to my order
-can i add an item to my cart
-let me add an item to my order
-can i add an item to my order|ITEM,0,0,0 please
-
-
-
-
-
-
-
-
-
-
-//              ****  SLOT CALLBACK ****
-
-
-// split intent - "on top"
-can i add something on the PREV_ITEM,0,1,0|some ADDON,3,0,1 please
-i need to put something in my PREV_ITEM,0,1,0|ADDON,3,0,1
-can i add to my PREV_ITEM,0,1,0|i need ADDON,3,0,1 on it please
-i need to add to my PREV_ITEM,0,1,0 and PREV_ITEM,0,1,0
-
-
-
-// split intent - "on the side"
-
-
-
-
-// split intent - name + cart
-
-
-
-
-// split intent - name
-i would like to add a name to my order|NAME,0,0,0
-can you add the name for my order|NAME,0,0,0
-let me give you the name|its NAME,0,0,0
-
-
-
-// split intent - add addons on previous objects
-can i add to my PREV_ITEM,0,1,0|i would like ADDON,3,0,1 on it
-i need to add to my PREV_ITEM,0,1,0|can i have ADDON,0,0,1 with it
-actually i would like to add something to my PREV_ITEM,0,1,0|i need ADDON,2,0,1 on the side
-
-
-
-
-
-
-//              ****  SPLIT INTENT ****
