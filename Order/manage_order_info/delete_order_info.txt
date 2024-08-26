@@ -92,6 +92,10 @@ take away the PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0
 can you scratch off the PREV_ITEM,1,0,0 from my list
 remove the PREV_DRINK,1,0,0 with PREV_ADDON,2,1,1 on the side
 
+// multiple pointers - objects (addons, sizes, and numbers)
+i would like ITEM,0,0 and ITEM,0,0 with no ADDON,1,0,1,2 on either
+i need to add ITEM,0,0 ITEM,0,0 with no ADDON,1,0,1,2 for both and a DRINK,0,0
+
 
 
 // remove multiple objects at a time
@@ -302,7 +306,8 @@ actually no more ADDON,1,0,2 on that PREV_ITEM,0,1
 // multiple pointers - remove addons
 
 
-
+// remove addons from previous objects
+i want to remove something from my PREV_ITEM,0,1|the ADDON,1,0,1 please
 
 
 
