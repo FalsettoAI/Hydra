@@ -395,7 +395,7 @@ can you turn that PREV_ITEM,0,1 into a SIZE,0,0,1
 actually can i get NUMBER,0,0,2 of the PREV_DRINK,0,1,0s
 i wanna make my PREV_ITEM,0,1 a SIZE,0,0,1
 can we do NUMBER,0,0,2 of those PREV_SIZE,0,1,3 PREV_DRINK,0,1,0
-let’s change the PREV_ITEM,0,1 to a SIZE,0,0,1
+lets change the PREV_ITEM,0,1 to a SIZE,0,0,1
 how about NUMBER,0,0,2 of the PREV_DRINK,0,1,0
 can you make it NUMBER,0,0,3 of the PREV_SIZE,0,1,3 PREV_ITEM,0,1,0
 actually could i make that PREV_ITEM,0,1 a SIZE,0,0,1
@@ -546,7 +546,7 @@ id like to add something last minute|SIZE,0,0,2 ITEM,0,0,0
 how about putting one more item in|give me a DRINK,0,0,0 that has ADDON,2,0,1 on the side
 i wanna add something|SIZE,0,0,2 ITEM,0,0,0
 can you add one more thing|DRINK,0,0,0 with ADDON,0,0,1
-let’s add something to the cart|SIZE,0,0,2 ITEM,0,0,0
+lets add something to the cart|SIZE,0,0,2 ITEM,0,0,0
 can i throw in an extra item|DRINK,0,0,0 with ADDON,0,0,1
 id like to add just one more thing|a SIZE,0,0,2 ITEM,0,0,0
 can you put something else in|give me an ITEM,0,0,0 with ADDON,0,0,1
@@ -566,28 +566,41 @@ i need more things on my order|NUMBER,0,0,2 ITEM,0,0,0s and a ITEM,0,0 with ADDO
 i would like to add to my cart|ITEM,0,0 ITEM,0,0 and ITEM,0,0 and put ADDON,2,0,1,2,3 on the side for each
 can i get more stuff into my order|ill get DRINK,0,0 DRINK,0,0 and DRINK,0,0 with ADDON,3,0,1,2 on the first two
 let me add to my cart|DRINK,0,0 and DRINK,0,0 with ADDON,0,0,1,2 and ADDON,0,0,1,2 for each
-ill need some extra stuff for my order|lets do DRINK,0,0 and DRINK,0,0 with ADDON,0,0,1,2 for each
-
-!!!
+ill need some extra stuff for my order|lets do DRINK,0,0 and DRINK,0,0 with SIZE,0,0,4 ADDON,0,0,1,2 for each
 i would like some more things on my order|ITEM,0,0 and ITEM,0,0 with no ADDON,1,0,1,2 on either
 i need more things on my order|ITEM,0,0 ITEM,0,0 with no ADDON,1,0,1,2 for both and a DRINK,0,0
+can you add a few more things to my order|ITEM,0,0 and ITEM,0,0 with no ADDON,1,0,1,2 on either
+id like to put some extra items on my order|give me DRINK,0,0 but no ADDON,1,0,1
+i need a couple more things on my order|lets do DRINK,0,0 and DRINK,0,0 but dont put ADDON,1,0,1,2 on either
 
-// multiple pointers - add multiple objects with sizes
+// multiple pointers - add multiple objects with sizes and/or numbers
 can i get an extra couple items|ITEM,0,0 and a ITEM,0,0 both SIZE,0,0,1,2
 can i have some more stuff on top of my order|NUMBER,0,0,2 DRINK,0,0s and a DRINK,0,0 all SIZE,0,0,2,3
-
-// multiple pointers - add multiple objects with numbers
 i would like to add a couple items to my order|NUMBER,0,0,2,3 of each ITEM,0,0s and ITEM,0,0s
 i will need to add some items to my cart|NUMBER,0,0,2,3 of both ITEM,0,0s and ITEM,0,0s
-i am going to want to add some stuff to my request|ITEM,0,0 and a ITEM,0,0 but ill have NUMBER,0,0,1,2 of each
+i am going to want to add some stuff to my request|ITEM,0,0 and a ITEM,0,0 but ill have NUMBER,0,0,1,2 of each and make them both SIZE,0,0,1,2
+can you add a couple more things to my order|NUMBER,0,0,2 ITEM,0,0s and a ITEM,0,0 all SIZE,0,0,2,3
+i need to add some extra items to my cart|NUMBER,0,0,2,3 of each ITEM,0,0 and ITEM,0,0 make them all SIZE,0,0,2,3
+let me add a few more things to my order|ITEM,0,0 and ITEM,0,0 both NUMBER,0,0,1,2
+im gonna need more stuff on my order|NUMBER,0,0,2 ITEM,0,0s and a DRINK,0,0 all SIZE,0,0,2,3
+can i add a few things to my cart|NUMBER,0,0,2 ITEM,0,0s make them all SIZE,0,0,2
+id like to throw in some extra items|lets do NUMBER,0,0,2 DRINK,0,0s and a DRINK,0,0 all SIZE,0,0,2,3
+
+// multiple pointers - add multiple objects with sizes and/or numbers and/or addons
+could you add more things to my order|ITEM,0,0 and DRINK,0,0 with ADDON,0,0,1,2 on both and NUMBER,0,0,1,2 of each
+i want to add a few more items|NUMBER,0,0,2 ITEM,0,0s and ITEM,0,0s all SIZE,0,0,2,3 and with ADDON,2,0,2,3 on the side
+id like to add a couple of things|how about ITEM,0,0 and ITEM,0,0 both SIZE,0,0,1,2 and with ADDON,3,0,1,2 in it
+can i get some more items on my order|NUMBER,0,0,2 DRINK,0,0s and a DRINK,0,0 with ADDON,3,0,2,3 in everything
 
 // multiple pointers - add objects with multiple addons that have numbers
 im gonna need an extra item on my order|ITEM,0,0 with NUMBER,0,0,3,4 of each ADDON,0,0,1 and ADDON,0,0,1
 lets try to add an item to my order|ITEM,0,0 with ADDON,0,0,1 and ADDON,0,0,1 but ill take NUMBER,0,0,2,3 of both those
+id like to add an item|an ITEM,0,0 and an ITEM,0,0 with NUMBER,0,0,5 SIZE,0,0,5 ADDON,0,0,1,2s
 
 // multiple pointers - add objects with multiple addons that have sizes
 id like to add to my order|lets do ITEM,0,0 with SIZE,0,0,3,4 of all ADDON,0,0,1 ADDON,0,0,1 and ADDON,0,0,1
 can i add an item to by order|ITEM,0,0 with ADDON,0,0,1 and ADDON,0,0,1 but ill take SIZE,0,0,2,3 of both those
+
 
 
 
@@ -644,10 +657,25 @@ i need to add something on the side of my PREV_ITEM,0,1|ADDON,2,0,1 would be gre
 can i have a bit extra added to my PREV_DRINK,0,1|put ADDON,0,0,1 with it
 i need to add something to a previous item|ADDON,0,0,2 should go on my PREV_ITEM,0,1
 can you add another topping to my PREV_ITEM,0,1|i want ADDON,3,0,1 on top
-i’d like to add something to my PREV_ITEM,0,1|throw in ADDON,3,0,1
+id like to add something to my PREV_ITEM,0,1|throw in ADDON,3,0,1
 
-//! phantom slots - add to previous objects - addons
-i need to add a ADDON,0,1 to something in my cart|the ITEM,0,1 please*1,0,2
+// phantom slots - add to previous objects - addons
+i need to add a ADDON,0,1 to something in my cart|the PREV_ITEM,0,1 please*1,0,2
+id like to add ADDON,0,1 to an item from my order|PREV_DRINK,0,1*1,0,2
+can we add ADDON,0,1 to some stuff i have|PREV_ITEM,0,1 if you would*1,0,2
+can we drop in ADDON,0,1 to my current order|specifically the PREV_ITEM,0,1*1,0,2
+i forgot to add ADDON,0,1 to one of my items|its the PREV_ITEM,0,1*1,0,2
+lets put ADDON,0,1 on one of my drinks|its the PREV_DRINK,0,1*1,0,2
+i need ADDON,0,1 for one of the things i ordered|it goes on the PREV_ITEM,0,1*1,0,2
+add ADDON,0,1 to an item in my cart|specifically the PREV_ITEM,0,1*1,0,2
+how about adding ADDON,0,1 to my order|put it on the PREV_ITEM,0,1*1,0,2
+lets toss ADDON,0,1 on an item i ordered|the PREV_ITEM,0,1*1,0,2
+can you add ADDON,0,1 to something ive already got|its the PREV_DRINK,0,1*1,0,2
+drop in ADDON,0,1 on one of my things|make sure its the PREV_ITEM,0,181,0,2
+can we slap ADDON,0,1 on one of my items|its the PREV_DRINK,0,1*1,0,2
+i want ADDON,0,1 on something i ordered earlier|its the PREV_ITEM,0,1*1,0,2
+put ADDON,0,1 on one of the items i got|its gotta be the PREV_ITEM,0,1*1,0,2
+add ADDON,0,1 to a thing i already ordered|its the PREV_DRINK,0,1*1,0,2
 
 // add to previous objects - sizes
 id like to update the PREV_ITEM,0,1 in my order|it needs to be a SIZE,0,0,1
@@ -659,14 +687,24 @@ i need to update something in my order|the PREV_DRINK,0,1 should be a SIZE,0,0,1
 let me adjust the size of the PREV_ITEM,0,1|it needs to be a SIZE,0,0,1
 can you change the size of an item in my cart|PREV_DRINK,0,1 should now be a SIZE,0,0,1
 can i resize something in my order|the PREV_ITEM,0,1 needs to be a SIZE,0,0,1
-i’d like to modify the PREV_DRINK,0,1 from my cart|it needs to be a SIZE,0,0,1
+id like to modify the PREV_DRINK,0,1 from my cart|it needs to be a SIZE,0,0,1
 can you update the size of something for me|the PREV_ITEM,0,1 should actually be a SIZE,0,0,1
 i want to change the size of an item in my order|PREV_DRINK,0,1 should be a SIZE,0,0,1 now
 let me resize the PREV_ITEM,0,1 from my cart|it should be a SIZE,0,0,1 instead
 can i modify the size of something in my cart|the PREV_DRINK,0,1 needs to be a SIZE,0,0,1
 
-//! phantom slots - add to previous objects - sizes
-lets make one of the items in my order a SIZE,0,1|the ADDON,0,1*1,0,2
+// phantom slots - add to previous objects - sizes
+lets make one of the items in my order a SIZE,0,1|the PREV_DRINK,0,1*1,0,2
+lets make one of the items in my order a SIZE,0,1|the PREV_ITEM,0,1*1,0,2  
+change the drink to a SIZE,0,1|its the PREV_DRINK,0,1*1,0,2  
+can we switch that item to be SIZE,0,1|its the PREV_ITEM,0,1*1,0,2  
+let's adjust the size of my drink to SIZE,0,1|the PREV_DRINK,0,1*1,0,2  
+i wanna upgrade something to SIZE,0,1|it’ll be the PREV_ITEM,0,1*1,0,2  
+make one of the drinks a SIZE,0,1|its the PREV_DRINK,0,1*1,0,2  
+i need to change the size of an item to SIZE,0,1|its the PREV_ITEM,0,1*1,0,2  
+lets do a SIZE,0,1 for one of my drinks|the PREV_DRINK,0,1*1,0,2  
+can you resize an item to SIZE,0,1|its the PREV_ITEM,0,1*1,0,2  
+adjust the size on one of my orders to SIZE,0,1|its the PREV_ITEM,0,1*1,0,2
 
 // add to previous objects - numbers
 let me change the number of PREV_ITEM,0,1s in my cart|ill need NUMBER,0,0,1
@@ -677,18 +715,28 @@ i need to change the number of something in my order|the PREV_DRINK,0,1 should b
 let me adjust the quantity of the PREV_ITEM,0,1|it should be NUMBER,0,0,1
 can you increase the amount of an item in my cart|PREV_DRINK,0,1 should now be NUMBER,0,0,1
 can i add more of something in my order|ill need NUMBER,0,0,2 of the PREV_ITEM,0,1s
-i’d like to modify the amount of the PREV_DRINK,0,1 from my cart|NUMBER,0,0,1 please
+id like to modify the amount of the PREV_DRINK,0,1 from my cart|NUMBER,0,0,1 please
 can you change the number of something for me|NUMBER,0,0,2 of the PREV_ITEM,0,1 instead
 let me change how many of the PREV_ITEM,0,1 i have|make it NUMBER,0,0,2 instead
 
-//! phantom slots - add to previous objects - numbers
-let me change the number of something in my cart to NUMBER,0,1|the ITEM,0,1*1,0,2
-id like to update the amount of a certain item in my order to NUMBER,0,1|it should be the ITEM,0,1*1,0,2
+// phantom slots - add to previous objects - numbers
+let me change the number of something in my cart to NUMBER,0,1|the PREV_ITEM,0,1*1,0,2
+id like to update the amount of a certain item in my order to NUMBER,0,1|it should be the PREV_DRINK,0,1*1,0,2
+let me adjust the number of an item i ordered to NUMBER,0,1|the PREV_ITEM,0,1*1,0,2  
+can we up the amount of something to NUMBER,0,1|its for the PREV_ITEM,0,1*1,0,2  
+id like to increase the number of one of my drinks to NUMBER,0,1|PREV_DRINK,0,1*1,0,2  
+i need to modify the number of an item to NUMBER,0,1|PREV_ITEM,0,1*1,0,2  
+update the quantity of something i ordered to NUMBER,0,1|specifically the PREV_DRINK,0,1*1,0,2  
+change the number of one of my items to NUMBER,0,1|its the PREV_ITEM,0,1*1,0,2  
+adjust the count of something in my cart to NUMBER,0,1|PREV_DRINK,0,1*1,0,2  
+can you modify the number of an item to NUMBER,0,1|make it the PREV_ITEM,0,1*1,0,2
+
+
 
 // multiple pointers - add to previous objects - addons
 can you add something to both my PREV_ITEM,0,1 and PREV_ITEM,0,1|ADDON,0,0,1,2
-how about we add something to a few items in my order|ADDON,0,0,2,3 to the PREV_DRINK,0,1 and PREV_ITEM,0,1
-i’m thinking of adding something to a few things|put ADDON,3,0,2,3 on the PREV_DRINK,0,1 and PREV_ITEM,0,1
+how about we add something to a few items in my order|ADDON,0,0,2,3 to the PREV_DRINK,0,1 and PREV_DRINK,0,1
+im thinking of adding something to a few things|put ADDON,3,0,2,3 on the PREV_ITEM,0,1 PREV_ITEM,0,1 and PREV_ITEM,0,1
 can you throw something extra on both my PREV_ITEM,0,1 and PREV_ITEM,0,1|ADDON,0,0,1,2
 can we add to some things in my order|add ADDON,0,0,2,3 to my PREV_DRINK,0,1 and PREV_DRINK,0,1
 id like to add something to the side of both the PREV_ITEM,0,1 and PREV_ITEM,0,1|make it ADDON,2,0,1,2
@@ -696,33 +744,47 @@ id like to add something to the side of both the PREV_ITEM,0,1 and PREV_ITEM,0,1
 // phantom slots - multiple pointers - add to previous objects - addons
 id like to add ADDON,0,1 to a couple of items in my cart|PREV_ITEM,0,1 PREV_ITEM,0,1 and PREV_ITEM,0,1*1,0,2,3,4
 id like to add ADDON,0,1 to some things in my cart|PREV_ITEM,0,1 and PREV_ITEM,0,1*1,0,2,3
-i want to add ADDON,2,1 on the side of to a couple things|my PREV_DRINK,0,1 and PREV_ITEM,0,1*1,0,2,3
-can we toss some ADDON,3,1 into a few items|the PREV_ITEM,0,1 and PREV_ITEM,0,1 in my cart*1,0,2,3
-can you add ADDON,0,1 to a few things in my order|both the PREV_ITEM,0,1 and PREV_ITEM,0,1*1,0,2,3
-i need to put ADDON,2,1 on some of my order|specifically the PREV_ITEM,0,1 and PREV_ITEM,0,1*1,0,2,3
-can we add an ADDON,0,1 to multiple items in my cart|the PREV_ITEM,0,1 and PREV_ITEM,0,1*1,0,2,3
-can you add ADDON,0,1 to some things|put it on the side of my PREV_DRINK,0,1 and PREV_DRINK,0,1*1,2,2,3
+i want to add ADDON,2,1 on the side of to a couple things|my PREV_DRINK,0,1 and PREV_DRINK,0,1*1,0,2,3
+can we add an ADDON,0,1 to multiple items in my cart|the PREV_DRINK,0,1 and PREV_DRINK,0,1*1,0,2,3
 i want to put ADDON,0,1 with some stuff already in my order|on top of both the PREV_ITEM,0,1 and PREV_ITEM,0,1*1,3,2,3
-!!!
-// multiple pointers - add to previous objects - sizes
 
+// multiple pointers - add to previous objects - sizes
+can i change the size of my PREV_ITEM,0,1 and PREV_ITEM,0,1|make it SIZE,0,0,1,2
+id like to change the size of some things in my cart|make PREV_DRINK,0,1 and PREV_DRINK,0,1 a SIZE,0,0,1,2
+can we resize a few things|make the PREV_ITEM,0,1 and PREV_ITEM,0,1 a SIZE,0,0,1,2
+lets adjust the size of a couple of items|the PREV_DRINK,0,1 and PREV_ITEM,0,1 should both be SIZE,0,0,1,2
+i need to change the size of three things|make PREV_ITEM,0,1 PREV_ITEM,0,1 and PREV_ITEM,0,1 all SIZE,0,0,1,2,3
+can you upgrade the size of my PREV_DRINK,0,1 and PREV_ITEM,0,1|make them SIZE,0,0,1,2
+how about resizing my PREV_ITEM,0,1 and PREV_DRINK,0,1|they should both be SIZE,0,0,1,2
 
 // phantom slots - multiple pointers - add to previous objects - sizes
-
+lets make two things from my cart SIZE,0,1 instead|the PREV_ITEM,0,1 and PREV_ITEM,0,1*1,0,2,3
+please change some stuff to SIZE,0,1|i'm talking about the PREV_ITEM,0,1 and PREV_DRINK,0,1*1,0,2
+lets resize a couple drinks from my order to SIZE,0,1|PREV_DRINK,0,1 and PREV_DRINK,0,1*1,0,2
+can we make the sizes of some things SIZE,0,1|the PREV_ITEM,0,1 PREV_ITEM,0,1 and PREV_ITEM,0,1*1,0,2,3,4
 
 // multiple pointers - add to previous objects - numbers
-
+id like to change the number of some items in my cart|id like NUMBER,0,0,2,3 of both PREV_ITEM,0,1 and PREV_ITEM,0,1
+can we edit the amount of things in my cart|i need NUMBER,0,0,2,3 PREV_DRINK,0,1s and PREV_DRINK,0,1s
+id like to change the number of PREV_ITEM,0,1s and PREV_ITEM,0,1s in my order|i need NUMBER,0,0,1,2 of each
+can i edit the number of PREV_ITEM,0,1s PREV_ITEM,0,1s and PREV_ITEM,0,1s i have|NUMBER,0,0,1,2 of each please
 
 // phantom slots - multiple pointers - add to previous objects - numbers
-
+i actually want to increase the number of certain items in my cart to NUMBER,0,1|update the PREV_ITEM,0,1 and PREV_ITEM,0,1*1,0,2,3
+can we decrease the number of these items in my cart to NUMBER,0,1|change the PREV_ITEM,0,1 PREV_ITEM,0,1 and PREV_ITEM,0,1*1,0,2,3,4
+lets change the number of some certain items in my order to NUMBER,0,1|update the number of PREV_ITEM,0,1 and PREV_ITEM,0,1*1,0,2,3
 
 
 
 // add to previous addons (sizes and numbers)
-
+actually id like to change the number of PREV_ADDON,0,1,2s on my PREV_ITEM,0,1|id like NUMBER,0,0,1 please
+swap the size of the PREV_ADDON,0,1,2 on my PREV_ITEM,0,1|make it SIZE,0,0,1
+can i change up a addon that is on my PREV_ITEM,0,1|id like that PREV_ADDON,0,1,1 to be a SIZE,0,1
+let me update an addon already on my PREV_DRINK,0,1|i need NUMBER,0,0,3 PREV_ADDON,0,1,1s instead
 
 // phantom slots - add to previous addons (sizes and numbers)
-
+i want one of the addons on my PREV_ITEM,0,1 to be SIZE,0,1|it should be the PREV_ADDON,0,1,1*2,0,3
+lets update an ingredient in one of my items to be SIZE,0,1|the PREV_ADDON,0,1,3 on the PREV_ITEM,0,1*1,0,2
 
 // multiple pointers - add to previous addons (sizes and numbers)
 
@@ -968,3 +1030,7 @@ do you guys have a ITEM,0,1 on the menu|can you add that to my order*1,0
 
 // ask for a recommendation -> add it to order
 whats your favorite dish|ill have that please
+
+
+
+
