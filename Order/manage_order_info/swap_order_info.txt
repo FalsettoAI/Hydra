@@ -1,7 +1,7 @@
 // no slots
 i would like to swap one of my items
 is it possible for me to change one of the items in my cart
-can i change the addons on one of the drinks in my cart
+can i change the addons on one of the items in my cart
 can i swap the size of one of my items
 is it possible to switch out one of my selections
 can i make a change to something in my order
@@ -884,7 +884,7 @@ can i have a ITEM,0,0 and ITEM,0,0 both with ADDON,0,0,1,2 instead of the PREV_I
 // split intent - basic sentences
 i would like to swap one of my items|PREV_ITEM,1,0,0 for ITEM,0,0,0
 is it possible for me to change one of the items in my cart|ITEM,0,0,0 instead of PREV_ITEM,1,0,0
-can i change one of the drinks in my cart|the PREV_DRINK,1,0,0 for a DRINK,0,0,0 please
+can i change one of the items in my cart|the PREV_DRINK,1,0,0 for a DRINK,0,0,0 please
 can i make a change to something in my order|i want a DRINK,0,0,0 instead of a PREV_DRINK,1,0,0
 
 
