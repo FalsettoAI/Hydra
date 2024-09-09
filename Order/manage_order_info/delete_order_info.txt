@@ -1,295 +1,295 @@
 // basic sentences
 remove the PREV_ITEM,1,0,0 from my order
-take off that PREV_DRINK,1,0,0 i changed my mind
+take off that PREV_ITEM,1,0,0 i changed my mind
 cancel the PREV_ITEM,1,0,0 please
-can you delete the PREV_DRINK,1,0,0 from my order
+can you delete the PREV_ITEM,1,0,0 from my order
 i dont want the PREV_ITEM,1,0,0 anymore
-scratch that PREV_DRINK,1,0,0 off the list
+scratch that PREV_ITEM,1,0,0 off the list
 get rid of the PREV_ITEM,1,0,0 for me
-take the PREV_DRINK,1,0,0 off my order
+take the PREV_ITEM,1,0,0 off my order
 actually im not feeling the PREV_ITEM,1,0,0 anymore
 nix the PREV_ITEM,1,0,0 from my order
-lets drop the PREV_DRINK,1,0,0 from the list
+lets drop the PREV_ITEM,1,0,0 from the list
 i wanna cancel the PREV_ITEM,1,0,0
-can you take off the PREV_DRINK,1,0,0 i ordered
+can you take off the PREV_ITEM,1,0,0 i ordered
 remove that PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 please
-scratch out the PREV_DRINK,1,0,0 from my order
+scratch out the PREV_ITEM,1,0,0 from my order
 actually forget about the PREV_ITEM,1,0,0
-take that PREV_DRINK,1,0,0 off please
-remove the PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 from my order
+take that PREV_ITEM,1,0,0 off please
+remove the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 from my order
 i changed my mind about the PREV_ITEM,1,0,0 take it off
-delete that PREV_DRINK,1,0,0 from the order
+delete that PREV_ITEM,1,0,0 from the order
 lets remove the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1
-scratch the PREV_DRINK,1,0,0 off my list
+scratch the PREV_ITEM,1,0,0 off my list
 take away the PREV_ITEM,1,0,0 from the order
-can you delete that PREV_DRINK,1,0,0 i mentioned
+can you delete that PREV_ITEM,1,0,0 i mentioned
 remove the PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0 please
-cancel out the PREV_DRINK,1,0,0 i ordered
+cancel out the PREV_ITEM,1,0,0 i ordered
 take off the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and PREV_ADDON,0,1,1
-delete the PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 from my list
+delete the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 from my list
 can you remove that PREV_ITEM,1,0,0 i asked for
-scratch off the PREV_DRINK,1,0,0 from the order
+scratch off the PREV_ITEM,1,0,0 from the order
 take away the PREV_ITEM,1,0,0 with no PREV_ADDON,1,1,1
 cancel the PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0 from my order
-delete that PREV_DRINK,1,0,0 with PREV_ADDON,0,1,1
-remove the PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 with PREV_ADDON,0,1,2
+delete that PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1
+remove the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 with PREV_ADDON,0,1,2
 can you cancel the PREV_ITEM,1,0,0 from my list
-scratch out that PREV_DRINK,1,0,0 i ordered please
+scratch out that PREV_ITEM,1,0,0 i ordered please
 delete the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 from my order
-take away the PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0 i asked for
+take away the PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0 i asked for
 remove that PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 on the side
-cancel the PREV_DRINK,1,0,0 with PREV_ADDON,0,1,1 please
-delete the PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 from my order
+cancel the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 please
+delete the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 from my order
 remove that PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top
-take away the PREV_DRINK,1,0,0 i mentioned before
+take away the PREV_ITEM,1,0,0 i mentioned before
 can you scratch off the PREV_ITEM,1,0,0 from my list
-remove the PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0 with PREV_ADDON,0,2,1
+remove the PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0 with PREV_ADDON,0,2,1
 remove the PREV_ITEM,1,0,0 please
-take off that PREV_DRINK,1,0,0 from my order
+take off that PREV_ITEM,1,0,0 from my order
 cancel the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1
 get rid of the PREV_ITEM,1,0,0 for me
-scratch that PREV_DRINK,1,0,0 from the list
+scratch that PREV_ITEM,1,0,0 from the list
 i dont want the PREV_ITEM,1,0,0 anymore
-take the PREV_DRINK,1,0,0 off my order
+take the PREV_ITEM,1,0,0 off my order
 remove that PREV_SIZE,0,1,2 PREV_ITEM,1,0,0
-cancel the PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0
+cancel the PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0
 nix the PREV_ITEM,1,0,0 from my order
-drop the PREV_DRINK,1,0,0 please
+drop the PREV_ITEM,1,0,0 please
 i wanna cancel the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1
-can you take off the PREV_DRINK,1,0,0
+can you take off the PREV_ITEM,1,0,0
 remove that PREV_ITEM,1,0,0 i mentioned
-scratch out the PREV_SIZE,0,1,2 PREV_DRINK,1,0,0
+scratch out the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0
 forget about the PREV_ITEM,1,0,0
-take that PREV_DRINK,1,0,0 with PREV_ADDON,0,1,1 off
+take that PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 off
 cancel the PREV_ITEM,1,0,0 i asked for
-remove the PREV_DRINK,1,0,0 from my order
+remove the PREV_ITEM,1,0,0 from my order
 i changed my mind about the PREV_ITEM,1,0,0
-delete that PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0
+delete that PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0
 remove the PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 on the side
-scratch the PREV_DRINK,1,0,0 off my list
+scratch the PREV_ITEM,1,0,0 off my list
 take away the PREV_ITEM,1,0,0 from the order
-can you delete that PREV_SIZE,0,1,2 PREV_DRINK,1,0,0
+can you delete that PREV_SIZE,0,1,2 PREV_ITEM,1,0,0
 remove the PREV_ITEM,1,0,0 please
-cancel out the PREV_DRINK,1,0,0 i ordered
+cancel out the PREV_ITEM,1,0,0 i ordered
 take off the PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top
-delete the PREV_DRINK,1,0,0 from my list
+delete the PREV_ITEM,1,0,0 from my list
 remove that PREV_ITEM,1,0,0 i asked for
-scratch off the PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0
+scratch off the PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0
 take away the PREV_ITEM,1,0,0 with no PREV_ADDON,1,1,1
 cancel the PREV_ITEM,1,0,0 from my order
-delete that PREV_SIZE,0,1,2 PREV_DRINK,1,0,0
+delete that PREV_SIZE,0,1,2 PREV_ITEM,1,0,0
 take off the PREV_ITEM,1,0,0 i mentioned before
-remove the PREV_DRINK,1,0,0 with PREV_ADDON,0,1,1
+remove the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1
 can you cancel the PREV_ITEM,1,0,0 from my list
-scratch out that PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0
+scratch out that PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0
 delete the PREV_ITEM,1,0,0 from my order
-take away the PREV_DRINK,1,0,0 i asked for
+take away the PREV_ITEM,1,0,0 i asked for
 remove that PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1
-cancel the PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 please
-delete the PREV_DRINK,1,0,0 from my order
+cancel the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 please
+delete the PREV_ITEM,1,0,0 from my order
 remove that PREV_ITEM,1,0,0 with no PREV_ADDON,1,1,1
-take away the PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0
+take away the PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0
 can you scratch off the PREV_ITEM,1,0,0 from my list
-remove the PREV_DRINK,1,0,0 with PREV_ADDON,2,1,1 on the side
+remove the PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 on the side
 
 // multiple pointers - objects (addons, sizes, and numbers)
 i would like ITEM,0,0 and ITEM,0,0 with no ADDON,1,0,1,2 on either
-i need to add ITEM,0,0 ITEM,0,0 with no ADDON,1,0,1,2 for both and a DRINK,0,0
+i need to add ITEM,0,0 ITEM,0,0 with no ADDON,1,0,1,2 for both and a ITEM,0,0
 
 
 
 // remove multiple objects at a time
-take off the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and the PREV_DRINK,1,0,0
-remove that PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 and the PREV_NUMBER,0,1,4 PREV_DRINK,1,0,0s
-delete the PREV_DRINK,1,0,0 and the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 please
+take off the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and the PREV_ITEM,1,0,0
+remove that PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 and the PREV_NUMBER,0,1,4 PREV_ITEM,1,0,0s
+delete the PREV_ITEM,1,0,0 and the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 please
 remove both the PREV_ITEM,1,0,0 and PREV_ITEM,1,0,0 from my order
-take off the PREV_DRINK,1,0,0 with PREV_ADDON,0,1,1 and the other PREV_DRINK,1,0,0
-cancel that PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 and the PREV_DRINK,1,0,0 with PREV_ADDON,0,1,3
-delete the PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0 and the PREV_SIZE,0,1,4 PREV_DRINK,1,0,0
-remove the PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 on the side and the PREV_DRINK,1,0,0
-take off both PREV_DRINK,1,0,0 and PREV_DRINK,1,0,0 from my order
-cancel the PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top and the PREV_DRINK,1,0,0
-delete that PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 and the PREV_NUMBER,0,1,4 PREV_DRINK,1,0,0
-remove the PREV_ITEM,1,0,0 and PREV_ITEM,1,0,0 with PREV_ADDON,0,1,2
-take off the PREV_DRINK,1,0,0 and the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,2
-cancel both the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 and PREV_SIZE,0,1,4 PREV_DRINK,1,0,0
-delete the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and the PREV_DRINK,1,0,0 with PREV_ADDON,0,1,3
-remove that PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0 and the PREV_DRINK,1,0,0 please
-take off the PREV_ITEM,1,0,0 and PREV_DRINK,1,0,0 with PREV_ADDON,0,1,2
-cancel the PREV_DRINK,1,0,0 and that PREV_SIZE,0,1,3 PREV_ITEM,1,0,0 with PREV_ADDON,0,1,3
-delete both PREV_ITEM,1,0,0 and PREV_ITEM,1,0,0 from my order
-remove the PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 and the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,3
-take off that PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 on the side and the PREV_DRINK,1,0,0
-cancel the PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0 and the PREV_ITEM,1,0,0 please
-delete the PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top and the PREV_SIZE,0,1,4 PREV_DRINK,1,0,0
-remove both PREV_DRINK,1,0,0 and PREV_DRINK,1,0,0 from my order
-take off the PREV_ITEM,1,0,0 and that PREV_SIZE,0,1,3 PREV_DRINK,1,0,0
-cancel the PREV_DRINK,1,0,0 with PREV_ADDON,0,1,1 and the PREV_ITEM,1,0,0 please
-delete that PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 and the PREV_DRINK,1,0,0 with PREV_ADDON,0,1,3
-remove the PREV_ITEM,1,0,0 and PREV_ITEM,1,0,0 from my order
-take off both the PREV_DRINK,1,0,0 and PREV_SIZE,0,1,3 PREV_ITEM,1,0,0
-cancel that PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0 and the PREV_DRINK,1,0,0 please
-delete the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and the PREV_SIZE,0,1,4 PREV_DRINK,1,0,0
-remove the PREV_DRINK,1,0,0 and that PREV_ITEM,1,0,0 with PREV_ADDON,2,1,2 on the side
+take off the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and the other PREV_ITEM,1,0,0
+cancel that PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 and the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,3
+delete the PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0 and the PREV_SIZE,0,1,4 PREV_ITEM,1,0,0
+remove the PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 on the side and the PREV_ITEM,1,0,0
 take off both PREV_ITEM,1,0,0 and PREV_ITEM,1,0,0 from my order
-cancel the PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 and the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,3
-delete that PREV_ITEM,1,0,0 and the PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0
-remove the PREV_DRINK,1,0,0 with PREV_ADDON,0,1,1 and the PREV_ITEM,1,0,0 please
-take off the PREV_ITEM,1,0,0 and that PREV_SIZE,0,1,3 PREV_DRINK,1,0,0
-cancel both PREV_DRINK,1,0,0 and PREV_DRINK,1,0,0 from my order
-delete the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 and the PREV_DRINK,1,0,0 with PREV_ADDON,0,1,3
-remove that PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top and the PREV_DRINK,1,0,0
-take off the PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0 and the PREV_ITEM,1,0,0 please
-cancel the PREV_ITEM,1,0,0 and PREV_ITEM,1,0,0 from my order
-delete both the PREV_DRINK,1,0,0 and PREV_SIZE,0,1,3 PREV_ITEM,1,0,0
-remove that PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and the PREV_DRINK,1,0,0 please
-take off the PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 and the PREV_ITEM,1,0,0 with PREV_ADDON,2,1,3 on the side
+cancel the PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top and the PREV_ITEM,1,0,0
+delete that PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 and the PREV_NUMBER,0,1,4 PREV_ITEM,1,0,0
+remove the PREV_ITEM,1,0,0 and PREV_ITEM,1,0,0 with PREV_ADDON,0,1,2
+take off the PREV_ITEM,1,0,0 and the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,2
+cancel both the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 and PREV_SIZE,0,1,4 PREV_ITEM,1,0,0
+delete the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,3
+remove that PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0 and the PREV_ITEM,1,0,0 please
+take off the PREV_ITEM,1,0,0 and PREV_ITEM,1,0,0 with PREV_ADDON,0,1,2
+cancel the PREV_ITEM,1,0,0 and that PREV_SIZE,0,1,3 PREV_ITEM,1,0,0 with PREV_ADDON,0,1,3
+delete both PREV_ITEM,1,0,0 and PREV_ITEM,1,0,0 from my order
+remove the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 and the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,3
+take off that PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 on the side and the PREV_ITEM,1,0,0
+cancel the PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0 and the PREV_ITEM,1,0,0 please
+delete the PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top and the PREV_SIZE,0,1,4 PREV_ITEM,1,0,0
+remove both PREV_ITEM,1,0,0 and PREV_ITEM,1,0,0 from my order
+take off the PREV_ITEM,1,0,0 and that PREV_SIZE,0,1,3 PREV_ITEM,1,0,0
+cancel the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and the PREV_ITEM,1,0,0 please
+delete that PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 and the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,3
+remove the PREV_ITEM,1,0,0 and PREV_ITEM,1,0,0 from my order
+take off both the PREV_ITEM,1,0,0 and PREV_SIZE,0,1,3 PREV_ITEM,1,0,0
+cancel that PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0 and the PREV_ITEM,1,0,0 please
+delete the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and the PREV_SIZE,0,1,4 PREV_ITEM,1,0,0
+remove the PREV_ITEM,1,0,0 and that PREV_ITEM,1,0,0 with PREV_ADDON,2,1,2 on the side
+take off both PREV_ITEM,1,0,0 and PREV_ITEM,1,0,0 from my order
+cancel the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 and the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,3
+delete that PREV_ITEM,1,0,0 and the PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0
+remove the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and the PREV_ITEM,1,0,0 please
+take off the PREV_ITEM,1,0,0 and that PREV_SIZE,0,1,3 PREV_ITEM,1,0,0
 cancel both PREV_ITEM,1,0,0 and PREV_ITEM,1,0,0 from my order
-delete the PREV_DRINK,1,0,0 and that PREV_NUMBER,0,1,3 PREV_ITEM,1,0,0
-remove the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and the PREV_SIZE,0,1,3 PREV_DRINK,1,0,0
-remove the PREV_ITEM,1,0,0 and the PREV_DRINK,1,0,0 from my order
+delete the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 and the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,3
+remove that PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top and the PREV_ITEM,1,0,0
+take off the PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0 and the PREV_ITEM,1,0,0 please
+cancel the PREV_ITEM,1,0,0 and PREV_ITEM,1,0,0 from my order
+delete both the PREV_ITEM,1,0,0 and PREV_SIZE,0,1,3 PREV_ITEM,1,0,0
+remove that PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and the PREV_ITEM,1,0,0 please
+take off the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 and the PREV_ITEM,1,0,0 with PREV_ADDON,2,1,3 on the side
+cancel both PREV_ITEM,1,0,0 and PREV_ITEM,1,0,0 from my order
+delete the PREV_ITEM,1,0,0 and that PREV_NUMBER,0,1,3 PREV_ITEM,1,0,0
+remove the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and the PREV_SIZE,0,1,3 PREV_ITEM,1,0,0
+remove the PREV_ITEM,1,0,0 and the PREV_ITEM,1,0,0 from my order
 cancel both the PREV_ITEM,1,0,0 and PREV_ITEM,1,0,0 please
-take off the PREV_DRINK,1,0,0 with PREV_ADDON,0,1,1 and the PREV_SIZE,0,1,4 PREV_ITEM,1,0,0
-delete the PREV_ITEM,1,0,0 PREV_ITEM,1,0,0 and PREV_DRINK,1,0,0 from my order
-remove that PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0 and the PREV_ITEM,1,0,0 with PREV_ADDON,2,1,3 on the side
-cancel the PREV_ITEM,1,0,0 PREV_DRINK,1,0,0 and PREV_SIZE,0,1,4 PREV_ITEM,1,0,0
-take off PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0s and the PREV_ITEM,1,0,0 from my order
-delete the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and PREV_DRINK,1,0,0 with PREV_ADDON,0,1,3
-remove the PREV_ITEM,1,0,0 PREV_ITEM,1,0,0 PREV_DRINK,1,0,0 and PREV_DRINK,1,0,0
-cancel that PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 and PREV_NUMBER,0,1,4 PREV_DRINK,1,0,0
-take off the PREV_ITEM,1,0,0 PREV_DRINK,1,0,0 and PREV_ITEM,1,0,0 with PREV_ADDON,3,1,3 on top
-delete both PREV_DRINK,1,0,0s and both PREV_ITEM,1,0,0s from my order
-remove the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 PREV_DRINK,1,0,0 and PREV_SIZE,0,1,5 PREV_ITEM,1,0,0
-cancel the PREV_DRINK,1,0,0 PREV_ITEM,1,0,0 and PREV_NUMBER,0,1,4 PREV_DRINK,1,0,0s please
-take off that PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 on the side and the PREV_DRINK,1,0,0 with PREV_ADDON,0,1,3
-delete the PREV_ITEM,1,0,0 PREV_DRINK,1,0,0 PREV_ITEM,1,0,0 and PREV_SIZE,0,1,5 PREV_DRINK,1,0,0
-remove both PREV_ITEM,1,0,0s and both PREV_DRINK,1,0,0s from my order
-cancel the PREV_DRINK,1,0,0 with PREV_ADDON,0,1,3 PREV_ITEM,1,0,0 and PREV_NUMBER,0,1,5 PREV_ITEM,1,0,0
-take off the PREV_ITEM,1,0,0 PREV_DRINK,1,0,0 PREV_SIZE,0,1,4 PREV_ITEM,1,0,0 and PREV_DRINK,1,0,0
-delete that PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top PREV_DRINK,1,0,0 PREV_ITEM,1,0,0 and PREV_DRINK,1,0,0 please
+take off the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and the PREV_SIZE,0,1,4 PREV_ITEM,1,0,0
+delete the PREV_ITEM,1,0,0 PREV_ITEM,1,0,0 and PREV_ITEM,1,0,0 from my order
+remove that PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0 and the PREV_ITEM,1,0,0 with PREV_ADDON,2,1,3 on the side
+cancel the PREV_ITEM,1,0,0 PREV_ITEM,1,0,0 and PREV_SIZE,0,1,4 PREV_ITEM,1,0,0
+take off PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0s and the PREV_ITEM,1,0,0 from my order
+delete the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and PREV_ITEM,1,0,0 with PREV_ADDON,0,1,3
+remove the PREV_ITEM,1,0,0 PREV_ITEM,1,0,0 PREV_ITEM,1,0,0 and PREV_ITEM,1,0,0
+cancel that PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 and PREV_NUMBER,0,1,4 PREV_ITEM,1,0,0
+take off the PREV_ITEM,1,0,0 PREV_ITEM,1,0,0 and PREV_ITEM,1,0,0 with PREV_ADDON,3,1,3 on top
+delete both PREV_ITEM,1,0,0s and both PREV_ITEM,1,0,0s from my order
+remove the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 PREV_ITEM,1,0,0 and PREV_SIZE,0,1,5 PREV_ITEM,1,0,0
+cancel the PREV_ITEM,1,0,0 PREV_ITEM,1,0,0 and PREV_NUMBER,0,1,4 PREV_ITEM,1,0,0s please
+take off that PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 on the side and the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,3
+delete the PREV_ITEM,1,0,0 PREV_ITEM,1,0,0 PREV_ITEM,1,0,0 and PREV_SIZE,0,1,5 PREV_ITEM,1,0,0
+remove both PREV_ITEM,1,0,0s and both PREV_ITEM,1,0,0s from my order
+cancel the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,3 PREV_ITEM,1,0,0 and PREV_NUMBER,0,1,5 PREV_ITEM,1,0,0
+take off the PREV_ITEM,1,0,0 PREV_ITEM,1,0,0 PREV_SIZE,0,1,4 PREV_ITEM,1,0,0 and PREV_ITEM,1,0,0
+delete that PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top PREV_ITEM,1,0,0 PREV_ITEM,1,0,0 and PREV_ITEM,1,0,0 please
 
 
 
 // complex obj references
 cancel the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and PREV_ADDON,0,1,1
 remove the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 with PREV_ADDON,0,1,2
-cancel PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0s with PREV_ADDON,0,1,2
+cancel PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0s with PREV_ADDON,0,1,2
 take off the PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 on the side
-delete the PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 with PREV_ADDON,3,1,2 on top
+delete the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 with PREV_ADDON,3,1,2 on top
 remove PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0s with PREV_ADDON,0,1,2 and PREV_ADDON,0,1,2
-cancel the PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 with PREV_ADDON,2,1,2 on the side
+cancel the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 with PREV_ADDON,2,1,2 on the side
 take off that PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and PREV_ADDON,3,1,1 on top
-delete PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0s with PREV_ADDON,0,1,2 and PREV_ADDON,0,1,2
+delete PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0s with PREV_ADDON,0,1,2 and PREV_ADDON,0,1,2
 remove the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 with PREV_ADDON,2,1,2 on the side and PREV_ADDON,0,1,2
-cancel that PREV_DRINK,1,0,0 with PREV_ADDON,0,1,1 and PREV_ADDON,3,1,1 on top
+cancel that PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and PREV_ADDON,3,1,1 on top
 take off PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0s with PREV_ADDON,0,1,2 and PREV_ADDON,2,1,2 on the side
-delete that PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 with PREV_ADDON,0,1,2 and PREV_ADDON,0,1,2
+delete that PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 with PREV_ADDON,0,1,2 and PREV_ADDON,0,1,2
 remove the PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top and PREV_ADDON,2,1,1 on the side
-cancel PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0s with PREV_ADDON,0,1,2 and PREV_ADDON,3,1,2 on top
+cancel PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0s with PREV_ADDON,0,1,2 and PREV_ADDON,3,1,2 on top
 take off that PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 with PREV_ADDON,0,1,2 and PREV_ADDON,0,1,2
-delete the PREV_DRINK,1,0,0 with PREV_ADDON,2,1,1 on the side and PREV_ADDON,3,1,1 on top
-remove PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0s with PREV_ADDON,0,1,2 and the PREV_SIZE,0,1,5 PREV_DRINK,1,0,0 with PREV_ADDON,0,1,5
-cancel the PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top and PREV_NUMBER,0,1,4 PREV_DRINK,1,0,0s with PREV_ADDON,2,1,4 on the side
+delete the PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 on the side and PREV_ADDON,3,1,1 on top
+remove PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0s with PREV_ADDON,0,1,2 and the PREV_SIZE,0,1,5 PREV_ITEM,1,0,0 with PREV_ADDON,0,1,5
+cancel the PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top and PREV_NUMBER,0,1,4 PREV_ITEM,1,0,0s with PREV_ADDON,2,1,4 on the side
 take off that PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 with PREV_ADDON,0,1,2 and PREV_ADDON,0,1,2
-delete the PREV_DRINK,1,0,0 with PREV_ADDON,3,1,1 on top and PREV_ADDON,0,1,1
+delete the PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top and PREV_ADDON,0,1,1
 remove PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0s with PREV_ADDON,2,1,2 on the side
-cancel the PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 with PREV_ADDON,0,1,2 and PREV_ADDON,3,1,2 on top
+cancel the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 with PREV_ADDON,0,1,2 and PREV_ADDON,3,1,2 on top
 take off the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and PREV_ADDON,2,1,1 on the side
-delete PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0s with PREV_ADDON,3,1,2 on top
+delete PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0s with PREV_ADDON,3,1,2 on top
 remove the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 with PREV_ADDON,0,1,2 and PREV_ADDON,0,1,2
-cancel that PREV_DRINK,1,0,0 with PREV_ADDON,2,1,1 on the side and PREV_ADDON,0,1,1
-take off PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0s with PREV_ADDON,3,1,2 on top and PREV_ADDON,0,1,2
-delete the PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 with PREV_ADDON,0,1,2 and PREV_ADDON,2,1,2 on the side
-remove that PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and PREV_ADDON,3,1,1 on top
-cancel PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0s with PREV_ADDON,2,1,2 on the side and PREV_ADDON,0,1,2
-take off that PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 with PREV_ADDON,3,1,2 on top
-delete the PREV_DRINK,1,0,0 with PREV_ADDON,0,1,1 and PREV_ADDON,2,1,1 on the side
-remove PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0s with PREV_ADDON,0,1,2 and the PREV_SIZE,0,1,5 PREV_DRINK,1,0,0 with PREV_ADDON,3,1,5 on top
 cancel that PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 on the side and PREV_ADDON,0,1,1
-take off the PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 with PREV_ADDON,3,1,2 on top and PREV_ADDON,0,1,2
-delete PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0s with PREV_ADDON,0,1,2 and PREV_ADDON,2,1,2 on the side
-remove the PREV_DRINK,1,0,0 with PREV_ADDON,3,1,1 on top and PREV_ADDON,0,1,1
-cancel that PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 with PREV_ADDON,0,1,2 and PREV_ADDON,2,1,2 on the side
-take off PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0s with PREV_ADDON,3,1,2 on top
-delete that PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and PREV_ADDON,0,1,1
-remove the PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 with PREV_ADDON,2,1,2 on the side and PREV_ADDON,3,1,2 on top
-cancel PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0s with PREV_ADDON,0,1,2 and the PREV_DRINK,1,0,0 with PREV_ADDON,0,1,4
-take off the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 with PREV_ADDON,3,1,2 on top and PREV_ADDON,2,1,2 on the side
-delete that PREV_DRINK,1,0,0 with PREV_ADDON,0,1,1 and PREV_ADDON,0,1,1
-remove PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0s with PREV_ADDON,2,1,2 on the side and PREV_ADDON,3,1,2 on top
-cancel that PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 with PREV_ADDON,0,1,2 and PREV_ADDON,0,1,2
-take off the PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top and PREV_ADDON,0,1,1
-delete PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0s with PREV_ADDON,2,1,2 on the side and PREV_ADDON,0,1,2
-remove the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 with PREV_ADDON,0,1,2 and PREV_ADDON,3,1,2 on top
-cancel that PREV_DRINK,1,0,0 with PREV_ADDON,0,1,1 and PREV_ADDON,2,1,1 on the side
 take off PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0s with PREV_ADDON,3,1,2 on top and PREV_ADDON,0,1,2
-delete that PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 with PREV_ADDON,0,1,2 and PREV_ADDON,0,1,2
-remove the PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 on the side and PREV_ADDON,3,1,1 on top
-cancel PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0s with PREV_ADDON,0,1,2 and PREV_ADDON,0,1,2
+delete the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 with PREV_ADDON,0,1,2 and PREV_ADDON,2,1,2 on the side
+remove that PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and PREV_ADDON,3,1,1 on top
+cancel PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0s with PREV_ADDON,2,1,2 on the side and PREV_ADDON,0,1,2
+take off that PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 with PREV_ADDON,3,1,2 on top
+delete the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and PREV_ADDON,2,1,1 on the side
+remove PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0s with PREV_ADDON,0,1,2 and the PREV_SIZE,0,1,5 PREV_ITEM,1,0,0 with PREV_ADDON,3,1,5 on top
+cancel that PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 on the side and PREV_ADDON,0,1,1
+take off the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 with PREV_ADDON,3,1,2 on top and PREV_ADDON,0,1,2
+delete PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0s with PREV_ADDON,0,1,2 and PREV_ADDON,2,1,2 on the side
+remove the PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top and PREV_ADDON,0,1,1
+cancel that PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 with PREV_ADDON,0,1,2 and PREV_ADDON,2,1,2 on the side
+take off PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0s with PREV_ADDON,3,1,2 on top
+delete that PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and PREV_ADDON,0,1,1
+remove the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 with PREV_ADDON,2,1,2 on the side and PREV_ADDON,3,1,2 on top
+cancel PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0s with PREV_ADDON,0,1,2 and the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,4
 take off the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 with PREV_ADDON,3,1,2 on top and PREV_ADDON,2,1,2 on the side
-delete that PREV_DRINK,1,0,0 with PREV_ADDON,0,1,1 and PREV_NUMBER,0,1,4 PREV_ITEM,1,0,0s with PREV_ADDON,0,1,4
+delete that PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and PREV_ADDON,0,1,1
+remove PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0s with PREV_ADDON,2,1,2 on the side and PREV_ADDON,3,1,2 on top
+cancel that PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 with PREV_ADDON,0,1,2 and PREV_ADDON,0,1,2
+take off the PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top and PREV_ADDON,0,1,1
+delete PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0s with PREV_ADDON,2,1,2 on the side and PREV_ADDON,0,1,2
+remove the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 with PREV_ADDON,0,1,2 and PREV_ADDON,3,1,2 on top
+cancel that PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and PREV_ADDON,2,1,1 on the side
+take off PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0s with PREV_ADDON,3,1,2 on top and PREV_ADDON,0,1,2
+delete that PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 with PREV_ADDON,0,1,2 and PREV_ADDON,0,1,2
+remove the PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 on the side and PREV_ADDON,3,1,1 on top
+cancel PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0s with PREV_ADDON,0,1,2 and PREV_ADDON,0,1,2
+take off the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 with PREV_ADDON,3,1,2 on top and PREV_ADDON,2,1,2 on the side
+delete that PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and PREV_NUMBER,0,1,4 PREV_ITEM,1,0,0s with PREV_ADDON,0,1,4
 remove the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 with PREV_ADDON,2,1,2 on the side and PREV_ADDON,0,1,2
-cancel that PREV_DRINK,1,0,0 with PREV_ADDON,3,1,1 on top and PREV_ADDON,0,1,1
+cancel that PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top and PREV_ADDON,0,1,1
 take off PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0s with PREV_ADDON,0,1,2 and PREV_ADDON,2,1,2 on the side
-delete that PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 with PREV_ADDON,3,1,2 on top and PREV_ADDON,0,1,2
+delete that PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 with PREV_ADDON,3,1,2 on top and PREV_ADDON,0,1,2
 remove the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and PREV_ADDON,0,1,1
-cancel PREV_NUMBER,0,1,2 PREV_DRINK,1,0,0s with PREV_ADDON,2,1,2 on the side and PREV_ADDON,3,1,2 on top
+cancel PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0s with PREV_ADDON,2,1,2 on the side and PREV_ADDON,3,1,2 on top
 take off the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 with PREV_ADDON,0,1,2 and PREV_ADDON,0,1,2
-delete that PREV_DRINK,1,0,0 with PREV_ADDON,3,1,1 on top and PREV_ADDON,2,1,1 on the side
+delete that PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top and PREV_ADDON,2,1,1 on the side
 remove PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0s with PREV_ADDON,0,1,2 and PREV_ADDON,0,1,2
-cancel that PREV_SIZE,0,1,2 PREV_DRINK,1,0,0 with PREV_ADDON,2,1,2 on the side and PREV_ADDON,0,1,2
+cancel that PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 with PREV_ADDON,2,1,2 on the side and PREV_ADDON,0,1,2
 take off the PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top and PREV_ADDON,0,1,1
 
 
 
 // delete addon from a previous object
 actually no ADDON,1,0,2 on that PREV_ITEM,0,1 please
-actually i dont need ADDON,1,0,2 on the PREV_DRINK,0,1 please
+actually i dont need ADDON,1,0,2 on the PREV_ITEM,0,1 please
 please take the ADDON,1,0,2 off my PREV_ITEM,0,1
-can you access the PREV_DRINK,0,1 and take ADDON,1,0,1 off it
+can you access the PREV_ITEM,0,1 and take ADDON,1,0,1 off it
 actually no ADDON,1,0,2 on that PREV_ITEM,0,1 anymore
-can you remove the ADDON,1,0,2 from my PREV_DRINK,0,1
+can you remove the ADDON,1,0,2 from my PREV_ITEM,0,1
 i don’t want ADDON,1,0,2 on that PREV_ITEM,0,1 now
-please take ADDON,1,0,2 off the PREV_DRINK,0,1
+please take ADDON,1,0,2 off the PREV_ITEM,0,1
 actually remove ADDON,1,0,2 from the PREV_ITEM,0,1 for me
-can you take off ADDON,1,0,2 on my PREV_DRINK,0,1
+can you take off ADDON,1,0,2 on my PREV_ITEM,0,1
 i decided i don’t need ADDON,1,0,2 on that PREV_ITEM,0,1
-could you take out the ADDON,1,0,2 from the PREV_DRINK,0,1
+could you take out the ADDON,1,0,2 from the PREV_ITEM,0,1
 please take off the ADDON,1,0,2 on my PREV_ITEM,0,1
-can you go ahead and remove ADDON,1,0,2 from the PREV_DRINK,0,1
+can you go ahead and remove ADDON,1,0,2 from the PREV_ITEM,0,1
 actually leave out the ADDON,1,0,2 on that PREV_ITEM,0,1
-i don’t need ADDON,1,0,2 on my PREV_DRINK,0,1 anymore
+i don’t need ADDON,1,0,2 on my PREV_ITEM,0,1 anymore
 can you just remove ADDON,1,0,2 from the PREV_ITEM,0,1
-please skip the ADDON,1,0,2 on my PREV_DRINK,0,1
+please skip the ADDON,1,0,2 on my PREV_ITEM,0,1
 could you access the PREV_ITEM,0,1 and take out ADDON,1,0,1
-take off the ADDON,1,0,2 from my PREV_DRINK,0,1 please
+take off the ADDON,1,0,2 from my PREV_ITEM,0,1 please
 actually no more ADDON,1,0,2 on the PREV_ITEM,0,1
-please remove the ADDON,1,0,2 from the PREV_DRINK,0,1
+please remove the ADDON,1,0,2 from the PREV_ITEM,0,1
 can you leave out ADDON,1,0,2 from my PREV_ITEM,0,1
-i don’t want ADDON,1,0,2 on the PREV_DRINK,0,1 anymore
+i don’t want ADDON,1,0,2 on the PREV_ITEM,0,1 anymore
 can you skip the ADDON,1,0,2 on the PREV_ITEM,0,1
-please take out the ADDON,1,0,2 from my PREV_DRINK,0,1
-actually take off the ADDON,1,0,2 from the PREV_DRINK,0,1
+please take out the ADDON,1,0,2 from my PREV_ITEM,0,1
+actually take off the ADDON,1,0,2 from the PREV_ITEM,0,1
 leave out ADDON,1,0,2 on that PREV_ITEM,0,1 please
-could you skip ADDON,1,0,2 on the PREV_DRINK,0,1
+could you skip ADDON,1,0,2 on the PREV_ITEM,0,1
 actually take away ADDON,1,0,2 from the PREV_ITEM,0,1
-can you take off ADDON,1,0,2 from my PREV_DRINK,0,1
+can you take off ADDON,1,0,2 from my PREV_ITEM,0,1
 i changed my mind, remove ADDON,1,0,2 from that PREV_ITEM,0,1
-please leave out the ADDON,1,0,2 from my PREV_DRINK,0,1
+please leave out the ADDON,1,0,2 from my PREV_ITEM,0,1
 could you remove the ADDON,1,0,2 on my PREV_ITEM,0,1
-skip ADDON,1,0,2 on the PREV_DRINK,0,1 for me
+skip ADDON,1,0,2 on the PREV_ITEM,0,1 for me
 actually don’t include ADDON,1,0,2 on that PREV_ITEM,0,1
 leave out the ADDON,1,0,2 from my PREV_ITEM,0,1
-can you remove the ADDON,1,0,2 on the PREV_DRINK,0,1
+can you remove the ADDON,1,0,2 on the PREV_ITEM,0,1
 actually take ADDON,1,0,2 off the PREV_ITEM,0,1
-i don’t want ADDON,1,0,2 on my PREV_DRINK,0,1 anymore
+i don’t want ADDON,1,0,2 on my PREV_ITEM,0,1 anymore
 could you skip the ADDON,1,0,2 on the PREV_ITEM,0,1
-please take out ADDON,1,0,2 from my PREV_DRINK,0,1
+please take out ADDON,1,0,2 from my PREV_ITEM,0,1
 please don’t add ADDON,1,0,2 on that PREV_ITEM,0,1
-could you take off ADDON,1,0,2 from my PREV_DRINK,0,1
+could you take off ADDON,1,0,2 from my PREV_ITEM,0,1
 actually skip ADDON,1,0,2 on the PREV_ITEM,0,1
 please leave out ADDON,1,0,2 on the PREV_ITEM,0,1
-could you take away ADDON,1,0,2 from my PREV_DRINK,0,1
+could you take away ADDON,1,0,2 from my PREV_ITEM,0,1
 actually no more ADDON,1,0,2 on that PREV_ITEM,0,1
 
 

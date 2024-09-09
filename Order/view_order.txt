@@ -771,11 +771,11 @@ was that PREV_ITEM,0,1,0 a SIZE,0,1,1
 does my order contain an PREV_ITEM,0,1,0
 hey did you remove ADDON,0,1,2 from my PREV_ITEM,0,1,0
 what size was my PREV_ITEM,0,1,0 again
-did you add a PREV_DRINK,0,1,0 to my order
+did you add a PREV_ITEM,0,1,0 to my order
 how many PREV_ITEM,0,1,0's did i order
 is my PREV_ITEM,0,1,0 in the right size
 what PREV_ITEM,0,1,0 did you just add
-what DRINK,0,1,0 did i get
+what ITEM,0,1,0 did i get
 did you add ADDON,0,1,2 to my PREV_ITEM,0,1,0
 how many PREV_ITEM,0,1,0's did you remove
 was that SIZE,0,1,2 PREV_ITEM,0,1,0 removed
@@ -786,51 +786,51 @@ did you add any ADDON,0,1,2 to my PREV_ITEM,0,1,0
 what item did you just remove
 did you remember to add ADDON,0,1,2 to my PREV_ITEM,0,1,0
 can you confirm the size of my PREV_ITEM,0,1,0
-did you add the ADDON,0,1,2 to my PREV_DRINK,0,1,0
+did you add the ADDON,0,1,2 to my PREV_ITEM,0,1,0
 what ADDON,0,1,2 do i have on my PREV_ITEM,0,1,0
 did you delete PREV_ITEM,0,1,0 from my order
 what SIZE,0,1,2 did i pick for my PREV_ITEM,0,1,0
 how many PREV_ITEM,0,1,0's did you add
 what's the SIZE,0,1,2 of my PREV_ITEM,0,1,0
 did you remember my ADDON,0,1,2 for PREV_ITEM,0,1,0
-how many DRINK,0,1,0's do i have
+how many ITEM,0,1,0's do i have
 did you take away PREV_ITEM,0,1,0 from my order
 was ADDON,0,1,2 removed from my PREV_ITEM,0,1,0
-do i have a DRINK,0,1,0 with ADDON,0,1,1
+do i have a ITEM,0,1,0 with ADDON,0,1,1
 can you confirm my PREV_ITEM,0,1,0 has SIZE,0,1,1
 did you add PREV_ITEM,0,1,0 to my order
-how many PREV_DRINK,0,1,0's did you add
+how many PREV_ITEM,0,1,0's did you add
 is my PREV_ITEM,0,1,0 still there
 did you put NUMBER,0,1,2 PREV_ITEM,0,1,0's
 is my PREV_ITEM,0,1,0 a SIZE,0,1,1
 how many PREV_ITEM,0,1,0's did i get
 did you delete the PREV_ITEM,0,1,0 from my order
 what SIZE,0,1,2 is my PREV_ITEM,0,1,0
-how many DRINK,0,1,0's do i have in my order
+how many ITEM,0,1,0's do i have in my order
 did you add more PREV_ITEM,0,1,0's
 did you take PREV_ITEM,0,1,0 off my order
 how many SIZE,0,1,2 PREV_ITEM,0,1,0's are there
 was ADDON,0,1,2 deleted from my PREV_ITEM,0,1,0
 did you add ADDON,0,1,2 to my PREV_ITEM,0,1,0
-how many ADDON,0,1,2's are in my DRINK,0,1,0
+how many ADDON,0,1,2's are in my ITEM,0,1,0
 did you remove PREV_ITEM,0,1,0 from my order
 how many PREV_ITEM,0,1,0's did you add to my order
 did you add the correct size to my PREV_ITEM,0,1,0
 did you add PREV_ITEM,0,1,0 to my order
-how many PREV_DRINK,0,1,0's do i have
+how many PREV_ITEM,0,1,0's do i have
 is my PREV_ITEM,0,1,0 still there
 did you put any ADDON,0,1,2 on my PREV_ITEM,0,1,0
 what PREV_ITEM,0,1,0 did you just add
 is my PREV_ITEM,0,1,0 with ADDON,0,1,2
 did you change the size of my PREV_ITEM,0,1,0
-how many DRINK,0,1,0's did you add
+how many ITEM,0,1,0's did you add
 what's the size of my PREV_ITEM,0,1,0
 did you take away PREV_ITEM,0,1,0 from my order
 how many PREV_ITEM,0,1,0's do i have in my order
-did you add the ADDON,0,1,2 to my DRINK,0,1,0
+did you add the ADDON,0,1,2 to my ITEM,0,1,0
 is my PREV_ITEM,0,1,0 a SIZE,0,1,1
 did you add any ADDON,0,1,2 to my PREV_ITEM,0,1,0
-how many ADDON,0,1,2s are in my DRINK,0,1,0
+how many ADDON,0,1,2s are in my ITEM,0,1,0
 did you delete PREV_ITEM,0,1,0 from my order
 is ADDON,0,1,2 on my PREV_ITEM,0,1,0
 did you change SIZE,0,1,2 of my PREV_ITEM,0,1,0
