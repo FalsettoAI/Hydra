@@ -473,26 +473,26 @@ let me have NUMBER,0,0,2,3 of both those PREV_ADDON,0,1,4 and PREV_ADDON,0,1,4 f
 
 
 // separate partial specification
-can i have NUMBER,0,0,2 ITEM,0,0,0s and put ADDON,3,0,4 on NUMBER,0,0,2
-give me NUMBER,0,0,2 ITEM,0,0,0s with ADDON,3,0,4 in NUMBER,0,0,2
-let me get NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,4 off to the side NUMBER,0,0,2
-let me get NUMBER,0,0,2 ITEM,0,0,0s and NUMBER,0,0,2 of them should be SIZE,0,0,3
-add NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,2 of em SIZE,0,0,3
-i need to add NUMBER,0,0,2 ITEM,0,0,0s with ADDON,3,0,4 in NUMBER,0,0,2 of those
-lets add NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,4 on the side for NUMBER,0,0,2
-can we put in NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,2 of em SIZE,0,0,3
-can i get NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,4 on the side for NUMBER,0,0,2
-yo add NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,2 SIZE,0,0,3
-please give me NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,4 off to the side for NUMBER,0,0,2
-give us NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,2 of those bad boys SIZE,0,0,3
-add NUMBER,0,0,2 ITEM,0,0,0s to that and stick ADDON,3,0,4 in NUMBER,0,0,2
-put in NUMBER,0,0,2 ITEM,0,0,0s my way and slap ADDON,3,0,4 on NUMBER,0,0,2
-we would like to have NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,2 of em SIZE,0,0,3
-add NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,2 of those babies SIZE,0,0,3
-i would like NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,2 SIZE,0,0,3
-lets get NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,2 to be SIZE,0,0,3
-lets add NUMBER,0,0,2 ITEM,0,0,0s and give NUMBER,0,0,2 with ADDON,3,0,3
-i would like to add NUMBER,0,0,2 ITEM,0,0,0s and give NUMBER,0,0,2 a kick of ADDON,3,0,3
+can i have NUMBER,0,0,2 ITEM,0,0,0s and put ADDON,3,0,6 on NUMBER,0,0,5,6*2,1*2,0
+give me NUMBER,0,0,2 ITEM,0,0,0s with ADDON,3,0,6 in NUMBER,0,0,5,6*2,1*2,0
+let me get NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,6 off to the side NUMBER,0,0,5,6*2,1*2,0
+let me get NUMBER,0,0,2 ITEM,0,0,0s and NUMBER,0,0,5,6 of them should be SIZE,0,0,6*2,1*2,0
+add NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,5,6 of em SIZE,0,0,6*2,1*2,0
+i need to add NUMBER,0,0,2 ITEM,0,0,0s with ADDON,3,0,6 in NUMBER,0,0,5,6 of those*2,1*2,0
+lets add NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,6 on the side for NUMBER,0,0,5,6*2,1*2,0
+can we put in NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,5,6 of em SIZE,0,0,6*2,1*2,0
+can i get NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,6 on the side for NUMBER,0,0,5,6*2,1*2,0
+yo add NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,5,6 SIZE,0,0,6*2,1*2,0
+please give me NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,6 off to the side for NUMBER,0,0,5,6*2,1*2,0
+give us NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,5,6 of those bad boys SIZE,0,0,6*2,1*2,0
+add NUMBER,0,0,2 ITEM,0,0,0s to that and stick ADDON,3,0,6 in NUMBER,0,0,5,6*2,1*2,0
+put in NUMBER,0,0,2 ITEM,0,0,0s my way and slap ADDON,3,0,6 on NUMBER,0,0,5,6*2,1*2,0
+we would like to have NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,5,6 of em SIZE,0,0,6*2,1*2,0
+add NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,5,6 of those babies SIZE,0,0,6*2,1*2,0
+i would like NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,5,6 SIZE,0,0,6*2,1*2,0
+lets get NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,5,6 to be SIZE,0,0,6*2,1*2,0
+lets add NUMBER,0,0,2 ITEM,0,0,0s and give NUMBER,0,0,5,6 with ADDON,3,0,6*2,1*2,0
+i would like to add NUMBER,0,0,2 ITEM,0,0,0s and give NUMBER,0,0,5,6 a kick of ADDON,3,0,6*2,1*2,0
 
 
 
@@ -807,7 +807,7 @@ can you upgrade the size of my PREV_ITEM,0,1 and PREV_ITEM,0,1|make them SIZE,0,
 how about resizing my PREV_ITEM,0,1 and PREV_ITEM,0,1|they should both be SIZE,0,0,1,2
 
 // phantom slots - multiple pointers - add to previous objects - sizes
-lets make two things from my cart SIZE,0,1 instead|the PREV_ITEM,0,1 and PREV_ITEM,0,1*1,0,2,3
+lets make some things from my cart SIZE,0,1 instead|the PREV_ITEM,0,1 and PREV_ITEM,0,1*1,0,2,3
 please change some stuff to SIZE,0,1|im talking about the PREV_ITEM,0,1 and PREV_ITEM,0,1*1,0,2
 lets resize a couple items from my order to SIZE,0,1|PREV_ITEM,0,1 and PREV_ITEM,0,1*1,0,2
 can we make the sizes of some things SIZE,0,1|the PREV_ITEM,0,1 PREV_ITEM,0,1 and PREV_ITEM,0,1*1,0,2,3,4
@@ -863,202 +863,400 @@ id like NUMBER,0,1 of something on one of my items|i want to change the PREV_ADD
 
 
 // separate partial specification
-give us some more stuff on my order|NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,2 of those SIZE,0,0,3
-id like to add to my cart|NUMBER,0,0,2 ITEM,0,0,0s to that and put ADDON,3,0,4 on NUMBER,0,0,2
-can i add to my order|NUMBER,0,0,2 ITEM,0,0,0s and id like to make NUMBER,0,0,2 of em SIZE,0,0,3
-and id like some more things|NUMBER,0,0,2 ITEM,0,0,0s and lets have NUMBER,0,0,2 of those SIZE,0,0,3
-i would like more items please|NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,2 SIZE,0,0,3
-lets get some more stuff|NUMBER,0,0,2 ITEM,0,0,0s and NUMBER,0,0,2 should be SIZE,0,0,3
+give us some more stuff on my order|NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,5,6 of those SIZE,0,0,6*2,1*2,0
+id like to add to my cart|NUMBER,0,0,2 ITEM,0,0,0s to that and put ADDON,3,0,6 on NUMBER,0,0,5,6*2,1*2,0
+can i add to my order|NUMBER,0,0,2 ITEM,0,0,0s and id like to make NUMBER,0,0,5,6 of em SIZE,0,0,6*2,1*2,0
+and id like some more things|NUMBER,0,0,2 ITEM,0,0,0s and lets have NUMBER,0,0,5,6 of those SIZE,0,0,6*2,1*2,0
+i would like more items please|NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,5,6 with ADDON,0,0,6*2,1*2,0
+lets get some more stuff|NUMBER,0,0,2 ITEM,0,0,0s and NUMBER,0,0,5,6 should be SIZE,0,0,6*2,1*2,0
 
 
 
-//! informational addon
+// informational addon
 lets add something else to my order|give me the ITEM,0,0 which has the ADDON,2,1,1 in it
 can i add to my cart|the ITEM,0,0 with the ADDON,0,1,1 and ADDON,0,1,1
+i would like to add something to my order|the ITEM,0,0 that features ADDON,0,1,1
 i want to add a ITEM,0,0 to my cart|the one which has the ADDON,0,1,1
 id like to add a ITEM,0,0 to my order|the one with ADDON,3,1,1 and ADDON,3,1,1 on top
+can we add an ITEM,0,0|the one including ADDON,3,1,1 and ADDON,3,1,1 on top
 
 
 
 
 //              ****  View → Intent ****
-!!!
+
 // view object -> add object
 view_order:do i have a PREV_ITEM,0,1 in my order|can you add it*1,0
+view_order:is there a PREV_ITEM,0,1 in my cart|can you add NUMBER,0,0,3 more of them*1,0
+view_order:how many PREV_ITEM,0,1s are in my order at the moment|lets add NUMBER,0,0,3 more*1,0
+view_order:do i have any PREV_ITEM,0,1 in the cart|throw in NUMBER,0,0,3 more*1,0
+view_order:how many PREV_ITEM,0,1s are in the order|lets add another but make it SIZE,0,0,3*1,0
+view_order:are there any PREV_ITEM,0,1s in my cart|can we throw in NUMBER,0,0,4 more but make them SIZE,0,0,4*1,0
+view_order:can you check if i already got a PREV_ITEM,0,1|add one with ADDON,0,0,3*1,0
+view_order:do i have a SIZE,0,1,2 PREV_ITEM,0,1s in the bag|go ahead and toss in NUMBER,0,0 more*2,0
+view_order:do i have a PREV_ITEM,0,1 with ADDON,0,1,1 already|can you add one*1,0
+view_order:did i already ask for a PREV_ITEM,0,1|lets add it and make it SIZE,0,0,3*1,0
+view_order:is there a PREV_ITEM,0,1 in the order|add NUMBER,0,0,4 with ADDON,0,0,4*1,0
+view_order:is there a PREV_ITEM,0,1 or a PREV_ITEM,0,1 in my order|add the first one and make it SIZE,0,0,4 if possible*1,0
+view_order:do i have a PREV_ITEM,0,1 or a PREV_ITEM,0,1 in my order|add the second one and make it with ADDON,0,0,4*2,0
+view_order:is there a PREV_ITEM,0,1 or maybe a PREV_ITEM,0,1 in my cart|add the second one*2,0
+view_order:do i have a PREV_ITEM,0,1 in the bag|add NUMBER,0,0,3 more*1,0
 
 // multiple pointers - view object -> add object
 view_order:is there a PREV_ITEM,0,1 and a PREV_ITEM,0,1 in my order|id like to add them both*1,0*2,0
+view_order:does my cart contain a PREV_ITEM,0,1 or a PREV_ITEM,0,1|can you add both*1,0*2,0
+view_order:does my order have a PREV_ITEM,0,1 or a PREV_ITEM,0,1|can you add them and put ADDON,0,0,4 on the first one*1,0*2,0
+view_order:is there a PREV_ITEM,0,1 PREV_ITEM,0,1 or a PREV_ITEM,0,1 in my order|id like to add NUMBER,0,0,5,6,7 of each those*1,0*2,0*3,0
+view_order:do i have a PREV_ITEM,0,1 PREV_ITEM,0,1 or a PREV_ITEM,0,1 in my order|id like to add the first two*1,0*2,0
+view_order:does my cart have PREV_ITEM,0,1 PREV_ITEM,0,1 or a PREV_ITEM,0,1 in it|can we add all three*1,0*2,0*3,0
+view_order:does my cart have PREV_ITEM,0,1 PREV_ITEM,0,1 or a PREV_ITEM,0,1 in it|can we add the first and third items i mentioned and make them SIZE,0,0,4,5*1,0*3,0
+view_order:is there already a PREV_ITEM,0,1 or PREV_ITEM,0,1 or a PREV_ITEM,0,1 in my order|lets add all of those*1,0*2,0*3,0
+view_order:is there a PREV_ITEM,0,1 or a PREV_ITEM,0,1 in my cart|can we add them*1,0*2,0
 
 // view object -> add addon
-view_order:is there an ITEM,0,1 in my cart|can you add ADDON,0,0,1 to it please
+view_order:is there an PREV_ITEM,0,1 in my cart|can you add ADDON,0,0,1 to it please
+view_order:does my order contain a PREV_ITEM,0,1|can we add ADDON,0,0,1 with that
+view_order:does my cart have a PREV_ITEM,0,1|can you add ADDON,2,0,1 on the side of that
+view_order:is there a PREV_ITEM,0,1 in my order|can you add ADDON,3,0,1 in that
+view_order:does my cart have a PREV_ITEM,0,1|can you add ADDON,0,0,1 ADDON,0,0,1 and ADDON,0,0,1 with that
+view_order:is there a PREV_ITEM,0,1 in my cart|can you toss in ADDON,0,0,1 with it
+view_order:does my order have a PREV_ITEM,0,1|can we throw in ADDON,2,0,1 on the side
+view_order:do i already have a PREV_ITEM,0,1 in my order|add ADDON,3,0,1 on top of that
+view_order:hey do i have a PREV_ITEM,0,1 in the cart|go ahead and add ADDON,0,0,1 to it
+view_order:do i still have a PREV_ITEM,0,1|lets add ADDON,3,0,1 in that please
+view_order:is there a PREV_ITEM,0,1 already in my cart|can you throw on ADDON,2,0,1 on the side
+view_order:is my PREV_ITEM,0,1 in the order|just toss on ADDON,0,0,1 for me
+view_order:is there a PREV_ITEM,0,1 already in my order|add ADDON,0,0,1 with it and ADDON,2,0,1 on the side
+view_order:does my cart have a PREV_ITEM,0,1|throw in ADDON,0,0,1 with it
+view_order:is there a PREV_ITEM,0,1 in my cart already|can you put ADDON,3,0,1 on that item
+view_order:do i have a PREV_ITEM,0,1 in my order|go ahead and add ADDON,3,0,1 on top of it
+view_order:can i check if i got a PREV_ITEM,0,1|lets add ADDON,0,0,1 with it
+view_order:is there a PREV_ITEM,0,1 in my order|add ADDON,0,0,1 with it
+view_order:do i have a PREV_ITEM,0,1 in my cart|can you toss ADDON,0,0,1 with that
+view_order:do i have a PREV_ITEM,0,1 in my cart already|add ADDON,2,0,1 on the side of it
+view_order:is there a PREV_ITEM,0,1 in my order|go ahead and throw on ADDON,0,0,1 with that
+view_order:do i already have a PREV_ITEM,0,1 in the order|add ADDON,0,0,1 and ADDON,0,0,1 to it
+view_order:is my PREV_ITEM,0,1 in the cart|can we toss on ADDON,0,0,1 with that
+view_order:do i have a PREV_ITEM,0,1 in the order|add ADDON,0,0,1 and ADDON,0,0,1 to it
 
 // multiple pointers - view object -> add addon
 view_order:are there a PREV_ITEM,0,1 and PREV_ITEM,0,1 in my cart right now|can you add ADDON,0,0,1,2 to both of them
+view_order:is there a PREV_ITEM,0,1 and PREV_ITEM,0,1 in my order|lets add ADDON,0,0,1,2 to both
+view_order:do i have a PREV_ITEM,0,1 PREV_ITEM,0,1 or a PREV_ITEM,0,1|can we add ADDON,0,0,1,2,3 to all those
+view_order:does my cart have a PREV_ITEM,0,1 or a PREV_ITEM,0,1|lets add ADDON,0,0,1 to the first thing
+view_order:is there a PREV_ITEM,0,1 and PREV_ITEM,0,1 in my cart|can you add ADDON,0,0,1,2 to both of them
+view_order:are there a PREV_ITEM,0,1 PREV_ITEM,0,1 and PREV_ITEM,0,1 in my order|can you toss ADDON,3,0,1,2,3 on all of those
+view_order:i have a PREV_ITEM,0,1 and PREV_ITEM,0,1 in my order|lets add ADDON,3,0,1,2 on top of those
+view_order:my cart has PREV_ITEM,0,1 PREV_ITEM,0,1 and PREV_ITEM,0,1|can you throw in ADDON,0,0,1,2,3 for each one
+view_order:there is a PREV_ITEM,0,1 and a PREV_ITEM,0,1 in my cart|add ADDON,0,0,1,2 to both please
+view_order:are there any PREV_ITEM,0,1 PREV_ITEM,0,1 or PREV_ITEM,0,1 in my cart|add ADDON,0,0,1,2 to the first two of em
+view_order:i have a PREV_ITEM,0,1 and PREV_ITEM,0,1 in the order|add ADDON,2,0,1,2 on the side for both
+view_order:there a PREV_ITEM,0,1 PREV_ITEM,0,1 or PREV_ITEM,0,1 in my cart|can we toss ADDON,0,0,1,2,3 on each of them
+view_order:my cart have a PREV_ITEM,0,1 and PREV_ITEM,0,1|can we toss ADDON,0,0,1,2 on top of those
 
 // view object -> add size
 view_order:is there a PREV_ITEM,0,1 in my cart right now|how about we make that a SIZE,0,0,1
-
-// multiple pointers - view object -> add size
-view_order:tell me if there is a PREV_ITEM,0,1 or PREV_ITEM,0,1 in my order|lets have both of these be SIZE,0,0,1,2
-
-// view object -> add number
-view_order:do i have a PREV_ITEM,0,1 in my cart|can you make that NUMBER,0,0,1
-view_order:do i have a PREV_ITEM,0,1 in my cart|lets add NUMBER,0,0,3 more of those*1,0
-
-// multiple pointers - view object -> add number
-view_order:is there a PREV_ITEM,0,1 and PREV_ITEM,0,1 in my order at the moment|actually id like to have NUMBER,0,0,1,2 of both those
-view_order:is there a PREV_ITEM,0,1 and PREV_ITEM,0,1 in my order at the moment|id like to add NUMBER,0,0,4,5 more of both those*1,0*2,0
-
-
-
-
-// view object number -> add number
-view_order:how many PREV_ITEM,0,1s are in my cart|can you add NUMBER,0,0,3*1,0
-view_order:are there PREV_NUMBER,0,1,2 PREV_ITEM,0,1s in my order|id like NUMBER,0,0,2 actually please
-
-// multiple pointers - view object number -> add number
-view_order:how many PREV_ITEM,0,1s and PREV_ITEM,0,1s are in my cart|can you make it NUMBER,0,0,1,2 of both
-
-// view object size -> add size
+view_order:does my cart have a PREV_ITEM,0,1|make that a SIZE,0,0,1
+view_order:what size is my PREV_ITEM,0,1|make it a SIZE,0,0,1
+view_order:is my PREV_ITEM,0,1 a SIZE,0,1,1|can we update it to that*2,0,1
+view_order:i have a PREV_ITEM,0,1 in my cart|can we make that a SIZE,0,0,1
+view_order:is there a PREV_ITEM,0,1 in my cart|lets go ahead and make it a SIZE,0,0,1
+view_order:do i have a PREV_ITEM,0,1 in my order|can we change that to a SIZE,0,0,1
+view_order:is there a PREV_ITEM,0,1 in my cart already|lets make it a SIZE,0,0,1
+view_order:what size is my PREV_ITEM,0,1 in the cart|lets bump it up to SIZE,0,0,1
+view_order:is there a PREV_ITEM,0,1 in my cart right now|can you turn that into a SIZE,0,0,1
+view_order:is my PREV_ITEM,0,1 a SIZE,0,1|lets go ahead and update it to that*2,0,1
+view_order:do i have a PREV_ITEM,0,1 in my cart|lets go ahead and change it to SIZE,0,0,1
+view_order:is there NUMBER,0,1,2 PREV_ITEM,0,1s already in my order|we should change that to a SIZE,0,0,2
+view_order:is my PREV_ITEM,0,1 a SIZE,0,1|lets update it to that*2,0,1
 view_order:what size is my PREV_ITEM,0,1|can you make it a SIZE,0,0,1 instead
 view_order:what size are the PREV_ITEM,0,1s i have|id like to make the SIZE,0,0,1
 view_order:is the PREV_ITEM,0,1 a PREV_SIZE,0,1,1|id like that to be a SIZE,0,0,1
 
-// multiple pointers - view object size -> add size
+// multiple pointers - view object -> add size
+view_order:tell me if there is a PREV_ITEM,0,1 or PREV_ITEM,0,1 in my order|lets have both of these be SIZE,0,0,1,2
+view_order:lets see if there is a PREV_ITEM,0,1 a PREV_ITEM,0,1 or a PREV_ITEM,0,1 in my order|those should be SIZE,0,0,1,2,3
+view_order:is there a PREV_ITEM,0,1 and a PREV_ITEM,0,1 in my cart|lets make both of them SIZE,0,0,1,2
+view_order:do i have a PREV_ITEM,0,1 or a PREV_ITEM,0,1 in my order|change them to SIZE,0,0,1,2
+view_order:do i have a PREV_ITEM,0,1 or maybe a PREV_ITEM,0,1 in my order|update them to SIZE,0,0,1,2
+view_order:are there a PREV_ITEM,0,1 and a PREV_ITEM,0,1 in my order|both should be changed to SIZE,0,0,1,2
+view_order:do i have a PREV_ITEM,0,1 and a PREV_ITEM,0,1 in my cart|make them both SIZE,0,0,1,2
+view_order:is there a PREV_ITEM,0,1 and a PREV_ITEM,0,1 in my order|lets switch both to SIZE,0,0,1,2
+view_order:do i have a PREV_ITEM,0,1 a PREV_ITEM,0,1 and a PREV_ITEM,0,1 in my cart|lets make all three SIZE,0,0,1,2,3
+view_order:what size are the PREV_ITEM,0,1 and the PREV_ITEM,0,1|both should be SIZE,0,0,1,2 
+view_order:how large are the PREV_ITEM,0,1 or the PREV_ITEM,0,1 in my cart|lets upgrade both to SIZE,0,0,1,2
+view_order:how big are the PREV_ITEM,0,1 and PREV_ITEM,0,1 in my order|lets change them both to SIZE,0,0,1,2
 view_order:what size are the PREV_ITEM,0,1s and PREV_ITEM,0,1s in my cart|lets make them all SIZE,0,0,1,2
 view_order:are the PREV_ITEM,0,1s and PREV_ITEM,0,1s i have SIZE,0,1,1,2|how about we make them SIZE,0,0,1,2 instead
+
+// view object -> add number
+view_order:do i have a SIZE,0,1,2 PREV_ITEM,0,1 in my cart|can you make that NUMBER,0,0,2
+view_order:is there a PREV_ITEM,0,1 in my order|lets make that a NUMBER,0,0,1
+view_order:how many PREV_ITEM,0,1 do i have|it should be NUMBER,0,0,1
+view_order:how many PREV_ITEM,0,1 are there in my order|lets set that to NUMBER,0,0,1
+view_order:is there a SIZE,0,1 PREV_ITEM,0,1 in my cart|can we make it NUMBER,0,0,2
+view_order:can you check if theres a PREV_ITEM,0,1 in my order|lets update that to NUMBER,0,0,1
+view_order:how many PREV_ITEM,0,1 do i have in my cart|it should be NUMBER,0,0,1
+view_order:is there a PREV_ITEM,0,1 or a PREV_ITEM,0,1 in my order|actually lets make NUMBER,0,0,1 and NUMBER,0,0,2 of those
+view_order:does my order have a PREV_ITEM,0,1|make it a NUMBER,0,0,1 of those
+view_order:can you check if my cart has a PREV_ITEM,0,1|lets have NUMBER,0,0,1 of them
+view_order:how many of the PREV_ITEM,0,1s are in my order|change it to NUMBER,0,0,1
+view_order:is there a PREV_ITEM,0,1 in my cart|lets make that NUMBER,0,0,1
+view_order:do i have a PREV_NUMBER,0,1,2 PREV_ITEM,0,1s in the order|can you make it NUMBER,0,0,2
+view_order:how many PREV_ITEM,0,1 are there|change it to NUMBER,0,0,1
+view_order:are there PREV_NUMBER,0,1,2 PREV_ITEM,0,1s in my order|id like NUMBER,0,0,2 actually please
+
+// view object -> relative number
+view_order:do i have a PREV_ITEM,0,1 in my cart|lets add NUMBER,0,0,3 more of those*1,0
+view_order:is there a PREV_ITEM,0,1 in my order|ill do NUMBER,0,0,3 more of them if you would*1,0
+view_order:how many PREV_ITEM,0,1s do i have|lets do NUMBER,0,0,3 more*1,0
+view_order:do i have a PREV_ITEM,0,1 in my order|lets throw in NUMBER,0,0,3 more of those*1,0
+view_order:is there a PREV_ITEM,0,1 in my cart|can you add NUMBER,0,0,3 more of them*1,0
+view_order:how many PREV_ITEM,0,1 are in my order|lets add NUMBER,0,0,3 more of those*1,0
+view_order:do i already have a PREV_ITEM,0,1 in my cart|we should add NUMBER,0,0,3 more*1,0
+view_order:is there a PREV_ITEM,0,1 in my cart|lets do NUMBER,0,0,3 more of them*1,0
+view_order:how many PREV_ITEM,0,1s are there|can you add NUMBER,0,0,3 more to that*1,0
+view_order:do i have a PREV_ITEM,0,1 in my order|lets toss in NUMBER,0,0,3 more of those*1,0
+view_order:is there already a PREV_ITEM,0,1 in my cart|add NUMBER,0,0,3 more of them*1,0
+view_order:can you check if i have a PREV_ITEM,0,1 in my order|lets get NUMBER,0,0,3 more of those*1,0
+view_order:do i have a PREV_NUMBER,0,1,2 PREV_ITEM,0,1s in my order|add NUMBER,0,0,4 more to that order*1,0
+view_order:how many PREV_ITEM,0,1s are in my cart|can you add NUMBER,0,0,3*1,0
+
+// multiple pointers - view object -> add number
+view_order:is there a PREV_ITEM,0,1 and PREV_ITEM,0,1 in my order at the moment|actually id like to have NUMBER,0,0,1,2 of both those
+view_order:how many PREV_ITEM,0,1s and PREV_ITEM,0,1s are in my cart|lets have NUMBER,0,0,1,2 of them
+view_order:do i have a PREV_ITEM,0,1 PREV_ITEM,0,1 and a PREV_ITEM,0,1|can i make it NUMBER,0,0,1,2,3 of each
+view_order:is there a PREV_ITEM,0,1 and PREV_ITEM,0,1 in my cart|lets make it NUMBER,0,0,1,2 of both  
+view_order:how many PREV_ITEM,0,1 and PREV_ITEM,0,1 are in my order|can we update that to NUMBER,0,0,1,2 for each  
+view_order:do i have a PREV_ITEM,0,1 and another PREV_ITEM,0,1|ill take NUMBER,0,0,1,2 of each those  
+view_order:is there a PREV_ITEM,0,1 PREV_ITEM,0,1 and a PREV_ITEM,0,1 in my cart|lets do NUMBER,0,0,1,2,3 for each of them  
+view_order:can you check if theres a PREV_ITEM,0,1 and PREV_ITEM,0,1 in my order|add NUMBER,0,0,1,2 of those to the cart  
+view_order:do i have PREV_ITEM,0,1 and PREV_ITEM,0,1 in my order|lets make it NUMBER,0,0,1,2 of each  
+view_order:how many PREV_ITEM,0,1s and PREV_ITEM,0,1s are there|change it to NUMBER,0,0,1,2 for both  
+view_order:is there a PREV_ITEM,0,1 and another PREV_ITEM,0,1|lets make it NUMBER,0,0,1,2 of each of those  
+view_order:can you check if my cart has a PREV_ITEM,0,1 and PREV_ITEM,0,1|lets set it to NUMBER,0,0,1,2 for both  
+view_order:do i already have PREV_ITEM,0,1 PREV_ITEM,0,1 and a PREV_ITEM,0,1|update that to NUMBER,0,0,1,2,3 of each
+view_order:how many PREV_ITEM,0,1s and PREV_ITEM,0,1s are in my cart|can you make it NUMBER,0,0,1,2 of both
+
+//multiple pointers - view object -> relative number
+view_order:is there a PREV_ITEM,0,1 and PREV_ITEM,0,1 in my order at the moment|id like to add NUMBER,0,0,4,5 more of both those*1,0*2,0
+view_order:do i have a PREV_ITEM,0,1 a PREV_ITEM,0,1 or a PREV_ITEM,0,1 in my cart|can we add NUMBER,0,0,5,6,7 of all those*1,0*2,0*3,0
+view_order:is there a PREV_ITEM,0,1 or maybe a PREV_ITEM,0,1 in my order|lets add NUMBER,0,0,4,5 of each*1,0*2,0
+view_order:is there a PREV_ITEM,0,1 and PREV_ITEM,0,1 in my cart|lets add NUMBER,0,0,4,5 more of both*1,0*2,0  
+view_order:do i have a PREV_ITEM,0,1 or a PREV_ITEM,0,1 in my order|can we add NUMBER,0,0,4,5 more of each*1,0*2,0  
+view_order:can you check if theres a PREV_ITEM,0,1 and another PREV_ITEM,0,1|add NUMBER,0,0,4,5 more of those*1,0*2,0  
+view_order:how many PREV_ITEM,0,1 and PREV_ITEM,0,1 do i have|lets throw in NUMBER,0,0,4,5 more of both*1,0*2,0  
+view_order:is there a PREV_ITEM,0,1 PREV_ITEM,0,1 or a PREV_ITEM,0,1 in my cart|add NUMBER,0,0,5,6,7 of all those*1,0*2,0*3,0  
+view_order:do i have PREV_ITEM,0,1 and PREV_ITEM,0,1 in my cart|i want to add NUMBER,0,0,4,5 more of them*1,0*2,0  
+view_order:is there a PREV_ITEM,0,1 or maybe a PREV_ITEM,0,1|lets add NUMBER,0,0,4,5 of each*1,0*2,0  
+view_order:how many PREV_ITEM,0,1s and PREV_ITEM,0,1s do i have|add NUMBER,0,0,4,5 more of both*1,0*2,0  
+view_order:do i already have a PREV_ITEM,0,1 and a PREV_ITEM,0,1|add NUMBER,0,0,4,5 more of those*1,0*2,0  
+view_order:is there a PREV_ITEM,0,1 and a PREV_ITEM,0,1|can we add NUMBER,0,0,4,5 to each*1,0*2,0
 
 
 
 // view addon -> add addon
 view_order:are there any addons on my PREV_ITEM,0,1|can you add ADDON,0,0,1
-view_order:does my PREV_ITEM,0,1 have ADDON,0,1,1 with it|can you add it*2,0,1
-view_order:does the PREV_ITEM,0,1 in my order have ADDON,3,1,1 in it|can you add NUMBER,0,0,4*2,0,1
+view_order:is there any extras on the PREV_ITEM,0,1 i have|put ADDON,3,0,1 on it
+view_order:is there anything extra on my PREV_ITEM,0,1|can you add ADDON,0,0,1 to it
+view_order:do i already have any addons on my PREV_ITEM,0,1|lets add ADDON,0,0,1 as well
+view_order:are there addons on my PREV_ITEM,0,1|how about adding ADDON,0,0,1 to it
+view_order:does my PREV_ITEM,0,1 already have anything extra|id like to put ADDON,3,0,1 on it
 
 // multiple pointers - view addon -> add addon
 view_order:are there any addons on my PREV_ITEM,0,1 or PREV_ITEM,0,1|id like to add ADDON,0,0,1,2 to both please
-view_order:do either of my PREV_ITEM,0,1 or PREV_ITEM,0,1 have ADDON,0,1,1,2 on them|can you add it to both*3,0,1,2
-
-// view addon -> add size
-
-// multiple pointers - view addon -> add size
-
-
-// view addon -> add number
-
-// multiple pointers - view addon -> add number
-
-
-
-
-// view addon number -> add number
-
-// multiple pointers - view addon number -> add number
-
-
-// view addon size -> add size
-
-// multiple pointers - view addon size -> add size
+view_order:are there any extras on my PREV_ITEM,0,1 and PREV_ITEM,0,1|lets add ADDON,0,0,1,2 to both
+view_order:do my PREV_ITEM,0,1 or PREV_ITEM,0,1 have any addons|id like to add ADDON,0,0,1,2 to each
+view_order:are there any addons on both the PREV_ITEM,0,1 and PREV_ITEM,0,1 in my cart|lets put ADDON,0,0,1,2 on them
 
 
 
 // view objects - separate partial specification
+view_order:how many PREV_ITEM,0,1s in my order|make NUMBER,0,0,4,5 of those SIZE,0,0,5*1,1*1,0
+view_order:do you still have those PREV_ITEM,0,1s in my cart|NUMBER,0,0,4,5 of them should have ADDON,0,0,5*1,1*1,0
+view_order:do i have any PREV_ITEM,0,1s|lets make NUMBER,0,0,4,5 with ADDON,0,0,4*1,1*1,0
+view_order:are there any PREV_ITEM,0,1s in my cart|NUMBER,0,0,4,5 of them should be SIZE,0,0,5*1,1*1,0
 
 
 
-
-//              ****  Add → Intent ****
+//              ****  Add → Intent ****      (roughly 1/2 "recommended" sentences)
 
 // add object(s) - add addon
 can i add a ITEM,0,0|and throw some ADDON,3,0,1 on top of that
 can i have a ITEM,0,0 and ITEM,0,0|lets put ADDON,0,0,1,2 on both
 lets get NUMBER,0,0,2 ITEM,0,0,0s and a ITEM,0,0|and actually put ADDON,3,0,2,3 on everything
 i need to add NUMBER,0,0,2 ITEM,0,0,0s and a ITEM,0,0|and ADDON,3,0,2,3 on the side for all of it
-can i have ITEM,0,0 ITEM,0,0 and ITEM,0,0| and put ADDON,3,0,1,2 on the first two
+can i have ITEM,0,0 ITEM,0,0 and ITEM,0,0|and put ADDON,3,0,1,2 on the first two
 lets have ITEM,0,0 and ITEM,0,0|actually lets have ADDON,0,0,1,2 and ADDON,0,0,1,2 for each
 lets get ITEM,0,0 and ITEM,0,0|with ADDON,0,0,1,2 for each please
+i want to add an ITEM,0,0 with ADDON,0,0,1|put ADDON,3,0,1 and ADDON,3,0,1 on it as well
+can we put in a SIZE,0,0,2 ITEM,0,0|add ADDON,0,0,2 too
+id like to add a SIZE,0,0,2 ITEM,0,0 with ADDON,0,0,2|lets also put ADDON,2,0,2 on the side
+can we have an ITEM,0,0 and an ITEM,0,0|lets have ADDON,0,0,1,2 and ADDON,0,0,1,2 with both
+add an ITEM,0,0|and throw on ADDON,0,0,2 while youre at it
 
 // add object(s) with addon - change addon orientation
-can i have a ITEM,0,0 with ADDON,0,0,1|you know what lets put that on the side*2,1*2,2,1
+can i have a ITEM,0,0 with ADDON,0,0,1|you know what lets put that on the side*2,2,1
+lets add an ITEM,0,0 with ADDON,0,0,1 and ADDON,0,0,1|i want both of those on the top*2,3,1*2,3,1
+can i have a ITEM,0,0 with NUMBER,0,0,3 ADDON,0,0,1s|put em on top*,3,3,1
+can we add NUMBER,0,0,2 ITEM,0,0s with ADDON,2,0,2 on the side|actually lets have it on top*3,3,2
+i would like to get a ITEM,0,0 and put ADDON,3,0,1 on top|actually lets put that on the side instead*2,2,1
 
 // add object(s) - add size
 id like to add a ITEM,0,0 to my order|lets make that a SIZE,0,0,1
-
+can i add a ITEM,0,0|that should be SIZE,0,0,1
+add a ITEM,0,0|SIZE,0,0,1
+lets get a ITEM,0,0 and a ITEM,0,0|make them both SIZE,0,0,1,2
+id like to put in a ITEM,0,0|make it SIZE,0,0,1
+can we add a SIZE,0,0,2 ITEM,0,0|actually i want that to be SIZE,0,0,2
+lets add a ITEM,0,0 and a ITEM,0,0|both should be SIZE,0,0,1,2
+add a ITEM,0,0 then i need ADDON,3,0,1 on top|oh and could you make it SIZE,0,0,3
 
 // add object(s) - add number
 let me add ITEM,0,0 and ITEM,0,0 to my cart please|actually id want NUMBER,0,0,1,2 of both those if you dont mind
-
+id like to add a ITEM,0,0|make it NUMBER,0,0,1 of those
+add a ITEM,0,0|actually i want NUMBER,0,0,1 of them
+lets have a ITEM,0,0 and a ITEM,0,0|actually lets have NUMBER,0,0,1,2 of each
+can i add a ITEM,0,0 with ADDON,0,0,1|you know what make it NUMBER,0,0,1 of them
+lets get a SIZE,0,0,2 ITEM,0,0|ill take NUMBER,0,0,2 of them actually
+can i have NUMBER,0,0,2 ITEM,0,0s|actually make it NUMBER,0,0,2
+can we get NUMBER,0,0,2 ITEM,0,0s|lets make it NUMBER,0,0,2 instead
+i would like NUMBER,0,0,2 ITEM,0,0s|i want NUMBER,0,0,2 instead
+i need NUMBER,0,0,2 ITEM,0,0s|make it NUMBER,0,0,2 actually
 
 // add object(s) - add info combination
 can i have a ITEM,0,0 in my cart|actually i want NUMBER,0,0,1 of those and make them all SIZE,0,0,1
 let me have an ITEM,0,0 and a ITEM,0,0|lets put ADDON,0,0,1,2 on both those and make both of them SIZE,0,0,1
 id like to add a ITEM,0,0|actually make that NUMBER,0,0,1 of them with SIZE,0,0,4 ADDON,2,0,1 on the side
-
+how bout throwing in ITEM,0,0|make sure it has NUMBER,0,0,3 ADDON,0,0,1s and its SIZE,0,0,1
+lemme grab an ITEM,0,0|make it SIZE,0,0,1 and with ADDON,0,0,1 too
 
 // add addon - add object(s)
-id like to get an item with ADDON,0,1 on it|make it a ITEM,0,0*1,3,2
-
+id like to get an item with ADDON,3,1 on it|make it a ITEM,0,0*1,0,2
+im going to get an item with ADDON,0,1|the ITEM,0,0*1,0,2
+i would like to add an item to my cart and put ADDON,0,1 with it|it should be the ITEM,0,0*1,0,2
+can you add an item to my cart with ADDON,0,1|put it on the side of a ITEM,0,0*1,0,2
+i wanna put ADDON,0,1 on something|the ITEM,0,0 would be perfect for that*1,0,2
+lets add ADDON,0,1 to my next thing|make it a ITEM,0,0*1,0,2
+can you add ADDON,3,1 to something|i want it on a ITEM,0,0 and a ITEM,0,0*1,0,2,3
 
 // add size - add object(s)
 im looking to add a SIZE,0,1 item to my order|the ITEM,0,0 please*1,0,2
-
+can i add a SIZE,0,1 item to my cart|make it a ITEM,0,0*1,0,2
+im thinkin of adding a SIZE,0,1 thing|itll be a ITEM,0,0*1,0,2
+lemme grab a SIZE,0,1 item|that should be a ITEM,0,0*1,0,2
+i wanna add some SIZE,0,1 items|lets go with a ITEM,0,0 and a ITEM,0,0*1,0,2,3
+can you toss in a SIZE,0,1 item|the ITEM,0,0 sounds good*1,0,2
 
 // add number - add object(s)
-id like NUMBER,0,0 of a specific item|im talking about the ITEM,0,0*1,0,2
-
+id like NUMBER,0,1 of a specific item|im talking about the ITEM,0,0*1,0,2
+can i get NUMBER,0,1 of something|the ITEM,0,0*1,0,2
+imm going to need NUMBER,0,1 of a couple things|the ITEM,0,0 ITEM,0,0 and ITEM,0,0*1,0,2,3,4
+add NUMBER,0,1 items to my cart|only the ITEM,0,0*1,0,2
+lemme grab NUMBER,0,1 of something|the ITEM,0,0 sounds perfect*1,0,2
+i want NUMBER,0,1 items|just the ITEM,0,0*1,0,2
 
 // add object with number - separate partial specification
-id like to add NUMBER,0,0,2 ITEM,0,0s please|and make NUMBER,0,0,2 of them SIZE,0,0,3
-let me get NUMBER,0,0,2 of the ITEM,0,0s|actually i want NUMBER,0,0,2 of those to have ADDON,3,0,3 on top
+id like to add NUMBER,0,0,2 ITEM,0,0s please|and make NUMBER,0,0,5,6 of them SIZE,0,0,6*2,1*2,0
+let me get NUMBER,0,0,2 of the ITEM,0,0s|actually i want NUMBER,0,0,5,6 of those to have ADDON,3,0,6 on top*2,1*2,0
+add a ITEM,0,0|actually i want NUMBER,0,0,1 and make NUMBER,0,0,5,6 of them with ADDON,0,0,6*1,1*1,0
+i want NUMBER,0,0,2 ITEM,0,0s|make NUMBER,0,0,6,7 of em with ADDON,0,0,7 and the other NUMBER,0,0,9,10 without it*2,1*2,0*4,1,10*2,1*2,0
+please add NUMBER,0,0,2 ITEM,0,0s|make NUMBER,0,0,6,7 with ADDON,0,0,7 but the other NUMBER,0,0,8,9 without ADDON,1,0,9*2,1*2,0*2,1*2,0
 
 
 
 
-
-
-
-//              ****  Remove → Intent ****
+//              ****  Remove → Intent ****     (roughly 1/2 "recommended" sentences)
 
 // remove object(s) - add object(s)
 can i remove the PREV_ITEM,1,0 from my current order|i actually wanted a ITEM,0,0
 lets take the PREV_ITEM,1,0 and PREV_ITEM,1,0 from my cart|replace those with NUMBER,0,4 ITEM,0,0
+take out the PREV_ITEM,1,0 from my order|i wanted a ITEM,0,0 instead
+i didnt want the PREV_ITEM,1,0|what i asked for was a ITEM,0,0
+can you take out the PREV_ITEM,1,0 from my order|replace it with a ITEM,0,0
+remove the PREV_ITEM,1,0 from my cart|id rather get a ITEM,0,0 instead
+get rid of the PREV_ITEM,1,0 i ordered|i wanted to add a ITEM,0,0 instead
+lets drop the PREV_ITEM,1,0 from my order|i need a ITEM,0,0 now
+can you take off the PREV_ITEM,1,0 from my order|im adding a ITEM,0,0 in its place
 
 // remove object(s) - add it/them back
 let me remove the PREV_ITEM,1,0 from my order|actually please add that back*1,0
 i want to get rid of the PREV_ITEM,1,0|no never mind*1,0
 can i take the PREV_ITEM,1,0 out of my cart|wait no i still want that*1,0
 lets remove the PREV_ITEM,1,0 and PREV_ITEM,1,0|actually ill keep the former*1,0
-lets take out the PREV_ITEM,1,0 and PREV_ITEM,1,0|actually ill keep the latter*2,0
-please remove the PREV_ITEM,1,0 and PREV_ITEM,1,0|actually ill keep it*1,0
+lets take out the PREV_ITEM,1,0 and PREV_ITEM,1,0|actually keep the latter*2,0
+please remove the PREV_ITEM,1,0 and PREV_ITEM,1,0|actually keep it*1,0
 get rid of the the PREV_ITEM,1,0 and PREV_ITEM,1,0|actually ill keep the fist item*1,0
 
 // remove addon(s) - add addon(s)
-
+can you remove the PREV_ADDON,1,0,2 from my PREV_ITEM,0,1|i wanted ADDON,0,2 instead
+take the PREV_ADDON,1,0,2 off my PREV_ITEM,0,1|i actually asked for ADDON,0,2
+take the PREV_ADDON,1,0,2 off my PREV_ITEM,0,1|replace it with ADDON,0,2
+can you remove the PREV_ADDON,1,0,2 from my PREV_ITEM,0,1|i wanted to add ADDON,0,2 instead
+remove the PREV_ADDON,1,0,2 from the PREV_ITEM,0,1|lets go with ADDON,0,2 instead
+get rid of the PREV_ADDON,1,0,2 on my PREV_ITEM,0,1|i wanted ADDON,0,2 on it
+can you take off the PREV_ADDON,1,0,2 from my PREV_ITEM,0,1|i need ADDON,0,2 and ADDON,0,2 now instead
+lets take off the PREV_ADDON,1,0,3 and PREV_ADDON,1,0,3 from my PREV_ITEM,0,1|i want ADDON,0,3 instead
 
 // remove addon(s) - add it/them back
-
+can you remove the PREV_ADDON,1,0,2 from my PREV_ITEM,0,1|actually never mind*1,0,2
+take the PREV_ADDON,1,0,2 off my PREV_ITEM,0,1|sorry lets actually leave that in*1,0,2
+lets take off the PREV_ADDON,1,0,3 and PREV_ADDON,1,0,3 from my PREV_ITEM,0,1|actually dont do that*1,0,3*2,0,3
+remove the PREV_ADDON,1,0,2 from my PREV_ITEM,0,1|actually lets keep that*1,0,2
+take off the PREV_ADDON,1,0,2 from my PREV_ITEM,0,1|wait put it back*1,0,2
+can you take off the PREV_ADDON,1,0,3 from my PREV_ITEM,0,1|nah leave it there*1,0,3
+remove the PREV_ADDON,1,0,2 on my PREV_ITEM,0,1|actually keep it*1,0,2
+lets drop the PREV_ADDON,1,0,2 from my PREV_ITEM,0,1|never mind add it back*1,0,2
 
 // remove size(s) - add size(s)
-
+that PREV_ITEM,0,1 shouldnt be PREV_SIZE,1,0,1|i wanted it to be SIZE,0,0,1 instead
+remove the PREV_SIZE,1,0,2 from my PREV_ITEM,0,1|i need it to be SIZE,0,0,2
+that PREV_SIZE,1,0,2 isnt right for my PREV_ITEM,0,1|make it SIZE,0,0,2 instead
+take the PREV_SIZE,1,0,2 off my PREV_ITEM,0,1|i want to change it to SIZE,0,0,2
+can you remove the PREV_SIZE,1,0,2 from the PREV_ITEM,0,1|id like to have it SIZE,0,0,2
+switch out the PREV_SIZE,1,0,2 on my PREV_ITEM,0,1|replace it with SIZE,0,0,2 instead
 
 // remove size(s) - add it/them back
-
+i dont want that PREV_ITEM,0,1 to be PREV_SIZE,1,0,1|actually its fine*2,0,1
+take off the PREV_SIZE,1,0,2 from my PREV_ITEM,0,1|actually keep it*2,0,2
+i dont need the PREV_SIZE,1,0,2 on my PREV_ITEM,0,1|wait its fine*2,0,2
+remove the PREV_SIZE,1,0,2 from the PREV_ITEM,0,1|actually leave it as is*2,0,2
+can you take off the PREV_SIZE,1,0,2 from my PREV_ITEM,0,1|never mind its good*2,0,2
+lets drop the PREV_SIZE,1,0,2 from my PREV_ITEM,0,1|actually put it back*2,0,2
+can you take off the PREV_SIZE,1,0,2,3 from my PREV_ITEM,0,1 and PREV_ITEM,0,1|never mind thats good*2,0,2,3
 
 // remove number(s) - add number(s)
-
+i didnt want PREV_NUMBER,1,0,2 PREV_ITEM,0,1s|i only want NUMBER,0,0,2
+i dont want PREV_NUMBER,1,0,2 PREV_ITEM,0,1s|ill only need NUMBER,0,0,2
+i dont need PREV_NUMBER,1,0,2 PREV_ITEM,0,1s|just give me NUMBER,0,0,2
+remove PREV_NUMBER,1,0,2 of the PREV_ITEM,0,1s|i only want NUMBER,0,0,2 now
+i didnt ask for PREV_NUMBER,1,0,2 of the PREV_ITEM,0,1s|just make it NUMBER,0,0,2 instead
+take off PREV_NUMBER,1,0,2 of the PREV_ITEM,0,1s|replace it with NUMBER,0,0,2
+i dont need PREV_NUMBER,1,0,2 PREV_ITEM,0,1s anymore|just make it NUMBER,0,0,2 now
+i did not ask for PREV_NUMBER,1,0,2,3 of the PREV_ITEM,0,1s or the PREV_ITEM,0,1s|it should be NUMBER,0,0,2,3 of each
 
 // remove number(s) - add it/them back
+i dont need PREV_NUMBER,1,0,2 PREV_ITEM,0,1s|actually its alright*2,0,2
+i dont want PREV_NUMBER,1,0,2 PREV_ITEM,0,1s|never mind its fine*2,0,2
+get rid of PREV_NUMBER,1,0,2 of the PREV_ITEM,0,1s|actually its fine*2,0,2  
+i didnt want PREV_NUMBER,1,0,2 PREV_ITEM,0,1s|never mind keep it*2,0,2  
+i removed the PREV_NUMBER,1,0,2 from the PREV_ITEM,0,1s|you know what its okay*2,0,2  
+i thought i wanted to drop PREV_NUMBER,1,0,2 of the PREV_ITEM,0,1s|actually add it back*2,0,2  
+we dont need the PREV_NUMBER,1,0,2 of the PREV_ITEM,0,1s|but you know what keep it*2,0,2  
+i did not ask for PREV_NUMBER,1,0,2,3 of the PREV_ITEM,0,1s or the PREV_ITEM,0,1s|you know what its actually okay*2,0,2,3
 
 
 
 
 
 
-
-//              ****  Swap → Intent ****
+//              ****  Swap → Intent ****         (roughly 1/4 "recommended" sentences)
 
 // swap object(s) - keep both
 can i have a ITEM,0,0 instead of the PREV_ITEM,1,0|actually ill just keep both please*2,0
+i want a ITEM,0,0 and a ITEM,0,0 in place of the PREV_ITEM,1,0|you know what lets actually just keep all of it*3,0
+give me a ITEM,0,0 instead of the PREV_ITEM,1,0 and PREV_ITEM,1,0|actually keep all of it*2,0*3,0
+add a ITEM,0,0 and a ITEM,0,0 instead of the PREV_ITEM,1,0 and PREV_ITEM,1,0|lets just keep all of it actually*3,0*4,0
 
 // swap object(s) - add addon
 can i add a ITEM,0,0 in place of the PREV_ITEM,1,0 i currently have|and throw some ADDON,3,0,1 on top of it would you
@@ -1068,10 +1266,13 @@ lets get NUMBER,0,0,2 ITEM,0,0,0s and a ITEM,0,0 instead of the PREV_NUMBER,0,1,
 
 // swap object(s) - add size
 id like to add a ITEM,0,0 to my order instead of the PREV_ITEM,1,0 i have|you know what lets make that a SIZE,0,0,1
+i want a ITEM,0,0 and a ITEM,0,0 instead of my PREV_ITEM,1,0|and make both of them SIZE,0,0,1,2
 
 
 // swap object(s) - add number
 let me add ITEM,0,0 and ITEM,0,0 to my cart and remove the PREV_ITEM,1,0 please|and i want NUMBER,0,0,1,2 of both those
+can you swap out the PREV_ITEM,1,0 for a ITEM,0,0|make it NUMBER,0,0,2 of them
+change the PREV_ITEM,1,0 and the PREV_ITEM,1,0 for a ITEM,0,0|ill have NUMBER,0,0,3 of those actually
 
 
 // swap object(s) - add info combination
@@ -1082,25 +1283,121 @@ id like to add a ITEM,0,0 and get rid of the PREV_ITEM,1,0|actually make that NU
 
 
 
+// swap addon(s) - keep both
+can i have a ADDON,0,0,3 instead of the PREV_ADDON,1,0,3 on my PREV_ITEM,0,1|actually ill just keep both please*2,0,3
+give me a ADDON,0,0,3 in place of the PREV_ADDON,1,0,3 for my PREV_ITEM,0,1|lets just keep both*2,0,3
+i want to swap the PREV_ADDON,1,0,3 and PREV_ADDON,1,0,3 on my PREV_ITEM,0,1 for ADDON,0,0,3|actually lets keep all of it*1,0,3*2,0,3
+put a ADDON,3,0,2 on my PREV_ITEM,0,1 instead of that PREV_ADDON,1,0,2|actually can you keep both*3,0,2
+
+
+// swap addon(s) - add addon
+instead of the PREV_ADDON,1,0,3 can i have a ADDON,0,0,3 on my PREV_ITEM,0,1|give me a ADDON,3,0,3 on that as well
+can you put a ADDON,0,0,2 on my PREV_ITEM,0,1 instead of the PREV_ADDON,1,0,2|actually add ADDON,0,0,2 with it too
+
+
+// swap addon(s) - add size
+i want a ADDON,0,0,2 on my PREV_ITEM,0,1 instead of the PREV_ADDON,1,0,2|make it SIZE,0,0,1 too
+can you do a ADDON,0,0,3 and ADDON,0,0,3 instead of the PREV_ADDON,1,0,3 on my PREV_ITEM,0,1|both should be SIZE,0,0,1 please
+
+
+// swap addon(s) - add number
+instead of the PREV_ADDON,1,0,3 can i have ADDON,3,0,3 on my PREV_ITEM,0,1|actually make it NUMBER,0,0,2 of them
+let me have ADDON,2,0,2 on the side of my PREV_ITEM,0,1 instead of the PREV_ADDON,1,0,2|i need NUMBER,0,0,1 of that actually
+
+
+// swap addon(s) - add info combination
+lets get rid of the PREV_ADDON,1,0,3 on my PREV_ITEM,0,1 and replace it with ADDON,0,0,2|it should be NUMBER,0,0,3 of them and each should be SIZE,0,0,3
+
+
+// swap addon(s) - change addon orientation
+instead of the PREV_ADDON,0,0,2 on my PREV_ITEM,0,1 i want ADDON,0,0,2|put that on the side please*3,2,2
+i want to change the PREV_ADDON,0,0,3 and PREV_ADDON,0,0,3 with my PREV_ITEM,0,1 into a ADDON,0,0,3|i want that on top please*4,3,3
+
+
 
 
 
 //              ****  Inquiry → Intent ****
 
-// ask if object exists -> add object
+// possible_item_inquiry -> add object
 do you guys have a ITEM,0,1 on the menu|can you add that to my order*1,0
 
 
 
-// ask if an addon can be put on previous object -> add the addon
+// possible_ingredient_inquiry -> add object with addon
+
+
+// possible_ingredient_inquiry -> add addon to object
 
 
 
-// ask if an addon can be put on an object -> add object with addon
+
+// ingredient inquiry -> add addon
+does my PREV_ITEM,0,1 have PREV_ADDON,0,1,1 with it|can you add it*2,0,1
+does the PREV_ITEM,0,1 in my order have PREV_ADDON,3,1,1 in it|can you add NUMBER,0,0,4*2,0,1
+does my PREV_ITEM,0,1 have any PREV_ADDON,0,1,1 with it|can you add the ADDON,0,0,1
+is there a PREV_ITEM,0,1 in my order with PREV_ADDON,0,1,1|i wanna add ADDON,0,0,1 to it
+does my PREV_ITEM,0,1 come with an PREV_ADDON,0,1,1|add it please*2,0,1
+can you check if theres an PREV_ADDON,0,1,2 on my PREV_ITEM,0,1|id like to add ADDON,0,0,1 to that
+do i have any PREV_ADDON,0,1,2 on the PREV_ITEM,0,1 in my cart|add that*1,0
+does the PREV_ITEM,0,1 in my order already have PREV_ADDON,0,1,1|add ADDON,0,0,1 to it
+do i have a PREV_ITEM,0,1 with PREV_ADDON,0,1,1|i want that addon to be added*2,0
+does my PREV_ITEM,0,1 have PREV_ADDON,0,1,1 on it|can you add it*2,0,1
+is there a PREV_ADDON,0,1,2 on my PREV_ITEM,0,1|can you add that*1,0,2
+do i have a PREV_ITEM,0,1 with PREV_ADDON,0,1 in my order|lets add that addon to it*2,0,1
+
+// multiple pointers - ingredient inquiry -> add addon
+do either of my PREV_ITEM,0,1 or PREV_ITEM,0,1 have PREV_ADDON,0,1,1,2 on them|can you add it to both*3,0,1,2
+is there PREV_ADDON,0,1,2,3 in either of the PREV_ITEM,0,1 or the PREV_ITEM,0,1|lets add it then*1,0,2,3
+do the PREV_ITEM,0,1 and PREV_ITEM,0,1 in my cart have PREV_ADDON,0,1,1,2|lets put ADDON,0,0,1,2 on both
+is there any PREV_ADDON,0,1,2,3 on my PREV_ITEM,0,1 or PREV_ITEM,0,1|can you add it to both of them*1,0,2,3
+do my PREV_ITEM,0,1 or PREV_ITEM,0,1 already have PREV_ADDON,0,1,1,2 on them|lets add to both*3,0,1,2
+can you check if theres any PREV_ADDON,0,1,2,3,4 on my PREV_ITEM,0,1 PREV_ITEM,0,1 or PREV_ITEM,0,1|can we add it to everything*1,0,2,3,4
+does either of my PREV_ITEM,0,1 or PREV_ITEM,0,1 come with PREV_ADDON,0,1,1,2|can we add that to each*3,0,1,2
+is there PREV_ADDON,0,1,2,3 in either my PREV_ITEM,0,1 or PREV_ITEM,0,1|lets add them to both*1,0,2,3
+do either of my PREV_ITEM,0,1 or PREV_ITEM,0,1 have PREV_ADDON,0,1,1,2|add it to both of those*1,0,1,2
+
+// ingredient inquiry -> add size
+does my PREV_ITEM,0,1 have any PREV_ADDON,0,1,1|can we make that a SIZE,0,0,2
+is there PREV_ADDON,0,1,2 on the PREV_ITEM,0,1 in my cart|i want SIZE,0,0,1 of that
+does my PREV_ITEM,0,1 have any PREV_ADDON,0,1,1|can you make that a SIZE,0,0,2
+is there a PREV_ADDON,0,1,2 on my PREV_ITEM,0,1|id like that to be SIZE,0,0,1
+does the PREV_ITEM,0,1 i have in my cart  PREV_ADDON,0,1,1|lets make it SIZE,0,0,1
+is there any PREV_ADDON,0,1,2 on my PREV_ITEM,0,1|i want the PREV_ADDON,0,1,2 to be SIZE,0,0,3
+does my PREV_ITEM,0,1 have PREV_ADDON,0,1,1 on it|lets get that PREV_ADDON,0,1,1 in a SIZE,0,0,3
+can you check if my PREV_ITEM,0,1 has PREV_ADDON,0,1,2|make it a SIZE,0,0,1
+is there PREV_ADDON,0,1 on my PREV_ITEM,0,1|id like SIZE,0,0,1 of that addon
+does the PREV_ADDON,0,1,1 on my PREV_ITEM,0,1 come in a specific size|lets change it to SIZE,0,0,2
+do i have PREV_ADDON,0,1 on my PREV_ITEM,0,1|lets make it SIZE,0,0,1
+
+// multiple pointers - ingredient inquiry -> add size
+
+// ingredient inquiry -> add number
+do i have PREV_NUMBER,3,1,2 PREV_ADDON,0,1,3s on my PREV_ITEM,0,1|actually lets make that NUMBER,0,0,2 of those
+
+view_order:how many PREV_ADDON,3,1,2s are on my PREV_ITEM,0,1|can we change that to NUMBER,0,0,1
+view_order:how many PREV_ADDON,0,1,2s did you put with my PREV_ITEM,0,1|can i have NUMBER,0,0,4 more*1,0,2
+
+// multiple pointers - ingredient inquiry -> add number
+view_order:how many PREV_ADDON,3,1,2,3s are on the PREV_ITEM,0,1 or the PREV_ITEM,0,1|it should be NUMBER,0,0,1 for both
+view order:what is the count of PREV_ADDON,0,1,2,3,4s with the PREV_ITEM,0,1 PREV_ITEM,0,1 or the PREV_ITEM,0,1|i would actually want NUMBER,0,0,1 for each
+
+// ingredient inquiry -> add size
+view_order:is the PREV_ADDON,0,1,2 on my PREV_ITEM,0,1 a SIZE,0,1,1|can you make that happen*3,0,1
+view_order:how much PREV_ADDON,0,1,2 is on the PREV_ITEM,0,1|lets change it to be SIZE,0,0,1
+view_order:is there a lot of PREV_ADDON,0,1,2 on my PREV_ITEM,0,1|i only want SIZE,0,0,1
+
+// multiple pointers - ingredient inquiry -> add size
+view_order:how much PREV_ADDON,0,1,2,3 on the
+
+// ingredient inquiry - change addon orientation
+view_order:is there a ADDON,0,1,2 on my PREV_ITEM,0,1|i want that to be on the side*1,2,2
+view_order:is there any ADDON,0,1,2 on my PREV_ITEM,0,1|can you put that off to the side*1,2,2
+view_order:does the PREV_ITEM,0,1 have ADDON,0,1,1|i want that to be in it*2,3,1
 
 
 
-// ask for a recommendation -> add it to order
+// recommendation inquiry -> add it to order
 whats your favorite dish|ill have that please
 
 
