@@ -415,16 +415,7 @@ add NUMBER,0,0,2 ITEM,0,0,0s into the order i made before
 
 
 
-//                      ****  MULTIPLE POINTERS ****
-
-
-
-
-
-
-
-
-//                     **** SPLIT INTENT - reference_prev_call ****
+//                     **** reference_prev_call -> intent ****
 
 // no slots
 reference_prev_call:i just called you a couple minutes ago|id like to make some changes to what i ordered

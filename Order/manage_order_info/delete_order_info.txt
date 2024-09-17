@@ -1,3 +1,24 @@
+// no slots
+i would like to remove an item from my order
+can i remove an ingredient from one of my items
+id like to remove a size from an item in my cart
+can we delete an item from my cart
+i want to remove something
+i need to drop something from my order
+delete an item from my order for me
+i need you to get rid of an item on my order
+lets get rid of some item currently in my order
+i need to delete something in my order
+can i remove an item
+i need to delete an item
+can i delete something
+remove something from my cart
+help me delete something from my current order
+could i delete something from my order
+can i delete something in my cart
+
+
+
 // basic sentences
 remove the PREV_ITEM,1,0,0 from my order
 take off that PREV_ITEM,1,0,0 i changed my mind
@@ -81,7 +102,7 @@ delete that PREV_SIZE,0,1,2 PREV_ITEM,1,0,0
 take off the PREV_ITEM,1,0,0 i mentioned before
 remove the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1
 can you cancel the PREV_ITEM,1,0,0 from my list
-scratch out that PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0
+scratch out those PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0
 delete the PREV_ITEM,1,0,0 from my order
 take away the PREV_ITEM,1,0,0 i asked for
 remove that PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1
@@ -92,13 +113,44 @@ take away the PREV_NUMBER,0,1,2 PREV_ITEM,1,0,0
 can you scratch off the PREV_ITEM,1,0,0 from my list
 remove the PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 on the side
 
-// multiple pointers - objects (addons, sizes, and numbers)
-i would like ITEM,0,0 and ITEM,0,0 with no ADDON,1,0,1,2 on either
-i need to add ITEM,0,0 ITEM,0,0 with no ADDON,1,0,1,2 for both and a ITEM,0,0
+
+
+// basic sentences - relative numbers
+can you remove NUMBER,0,0,2 PREV_ITEM,1,0s from my cart
+delete NUMBER,0,0,2 PREV_ITEM,1,0s from my order
+erase NUMBER,0,0,2 PREV_ITEM,1,0s
+take out NUMBER,0,0,2 of the PREV_ITEM,1,0
+can you remove NUMBER,0,0,2 PREV_ITEM,1,0s for me
+take out NUMBER,0,0,2 of them PREV_ITEM,1,0s
+delete like NUMBER,0,0,2 of those PREV_ITEM,1,0s from the cart
+could you go ahead and remove NUMBER,0,0,2 PREV_ITEM,1,0s for me
+lets take out NUMBER,0,0,2 PREV_ITEM,1,0s right now
+remove NUMBER,0,0,2 PREV_ITEM,1,0s from my list
+get rid of NUMBER,0,0,2 of those PREV_ITEM,1,0s
+we need to delete NUMBER,0,0,2 of the PREV_ITEM,1,0s from my order
+could you erase NUMBER,0,0,2 PREV_ITEM,1,0s for me
+take out like NUMBER,0,0,2 of those PREV_ITEM,1,0s real quick
+take NUMBER,0,0,2 PREV_ITEM,1,0s out of my order
+go ahead and remove NUMBER,0,0,2 PREV_ITEM,1,0s from my cart
+get rid of NUMBER,0,0,2 PREV_ITEM,1,0s from my order
+can we ditch NUMBER,0,0,2 of those PREV_ITEM,1,0s
+take out NUMBER,0,0,2 of my PREV_ITEM,1,0s for me
+
+// basic sentences - relative numbers - multiple pointers
+take out NUMBER,0,0,2,3 of both the PREV_ITEM,1,0s and the PREV_ITEM,1,0s in my cart
+i need to remove NUMBER,0,0,2,3,4 of each of the PREV_ITEM,1,0s PREV_ITEM,1,0s and PREV_ITEM,1,0s
+take out NUMBER,0,0,2,3 of the PREV_ITEM,1,0s and PREV_ITEM,1,0s from my order
+remove NUMBER,0,0,2,3 of the PREV_ITEM,1,0s and the PREV_ITEM,1,0s
+can you take out NUMBER,0,0,2,3 of both those PREV_ITEM,1,0s and PREV_ITEM,1,0s for me
+delete NUMBER,0,0,2,3 PREV_ITEM,1,0s and PREV_ITEM,1,0s from the list
+erase NUMBER,0,0,2 PREV_ITEM,1,0s and also the PREV_ITEM,1,0 from my order
+i want to remove NUMBER,0,0,2,3 of both PREV_ITEM,1,0s and PREV_ITEM,1,0s from my cart
+take out NUMBER,0,0,2 PREV_ITEM,1,0s and NUMBER,0,0,4 PREV_ITEM,1,0s
+please delete NUMBER,0,0,2 of the PREV_ITEM,1,0s and NUMBER,0,0,4 PREV_ITEM,1,0s
 
 
 
-// remove multiple objects at a time
+// remove multiple items
 take off the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,1 and the PREV_ITEM,1,0,0
 remove that PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 and the PREV_NUMBER,0,1,4 PREV_ITEM,1,0,0s
 delete the PREV_ITEM,1,0,0 and the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 please
@@ -167,6 +219,18 @@ remove both PREV_ITEM,1,0,0s and both PREV_ITEM,1,0,0s from my order
 cancel the PREV_ITEM,1,0,0 with PREV_ADDON,0,1,3 PREV_ITEM,1,0,0 and PREV_NUMBER,0,1,5 PREV_ITEM,1,0,0
 take off the PREV_ITEM,1,0,0 PREV_ITEM,1,0,0 PREV_SIZE,0,1,4 PREV_ITEM,1,0,0 and PREV_ITEM,1,0,0
 delete that PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top PREV_ITEM,1,0,0 PREV_ITEM,1,0,0 and PREV_ITEM,1,0,0 please
+
+// remove multiple items - multiple pointers
+remove the PREV_ITEM,1,0 and PREV_ITEM,1,0 which both have ADDON,0,1,1,2
+i need to delete the PREV_ITEM,1,0 and the PREV_ITEM,1,0 which have ADDON,0,1,1,2
+can you take the PREV_ITEM,1,0 and PREV_ITEM,1,0 which have ADDON,0,1,1,2 from my cart
+help me get rid of the PREV_ITEM,1,0 and the PREV_ITEM,1,0 which are SIZE,0,1,1,2
+remove the PREV_ITEM,1,0 and PREV_ITEM,1,0 that both have ADDON,0,1,1,2
+i need to delete the PREV_ITEM,1,0 and PREV_ITEM,1,0 with ADDON,0,1,1,2 on them
+take out the PREV_ITEM,1,0 and PREV_ITEM,1,0 which have ADDON,0,1,1,2
+can you get rid of the PREV_ITEM,1,0 and PREV_ITEM,1,0 that are both with ADDON,0,1,1,2
+help me delete the PREV_ITEM,1,0 and the PREV_ITEM,1,0 which are both SIZE,0,1,1,2
+take out the PREV_ITEM,1,0 and PREV_ITEM,1,0 that are each SIZE,0,1,1,2
 
 
 
@@ -242,7 +306,7 @@ take off the PREV_ITEM,1,0,0 with PREV_ADDON,3,1,1 on top and PREV_ADDON,0,1,1
 
 
 
-// delete addon from a previous object
+// remove addon
 actually no ADDON,1,0,2 on that PREV_ITEM,0,1 please
 actually i dont need ADDON,1,0,2 on the PREV_ITEM,0,1 please
 please take the ADDON,1,0,2 off my PREV_ITEM,0,1
@@ -292,93 +356,12 @@ please leave out ADDON,1,0,2 on the PREV_ITEM,0,1
 could you take away ADDON,1,0,2 from my PREV_ITEM,0,1
 actually no more ADDON,1,0,2 on that PREV_ITEM,0,1
 
-
-
-
-
-//                              ****  MULTIPLE POINTERS ****
-
-// multiple pointers
-
-
-
-
-// multiple pointers - remove addons
-
-
-// remove addons from previous objects
-i want to remove something from my PREV_ITEM,0,1|the ADDON,1,0,1 please
-
-
-
-
-
-
-// split intent - basic
-can i remove one of the items from my order
-id like to take something off my list
-is it possible to delete an item from my cart
-could you remove one thing from my order
-i need to scratch off one of my selections
-can we cancel one of the items i picked
-id like to drop an item from my order
-is there a way to take out one of my choices
-could you delete something from my cart please
-i want to remove one of the things i ordered
-can i cancel out one item from my selection
-id like to get rid of something in my order
-is it okay to remove one of my picks
-could we scratch one item off my list
-i need to delete one of the things in my cart
-can you take off an item from my order
-id like to remove one of my selections
-is there a chance to cancel something i ordered
-could you drop one item from my list
-i want to take out one of my choices
-can we delete an item from my cart
-id like to scratch off one of my picks
-is it possible to remove something i ordered
-could you cancel one of the items on my list
-i need to take off one thing from my order
-can i drop one of my selections
-id like to get rid of an item in my cart
-is there a way to delete one of my choices
-could we remove something from my order
-i want to scratch off one of the items i picked
-can you cancel out one of my selections
-id like to take out an item from my cart
-is it okay to remove one thing i ordered
-could you get rid of one of my picks
-i need to delete something from my list
-can we take off one of the items i chose
-id like to drop something from my order
-is there a chance to remove one of my selections
-could you scratch off an item from my cart
-i want to cancel one of the things i ordered
-can i take out one of my picks
-id like to delete an item from my list
-is it possible to remove one of my choices
-could we get rid of something i ordered
-i need to drop one item from my cart
-can you scratch off one of my selections
-id like to cancel out something in my order
-is there a way to take off one of my picks
-could you remove an item from my list
-i want to delete one thing from my order
-
-
-
-
-// split intent - multiple objects
-can i remove some items from my order|
-
-
-
-
-// split intent - delete addons on previous objects
-
-
-
-
-
-is there PREV_NUMBER,0,1,2 PREV_ITEM,0,1s in my cart right now|actually lets remove NUMBER,0,0,4*2,1
+// remove addon - multiple pointers
+i would like to take ADDON,1,0,2,3 off my PREV_ITEM,0,1 and my PREV_ITEM,0,1
+can you take ADDON,1,0,2,3 off both the PREV_ITEM,0,1 and PREV_ITEM,0,1 in my cart
+i need you to remove ADDON,1,0,2,3 from both the PREV_ITEM,0,1 and PREV_ITEM,0,1 in my order
+could you get rid of the ADDON,1,0,2,3 on my PREV_ITEM,0,1 and PREV_ITEM,0,1
+please delete ADDON,1,0,2,3,4 on the PREV_ITEM,0,1 PREV_ITEM,0,1 and the PREV_ITEM,0,1
+dont put any ADDON,1,0,2,3 on either of the PREV_ITEM,0,1 or PREV_ITEM,0,1
+i dont want ADDON,1,0,2,3 on my PREV_ITEM,0,1 or my PREV_ITEM,0,1
+i wont be needing ADDON,1,0,2,3,4 on the PREV_ITEM,0,1 the PREV_ITEM,0,1 or the PREV_ITEM,0,1

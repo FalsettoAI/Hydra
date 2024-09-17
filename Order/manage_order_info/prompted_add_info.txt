@@ -130,6 +130,45 @@ lets do an ITEM,0,0,0
 how about a ITEM,0,0,0 and make it SIZE,0,0,1
 NUMBER,0,0,2 ITEM,0,0,0s with ADDON,0,0,2
 
+// basic sentences - multiple pointers - objects add addons
+ITEM,0,0 and ITEM,0,0 both with ADDON,0,0,1,2
+NUMBER,0,0,2 ITEM,0,0,0s and a ITEM,0,0 with ADDON,3,0,2,3 on everything
+how about NUMBER,0,0,2 ITEM,0,0,0s and a ITEM,0,0 with ADDON,2,0,2,3 on the side for all of it
+maybe ITEM,0,0 ITEM,0,0 and ITEM,0,0 and put ADDON,2,0,1,2,3 on the side for each
+ITEM,0,0 ITEM,0,0 and ITEM,0,0 with ADDON,3,0,1,2 on the first two
+try ITEM,0,0 and ITEM,0,0 with ADDON,0,0,1,2 and ADDON,0,0,1,2 for each
+yea ITEM,0,0 and ITEM,0,0 with ADDON,0,0,1,2 for each
+do a SIZE,0,0,2 ITEM,0,0 and a SIZE,0,0,4 ITEM,0,0 with ADDON,0,0,2,4 and ADDON,0,0,2,4 for both
+a ITEM,0,0 and a ITEM,0,0 with ADDON,3,0,1,2 on both
+lets do ITEM,0,0 and ITEM,0,0 both with ADDON,3,0,1,2 on em
+ill take NUMBER,0,0,2 ITEM,0,0,0s and a ITEM,0,0 with ADDON,3,0,2,3 on all of it
+how about ITEM,0,0 and another ITEM,0,0 with ADDON,0,0,1,2 and ADDON,0,0,1,2 for each
+maybe ITEM,0,0 and ITEM,0,0 with ADDON,3,0,1,2 on both of those
+ITEM,0,0 and ITEM,0,0 and toss ADDON,2,0,1,2 on the side for both
+SIZE,0,0,2 ITEM,0,0 and SIZE,0,0,4 ITEM,0,0 with ADDON,2,0,2,4 on the side for all
+do ITEM,0,0 and ITEM,0,0 with ADDON,0,0,1,2 for each of them
+try ITEM,0,0 and another ITEM,0,0 both with ADDON,2,0,1,2 on the side
+how about NUMBER,0,0,2 ITEM,0,0,0s and another ITEM,0,0 with ADDON,3,0,2,3 on top of both
+yea ITEM,0,0 and ITEM,0,0 with ADDON,3,0,1,2 on both of them
+
+// basic sentences - multiple pointers - objects remove addons
+ITEM,0,0 and ITEM,0,0 with no ADDON,1,0,1,2 on either
+ITEM,0,0 ITEM,0,0 and ITEM,0,0 with no ADDON,1,0,1,2,3 or ADDON,1,0,1,2,3 on any of them
+ITEM,0,0 and ITEM,0,0 with no ADDON,1,0,1,2 on either
+do NUMBER,0,0,2 ITEM,0,0s and a ITEM,0,0 with no ADDON,1,0,2,3 on any of them
+lets have a SIZE,0,0,2 ITEM,0,0 and a SIZE,0,0,4 ITEM,0,0 with no ADDON,1,0,2,4 on either
+lets go for a ITEM,0,0 a ITEM,0,0 and a ITEM,0,0 with no ADDON,1,0,1,2,3 on each
+do ITEM,0,0 and ITEM,0,0 with no ADDON,1,0,1,2 on either
+ITEM,0,0 and another ITEM,0,0 but with no ADDON,1,0,1,2 on any of them
+how about ITEM,0,0 and ITEM,0,0 with no ADDON,1,0,1,2 on both
+ill take NUMBER,0,0,2 ITEM,0,0,0s and a ITEM,0,0 with no ADDON,1,0,2,3 on any
+try SIZE,0,0,2 ITEM,0,0 and SIZE,0,0,4 ITEM,0,0 with no ADDON,1,0,2,4 on both
+give me ITEM,0,0 ITEM,0,0 and ITEM,0,0 with no ADDON,1,0,1,2,3 on any of em
+how about a ITEM,0,0 and a ITEM,0,0 with no ADDON,1,0,1,2 on either
+i want ITEM,0,0 and ITEM,0,0 with no ADDON,1,0,1,2 on both
+lets do NUMBER,0,0,2 ITEM,0,0,0s and a ITEM,0,0 with no ADDON,1,0,2,3 on either
+maybe ITEM,0,0 and another ITEM,0,0 with no ADDON,1,0,1,2 on all of em
+
 
 
 // "on the side"
@@ -210,7 +249,7 @@ an ITEM,0,0,0 with SIZE,0,0,3 ADDON,3,0,1 inside and NUMBER,0,0,5 ITEM,0,0,0s
 
 
 
-// add multiple objects and modify a couple of them specifically
+// separate partial specification
 NUMBER,0,0,2 ITEM,0,0,0s with ADDON,3,0,4 put in NUMBER,0,0,2
 NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,4 on the side of NUMBER,0,0,2
 how about NUMBER,0,0,2 ITEM,0,0,0s and on NUMBER,0,0,2 put ADDON,3,0,3
@@ -249,86 +288,3 @@ NUMBER,0,0,2 ITEM,0,0,0s and smack ADDON,3,0,4 on NUMBER,0,0,2 of em
 NUMBER,0,0,2 ITEM,0,0,0s and crank NUMBER,0,0,2 up to SIZE,0,0,3
 NUMBER,0,0,2 ITEM,0,0,0s and slam ADDON,3,0,4 on NUMBER,0,0,2
 
-
-// multiple pointers - objects add addons
-ITEM,0,0 and ITEM,0,0 both with ADDON,0,0,1,2
-NUMBER,0,0,2 ITEM,0,0,0s and a ITEM,0,0 with ADDON,3,0,2,3 on everything
-how about NUMBER,0,0,2 ITEM,0,0,0s and a ITEM,0,0 with ADDON,2,0,2,3 on the side for all of it
-maybe ITEM,0,0 ITEM,0,0 and ITEM,0,0 and put ADDON,2,0,1,2,3 on the side for each
-ITEM,0,0 ITEM,0,0 and ITEM,0,0 with ADDON,3,0,1,2 on the first two
-try ITEM,0,0 and ITEM,0,0 with ADDON,0,0,1,2 and ADDON,0,0,1,2 for each
-yea ITEM,0,0 and ITEM,0,0 with ADDON,0,0,1,2 for each
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//              ****  MULTIPLE POINTERS ****
-
-// multiple pointers - objects remove addons
-ITEM,0,0 and ITEM,0,0 with no ADDON,1,0,1,2 on either
-ITEM,0,0 ITEM,0,0 and ITEM,0,0 with no ADDON,1,0,1,2,3 or ADDON,1,0,1,2,3 on any of them
-
-
-
-// multiple pointers - objects and sizes
-a ITEM,0,0 and a ITEM,0,0 both SIZE,0,0,1,2
-lets try NUMBER,0,0,2 ITEM,0,0s and a ITEM,0,0 all SIZE,0,0,2,3
-
-
-
-//multiple pointers - objects and numbers
-
-
-
-// slot callback - multiple pointers - objects and addons
-a ITEM,0,0 and ITEM,0,0|lets put ADDON,0,0,1,2 on both
-maybe NUMBER,0,0,2 ITEM,0,0,0s and a ITEM,0,0|and actually put ADDON,3,0,2,3 on everything
-im thinking NUMBER,0,0,2 ITEM,0,0,0s and a ITEM,0,0|and ADDON,3,0,2,3 on the side for all of it
-ITEM,0,0 ITEM,0,0 and ITEM,0,0| and put ADDON,3,0,1,2 on the first two
-ITEM,0,0 and ITEM,0,0|actually lets have ADDON,0,0,1,2 and ADDON,0,0,1,2 for each
-a ITEM,0,0 and ITEM,0,0|with ADDON,0,0,1,2 for each please
-
-
-
-// slot callback - multiple pointers - objects remove addons
-
-
-
-
-// slot callback - multiple pointers - objects and sizes
-
-
-
-// slot callback - multiple pointers - objects and numbers
-
-
-
-// multiple pointers - addons only
-
-
-
-// multiple pointers - sizes only
-
-
-
-// multiple pointers - numbers only
-
-
-
-
-
-
-
-
-
-//              ****  SLOT CALLBACK ****
