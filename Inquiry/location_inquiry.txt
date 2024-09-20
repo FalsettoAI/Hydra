@@ -1,0 +1,26 @@
+// basic
+where are you guys located
+where is your place
+where is the restaurant located
+what street are you on
+whats the address of your business
+
+
+
+// directions
+can you give me directions to get to your restaurant
+how would i get to your restaurant
+how do i get there
+how could i get there
+give me instructions on how to get there
+give me directions
+i need directions
+
+
+
+// send link
+can you send me the address
+can you text me the address of your restaurant
+send me the address
+link me the address please
+can you link me the address

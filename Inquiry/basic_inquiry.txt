@@ -1,0 +1,131 @@
+// current date
+whats the date today
+whats the day today
+what is the day today
+what day is it today
+whats tomorrow
+whats today
+what day is tomorrow
+whats the date
+what day is it
+can you tell me the date today
+whats todays date
+do you know what day it is
+whats the date right now
+whats the day today
+whats todays date again
+can you remind me what day it is
+whats the date for today
+whats the date tomorrow
+what days tomorrow
+do you know the date today
+what day is it tomorrow
+whats tomorrows date
+what date is it today
+what day is it right now
+can you tell me what day tomorrow is
+what day is it again today
+
+// current date + greeting
+[greeting]:yo man what day is it right now
+[greeting]:hello can you tell me what day tomorrow is
+[greeting]:hi what day is it again today
+
+
+// current time
+what time is it
+whats the time right now
+do you know what time it is
+can you tell me the time
+whats the current time
+what time is it at the moment
+do you have the time
+what time we got right now
+can you tell me what time it is
+whats the time right now
+whats the time again
+what time is it currently
+can you check the time for me
+whats the exact time
+what time are we at
+what time is it at your end
+do you know the time right now
+what time are we looking at
+can you tell me the exact time
+whats the time at the moment
+
+// current time + greeting
+[greeting]:hello do you know the time right now
+[greeting]:yo what time are we looking at
+[greeting]:hey can you tell me the exact time
+[greeting]:hey dude whats the time at the moment
+
+
+// weather
+what does the weather look like there
+is it raining there
+is it snowing there
+how bad is the weather right now
+whats going on with the weather over there
+whats the weather like right now
+is it raining over there
+hows the weather looking there
+is it sunny where you are
+whats going on with the weather today
+is it snowing where youre at
+hows the weather out there
+whats the weather doing over there
+is it windy where you are
+how bad is the weather right now
+what does the sky look like there
+is it cloudy where you are
+whats the temperature like over there
+is it storming right now
+whats the weather forecast for today
+is it cold where you are
+is it hot over there right now
+hows the weather treating you today
+is it humid where youre at
+whats the weather been like today
+
+// weather + greeting
+[greeting]:hi is it hot over there right now
+[greeting]:hello hows the weather treating you today
+[greeting]:hey is it humid where youre at
+[greeting]:hey man whats the weather been like today
+
+
+
+// mood
+how are you feeling
+how are you today
+hows it going for you today
+are you feeling good today
+hows it going
+how are you doing today
+are you doing alright today
+hows your day been so far
+you feeling good today
+how have you been
+hows everything going for you
+hows your day treating you
+are you having a good day
+how are things going today
+how are you feeling right now
+you doing okay today
+hows life treating you today
+hows it going with you today
+everything good with you today
+you feeling alright today
+hows it going on your end
+hows your day going so far
+are you having a busy day
+hows your mood today
+
+// mood + greeting
+[greeting]:hello hows it going with you
+[greeting]:hey you feeling alright today
+[greeting]:hello hows it going on your end
+[greeting]:hey man hows your day going so far
+[greeting]:hello are you having a busy day
+[greeting]:hello hows your mood today

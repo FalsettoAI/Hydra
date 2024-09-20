@@ -1,0 +1,51 @@
+
+// basic sentences
+does the menu have a ITEM,0,1 on item
+is there a ITEM,0,1 on your current menu
+is it possible for me to get a ITEM,0,1 from your menu
+do you guys have a ITEM,0,1 possible
+is it possible for me to get a ITEM,0,1 from you guys
+would i be able to get a ITEM,0,1 if i wanted
+do you have a ITEM,0,1 available on the menu
+can i find a ITEM,0,1 on your current menu
+is ITEM,0,1 something that's offered right now
+can i check if a ITEM,0,1 is on your menu
+is the ITEM,0,1 something you guys serve
+is a ITEM,0,1 on your menu right now
+do you serve a ITEM,0,1 at the moment
+is the ITEM,0,1 part of what you offer
+does your menu include a ITEM,0,1
+do you currently have a ITEM,0,1 available
+is a ITEM,0,1 one of the things you have
+does your menu list a ITEM,0,1
+do you guys carry a ITEM,0,1 on your menu
+can i order a ITEM,0,1 from your menu
+does your current menu feature a ITEM,0,1
+is there any chance you serve a ITEM,0,1
+is a ITEM,0,1 something i could get right now
+check if a ITEM,0,1 is part of the menu
+do you still have a ITEM,0,1 available
+do you offer a ITEM,0,1 as part of your menu
+is the ITEM,0,1 on your menu these days
+do you currently list a ITEM,0,1 on your menu
+do you guys sell ITEM,0,1s
+is a ITEM,0,1 part of your regular menu
+can i check if you have a ITEM,0,1 on your menu
+do you have any ITEM,0,1 on your menu
+are there ITEM,0,1s on your current menu
+are there ITEM,0,1s in your menu selection
+does your menu offer ITEM,0,1s
+do you guys include a ITEM,0,1 in your menu
+is a ITEM,0,1 part of what you’re serving
+do you offer a ITEM,0,1 on your menu
+is it possible to get a ITEM,0,1 from your menu
+
+// multiple items
+do you have a ITEM,0,1 or maybe a ITEM,0,1 on your menu
+does the menu include a ITEM,0,1 along with a ITEM,0,1
+are both the ITEM,0,1 and ITEM,0,1 available right now
+do you serve a ITEM,0,1 or a ITEM,0,1 on your menu
+is it possible to get a ITEM,0,1 and a ITEM,0,1 from your menu
+do you guys offer both a ITEM,0,1 a ITEM,0,1 or a ITEM,0,1
+are the ITEM,0,1 and ITEM,0,1 both on the current menu
+does your menu feature a ITEM,0,1 and also a ITEM,0,1

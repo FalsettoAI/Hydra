@@ -1,0 +1,289 @@
+// basic sentences
+im allergic to ALLERGEN,0,0
+i am allergic when it comes to ALLERGEN,0,0
+i have a ALLERGEN,0,0 allergy
+i cant have anything with ALLERGEN,0,0 because im allergic
+i have an allergy to ALLERGEN,0,0
+im allergic to ALLERGEN,0,0 so please leave it out
+i need to avoid ALLERGEN,0,0 because im allergic
+i have a pretty bad reaction to ALLERGEN,0,0
+i have an allergy when it comes to ALLERGEN,0,0
+ALLERGEN,0,0 gives me a reaction so i cant eat it
+i need to make sure theres no ALLERGEN,0,0 in my food because of my allergy
+im allergic to ALLERGEN,0,0 so make sure its not in there
+please keep ALLERGEN,0,0 out im allergic to it
+i get really bad allergies from ALLERGEN,0,0
+ALLERGEN,0,0 causes an allergic reaction for me
+i have a serious allergy to ALLERGEN,0,0
+im highly allergic to ALLERGEN,0,0 so i need to avoid it
+ALLERGEN,0,0 triggers my allergy
+can you make sure theres no ALLERGEN,0,0 im allergic
+im allergic to ALLERGEN,0,0 so please be careful
+ALLERGEN,0,0 gives me a bad allergy so i cant have it
+i have a food allergy to ALLERGEN,0,0
+ALLERGEN,0,0 allergy makes it dangerous for me to eat it
+im really sensitive to ALLERGEN,0,0 im allergic
+make sure theres no trace of ALLERGEN,0,0 im allergic
+ALLERGEN,0,0 is something im allergic to
+i have to avoid ALLERGEN,0,0 due to my allergy
+i get an allergic reaction from ALLERGEN,0,0 so i cant have it
+
+// basic sentences - multiple allergens
+i have a ALLERGEN,0,0 and ALLERGEN,0,0 allergy
+i have some allergies to ALLERGEN,0,0 ALLERGEN,0,0 and ALLERGEN,0,0
+i have allergies to ALLERGEN,0,0 and ALLERGEN,0,0
+im allergic to both ALLERGEN,0,0 and ALLERGEN,0,0
+i need to avoid ALLERGEN,0,0 ALLERGEN,0,0 and ALLERGEN,0,0 because of my allergies
+i have an allergy to ALLERGEN,0,0 and ALLERGEN,0,0 so please leave those out
+im allergic to ALLERGEN,0,0 ALLERGEN,0,0 and ALLERGEN,0,0
+ALLERGEN,0,0 and ALLERGEN,0,0 cause me bad allergic reactions
+i cant have anything with ALLERGEN,0,0 or ALLERGEN,0,0 im allergic to both
+im sensitive to ALLERGEN,0,0 ALLERGEN,0,0 and ALLERGEN,0,0
+ALLERGEN,0,0 and ALLERGEN,0,0 give me a severe allergic reaction
+i need to make sure theres no ALLERGEN,0,0 or ALLERGEN,0,0 in my food im allergic to both
+i have allergies to ALLERGEN,0,0 and ALLERGEN,0,0 so be careful with that
+im allergic to ALLERGEN,0,0 and ALLERGEN,0,0 so make sure its not in there
+ALLERGEN,0,0 ALLERGEN,0,0 and ALLERGEN,0,0 are all things i cant have im allergic
+im really allergic to ALLERGEN,0,0 and ALLERGEN,0,0
+can you make sure theres no ALLERGEN,0,0 or ALLERGEN,0,0 because im allergic
+ALLERGEN,0,0 and ALLERGEN,0,0 both give me an allergic reaction
+i get allergies from ALLERGEN,0,0 and ALLERGEN,0,0
+im allergic to ALLERGEN,0,0 and ALLERGEN,0,0 and need to avoid them
+i have allergies to ALLERGEN,0,0 ALLERGEN,0,0 and ALLERGEN,0,0 so please be careful
+i need to stay away from ALLERGEN,0,0 and ALLERGEN,0,0 im allergic
+im highly allergic to ALLERGEN,0,0 ALLERGEN,0,0 and ALLERGEN,0,0
+ALLERGEN,0,0 and ALLERGEN,0,0 both cause me serious allergies
+i have a bad reaction to ALLERGEN,0,0 and ALLERGEN,0,0 so please leave them out
+ALLERGEN,0,0 and ALLERGEN,0,0 are allergens for me
+im allergic to multiple things like ALLERGEN,0,0 and ALLERGEN,0,0
+
+
+
+// mention item
+i am allergic to ALLERGEN,1,0,2 so make sure there is none in the PREV_ITEM,0,1
+i have a ALLERGEN,1,0,3 and ALLERGEN,1,0,3 allergy so take it out of the PREV_ITEM,0,1
+make sure there is no ALLERGEN,1,0,2 on my PREV_ITEM,0,1 because i am allergic to it
+im allergic to ALLERGEN,1,0,2 so make sure its not in the PREV_ITEM,0,1
+i have a ALLERGEN,1,0,2 allergy please remove it from the PREV_ITEM,0,1
+i cant have ALLERGEN,1,0,2 in my PREV_ITEM,0,1 im allergic to it
+please take out ALLERGEN,1,0,2 from my PREV_ITEM,0,1 im allergic
+im concerned about ALLERGEN,1,0,2 being in the PREV_ITEM,0,1 im allergic
+i have an allergy to ALLERGEN,1,0,2 so dont put it in the PREV_ITEM,0,1
+make sure theres no ALLERGEN,1,0,2 in my PREV_ITEM,0,1 im allergic to that
+im allergic to ALLERGEN,1,0,2 so leave it out of the PREV_ITEM,0,1
+please take out ALLERGEN,1,0,2 from my PREV_ITEM,0,1 im allergic to it
+im allergic to ALLERGEN,1,0,2 make sure its not in the PREV_ITEM,0,1
+no ALLERGEN,1,0,2 in the PREV_ITEM,0,1 im allergic to it
+make sure theres no trace of ALLERGEN,1,0,2 in my PREV_ITEM,0,1 im allergic
+please make sure the PREV_ITEM,0,1 has no ALLERGEN,1,0,1 im allergic
+i need to avoid ALLERGEN,1,0,2 can you make sure its not in my PREV_ITEM,0,1
+im allergic to ALLERGEN,1,0,2 please dont include it in the PREV_ITEM,0,1
+i have an allergy to ALLERGEN,1,0,2 so make sure its not part of the PREV_ITEM,0,1
+can you ensure theres no ALLERGEN,1,0,2 in my PREV_ITEM,0,1 im allergic
+make sure to leave out ALLERGEN,1,0,2 from the PREV_ITEM,0,1 im allergic
+im allergic to ALLERGEN,1,0,2 so i need the PREV_ITEM,0,1 without it
+no ALLERGEN,1,0,2 in the PREV_ITEM,0,1 im allergic
+please ensure theres no ALLERGEN,1,0,2 in the PREV_ITEM,0,1 im allergic
+make sure the PREV_ITEM,0,1 has no ALLERGEN,1,0,1 in it im allergic
+i have an allergy to ALLERGEN,1,0,2 so it cant be in the PREV_ITEM,0,1
+please check that my PREV_ITEM,0,1 has no ALLERGEN,1,0,1 im allergic
+im allergic to ALLERGEN,1,0,2 please leave it out of the PREV_ITEM,0,1
+
+// mention item - multiple allergens
+im allergic to ALLERGEN,1,0,3 and ALLERGEN,1,0,3 please take them out of the PREV_ITEM,0,1 in my order
+take ALLERGEN,1,0,4 ALLERGEN,1,0,4 and ALLERGEN,1,0,4 off my PREV_ITEM,0,1 im allergic to them
+im allergic to ALLERGEN,1,0,3 and ALLERGEN,1,0,3 so make sure theyre not in the PREV_ITEM,0,1
+please take out ALLERGEN,1,0,3 and ALLERGEN,1,0,3 from the PREV_ITEM,0,1 im allergic
+im allergic to ALLERGEN,1,0,4 ALLERGEN,1,0,4 and ALLERGEN,1,0,4 please check theyre not in my PREV_ITEM,0,1
+make sure the PREV_ITEM,0,1 doesnt have any ALLERGEN,1,0,1 or ALLERGEN,1,0,1 im allergic
+im allergic to both ALLERGEN,1,0,3 and ALLERGEN,1,0,3 so keep them out of the PREV_ITEM,0,1
+can you confirm theres no ALLERGEN,1,0,3 and ALLERGEN,1,0,3 in the PREV_ITEM,0,1 im allergic
+take out any ALLERGEN,1,0,3 and ALLERGEN,1,0,3 from my PREV_ITEM,0,1 im allergic
+im allergic to ALLERGEN,1,0,3 and ALLERGEN,1,0,3 make sure theyre not in the PREV_ITEM,0,1
+please make sure the PREV_ITEM,0,1 has no ALLERGEN,1,0,1 and ALLERGEN,1,0,1 im allergic
+take ALLERGEN,1,0,3 and ALLERGEN,1,0,3 off my PREV_ITEM,0,1 im allergic
+im allergic to ALLERGEN,1,0,3 and ALLERGEN,1,0,3 please ensure they arent in my PREV_ITEM,0,1
+make sure no ALLERGEN,1,0,3 or ALLERGEN,1,0,3 gets in the PREV_ITEM,0,1 im allergic
+im allergic to ALLERGEN,1,0,3 and ALLERGEN,1,0,3 so please leave them out of the PREV_ITEM,0,1
+please check that the PREV_ITEM,0,1 is free of ALLERGEN,1,0,1 and ALLERGEN,1,0,1 im allergic
+no ALLERGEN,1,0,3 or ALLERGEN,1,0,3 in my PREV_ITEM,0,1 im allergic
+im allergic to both ALLERGEN,1,0,3 and ALLERGEN,1,0,3 so check theyre not in the PREV_ITEM,0,1
+make sure my PREV_ITEM,0,1 has no ALLERGEN,1,0,1 or ALLERGEN,1,0,1 im allergic
+im allergic to ALLERGEN,1,0,3 and ALLERGEN,1,0,3 please keep them out of the PREV_ITEM,0,1
+confirm theres no ALLERGEN,1,0,3 or ALLERGEN,1,0,3 in the PREV_ITEM,0,1 im allergic
+take out ALLERGEN,1,0,4 ALLERGEN,1,0,4 and ALLERGEN,1,0,4 from the PREV_ITEM,0,1 im allergic
+check that my PREV_ITEM,0,1 has no ALLERGEN,1,0,1 and ALLERGEN,1,0,1 im allergic
+im allergic to ALLERGEN,1,0,3 and ALLERGEN,1,0,3 so keep them out of my PREV_ITEM,0,1
+make sure theres no trace of ALLERGEN,1,0,3 or ALLERGEN,1,0,3 in the PREV_ITEM,0,1 im allergic
+please check that the PREV_ITEM,0,1 has no ALLERGEN,1,0,1 and ALLERGEN,1,0,1 im allergic
+im allergic to ALLERGEN,1,0,3 and ALLERGEN,1,0,3 so ensure theyre not in the PREV_ITEM,0,1
+
+
+
+// mention items
+please check that my PREV_ITEM,0,1 and PREV_ITEM,0,1 have no ALLERGEN,1,0,1,2 im allergic
+im allergic to ALLERGEN,1,0,2,3,4 please leave it out of the PREV_ITEM,0,1 PREV_ITEM,0,1 and PREV_ITEM,0,1
+im allergic to ALLERGEN,1,0,2,3 make sure theres none in my PREV_ITEM,0,1 and PREV_ITEM,0,1
+i need my PREV_ITEM,0,1 and PREV_ITEM,0,1 with no ALLERGEN,1,0,1,2 im allergic
+make sure the PREV_ITEM,0,1 PREV_ITEM,0,1 and PREV_ITEM,0,1 dont have ALLERGEN,1,0,1,2,3 im allergic
+im allergic to ALLERGEN,1,0,2,3 so please remove it from my PREV_ITEM,0,1 and PREV_ITEM,0,1
+can you make sure theres no ALLERGEN,1,0,2,3,4 in the PREV_ITEM,0,1 PREV_ITEM,0,1 or PREV_ITEM,0,1 im allergic
+please ensure no ALLERGEN,1,0,2,3,4 in my PREV_ITEM,0,1 PREV_ITEM,0,1 and PREV_ITEM,0,1 im allergic
+make sure ALLERGEN,1,0,2,3 is not in the PREV_ITEM,0,1 or PREV_ITEM,0,1 im allergic
+no ALLERGEN,1,0,2,3 in my PREV_ITEM,0,1 or PREV_ITEM,0,1 please im allergic
+im allergic to ALLERGEN,1,0,2,3 so it cant be in my PREV_ITEM,0,1 and PREV_ITEM,0,1
+please check the PREV_ITEM,0,1 and PREV_ITEM,0,1 for ALLERGEN,1,0,1,2 im allergic
+i have an allergy to ALLERGEN,1,0,2,3 please ensure its not in my PREV_ITEM,0,1 and PREV_ITEM,0,1
+no ALLERGEN,1,0,2,3,4 in the PREV_ITEM,0,1 PREV_ITEM,0,1 or PREV_ITEM,0,1 im allergic
+make sure my PREV_ITEM,0,1 and PREV_ITEM,0,1 are free of ALLERGEN,1,0,1,2 im allergic
+please leave out ALLERGEN,1,0,2,3 from the PREV_ITEM,0,1 and PREV_ITEM,0,1 im allergic
+im allergic to ALLERGEN,1,0,2,3 so make sure its not in my PREV_ITEM,0,1 or PREV_ITEM,0,1
+can you check the PREV_ITEM,0,1 and PREV_ITEM,0,1 for ALLERGEN,1,0,1,2 im allergic
+no ALLERGEN,1,0,2,3 in the PREV_ITEM,0,1 or PREV_ITEM,0,1 im allergic
+i have a ALLERGEN,1,0,2,3 allergy so make sure its not in my PREV_ITEM,0,1 and PREV_ITEM,0,1
+please double-check my PREV_ITEM,0,1 and PREV_ITEM,0,1 for ALLERGEN,1,0,1,2 im allergic
+can you confirm that the PREV_ITEM,0,1 and PREV_ITEM,0,1 have no ALLERGEN,1,0,1,2 im allergic
+im allergic to ALLERGEN,1,0,2,3 make sure its out of my PREV_ITEM,0,1 and PREV_ITEM,0,1
+please make sure the PREV_ITEM,0,1 and PREV_ITEM,0,1 have no ALLERGEN,1,0,1,2 im allergic
+double check my PREV_ITEM,0,1 PREV_ITEM,0,1 and PREV_ITEM,0,1 for ALLERGEN,1,0,1,2,3 im allergic
+can you make sure theres no ALLERGEN,1,0,2,3,4 in the PREV_ITEM,0,1 PREV_ITEM,0,1 and PREV_ITEM,0,1 im allergic
+make sure ALLERGEN,1,0,2,3 is left out of my PREV_ITEM,0,1 and PREV_ITEM,0,1 im allergic to it
+
+// mention items - multiple allergens
+can you make sure theres no ALLERGEN,1,0,3,4,5 or ALLERGEN,1,0,3,4,5 in the PREV_ITEM,0,1 PREV_ITEM,0,1 and PREV_ITEM,0,1 im allergic
+make sure ALLERGEN,1,0,3,4 and ALLERGEN,1,0,3,4 are left out of my PREV_ITEM,0,1 and PREV_ITEM,0,1 im allergic to it
+can you make sure theres no ALLERGEN,1,0,3,4 and ALLERGEN,1,0,3,4 in my PREV_ITEM,0,1 and PREV_ITEM,0,1 im allergic
+make sure ALLERGEN,1,0,3,4,5 and ALLERGEN,1,0,3,4,5 are not in the PREV_ITEM,0,1 PREV_ITEM,0,1 and PREV_ITEM,0,1 im allergic
+please check that theres no ALLERGEN,1,0,3,4,5 or ALLERGEN,1,0,3,4,5 in my PREV_ITEM,0,1 PREV_ITEM,0,1 and PREV_ITEM,0,1 im allergic
+im allergic to ALLERGEN,1,0,3,4 and ALLERGEN,1,0,3,4 please leave them out of my PREV_ITEM,0,1 and PREV_ITEM,0,1
+make sure none of my PREV_ITEM,0,1 and PREV_ITEM,0,1 have any ALLERGEN,1,0,1,2 or ALLERGEN,1,0,1,2 im allergic
+i need to make sure ALLERGEN,1,0,3,4,5 and ALLERGEN,1,0,3,4,5 are not in my PREV_ITEM,0,1 PREV_ITEM,0,1 and PREV_ITEM,0,1 im allergic
+keep ALLERGEN,1,0,3,4 and ALLERGEN,1,0,3,4 out of the PREV_ITEM,0,1 and PREV_ITEM,0,1 im allergic
+check for ALLERGEN,1,0,3,4 and ALLERGEN,1,0,3,4 in my PREV_ITEM,0,1 and PREV_ITEM,0,1 im allergic to both
+can you double-check that theres no ALLERGEN,1,0,3,4,5 or ALLERGEN,1,0,3,4,5 in the PREV_ITEM,0,1 PREV_ITEM,0,1 and PREV_ITEM,0,1 im allergic
+make sure ALLERGEN,1,0,3,4,5 and ALLERGEN,1,0,3,4,5 are not included in my PREV_ITEM,0,1 PREV_ITEM,0,1 and PREV_ITEM,0,1 im allergic
+im allergic to ALLERGEN,1,0,3,4,5 and ALLERGEN,1,0,3,4,5 so make sure theyre left out of my PREV_ITEM,0,1 PREV_ITEM,0,1 and PREV_ITEM,0,1
+please ensure theres no ALLERGEN,1,0,3,4 and ALLERGEN,1,0,3,4 in my PREV_ITEM,0,1 and PREV_ITEM,0,1 im allergic
+make sure ALLERGEN,1,0,3,4 and ALLERGEN,1,0,3,4 dont end up in the PREV_ITEM,0,1 and PREV_ITEM,0,1 im allergic
+can you check that my PREV_ITEM,0,1 and PREV_ITEM,0,1 have no ALLERGEN,1,0,1,2 and ALLERGEN,1,0,1,2 im allergic
+keep ALLERGEN,1,0,3,4 and ALLERGEN,1,0,3,4 away from my PREV_ITEM,0,1 and PREV_ITEM,0,1 im allergic to both
+
+
+
+// mention addon
+i have an allergy to ALLERGEN,1,0,2 so make sure it isnt in the PREV_ADDON,0,1
+im allergic to ALLERGEN,1,0,2 so make sure its not in the PREV_ADDON,0,1
+please make sure the PREV_ADDON,0,1 doesnt have any ALLERGEN,1,0,1 im allergic
+i have an ALLERGEN,1,0,2 allergy so ensure its not in the PREV_ADDON,0,1
+im allergic to ALLERGEN,1,0,2 so check if its in the PREV_ADDON,0,1
+make sure theres no ALLERGEN,1,0,2 in my PREV_ADDON,0,1 im allergic
+i have an allergy to ALLERGEN,1,0,2 so make sure its not included in the PREV_ADDON,0,1
+im allergic to ALLERGEN,1,0,2 can you confirm its not in the PREV_ADDON,0,1
+no ALLERGEN,1,0,2 in the PREV_ADDON,0,1 im allergic
+please ensure theres no ALLERGEN,1,0,2 in the PREV_ADDON,0,1 im allergic
+i have an allergy to ALLERGEN,1,0,2 make sure its removed from the PREV_ADDON,0,1
+im allergic to ALLERGEN,1,0,2 so keep it out of the PREV_ADDON,0,1
+can you check that theres no ALLERGEN,1,0,2 in the PREV_ADDON,0,1 im allergic
+im allergic to ALLERGEN,1,0,2 make sure it doesnt come in the PREV_ADDON,0,1
+im allergic to ALLERGEN,1,0,2 so make sure its nowhere in the PREV_ADDON,0,1
+no ALLERGEN,1,0,2 in the PREV_ADDON,0,1 im allergic
+check the PREV_ADDON,0,1 for any traces of ALLERGEN,1,0,2 im allergic
+please double-check that the PREV_ADDON,0,1 is free from ALLERGEN,1,0,1 im allergic
+im allergic to ALLERGEN,1,0,2 so remove it from the PREV_ADDON,0,1
+i have an ALLERGEN,1,0,2 allergy so be sure its not in the PREV_ADDON,0,1
+please make sure the PREV_ADDON,0,1 is free from ALLERGEN,1,0,1 im allergic
+im allergic to ALLERGEN,1,0,2 so confirm its not in the PREV_ADDON,0,1
+no ALLERGEN,1,0,2 in the PREV_ADDON,0,1 im allergic
+please ensure that ALLERGEN,1,0,2 isnt in the PREV_ADDON,0,1 im allergic
+make sure theres no ALLERGEN,1,0,2 in the PREV_ADDON,0,1 im allergic
+im allergic to ALLERGEN,1,0,2 so it cant be in the PREV_ADDON,0,1
+
+// mention addon - multiple allergens
+i need to be sure there is no ALLERGEN,1,0,3 or ALLERGEN,1,0,3 in the PREV_ADDON,0,1
+take any ALLERGEN,1,0,4 ALLERGEN,1,0,4 and ALLERGEN,1,0,4 out of my PREV_ADDON,0,1
+i have a ALLERGEN,1,0,3 and ALLERGEN,1,0,3 allergy so make sure it isnt in the PREV_ADDON,0,1
+i need to make sure theres no ALLERGEN,1,0,3 or ALLERGEN,1,0,3 in the PREV_ADDON,0,1 im allergic
+can you take out any ALLERGEN,1,0,3 and ALLERGEN,1,0,3 from the PREV_ADDON,0,1 im allergic
+make sure theres no ALLERGEN,1,0,3 or ALLERGEN,1,0,3 in the PREV_ADDON,0,1 im allergic to both
+i have an allergy to ALLERGEN,1,0,3 and ALLERGEN,1,0,3 so leave them out of the PREV_ADDON,0,1
+please remove ALLERGEN,1,0,4 ALLERGEN,1,0,4 and ALLERGEN,1,0,4 from my PREV_ADDON,0,1 im allergic
+check that the PREV_ADDON,0,1 has no ALLERGEN,1,0,1 or ALLERGEN,1,0,1 im allergic to both
+im allergic to ALLERGEN,1,0,3 and ALLERGEN,1,0,3 so take them out of the PREV_ADDON,0,1
+keep ALLERGEN,1,0,3 and ALLERGEN,1,0,3 out of my PREV_ADDON,0,1 because im allergic
+please make sure theres no ALLERGEN,1,0,3 or ALLERGEN,1,0,3 in the PREV_ADDON,0,1 im allergic
+i have allergies to ALLERGEN,1,0,4 ALLERGEN,1,0,4 and ALLERGEN,1,0,4 so make sure none of them are in the PREV_ADDON,0,1
+take out any ALLERGEN,1,0,3 and ALLERGEN,1,0,3 from the PREV_ADDON,0,1 im allergic to both
+i need to be sure that theres no ALLERGEN,1,0,3 or ALLERGEN,1,0,3 in the PREV_ADDON,0,1 because im allergic
+keep the PREV_ADDON,0,1 free from ALLERGEN,1,0,1 and ALLERGEN,1,0,1 im allergic
+make sure the PREV_ADDON,0,1 doesnt have any ALLERGEN,1,0,1 ALLERGEN,1,0,1 or ALLERGEN,1,0,1 im allergic
+please ensure theres no ALLERGEN,1,0,3 and ALLERGEN,1,0,3 in the PREV_ADDON,0,1 im allergic
+
+
+
+// mention addons
+i need to make sure theres no ALLERGEN,1,0,3 or ALLERGEN,1,0,3 in the ADDON,0,1 im allergic
+can you take out any ALLERGEN,1,0,3 and ALLERGEN,1,0,3 from the ADDON,0,1 im allergic
+make sure theres no ALLERGEN,1,0,3 or ALLERGEN,1,0,3 in the ADDON,0,1 im allergic to both
+i have an allergy to ALLERGEN,1,0,3 and ALLERGEN,1,0,3 so leave them out of the ADDON,0,1
+please remove ALLERGEN,1,0,3 ALLERGEN,1,0,3 and ALLERGEN,1,0,3 from my ADDON,0,1 im allergic
+check that the ADDON,0,1 has no ALLERGEN,1,0,3 or ALLERGEN,1,0,3 im allergic to both
+im allergic to ALLERGEN,1,0,3 and ALLERGEN,1,0,3 so take them out of the ADDON,0,1
+keep ALLERGEN,1,0,3 and ALLERGEN,1,0,3 out of my ADDON,0,1 because im allergic
+please make sure theres no ALLERGEN,1,0,3 or ALLERGEN,1,0,3 in the ADDON,0,1 im allergic
+i have allergies to ALLERGEN,1,0,3 ALLERGEN,1,0,3 and ALLERGEN,1,0,3 so make sure none of them are in the ADDON,0,1
+take out any ALLERGEN,1,0,3 and ALLERGEN,1,0,3 from the ADDON,0,1 im allergic to both
+i need to be sure that theres no ALLERGEN,1,0,3 or ALLERGEN,1,0,3 in the ADDON,0,1 because im allergic
+keep the ADDON,0,1 free from ALLERGEN,1,0,3 and ALLERGEN,1,0,3 im allergic
+make sure the ADDON,0,1 doesnt have any ALLERGEN,1,0,3 ALLERGEN,1,0,3 or ALLERGEN,1,0,3 im allergic
+please ensure theres no ALLERGEN,1,0,3 and ALLERGEN,1,0,3 in the ADDON,0,1 im allergic
+
+// mention addons - multiple allergens
+make sure there is no ALLERGEN,1,0,3,4 or ALLERGEN,1,0,3,4 on the ADDON,0,1 and ADDON,0,1 because i have an allergy
+be certain the ADDON,0,1 and ADDON,0,1 dont have ALLERGEN,1,0,1,2 or ALLERGEN,1,0,1,2 because im allergic
+make sure theres no ALLERGEN,1,0,3,4 or ALLERGEN,1,0,3,4 in both the ADDON,0,1 and ADDON,0,1 because im allergic
+can you ensure that neither the ADDON,0,1 nor the ADDON,0,1 have any ALLERGEN,1,0,1,2 or ALLERGEN,1,0,1,2 im allergic
+keep both the ADDON,0,1 and ADDON,0,1 free from ALLERGEN,1,0,1,2 and ALLERGEN,1,0,1,2 im allergic
+be sure that theres no ALLERGEN,1,0,3,4 or ALLERGEN,1,0,3,4 in the ADDON,0,1 and ADDON,0,1 im allergic to both
+please remove ALLERGEN,1,0,4,5 ALLERGEN,1,0,4,5 and ALLERGEN,1,0,4,5 from my ADDON,0,1 and ADDON,0,1 im allergic
+im allergic to ALLERGEN,1,0,3,4 and ALLERGEN,1,0,3,4 so make sure both the ADDON,0,1 and ADDON,0,1 are safe
+check that the ADDON,0,1 and ADDON,0,1 are free of ALLERGEN,1,0,1,2 and ALLERGEN,1,0,1,2 im allergic
+make sure neither the ADDON,0,1 nor the ADDON,0,1 has any ALLERGEN,1,0,1,2 or ALLERGEN,1,0,1,2 im allergic
+i have an allergy to ALLERGEN,1,0,3,4 and ALLERGEN,1,0,3,4 so leave them out of the ADDON,0,1 and ADDON,0,1
+can you make sure both the ADDON,0,1 and ADDON,0,1 have no ALLERGEN,1,0,1,2 or ALLERGEN,1,0,1,2 im allergic
+be sure that neither the ADDON,0,1 nor the ADDON,0,1 contains ALLERGEN,1,0,1,2 or ALLERGEN,1,0,1,2 because im allergic
+im allergic to ALLERGEN,1,0,3,4 and ALLERGEN,1,0,3,4 so check that both the ADDON,0,1 and ADDON,0,1 are free of them
+remove any traces of ALLERGEN,1,0,3,4 and ALLERGEN,1,0,3,4 from the ADDON,0,1 and ADDON,0,1 im allergic
+i have allergies to ALLERGEN,1,0,3,4 and ALLERGEN,1,0,3,4 make sure theyre not in my ADDON,0,1 or ADDON,0,1
+be certain that both the ADDON,0,1 and ADDON,0,1 are free of ALLERGEN,1,0,1,2 and ALLERGEN,1,0,1,2 im allergic to them
+
+
+
+// mention addon on item
+im allergic to ALLERGEN,1,0,2 so make sure it isnt in the PREV_ADDON,0,1,3 on my PREV_ITEM,0,1
+make sure the PREV_ADDON,0,1,2 in my PREV_ITEM,0,1 doesnt have any ALLERGEN,1,0,1 i have an allergy
+im allergic to ALLERGEN,1,0,2 so make sure its not in the PREV_ADDON,0,1,3 on my PREV_ITEM,0,1
+please ensure the PREV_ADDON,0,1,2 on my PREV_ITEM,0,1 doesnt contain ALLERGEN,1,0,1 as i have an allergy
+i need to be certain that the PREV_ADDON,0,1,2 in my PREV_ITEM,0,1 doesnt include ALLERGEN,1,0,1
+check that the ALLERGEN,1,0,2 is not in the PREV_ADDON,0,1,3 on my PREV_ITEM,0,1 because im allergic
+make sure theres no ALLERGEN,1,0,2 in the PREV_ADDON,0,1,3 on my PREV_ITEM,0,1 as i have an allergy
+im concerned about the PREV_ADDON,0,1,2 in my PREV_ITEM,0,1 please ensure its free from ALLERGEN,1,0,1
+ensure that the ALLERGEN,1,0,2 isnt in the PREV_ADDON,0,1,3 on my PREV_ITEM,0,1 due to my allergy
+verify that the PREV_ADDON,0,1,2 on my PREV_ITEM,0,1 doesnt contain ALLERGEN,1,0,1 as im allergic
+i need to confirm that the ALLERGEN,1,0,2 is not present in the PREV_ADDON,0,1,3 on my PREV_ITEM,0,1
+make sure the PREV_ADDON,0,1,2 in my PREV_ITEM,0,1 is free from ALLERGEN,1,0,1 because of my allergy
+i have an allergy to ALLERGEN,1,0,2 so double-check that the PREV_ADDON,0,1,3 on my PREV_ITEM,0,1 is safe
+ensure the ALLERGEN,1,0,2 is not present in the PREV_ADDON,0,1,3 of my PREV_ITEM,0,1 due to my allergy
+
+// mention addon on item - multiple allergens
+im allergic to ALLERGEN,1,0,3 and ALLERGEN,1,0,3 so make sure they arent in the PREV_ADDON,0,1,3 on my PREV_ITEM,0,1
+make sure the PREV_ADDON,0,1,2 in my PREV_ITEM,0,1 doesnt have any ALLERGEN,1,0,1 or ALLERGEN,1,0,1 i have an allergy
+im allergic to ALLERGEN,1,0,3 and ALLERGEN,1,0,3 so make sure they arent in the PREV_ADDON,0,1,4 on my PREV_ITEM,0,1
+i have allergies to ALLERGEN,1,0,3 and ALLERGEN,1,0,3 so check the PREV_ADDON,0,1,4 in my PREV_ITEM,0,1 for them
+ensure the PREV_ADDON,0,1,2 on my PREV_ITEM,0,1 has no ALLERGEN,1,0,1 or ALLERGEN,1,0,1 im allergic
+check that my PREV_ADDON,0,1,2 in the PREV_ITEM,0,1 doesnt contain ALLERGEN,1,0,1 and ALLERGEN,1,0,1
+make sure there are no ALLERGEN,1,0,3 or ALLERGEN,1,0,3 in the PREV_ADDON,0,1,4 on my PREV_ITEM,0,1
+confirm that my PREV_ADDON,0,1,2 on the PREV_ITEM,0,1 has no ALLERGEN,1,0,1 or ALLERGEN,1,0,1
+im allergic to ALLERGEN,1,0,3 and ALLERGEN,1,0,3 so remove them from the PREV_ADDON,0,1,4 on my PREV_ITEM,0,1
+check for ALLERGEN,1,0,3 and ALLERGEN,1,0,3 in the PREV_ADDON,0,1,4 on my PREV_ITEM,0,1 i have an allergy
+make sure my PREV_ADDON,0,1,2 in the PREV_ITEM,0,1 is free of ALLERGEN,1,0,1 and ALLERGEN,1,0,1
+ensure the PREV_ADDON,0,1,2 on my PREV_ITEM,0,1 doesnt contain ALLERGEN,1,0,1 or ALLERGEN,1,0,1

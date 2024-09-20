@@ -1,0 +1,102 @@
+// no slots
+what are your hours
+when do you guys usually open
+what time do you open
+when do you open usually
+what time do you close
+when do you close usually
+what time at night do you close
+what are your opening hours
+how late are you open
+when do you guys usually close
+what’s your schedule like
+what time do you open in the morning
+when do you close on weekends
+how early do you open
+what’s your closing time
+what are your weekend hours
+what time do you shut down
+do you close late at night
+when’s your last service
+when are you guys open
+what time do you close up
+
+// day
+what time do you open DATE,0,1
+when do you open on DATE,0,1
+when do you close DATE,0,1
+what are your hours for DATE,0,1
+what time do you open on DATE,0,1
+when do you guys open on DATE,0,1
+what are your hours for DATE,0,1
+when do you close on DATE,0,1
+how late are you open on DATE,0,1
+what time do you close DATE,0,1
+do you open early on DATE,0,1
+when does the restaurant close on DATE,0,1
+what time do you start serving on DATE,0,1
+what’s your schedule like for DATE,0,1
+are you open all day on DATE,0,1
+do you close early on DATE,0,1
+how long are you open on DATE,0,1
+what time do you open up on DATE,0,1
+when are you open for business on DATE,0,1
+when’s your last service on DATE,0,1
+what’s your opening time on DATE,0,1
+do you have regular hours on DATE,0,1
+what’s your closing time for DATE,0,1
+are you open late on DATE,0,1
+
+// time
+are you open at TIME,0,1
+do you stay open for TIME,0,1
+do you open TIME,0,1
+do you close before TIME,0,1
+are you open at TIME,0,1
+do you close around TIME,0,1
+will you still be open at TIME,0,1
+do you open by TIME,0,1
+are you guys open after TIME,0,1
+do you close before TIME,0,1
+are you open anytime before TIME,0,1
+will you be open past TIME,0,1
+can I come in at TIME,0,1
+do you stay open until TIME,0,1
+are you still serving at TIME,0,1
+do you guys open up at TIME,0,1
+is the restaurant open at TIME,0,1
+will you be closed before TIME,0,1
+will you open after TIME,0,1
+is it too late to come in by TIME,0,1
+are you closing around TIME,0,1
+are your doors open at TIME,0,1
+do you guys open after TIME,0,1
+do you start serving at TIME,0,1
+
+
+
+// day and time
+are you open at TIME,0,1 on DATE,0,1
+do you stay open until TIME,0,1 on DATE,0,1
+will you be open at TIME,0,1 on DATE,0,1
+on DATE,0,1 will you close before TIME,0,1
+are you open at TIME,0,1 on DATE,0,1
+will you be open at TIME,0,1 on DATE,0,1
+do you close before TIME,0,1 on DATE,0,1
+are you guys open at TIME,0,1 on DATE,0,1
+do you stay open until TIME,0,1 on DATE,0,1
+on DATE,0,1 are you open after TIME,0,1
+will you still be open at TIME,0,1 on DATE,0,1
+can i come by at TIME,0,1 on DATE,0,1
+are you closing before TIME,0,1 on DATE,0,1
+do you guys open at TIME,0,1 on DATE,0,1
+on DATE,0,1 will you be open by TIME,0,1
+will the restaurant be open at TIME,0,1 on DATE,0,1
+do you close around TIME,0,1 on DATE,0,1
+on DATE,0,1 will you open before TIME,0,1
+are you still serving at TIME,0,1 on DATE,0,1
+do you open by TIME,0,1 on DATE,0,1
+can I come in at TIME,0,1 on DATE,0,1
+are you open anytime before TIME,0,1 on DATE,0,1
+will you be closed after TIME,0,1 on DATE,0,1
+is the restaurant open at TIME,0,1 on DATE,0,1

@@ -1434,8 +1434,14 @@ ingredient_description_inquiry:i dont know what ADDON,0,1 is|add the ITEM,0,0 wh
 
 
 
-// possible_ingredient_inquiry -> add object with addon 
-possible_ingredient_inquiry:can you put a ADDON,3,1,2 on an ITEM,0,1|lets add that*2,0,0
+// possible_ingredient_inquiry - addon -> add object with addon 
+possible_ingredient_inquiry:do you guys have any ADDON,0,1|can i add a ITEM,0,0 with that on it*3,0,2
+
+// possible_ingredient_inquiry - addon -> add addon to object
+possible_ingredient_inquiry:do you guys have ADDON,0,1|can i add that to my ITEM,0,0*3,0,2
+
+
+// possible_ingredient_inquiry - addon and item -> add object with addon 
 possible_ingredient_inquiry:is it possible for you to add a ADDON,3,1,2 on top of a ITEM,0,1|lets put that in my order*2,0,0
 possible_ingredient_inquiry:could you give me a ADDON,2,1,2 on the side of a ITEM,0,1|lets add those to the cart*2,0,0
 possible_ingredient_inquiry:would it be possible to add a ADDON,0,1,2 with a ITEM,0,1|id like to get that*2,0,0
@@ -1443,7 +1449,7 @@ possible_ingredient_inquiry:can you put a ADDON,3,1,2 on the side for a ITEM,0,1
 possible_ingredient_inquiry:if i got a ITEM,0,1 could you put a ADDON,0,1,1 with it|ill take that please*1,0,0
 possible_ingredient_inquiry:if i had a ITEM,0,1 could i have a ADDON,3,1,1 on it|ill add that*1,0,0
 
-// possible_ingredient_inquiry -> add addon to object
+// possible_ingredient_inquiry - addon and item -> add addon to object
 possible_ingredient_inquiry:would it be possible to put a ADDON,3,1,2 on my PREV_ITEM,0,1|lets do that*1,0,0,2
 possible_ingredient_inquiry:would it be okay if i put a ADDON,0,1,2 with my PREV_ITEM,0,1|add it please*1,0,0,2
 possible_ingredient_inquiry:is it alright if i put ADDON,0,1,2 on the side of my PREV_ITEM,0,1|lets do it*1,0,0,2 

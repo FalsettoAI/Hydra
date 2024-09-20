@@ -1,0 +1,38 @@
+// basic
+how long until my order is ready
+when is my order going to be ready
+how long on my order
+give me a time frame on my order
+i need to know how long its going to take for my order
+how long will my order take
+how long until its ready
+when will it be ready
+when should i come for pickup
+how long until its ready for pickup
+
+
+
+// name
+i have an order for NAME,0,1 how long until its ready
+when will my order for NAME,0,1 be ready
+how long until my order under NAME,0,1 is ready
+when is the order for NAME,0,1 going to be ready
+
+
+
+// cart info
+when will my ITEM,0,1 be ready
+how long on my ITEM,0,1
+when is my order of ITEM,0,1 and ITEM,0,1 going to be done
+when can i pickup my ITEM,0,1
+when will that ITEM,0,1 with ADDON,0,1,1 be done
+how long on that ITEM,0,1 with ADDON,0,1,1
+how long on the ITEM,0,1 and ITEM,0,1 which both had ADDON,0,1,1,2
+
+
+
+// name + cart info
+when will my order under NAME,0,1 which had ITEM,0,1 be done
+when should i pickup my order for ITEM,0,1 under NAME,0,1
+how long on the ITEM,0,1 under the name NAME,0,1
+when should i get my ITEM,0,1 which was under NAME,0,1
