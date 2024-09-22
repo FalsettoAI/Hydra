@@ -1,0 +1,105 @@
+// basic
+what exactly is the OBJECT,0,1
+can you explain the OBJECT,0,1 to me
+describe the OBJECT,0,1
+can you help me understand the OBJECT,0,1
+give me a run down of the OBJECT,0,1
+whats in the OBJECT,0,1
+what does the OBJECT,0,1 come with
+can you tell me what the OBJECT,0,1 is
+can you break down the OBJECT,0,1 for me
+how would you describe the OBJECT,0,1
+what does the OBJECT,0,1 include
+what do you get with the OBJECT,0,1
+can you give me some details about the OBJECT,0,1
+tell me about the OBJECT,0,1
+can you clarify what the OBJECT,0,1 is
+what comes with the OBJECT,0,1
+what exactly do you get with the OBJECT,0,1
+can you give me a quick overview of the OBJECT,0,1
+whats the deal with the OBJECT,0,1
+how do you explain the OBJECT,0,1
+
+// multiple
+im not exactly sure what the OBJECT,0,1 or OBJECT,0,1 are
+help me understand what the OBJECT,0,1 and OBJECT,0,1 are
+can you explain the OBJECT,0,1 and OBJECT,0,1 to me
+can you describe both the OBJECT,0,1 and OBJECT,0,1
+what are the OBJECT,0,1 and OBJECT,0,1 exactly
+can you give me a rundown on the OBJECT,0,1 and OBJECT,0,1
+whats included with the OBJECT,0,1 and OBJECT,0,1
+can you break down the OBJECT,0,1 and OBJECT,0,1 for me
+what comes with the OBJECT,0,1 or OBJECT,0,1
+can you help me with understanding the OBJECT,0,1 and OBJECT,0,1
+whats the difference between the OBJECT,0,1 and OBJECT,0,1
+can you give me details on both the OBJECT,0,1 and OBJECT,0,1
+tell me what the OBJECT,0,1 or OBJECT,0,1 are
+what do you get with the OBJECT,0,1 and OBJECT,0,1
+can you clarify what comes with the OBJECT,0,1 or OBJECT,0,1
+i need more info on the OBJECT,0,1 and OBJECT,0,1
+how would you explain the OBJECT,0,1 and OBJECT,0,1
+can you give me some info on the OBJECT,0,1 or OBJECT,0,1
+what do the OBJECT,0,1 and OBJECT,0,1 include
+what exactly are the OBJECT,0,1 and OBJECT,0,1
+
+
+
+// addon on an item
+can you explain what the ADDON,3,1,2 is on my ITEM,0,1
+on my ITEM,3,1 im not exactly sure what the ADDON,0,1,1 is
+explain what the ADDON,0,1,2 is with the ITEM,0,1
+what exactly is the ADDON,0,1,2 that comes with the ITEM,0,1
+can you describe the ADDON,3,1,2 thats on my ITEM,0,1
+whats in the ADDON,0,1,2 that comes with my ITEM,0,1
+help me understand what the ADDON,0,1,2 is with my ITEM,0,1
+can you tell me what the ADDON,0,1,2 is with my ITEM,0,1
+what does the ADDON,3,1,2 on my ITEM,0,1 include
+what comes with the ADDON,0,1,2 thats on my ITEM,0,1
+can you give me more details about the ADDON,3,1,2 that comes on my ITEM,0,1
+im not sure what the ADDON,0,1,2 is on the ITEM,0,1
+can you give me a quick overview of the ADDON,0,1,2 with my ITEM,0,1
+whats the ADDON,2,1,2 on the side of my ITEM,0,1 exactly
+tell me about the ADDON,0,1,2 thats included with my ITEM,0,1
+how would you explain the ADDON,0,1,2 with the ITEM,0,1
+whats the ADDON,0,1,2 on the side of my ITEM,0,1
+can you break down what the ADDON,0,1,2 is with the ITEM,0,1
+what exactly is the ADDON,0,1,2 paired with my ITEM,0,1
+can you clarify what the ADDON,0,1,2 is on my ITEM,0,1
+
+// addon on an item - multiple
+can you explain the ADDON,3,1,3 and ADDON,3,1,3 on the ITEM,0,1
+help me understand what the ADDON,2,1,3 and ADDON,2,1,3 are on that ITEM,0,1 you have
+what exactly are the ADDON,0,1,3 and ADDON,0,1,3 that come with the ITEM,0,1
+can you describe both the ADDON,0,1,3 and ADDON,0,1,3 that are paired with the ITEM,0,1
+im not sure what the ADDON,3,1,3 and ADDON,3,1,3 are on the ITEM,0,1
+whats included with the ADDON,3,1,3 and ADDON,3,1,3 on my ITEM,0,1
+can you give me details about the ADDON,3,1,3 and ADDON,3,1,3 on that ITEM,0,1
+what do the ADDON,2,1,3 and ADDON,2,1,3 which come on the side of the ITEM,0,1 mean
+can you break down what the ADDON,3,1,3 and ADDON,3,1,3 are on my ITEM,0,1
+how would you explain the ADDON,0,1,3 and ADDON,0,1,3 paired with the ITEM,0,1
+tell me about the ADDON,2,1,3 and ADDON,2,1,3 that are on the side of the ITEM,0,1
+can you give me a rundown on the ADDON,0,1,3 and ADDON,0,1,3 that come with the ITEM,0,1
+
+
+
+// item informational addon
+explain that ITEM,0,1 which had ADDON,0,1,1 on it
+what was that ITEM,0,1 that has ADDON,0,1,1
+can you describe the ITEM,0,1 with ADDON,0,1,1
+i dont understand what that ITEM,0,1 with the ADDON,0,1,1 really is
+can you explain the ITEM,0,1 thing with ADDON,3,1,1 in it
+explain what that ITEM,0,1 with ADDON,3,1,1 on it is all about
+whats the deal with that ITEM,0,1 and the ADDON,0,1,1 it comes with
+can you break down that ITEM,0,1 thats got ADDON,0,1,1 in it
+tell me more about that ITEM,0,1 with the ADDON,3,1,1 on top
+what exactly is that ITEM,0,1 with ADDON,0,1,1 supposed to be
+can you describe that ITEM,0,1 with the ADDON,0,1,1 in it
+could you explain the ITEM,0,1 that has ADDON,3,1,1 on it
+what was the ITEM,0,1 that came with ADDON,0,1,1
+tell me what the ITEM,0,1 with ADDON,3,1,1 in it really is
+whats that ITEM,0,1 with the ADDON,0,1,1
+can you tell me about the ITEM,0,1 with ADDON,3,1,1 in it
+what does the ITEM,0,1 with ADDON,3,1,1 on it consist of
+how would you describe the ITEM,0,1 with the ADDON,0,1,1
+i dont quite get the ITEM,0,1 and ADDON,0,1,1 that goes with it
+can you explain the ITEM,0,1 which had ADDON,0,1,1

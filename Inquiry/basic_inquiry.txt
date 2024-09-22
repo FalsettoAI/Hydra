@@ -129,3 +129,107 @@ hows your mood today
 [greeting]:hey man hows your day going so far
 [greeting]:hello are you having a busy day
 [greeting]:hello hows your mood today
+[greeting]:hi hows it going
+[greeting]:hello how are you today
+[greeting]:hey there how are you doing
+[greeting]:hi there how have you been keeping
+[greeting]:good evening hows it hanging
+[greeting]:hello how are you doing today
+[greeting]:hey whats going on in your world
+[greeting]:hi hows life treating you
+[greeting]:good morning how have you been
+[greeting]:hey there whats happening with you
+[greeting]:hi how are things going so far
+[greeting]:hello hows your week been
+[greeting]:hey whats the latest with you
+[greeting]:hi there how are you holding up
+[greeting]:good afternoon hows everything going
+[greeting]:hello how has your day been
+[greeting]:hey hows it been going
+[greeting]:hi whats new with you
+[greeting]:good evening how are you feeling
+[greeting]:hello whats happening in your life
+[greeting]:hey hows it going today
+[greeting]:hello how are you keeping
+[greeting]:hey hows everything with you today
+[greeting]:hi there hows the day treating you
+[greeting]:hey whats cooking
+[greeting]:hello hows your morning going
+[greeting]:hi hows life been lately
+[greeting]:hey hows it rolling
+[greeting]:hi there whats new and exciting in your world
+[greeting]:good morning how are you feeling today
+[greeting]:hey hows life treating you these days
+[greeting]:hi hows it hanging today
+[greeting]:hi there hows your week been going
+[greeting]:good day whats happening in your world
+[greeting]:hi whats been going on with you
+[greeting]:hey hows everything under your roof
+[greeting]:hi there whats the latest and greatest
+[greeting]:hey hows life been lately
+[greeting]:hi hows your day treating you so far
+[greeting]:hi whats been cooking in your life
+[greeting]:hey there hows life rolling for you
+[greeting]:hi hows life treating you this fine day
+[greeting]:good day whats the buzz in your world
+[greeting]:hey there hows your universe treating you
+[greeting]:hi how are you
+[greeting]:hello how are you
+[greeting]:hi hows it going
+[greeting]:hello hows it going
+[greeting]:hi good morning
+[greeting]:hello good morning
+[greeting]:hi good afternoon
+[greeting]:hello good afternoon
+[greeting]:hi good evening
+[greeting]:hello good evening
+[greeting]:hi i hope you're well
+[greeting]:hello i hope you're well
+[greeting]:hi i hope you're having a good day
+[greeting]:hello i hope you're having a good day
+[greeting]:hi i hope you're having a great day
+[greeting]:hello i hope you're having a great day
+
+
+
+//! confirm audio
+can you hear me
+is my mic working
+is my microphone working
+does my audio work
+
+//! confirm audio + greeting
+[greeting]:hi do you hear me
+[greeting]:hey does my audio work
+
+
+
+//! ask for help
+can you help me out
+can i ask something
+i need help with something
+i need you to help me out
+help me out with something real quick
+
+// ask for help + greeting
+[greeting]:hi can you help me
+[greeting]:hello can you help me
+[greeting]:hi can i ask a question
+[greeting]:hello can i ask a question
+[greeting]:hello i need some information
+[greeting]:hi i have a question
+[greeting]:hello i have a question
+[greeting]:hi can you provide some information
+[greeting]:hello can you provide some information
+[greeting]:hi can i get some details
+[greeting]:hello can i get some details
+[greeting]:hi do you have information
+[greeting]:hello do you have information
+[greeting]:hi i need details
+[greeting]:hello i need details
+[greeting]:hi could you give me some information
+[greeting]:hello could you give me some information
+[greeting]:hi i need to know something
+[greeting]:hello i need to know something
+[greeting]:hi can you tell me something
+[greeting]:hello can you tell me something

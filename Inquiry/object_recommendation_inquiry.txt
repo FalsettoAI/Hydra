@@ -1,3 +1,4 @@
+// item recommendation
 whats good on the menu today
 hey can you tell me whats tasty
 im starving what should i get
@@ -232,3 +233,32 @@ got any good breakfast specials
 what do you recommend for someone whos looking for variety
 whats your most popular sandwich
 anything good for someone whos feeling adventurous
+
+
+
+// addon recommendation on item
+what would you recommend i put on the ITEM,0,1
+what should i put on my ITEM,0,1
+would you recommend i add anything else to my ITEM,0,1
+what do you think i should put on top of my ITEM,0,1
+what would you suggest i add to the ITEM,0,1
+do you have any good recommendations for what to put on my ITEM,0,1
+what should i throw on the ITEM,0,1
+what toppings do you think would make my ITEM,0,1 better
+any suggestions on what to add to my ITEM,0,1
+what would you say i should put on the ITEM,0,1
+anything you think would taste great on my ITEM,0,1
+do you have any ideas on what to add to the ITEM,0,1
+what addons would you recommend for the ITEM,0,1
+anything i could add to make the ITEM,0,1 better
+what kind of addons would you suggest for the ITEM,0,1
+what would you recommend putting on top of my ITEM,0,1
+if it was your ITEM,0,1 what would you put on it
+whats something extra i should put on my ITEM,0,1
+anything you love adding to the ITEM,0,1
+what should i put on my ITEM,0,1 to make it tastier
+what addon would you suggest for my ITEM,0,1
+what should i toss on top of my ITEM,0,1
+what do people usually add to their ITEM,0,1
+what should i get with my ITEM,0,1
+what should i put inside the ITEM,0,1

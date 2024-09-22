@@ -1,0 +1,8 @@
+// basic sentences
+can i ask you questions through text
+do you respond to sms messages
+can i place orders through text
+do you answer texts
+can i reserve a table over sms
+
+

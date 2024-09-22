@@ -1,0 +1,129 @@
+// basic sentences
+does the menu have a OBJECT,0,1 on item
+is there a OBJECT,0,1 on your current menu
+is it possible for me to get a OBJECT,0,1 from your menu
+do you guys have a OBJECT,0,1 possible
+is it possible for me to get a OBJECT,0,1 from you guys
+would i be able to get a OBJECT,0,1 if i wanted
+do you have a OBJECT,0,1 available on the menu
+can i find a OBJECT,0,1 on your current menu
+is OBJECT,0,1 something that's offered right now
+can i check if a OBJECT,0,1 is on your menu
+is the OBJECT,0,1 something you guys serve
+is a OBJECT,0,1 on your menu right now
+do you serve a OBJECT,0,1 at the moment
+is the OBJECT,0,1 part of what you offer
+does your menu include a OBJECT,0,1
+do you currently have a OBJECT,0,1 available
+is a OBJECT,0,1 one of the things you have
+does your menu list a OBJECT,0,1
+do you guys carry a OBJECT,0,1 on your menu
+can i order a OBJECT,0,1 from your menu
+does your current menu feature a OBJECT,0,1
+is there any chance you serve a OBJECT,0,1
+is a OBJECT,0,1 something i could get right now
+check if a OBJECT,0,1 is part of the menu
+do you still have a OBJECT,0,1 available
+do you offer a OBJECT,0,1 as part of your menu
+is the OBJECT,0,1 on your menu these days
+do you currently list a OBJECT,0,1 on your menu
+do you guys sell OBJECT,0,1s
+is a OBJECT,0,1 part of your regular menu
+can i check if you have a OBJECT,0,1 on your menu
+do you have any OBJECT,0,1 on your menu
+are there OBJECT,0,1s on your current menu
+are there OBJECT,0,1s in your menu selection
+does your menu offer OBJECT,0,1s
+do you guys include a OBJECT,0,1 in your menu
+is a OBJECT,0,1 part of what you’re serving
+do you offer a OBJECT,0,1 on your menu
+is it possible to get a OBJECT,0,1 from your menu
+do you guys have OBJECT,0,1
+do you have any OBJECT,0,1 on your menu
+is there OBJECT,0,1 on your menu
+is it possible to add ADDON,0,1 on one of my items
+could i add ADDON,0,1 to something in my cart
+
+// multiple objects
+do you have a OBJECT,0,1 or maybe a OBJECT,0,1 on your menu
+does the menu include a OBJECT,0,1 along with a OBJECT,0,1
+are both the OBJECT,0,1 and OBJECT,0,1 available right now
+do you serve a OBJECT,0,1 or a OBJECT,0,1 on your menu
+is it possible to get a OBJECT,0,1 and a OBJECT,0,1 from your menu
+do you guys offer a OBJECT,0,1 a OBJECT,0,1 or a OBJECT,0,1
+are the OBJECT,0,1 and OBJECT,0,1 both on the current menu
+does your menu feature a OBJECT,0,1 and also a OBJECT,0,1
+
+
+
+// ingredient on item
+would you be able to put a ADDON,3,1,2 n the ITEM,0,1
+is it possible to put a ADDON,0,1,2 with my ITEM,0,1
+if i got a ITEM,0,1 would i be able to add ADDON,0,1,1 with that
+could i put a ADDON,3,1,2 on a ITEM,0,1 if i got it
+would it be possible to add ADDON,0,1,2 to my ITEM,0,1 if i ordered it
+can i have a ITEM,0,1 with ADDON,0,1,1 if i wanted to
+could you put ADDON,0,1,2 with the ITEM,0,1 if i ask for it
+is there any way to get ADDON,0,1,1 on my ITEM,0,1, if i requested it
+can i check if ADDON,3,1,2 can be put on a ITEM,0,1
+would you be able to add ADDON,0,1,2 to that ITEM,0,1 if i wanted to try it
+if i ordered a ITEM,0,1 would i be able to include ADDON,0,1,1 with it
+could you attach ADDON,0,1,2 to the ITEM,0,1 for me if i requested it
+is it okay to get ADDON,0,1,2 with a ITEM,0,1 if i wanted it
+can i check if a ITEM,0,1 could have ADDON,0,1,1 on it
+is it possible to put ADDON,3,1,2 on top of the ITEM,0,1 if i asked for it
+could i see if ADDON,0,1,2 can go with the ITEM,0,1
+can you tell me if ADDON,3,1,2 would be allowed on the ITEM,0,1
+am i able to have ADDON,0,1,2 added to my ITEM,0,1 if i requested it
+would it be okay to place ADDON,0,1,2 on the ITEM,0,1 if i wanted it that way
+if i choose ITEM,0,1 can i also get ADDON,0,1,1 added to it
+could you check if ADDON,3,1,2 can go on the ITEM,0,1
+is it possible to get ADDON,0,1,2 with the ITEM,0,1 if i asked for it
+is it doable to put a bit of ADDON,3,1,2 on my ITEM,0,1
+
+
+
+// ingredients on item
+is it possible to put both a ADDON,0,1,3 and a ADDON,0,1,3 on a ITEM,0,1 if i got it
+if i got a ITEM,0,1 would i be able to put a ADDON,0,1,1 ADDON,0,1,1 and a ADDON,0,1,1 on it
+can i put both ADDON,0,1,3 and ADDON,0,1,3 on a ITEM,0,1 if i order it
+is it possible to have ADDON,0,1,3 and ADDON,0,1,3 added to my ITEM,0,1 if i ask
+if i choose ITEM,0,1 could i get ADDON,3,1,1 and ADDON,3,1,1 added on top
+would you be able to add ADDON,0,1,3 along with ADDON,0,1,3 to the ITEM,0,1 if i request it
+could i put both ADDON,3,1,3 and ADDON,3,1,3 on a ITEM,0,1 if i wanted to
+can i get my ITEM,0,1 with both ADDON,0,1,1 and ADDON,0,1,1 if i wanted them
+is there any way to put ADDON,0,1,3 and ADDON,0,1,3 with the ITEM,0,1 if i order it
+can i check if ADDON,3,1,3 and ADDON,3,1,3 can be put on a ITEM,0,1 together
+if i wanted both ADDON,2,1,3 and ADDON,2,1,3 on the side of a ITEM,0,1 is that doable
+
+
+
+// ingredient on items
+is it possible to put ADDON,2,1,2,3 on the side of either a ITEM,0,1 or a ITEM,0,1
+would i be able to put ADDON,0,1,2,3 with a ITEM,0,1 or a ITEM,0,1 if i got them
+if i got a ITEM,0,1 or a ITEM,0,1 could i put a ADDON,3,1,1,2 on it
+could i add ADDON,0,1,2,3 to either the ITEM,0,1 or ITEM,0,1 if i decide to get them
+is there any way to have ADDON,0,1,2,3 included with both ITEM,0,1 and ITEM,0,1 if i order them
+would i be able to get ADDON,0,1,2,3 with either a ITEM,0,1 or ITEM,0,1 if i purchase them
+can ADDON,3,1,2,3 be added on both ITEM,0,1 and ITEM,0,1 if i ask for it
+if i order a ITEM,0,1 or a ITEM,0,1 can you add ADDON,0,1,1,2 to either of them
+could you tell me if ADDON,0,1,2,3 can be placed with both ITEM,0,1 and ITEM,0,1
+would i be able to put ADDON,2,1,2,3 on the side of either ITEM,0,1 or ITEM,0,1 if i got them
+can i choose to have ADDON,0,1,2,3 with either a ITEM,0,1 or a ITEM,0,1
+is it possible to put ADDON,0,1,2,3,4 on either the ITEM,0,1 ITEM,0,1 or ITEM,0,1
+if i got both the ITEM,0,1 and ITEM,0,1 could i have ADDON,0,1,1,2 added to them
+
+
+
+// ingredients on items
+if i got a ITEM,0,1 or a ITEM,0,1 could i put a ADDON,3,1,1,2 or a ADDON,3,1,1,2 on it
+is it possible to have both ADDON,0,1,3,4 and ADDON,0,1,3,4 added to either the ITEM,0,1 or ITEM,0,1 if i ordered them
+if i get a ITEM,0,1 and a ITEM,0,1 could i put ADDON,0,1,1,2 or ADDON,0,1,1,2 on both
+is it possible to add ADDON,2,1,3,4 and ADDON,2,1,3,4 on the side of either the ITEM,0,1 or ITEM,0,1 if i order them
+would you be able to put both ADDON,3,1,3,4 and ADDON,3,1,3,4 on a ITEM,0,1 or a ITEM,0,1 if i ask
+can i choose ADDON,0,1,3,4 and ADDON,0,1,3,4 for both ITEM,0,1 and ITEM,0,1 if i decide to get them
+if i got a ITEM,0,1 or ITEM,0,1 could i add a ADDON,0,1,1,2 or a ADDON,0,1,1,2 to either
+is there any way to have ADDON,3,1,3,4 and ADDON,3,1,3,4 on both ITEM,0,1 and ITEM,0,1
+would i be able to request ADDON,0,1,3,4 and ADDON,0,1,3,4 with the ITEM,0,1 and ITEM,0,1
+can i add both a ADDON,0,1,3,4 and a ADDON,0,1,3,4 to either my ITEM,0,1 or ITEM,0,1
+is it possible to put ADDON,3,1,3,4 and ADDON,3,1,3,4 on multiple ITEM,0,1 and ITEM,0,1 if i order them

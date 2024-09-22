@@ -4,6 +4,33 @@ where is your place
 where is the restaurant located
 what street are you on
 whats the address of your business
+where is your place at
+where can I find your restaurant
+whats the address for your place
+where exactly are you located
+how do I get to your restaurant
+what street is your business on
+wheres your location
+whats the address there
+can you tell me where youre located
+where are you guys at
+whats your location
+where do I find your restaurant
+can you tell me the address
+where is your business located
+whats your exact location
+how do I get to your spot
+where can I find you guys
+whats the best way to get to your place
+whats your exact address
+what area is your restaurant in
+are you guys downtown
+are you located in the city
+whats your address again
+wheres the restaurant found
+what neighborhood is your place in
+how can I get to your restaurant
+wheres the business at
 
 
 
@@ -15,6 +42,35 @@ how could i get there
 give me instructions on how to get there
 give me directions
 i need directions
+how would i get to your spot
+how do i get there from downtown
+can you tell me how to get to your place
+whats the best way to reach your restaurant
+how do i drive to your location
+can you help me with directions
+i need instructions on getting there
+how do i get to your place
+can you guide me there
+can you tell me how to get there
+how do i reach your restaurant
+how do i find my way to your location
+can you give me step-by-step directions
+how should i get there from the highway
+which way should i go to reach your place
+whats the fastest way to your restaurant
+whats the easiest route to your spot
+tell me how to get there
+how do i get to your restaurant from here
+which road do i take to reach your place
+could you help me with the directions
+how do i find your spot
+whats the best way to get to you
+whats the route to your restaurant
+whats the quickest way to get to your location
+can you tell me the directions from my place
+can you help me find my way there
+can you guide me from the nearest landmark
+how do i reach your place if im coming from the east
 
 
 
@@ -24,3 +80,43 @@ can you text me the address of your restaurant
 send me the address
 link me the address please
 can you link me the address
+can you text me your location
+send the address to my phone
+can you message me the address
+can you send me the link to your address
+can you text me where youre located
+can you send the address to me
+please send me your location
+can you send the link to my phone
+can you text me the directions
+can you forward the address to me
+can you send me the details of your location
+can you send the restaurant address to my phone
+send me the link to your place
+can you message me the restaurant's location
+could you text me where you guys are
+send me the info on how to get there
+can you share your location with me
+can you shoot me a link to the address
+please text me the address
+could you send over the location
+can you send me the details on how to get there
+send the address through text
+could you send me a link to the place
+can you message me your address
+can you drop me the address
+send me your location details
+could you share your address link
+can you send the address to my number
+
+
+
+// location_inquiry + greeting
+[greeting]:hey there send the address through text
+[greeting]:good morning please send me your location
+[greeting]:good afternoon whats the easiest route to your spot
+[greeting]:good evening are you guys downtown
+[greeting]:hey where do I find your restaurant
+[greeting]:hi there send me the info on how to get there
+[greeting]:hello there what street is your business on
+[greeting]:greetings can you guide me from the nearest landmark

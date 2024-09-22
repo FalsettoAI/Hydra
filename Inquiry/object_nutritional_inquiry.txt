@@ -1,0 +1,55 @@
+// basic
+how healthy is the OBJECT,0,1
+whats the nutritional value of the OBJECT,0,1
+im curious how healthy the OBJECT,0,1 usually is
+can you explain how fatty the OBJECT,0,1 might be
+how healthy could you call the OBJECT,0,1
+how many calories are in the OBJECT,0,1
+is the OBJECT,0,1 considered healthy
+whats the fat content of the OBJECT,0,1
+can you tell me the nutritional value of the OBJECT,0,1
+how much protein is in the OBJECT,0,1
+whats the sugar content like in the OBJECT,0,1
+how many carbs are in the OBJECT,0,1
+how healthy would you say the OBJECT,0,1 really is
+does the OBJECT,0,1 have a lot of fat in it
+whats the calorie count for the OBJECT,0,1
+can you tell me how healthy the OBJECT,0,1 might be
+how fatty is the OBJECT,0,1
+is the OBJECT,0,1 low in calories
+how much sodium is in the OBJECT,0,1
+whats the overall nutritional info for the OBJECT,0,1
+is the OBJECT,0,1 considered a low-calorie option
+how much fiber is in the OBJECT,0,1
+does the OBJECT,0,1 have a lot of protein
+how nutritious is the OBJECT,0,1
+is the OBJECT,0,1 high in sugar
+whats the fat percentage of the OBJECT,0,1
+how many grams of protein are in the OBJECT,0,1
+how much cholesterol is in the OBJECT,0,1
+is the OBJECT,0,1 healthy or not
+how much saturated fat is in the OBJECT,0,1
+how many calories are in the OBJECT,0,1
+can you estimate the calorie count of the OBJECT,0,1
+how many calories would you think are in the OBJECT,0,1
+whats the calorie count of the OBJECT,0,1
+whats the sodium content of the OBJECT,0,1
+how many calories does the OBJECT,0,1 usually have
+is the OBJECT,0,1 high in carbs
+what kind of vitamins are in the OBJECT,0,1
+can you tell me how much fat is in the OBJECT,0,1
+how much fiber does the OBJECT,0,1 have
+whats the cholesterol content in the OBJECT,0,1
+is the OBJECT,0,1 a healthy choice
+how healthy would you say the OBJECT,0,1 is
+does the OBJECT,0,1 have a lot of sugar
+is the OBJECT,0,1 good for a low-carb diet
+how many grams of fat are in the OBJECT,0,1
+does the OBJECT,0,1 contain a lot of calories
+how much saturated fat does the OBJECT,0,1 have
+whats the carb count for the OBJECT,0,1
+is the OBJECT,0,1 low in fat
+whats the nutritional breakdown of the OBJECT,0,1
+is the OBJECT,0,1 a high-calorie option
+how much sugar is in the OBJECT,0,1
+does the OBJECT,0,1 have any vitamins or minerals in it

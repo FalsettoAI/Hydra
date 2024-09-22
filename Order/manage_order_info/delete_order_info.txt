@@ -313,16 +313,16 @@ please take the ADDON,1,0,2 off my PREV_ITEM,0,1
 can you access the PREV_ITEM,0,1 and take ADDON,1,0,1 off it
 actually no ADDON,1,0,2 on that PREV_ITEM,0,1 anymore
 can you remove the ADDON,1,0,2 from my PREV_ITEM,0,1
-i don’t want ADDON,1,0,2 on that PREV_ITEM,0,1 now
+i dont want ADDON,1,0,2 on that PREV_ITEM,0,1 now
 please take ADDON,1,0,2 off the PREV_ITEM,0,1
 actually remove ADDON,1,0,2 from the PREV_ITEM,0,1 for me
 can you take off ADDON,1,0,2 on my PREV_ITEM,0,1
-i decided i don’t need ADDON,1,0,2 on that PREV_ITEM,0,1
+i decided i dont need ADDON,1,0,2 on that PREV_ITEM,0,1
 could you take out the ADDON,1,0,2 from the PREV_ITEM,0,1
 please take off the ADDON,1,0,2 on my PREV_ITEM,0,1
 can you go ahead and remove ADDON,1,0,2 from the PREV_ITEM,0,1
 actually leave out the ADDON,1,0,2 on that PREV_ITEM,0,1
-i don’t need ADDON,1,0,2 on my PREV_ITEM,0,1 anymore
+i dont need ADDON,1,0,2 on my PREV_ITEM,0,1 anymore
 can you just remove ADDON,1,0,2 from the PREV_ITEM,0,1
 please skip the ADDON,1,0,2 on my PREV_ITEM,0,1
 could you access the PREV_ITEM,0,1 and take out ADDON,1,0,1
@@ -330,7 +330,7 @@ take off the ADDON,1,0,2 from my PREV_ITEM,0,1 please
 actually no more ADDON,1,0,2 on the PREV_ITEM,0,1
 please remove the ADDON,1,0,2 from the PREV_ITEM,0,1
 can you leave out ADDON,1,0,2 from my PREV_ITEM,0,1
-i don’t want ADDON,1,0,2 on the PREV_ITEM,0,1 anymore
+i dont want ADDON,1,0,2 on the PREV_ITEM,0,1 anymore
 can you skip the ADDON,1,0,2 on the PREV_ITEM,0,1
 please take out the ADDON,1,0,2 from my PREV_ITEM,0,1
 actually take off the ADDON,1,0,2 from the PREV_ITEM,0,1
@@ -342,14 +342,14 @@ i changed my mind, remove ADDON,1,0,2 from that PREV_ITEM,0,1
 please leave out the ADDON,1,0,2 from my PREV_ITEM,0,1
 could you remove the ADDON,1,0,2 on my PREV_ITEM,0,1
 skip ADDON,1,0,2 on the PREV_ITEM,0,1 for me
-actually don’t include ADDON,1,0,2 on that PREV_ITEM,0,1
+actually dont include ADDON,1,0,2 on that PREV_ITEM,0,1
 leave out the ADDON,1,0,2 from my PREV_ITEM,0,1
 can you remove the ADDON,1,0,2 on the PREV_ITEM,0,1
 actually take ADDON,1,0,2 off the PREV_ITEM,0,1
-i don’t want ADDON,1,0,2 on my PREV_ITEM,0,1 anymore
+i dont want ADDON,1,0,2 on my PREV_ITEM,0,1 anymore
 could you skip the ADDON,1,0,2 on the PREV_ITEM,0,1
 please take out ADDON,1,0,2 from my PREV_ITEM,0,1
-please don’t add ADDON,1,0,2 on that PREV_ITEM,0,1
+please dont add ADDON,1,0,2 on that PREV_ITEM,0,1
 could you take off ADDON,1,0,2 from my PREV_ITEM,0,1
 actually skip ADDON,1,0,2 on the PREV_ITEM,0,1
 please leave out ADDON,1,0,2 on the PREV_ITEM,0,1
@@ -365,3 +365,69 @@ please delete ADDON,1,0,2,3,4 on the PREV_ITEM,0,1 PREV_ITEM,0,1 and the PREV_IT
 dont put any ADDON,1,0,2,3 on either of the PREV_ITEM,0,1 or PREV_ITEM,0,1
 i dont want ADDON,1,0,2,3 on my PREV_ITEM,0,1 or my PREV_ITEM,0,1
 i wont be needing ADDON,1,0,2,3,4 on the PREV_ITEM,0,1 the PREV_ITEM,0,1 or the PREV_ITEM,0,1
+
+
+
+
+
+
+
+//              ****  Add → Intent ****
+
+// add -> remove allergen
+i need to put a ITEM,0,0 in my cart|make sure there is no ALLERGEN,1,0,1 on that
+can we add a ITEM,0,0 and a ITEM,0,0|make sure that doesnt have any ALLERGEN,1,0,1,2
+add a ITEM,0,0 with ADDON,3,0,1|that shouldnt have any contact with ALLERGEN,1,0,1
+put in a ITEM,0,0 with no ADDON,1,0,1|no ALLERGEN,1,0,1 or ALLERGEN,1,0,1 on that at all
+i need a ITEM,0,0 with ADDON,3,0,1 on it and no ALLERGEN,1,0,1|no ALLERGEN,1,0,1 on it either
+put in NUMBER,0,0,2 ITEM,0,0s with ADDON,2,0,2 on the side for each|no ALLERGEN,1,0,2 on any of that either
+i need a ITEM,0,0 and a ITEM,0,0|make sure neither of those contain any ALLERGEN,1,0,1,2
+add a ITEM,0,0 with ADDON,3,0,1 on top|make sure theres no ALLERGEN,1,0,1 on it
+put a SIZE,0,0,2 ITEM,0,0 in the cart|and make sure it doesnt have any ALLERGEN,1,0,2
+i need NUMBER,0,0,2 ITEM,0,0s|please ensure neither of them have any ALLERGEN,1,0,2
+add a ITEM,0,0 with ADDON,2,0,1 on the side|just make sure theres no ALLERGEN,1,0,1 on it
+ill take a SIZE,0,0,2 ITEM,0,0|no ALLERGEN,1,0,2 on that please
+put a ITEM,0,0 with ADDON,2,0,1 in my cart|make sure its free of ALLERGEN,1,0,1
+add NUMBER,0,0,2 ITEM,0,0s with ADDON,0,0,2|ensure they dont have any ALLERGEN,1,0,2
+i want a ITEM,0,0 with ADDON,0,0,1|please make sure theres no ALLERGEN,1,0,1 on it
+place a ITEM,0,0 in my cart|but make sure theres no ALLERGEN,1,0,1 on that
+can you add a SIZE,0,0,2 ITEM,0,0|ensure its without any ALLERGEN,1,0,2
+id like to add a ITEM,0,0 with ADDON,0,0,1|make sure there isnt any ALLERGEN,1,0,1
+add a SIZE,0,0,2 ITEM,0,0 to my cart|make sure it doesnt have any ALLERGEN,1,0,2
+can you put a ITEM,0,0 with ADDON,0,0,1 in my cart|but make sure theres no ALLERGEN,1,0,1
+ill have a ITEM,0,0 with no ADDON,1,0,1|and make sure theres no trace of ALLERGEN,1,0,1
+add NUMBER,0,0,2 ITEM,0,0s|make sure none of them contain ALLERGEN,1,0,2
+i want a SIZE,0,0,2 ITEM,0,0 with ADDON,0,0,2|ensure theres no ALLERGEN,1,0,2 in it
+put a ITEM,0,0 with ADDON,3,0,1 in it to my cart|and make sure theres no ALLERGEN,1,0,1
+i need to add ITEM,0,0 and a ITEM,0,0|make sure neither have any ALLERGEN,1,0,1,2
+add a SIZE,0,0,2 ITEM,0,0 with ADDON,0,0,2|make sure theres no ALLERGEN,1,0,2 in it
+can you add a ITEM,0,0 to my order|make sure it doesnt have any ALLERGEN,1,0,1
+put in NUMBER,0,0,2 ITEM,0,0s|make sure they dont come with any ALLERGEN,1,0,2
+id like a ITEM,0,0 with ADDON,0,0,1|please make sure theres no ALLERGEN,1,0,1
+add a SIZE,0,0,2 ITEM,0,0 with ADDON,0,0,2|make sure its free of ALLERGEN,1,0,2
+put a ITEM,0,0 in the cart|make sure it has no ALLERGEN,1,0,1 at all
+i want a SIZE,0,0,2 ITEM,0,0 with ADDON,0,0,2|and make sure it doesnt have any ALLERGEN,1,0,2
+add NUMBER,0,0,2 ITEM,0,0s to my order|just make sure theyre without any ALLERGEN,1,0,2
+ill get a ITEM,0,0 with ADDON,0,0,1|make sure theres no ALLERGEN,1,0,1 in that
+put a ITEM,0,0 with ADDON,2,0,1 on the side in my cart|make sure there isnt any ALLERGEN,1,0,1
+i want to add a SIZE,0,0,2 ITEM,0,0|make sure it doesnt have any ALLERGEN,1,0,2
+add a ITEM,0,0 with ADDON,0,0,1|make sure theres no trace of ALLERGEN,1,0,1 in it
+
+//! add -> remove allergen + allergen_declaration
+can i add a ITEM,0,0 and a ITEM,0,0 to my order|[allergen_declaration]:make sure there is no ALLERGEN,1,0,1,2 on those cause im allergic
+give me a ITEM,0,0 with ADDON,0,0,1|[allergen_declaration]:be sure that doesnt have and ALLERGEN,1,0,1 because i have an allergy
+i need a ITEM,0,0 without ADDON,1,0,1|[allergen_declaration]:im allergic to ALLERGEN,1,0,1 so make sure it doesnt contain any
+i want to add NUMBER,0,0,2 ITEM,0,0s to my order|[allergen_declaration]:i have a ALLERGEN,1,0,2 allergy so make sure its not on that
+add a ITEM,0,0 with ADDON,0,0,1 to my order|[allergen_declaration]:make sure theres no ALLERGEN,1,0,1 on it im allergic
+can i add a ITEM,0,0 and ITEM,0,0 to my cart|[allergen_declaration]:take out any ALLERGEN,1,0,1,2 im allergic to it
+i want a ITEM,0,0 with ADDON,0,0,1|[allergen_declaration]:dont put ALLERGEN,1,0,1 on it cause i have an allergy
+add me a ITEM,0,0 and ITEM,0,0|[allergen_declaration]:make sure ALLERGEN,1,0,1,2 isnt on either im allergic
+give me a ITEM,0,0 with ADDON,0,0,1|[allergen_declaration]:be sure there is no ALLERGEN,1,0,1 im allergic
+let me get NUMBER,0,0,2 ITEM,0,0s|[allergen_declaration]:make sure no ALLERGEN,1,0,2 is included i have an allergy
+can i get a ITEM,0,0 with ADDON,2,0,1 on the side|[allergen_declaration]:take out ALLERGEN,1,0,1 im allergic to it
+i need NUMBER,0,0,2 ITEM,0,0s and ADDON,1,0,2 on top|[allergen_declaration]:remove ALLERGEN,1,0,2 from each cause im allergic
+i want a ITEM,0,0 and ADDON,2,0,1 on the side|[allergen_declaration]:make sure there is no ALLERGEN,1,0,1 im allergic
+add a NUMBER,0,0,2 ITEM,0,0 to my cart|[allergen_declaration]:make sure it doesnt have ALLERGEN,1,0,2 im allergic
+can i add a ITEM,0,0 with ADDON,0,0,1 to my order|[allergen_declaration]:dont include ALLERGEN,1,0,1 im allergic to that
+give me a ITEM,0,0 without ADDON,1,0,1|[allergen_declaration]:im allergic to ALLERGEN,1,0,1 so make sure its not there
+id like a ITEM,0,0 with ADDON,3,0,1 on top|[allergen_declaration]:remove ALLERGEN,1,0,1 im allergic

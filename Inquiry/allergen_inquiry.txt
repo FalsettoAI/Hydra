@@ -1,212 +1,219 @@
-// item
-does the ITEM,0,1 have any ALLERGEN,0,1,1
-does my ITEM,0,1 have ALLERGEN,0,1,1
-is there ALLERGEN,0,1,2 in my ITEM,0,1
-is there any ALLERGEN,0,1,2 in the ITEM,0,1
-can you tell me if the ITEM,0,1 contains ALLERGEN,0,1,1
-yo does your ITEM,0,1 have ALLERGEN,0,1,1 in it
-im allergic to ALLERGEN,0,1,2 is it safe to eat the ITEM,0,1
-does the ITEM,0,1 come into contact with ALLERGEN,0,1,1
-are there traces of ALLERGEN,0,1,2 in your ITEM,0,1
-is the ITEM,0,1 ALLERGEN,0,1,1 free
-can i get info on whether theres ALLERGEN,0,1,2 in the ITEM,0,1
-is there any ALLERGEN,0,1,2 in your ITEM,0,1
-im wondering if the ITEM,0,1 has any ALLERGEN,0,1,1
-could you check if theres ALLERGEN,0,1,2 in the ITEM,0,1 please
-is it possible to know if the ITEM,0,1 contains ALLERGEN,0,1,1
-do yall use ALLERGEN,0,1,2 when making the ITEM,0,1
-im trying to avoid ALLERGEN,0,1,2 is it in your ITEM,0,1
-whats the scoop on ALLERGEN,0,1,2 in the ITEM,0,1
-can you confirm if theres ALLERGEN,0,1,2 in your ITEM,0,1
-does your ITEM,0,1 have any ALLERGEN,0,1,1 ingredients
-im concerned about ALLERGEN,0,1,2 in the ITEM,0,1 can you help
-just checking if the ITEM,0,1 is made with any ALLERGEN,0,1,1
-quick question is there ALLERGEN,0,1,2 in your ITEM,0,1
-do you guys use ALLERGEN,0,1,2 when preparing the ITEM,0,1
-can i get the lowdown on ALLERGEN,0,1,2 content in the ITEM,0,1
-wondering if youve got ALLERGEN,0,1,2 in your ITEM,0,1
-does the ITEM,0,1 have any ALLERGEN,0,1,1 whatsoever
-mind telling me if theres ALLERGEN,0,1,2 in the ITEM,0,1
-is your ITEM,0,1 prepared without ALLERGEN,0,1,1
-im trying to figure out if your ITEM,0,1 has ALLERGEN,0,1,1 in it
+// object
+does the OBJECT,0,1 have any ALLERGEN,0,1,1
+does my OBJECT,0,1 have ALLERGEN,0,1,1
+is there ALLERGEN,0,1,2 in my OBJECT,0,1
+is there any ALLERGEN,0,1,2 in the OBJECT,0,1
+can you tell me if the OBJECT,0,1 contains ALLERGEN,0,1,1
+yo does your OBJECT,0,1 have ALLERGEN,0,1,1 in it
+does the OBJECT,0,1 come into contact with ALLERGEN,0,1,1
+are there traces of ALLERGEN,0,1,2 in your OBJECT,0,1
+is the OBJECT,0,1 ALLERGEN,0,1,1 free
+can i get info on whether theres ALLERGEN,0,1,2 in the OBJECT,0,1
+is there any ALLERGEN,0,1,2 in your OBJECT,0,1
+im wondering if the OBJECT,0,1 has any ALLERGEN,0,1,1
+could you check if theres ALLERGEN,0,1,2 in the OBJECT,0,1 please
+is it possible to know if the OBJECT,0,1 contains ALLERGEN,0,1,1
+do yall use ALLERGEN,0,1,2 when making the OBJECT,0,1
+im trying to avoid ALLERGEN,0,1,2 is it in your OBJECT,0,1
+whats the scoop on ALLERGEN,0,1,2 in the OBJECT,0,1
+can you confirm if theres ALLERGEN,0,1,2 in your OBJECT,0,1
+does your OBJECT,0,1 have any ALLERGEN,0,1,1 ingredients
+im concerned about ALLERGEN,0,1,2 in the OBJECT,0,1 can you help
+just checking if the OBJECT,0,1 is made with any ALLERGEN,0,1,1
+quick question is there ALLERGEN,0,1,2 in your OBJECT,0,1
+do you guys use ALLERGEN,0,1,2 when preparing the OBJECT,0,1
+can i get the lowdown on ALLERGEN,0,1,2 content in the OBJECT,0,1
+wondering if youve got ALLERGEN,0,1,2 in your OBJECT,0,1
+does the OBJECT,0,1 have any ALLERGEN,0,1,1 whatsoever
+mind telling me if theres ALLERGEN,0,1,2 in the OBJECT,0,1
+is your OBJECT,0,1 prepared without ALLERGEN,0,1,1
+im trying to figure out if your OBJECT,0,1 has ALLERGEN,0,1,1 in it
+does the OBJECT,0,1 have ALLERGEN,0,1,1 in it
+is there ALLERGEN,0,1,2 in the OBJECT,0,1
+does the OBJECT,0,1 have any ALLERGEN,0,1,1 in it
+is there any ALLERGEN,0,1,2 in that OBJECT,0,1
+can you check if the OBJECT,0,1 contains ALLERGEN,0,1,1
+does this OBJECT,0,1 have traces of ALLERGEN,0,1,1 in it
+is there a chance that the OBJECT,0,1 has ALLERGEN,0,1,1
+can you tell me if the OBJECT,0,1 has any ALLERGEN,0,1,1 inside
+do you know if ALLERGEN,0,1,2 is in the OBJECT,0,1
+does that OBJECT,0,1 contain any ALLERGEN,0,1,1
+is it possible that the OBJECT,0,1 has ALLERGEN,0,1,1 in it
+could you check if the OBJECT,0,1 has ALLERGEN,0,1,1
+does the OBJECT,0,1 have any ALLERGEN,0,1,1 in it
+is ALLERGEN,0,1,2 included in that OBJECT,0,1
+is there ALLERGEN,0,1,2 in the OBJECT,0,1 at all
+can you confirm if ALLERGEN,0,1,2 is in that OBJECT,0,1
+i wanna know if ALLERGEN,0,1,2 is part of the OBJECT,0,1
+does the OBJECT,0,1 happen to contain ALLERGEN,0,1,1
+can you find out if theres ALLERGEN,0,1,2 in the OBJECT,0,1
+does the OBJECT,0,1 have any ALLERGEN,0,1,1 or not
+is it possible for the OBJECT,0,1 to have ALLERGEN,0,1,1
+check if the OBJECT,0,1 has ALLERGEN,0,1,1 in it
 
-// item - multiple allergens
-does the ITEM,0,1 in my cart have any ALLERGEN,0,1,1 or ALLERGEN,0,1,1
-is there ALLERGEN,0,1,4 ALLERGEN,0,1,4 or ALLERGEN,0,1,4 in the ITEM,0,1
-does the ITEM,0,1 have ALLERGEN,0,1,1 or maybe ALLERGEN,0,1,1
-i was wondering if theres ALLERGEN,0,1,2 in that ITEM,0,1
-can you check for ALLERGEN,0,1,3 or ALLERGEN,0,1,3 in that ITEM,0,0
-is there anything with ALLERGEN,0,1,2 in my ITEM,0,1 or maybe ALLERGEN,0,1,2
-is the ITEM,0,1 containing ALLERGEN,0,1,1 or ALLERGEN,0,1,1
-can you tell me if ALLERGEN,0,1,2 is in this ITEM,0,1 or ALLERGEN,0,1,2
-does the ITEM,0,1 contain ALLERGEN,0,1,1 or ALLERGEN,0,1,1
-hey could you see if theres ALLERGEN,0,1,2 in that ITEM,0,1 along with ALLERGEN,0,1,2
-are there ALLERGEN,0,1,3 or ALLERGEN,0,1,3 in the ITEM,0,1
-i need to know if that ITEM,0,1 has any ALLERGEN,0,1,1 or ALLERGEN,0,1,1 in it
-can you let me know if ALLERGEN,0,1,3 and ALLERGEN,0,1,3 are in that ITEM,0,1
-check if the ITEM,0,1 has any traces of ALLERGEN,0,1,1 or ALLERGEN,0,1,1
-does this ITEM,0,1 happen to have ALLERGEN,0,1,1 or maybe ALLERGEN,0,1,1
-im just wondering if this ITEM,0,1 has ALLERGEN,0,1,1 in it or ALLERGEN,0,1,1
-could you see if ALLERGEN,0,1,3 or ALLERGEN,0,1,3 is present in the ITEM,0,1
-can you find out if theres ALLERGEN,0,1,2 in the ITEM,0,1 or maybe ALLERGEN,0,1,2
+// object - multiple allergens
+does the OBJECT,0,1 in my cart have any ALLERGEN,0,1,1 or ALLERGEN,0,1,1
+is there ALLERGEN,0,1,4 ALLERGEN,0,1,4 or ALLERGEN,0,1,4 in the OBJECT,0,1
+does the OBJECT,0,1 have ALLERGEN,0,1,1 or maybe ALLERGEN,0,1,1
+i was wondering if theres ALLERGEN,0,1,2 in that OBJECT,0,1
+can you check for ALLERGEN,0,1,3 or ALLERGEN,0,1,3 in that OBJECT,0,0
+is there anything with ALLERGEN,0,1,2 in my OBJECT,0,1 or maybe ALLERGEN,0,1,2
+is the OBJECT,0,1 containing ALLERGEN,0,1,1 or ALLERGEN,0,1,1
+can you tell me if ALLERGEN,0,1,2 is in this OBJECT,0,1 or ALLERGEN,0,1,2
+does the OBJECT,0,1 contain ALLERGEN,0,1,1 or ALLERGEN,0,1,1
+hey could you see if theres ALLERGEN,0,1,2 in that OBJECT,0,1 along with ALLERGEN,0,1,2
+are there ALLERGEN,0,1,3 or ALLERGEN,0,1,3 in the OBJECT,0,1
+i need to know if that OBJECT,0,1 has any ALLERGEN,0,1,1 or ALLERGEN,0,1,1 in it
+can you let me know if ALLERGEN,0,1,3 and ALLERGEN,0,1,3 are in that OBJECT,0,1
+check if the OBJECT,0,1 has any traces of ALLERGEN,0,1,1 or ALLERGEN,0,1,1
+does this OBJECT,0,1 happen to have ALLERGEN,0,1,1 or maybe ALLERGEN,0,1,1
+im just wondering if this OBJECT,0,1 has ALLERGEN,0,1,1 in it or ALLERGEN,0,1,1
+could you see if ALLERGEN,0,1,3 or ALLERGEN,0,1,3 is present in the OBJECT,0,1
+can you find out if theres ALLERGEN,0,1,2 in the OBJECT,0,1 or maybe ALLERGEN,0,1,2
+does the OBJECT,0,1 have ALLERGEN,0,1,1 or ALLERGEN,0,1,1 in it
+can you check if the OBJECT,0,1 contains ALLERGEN,0,1,1 or ALLERGEN,0,1,1
+does the OBJECT,0,1 have any traces of ALLERGEN,0,1,1 or ALLERGEN,0,1,1
+can you see if there’s ALLERGEN,0,1,3 or maybe ALLERGEN,0,1,3 in the OBJECT,0,1
+is there any ALLERGEN,0,1,3 or ALLERGEN,0,1,3 in that OBJECT,0,1
+do you know if the OBJECT,0,1 contains ALLERGEN,0,1,1 or ALLERGEN,0,1,1
+does this OBJECT,0,1 have any ALLERGEN,0,1,1 or ALLERGEN,0,1,1 in it
+is it possible the OBJECT,0,1 has ALLERGEN,0,1,1 or ALLERGEN,0,1,1 in it
+can you find out if ALLERGEN,0,1,3 or ALLERGEN,0,1,3 are in the OBJECT,0,1
+is there any chance that the OBJECT,0,1 has ALLERGEN,0,1,1 or ALLERGEN,0,1,1
+does the OBJECT,0,1 have any ALLERGEN,0,1,1 or ALLERGEN,0,1,1 inside
+can you confirm if the OBJECT,0,1 has ALLERGEN,0,1,1 or ALLERGEN,0,1,1 in it
+does that OBJECT,0,1 contain any ALLERGEN,0,1,1 or ALLERGEN,0,1,1
+are ALLERGEN,0,1,3 or ALLERGEN,0,1,3 in the OBJECT,0,1
+can you check for both ALLERGEN,0,1,3 and ALLERGEN,0,1,3 in the OBJECT,0,1
+is there any ALLERGEN,0,1,3 or ALLERGEN,0,1,3 in the OBJECT,0,1 at all
+does the OBJECT,0,1 happen to have ALLERGEN,0,1,1 or ALLERGEN,0,1,1
+can you check if the OBJECT,0,1 has any ALLERGEN,0,1,1 or ALLERGEN,0,1,1
+are there any traces of ALLERGEN,0,1,3 or ALLERGEN,0,1,3 in the OBJECT,0,1
 
-// items
-is there any ALLERGEN,0,1,2,3 in either of the ITEM,0,1 or ITEM,0,1
-does the ITEM,0,1 ITEM,0,1 or ITEM,0,1 contain ALLERGEN,0,1,1,2,3
-can you check for ALLERGEN,0,1,2,3 in both the ITEM,0,1 and ITEM,0,1
-do any of the ITEM,0,1 ITEM,0,1 or ITEM,0,1 have ALLERGEN,0,1,1,2,3
-does either the ITEM,0,1 or ITEM,0,1 contain ALLERGEN,0,1,1,2
-are there traces of ALLERGEN,0,1,2,3 in the ITEM,0,1 or the ITEM,0,1
-does the ITEM,0,1 or ITEM,0,1 contain any ALLERGEN,0,1,1,2
-could you see if theres ALLERGEN,0,1,2,3 in both the ITEM,0,1 and the ITEM,0,1
-i need to know if the ITEM,0,1 or ITEM,0,1 has any ALLERGEN,0,1,1,2
-check if either the ITEM,0,1 or ITEM,0,1 have any ALLERGEN,0,1,1,2
-does any of the ITEM,0,1 or ITEM,0,1 have ALLERGEN,0,1,1,2 in it
-can you let me know if ALLERGEN,0,1,2,3 is in both ITEM,0,1 and ITEM,0,1
-is there a chance that either the ITEM,0,1 or the ITEM,0,1 contains ALLERGEN,0,1,1,2
-do the ITEM,0,1 or ITEM,0,1 have any ALLERGEN,0,1,1,2 in them
-could you check if the ITEM,0,1 or the ITEM,0,1 contain ALLERGEN,0,1,1,2
-does ALLERGEN,0,1,2,3 appear in the ITEM,0,1 or the ITEM,0,1
-is there any ALLERGEN,0,1,2,3 in either of the ITEM,0,1 and ITEM,0,1
-can you confirm if both the ITEM,0,1 or the ITEM,0,1 have ALLERGEN,0,1,1,2
-are the ITEM,0,1 or ITEM,0,1 free from ALLERGEN,0,1,1,2
-i was wondering if both the ITEM,0,1 and ITEM,0,1 have ALLERGEN,0,1,1,2
-does ALLERGEN,0,1,2,3 show up in either the ITEM,0,1 or the ITEM,0,1
+// objects
+is there any ALLERGEN,0,1,2,3 in either of the OBJECT,0,1 or OBJECT,0,1
+does the OBJECT,0,1 OBJECT,0,1 or OBJECT,0,1 contain ALLERGEN,0,1,1,2,3
+can you check for ALLERGEN,0,1,2,3 in both the OBJECT,0,1 and OBJECT,0,1
+do any of the OBJECT,0,1 OBJECT,0,1 or OBJECT,0,1 have ALLERGEN,0,1,1,2,3
+does either the OBJECT,0,1 or OBJECT,0,1 contain ALLERGEN,0,1,1,2
+are there traces of ALLERGEN,0,1,2,3 in the OBJECT,0,1 or the OBJECT,0,1
+does the OBJECT,0,1 or OBJECT,0,1 contain any ALLERGEN,0,1,1,2
+could you see if theres ALLERGEN,0,1,2,3 in both the OBJECT,0,1 and the OBJECT,0,1
+i need to know if the OBJECT,0,1 or OBJECT,0,1 has any ALLERGEN,0,1,1,2
+check if either the OBJECT,0,1 or OBJECT,0,1 have any ALLERGEN,0,1,1,2
+does any of the OBJECT,0,1 or OBJECT,0,1 have ALLERGEN,0,1,1,2 in it
+can you let me know if ALLERGEN,0,1,2,3 is in both OBJECT,0,1 and OBJECT,0,1
+is there a chance that either the OBJECT,0,1 or the OBJECT,0,1 contains ALLERGEN,0,1,1,2
+do the OBJECT,0,1 or OBJECT,0,1 have any ALLERGEN,0,1,1,2 in them
+could you check if the OBJECT,0,1 or the OBJECT,0,1 contain ALLERGEN,0,1,1,2
+does ALLERGEN,0,1,2,3 appear in the OBJECT,0,1 or the OBJECT,0,1
+is there any ALLERGEN,0,1,2,3 in either of the OBJECT,0,1 and OBJECT,0,1
+can you confirm if both the OBJECT,0,1 or the OBJECT,0,1 have ALLERGEN,0,1,1,2
+are the OBJECT,0,1 or OBJECT,0,1 free from ALLERGEN,0,1,1,2
+i was wondering if both the OBJECT,0,1 and OBJECT,0,1 have ALLERGEN,0,1,1,2
+does ALLERGEN,0,1,2,3 show up in either the OBJECT,0,1 or the OBJECT,0,1
+is there any ALLERGEN,0,1,2,3 in the OBJECT,0,1 or OBJECT,0,1
+does the OBJECT,0,1 or OBJECT,0,1 contain ALLERGEN,0,1,1,2
+can you check if there's ALLERGEN,0,1,2,3 in the OBJECT,0,1 or OBJECT,0,1
+is there a chance that the OBJECT,0,1 or OBJECT,0,1 has ALLERGEN,0,1,2,3
+do you know if either the OBJECT,0,1 or OBJECT,0,1 contains ALLERGEN,0,1,2,3
+could you check if the OBJECT,0,1 or OBJECT,0,1 have any ALLERGEN,0,1,1,2
+does either the OBJECT,0,1 or OBJECT,0,1 have ALLERGEN,0,1,1,2 in them
+is it possible that ALLERGEN,0,1,2,3 is in the OBJECT,0,1 or OBJECT,0,1
+can you tell me if there's any ALLERGEN,0,1,2,3 in the OBJECT,0,1 or OBJECT,0,1
+are there traces of ALLERGEN,0,1,2,3 in the OBJECT,0,1 or OBJECT,0,1
+can you find out if the OBJECT,0,1 or OBJECT,0,1 have ALLERGEN,0,1,1,2
+does the OBJECT,0,1 or OBJECT,0,1 contain any traces of ALLERGEN,0,1,1,2
+is ALLERGEN,0,1,2,3 in the OBJECT,0,1 or OBJECT,0,1 at all
+does either the OBJECT,0,1 or OBJECT,0,1 happen to have ALLERGEN,0,1,1,2
+can you confirm if the OBJECT,0,1 or OBJECT,0,1 has ALLERGEN,0,1,1,2 in it
+is there any chance that ALLERGEN,0,1,2,3 is in the OBJECT,0,1 or OBJECT,0,1
+can you see if there's ALLERGEN,0,1,2,3 in the OBJECT,0,1 or OBJECT,0,1
+does the OBJECT,0,1 or OBJECT,0,1 have any ALLERGEN,0,1,1,2
+are there any traces of ALLERGEN,0,1,2,3 in the OBJECT,0,1 or OBJECT,0,1
+do either of the OBJECT,0,1 or OBJECT,0,1 contain ALLERGEN,0,1,1,2
 
-// items - multiple allergens
-do either of the ITEM,0,1 or ITEM,0,1 have any ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
-is it possible for the ITEM,0,1 or ITEM,0,1 to contain ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
-is there any ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 in the ITEM,0,1 or ITEM,0,1
-can you check if theres ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 in the ITEM,0,1 or the ITEM,0,1
-does the ITEM,0,1 or ITEM,0,1 contain ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
-is there any chance the ITEM,0,1 or ITEM,0,1 have ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2 in them
-are there traces of ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 in either the ITEM,0,1 or the ITEM,0,1
-could you check if the ITEM,0,1 or the ITEM,0,1 have ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
-is it possible for the ITEM,0,1 or ITEM,0,1 to have any ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
-can you tell me if the ITEM,0,1 or ITEM,0,1 has ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
-do both the ITEM,0,1 or ITEM,0,1 have traces of ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2 in them
-i was wondering if either the ITEM,0,1 or the ITEM,0,1 contain ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
-can you find out if either the ITEM,0,1 or ITEM,0,1 contain ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
-does the ITEM,0,1 or the ITEM,0,1 have any ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2 in them
-is there any ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 in the ITEM,0,1 or the ITEM,0,1
-can you confirm if both the ITEM,0,1 and ITEM,0,1 have ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2 in them
-do the ITEM,0,1 or ITEM,0,1 contain any ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
-can you see if theres ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 in either the ITEM,0,1 or ITEM,0,1
-does the ITEM,0,1 or ITEM,0,1 have any of the ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2 inside
-is it possible for both ITEM,0,1 or ITEM,0,1 to contain ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
-are there any traces of ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 in the ITEM,0,1 or ITEM,0,1
-
-
-
-
-// addon
-does the ADDON,0,1 have ALLERGEN,0,1,1 in it
-is there ALLERGEN,0,1,2 in the ADDON,0,1
-does the ADDON,0,1 have any ALLERGEN,0,1,1 in it
-is there any ALLERGEN,0,1,2 in that ADDON,0,1
-can you check if the ADDON,0,1 contains ALLERGEN,0,1,1
-does this ADDON,0,1 have traces of ALLERGEN,0,1,1 in it
-is there a chance that the ADDON,0,1 has ALLERGEN,0,1,1
-can you tell me if the ADDON,0,1 has any ALLERGEN,0,1,1 inside
-do you know if ALLERGEN,0,1,2 is in the ADDON,0,1
-does that ADDON,0,1 contain any ALLERGEN,0,1,1
-is it possible that the ADDON,0,1 has ALLERGEN,0,1,1 in it
-could you check if the ADDON,0,1 has ALLERGEN,0,1,1
-does the ADDON,0,1 have any ALLERGEN,0,1,1 in it
-is ALLERGEN,0,1,2 included in that ADDON,0,1
-is there ALLERGEN,0,1,2 in the ADDON,0,1 at all
-can you confirm if ALLERGEN,0,1,2 is in that ADDON,0,1
-i wanna know if ALLERGEN,0,1,2 is part of the ADDON,0,1
-does the ADDON,0,1 happen to contain ALLERGEN,0,1,1
-can you find out if theres ALLERGEN,0,1,2 in the ADDON,0,1
-does the ADDON,0,1 have any ALLERGEN,0,1,1 or not
-is it possible for the ADDON,0,1 to have ALLERGEN,0,1,1
-check if the ADDON,0,1 has ALLERGEN,0,1,1 in it
-
-// addon - multiple allergens
-are there ALLERGEN,0,1,3 or ALLERGEN,0,1,3 in the ADDON,0,1
-does the ADDON,0,1 contain ALLERGEN,0,1,1 or ALLERGEN,0,1,1
-are there ALLERGEN,0,1,3 or ALLERGEN,0,1,3 in the ADDON,0,1
-does the ADDON,0,1 have ALLERGEN,0,1,1 or ALLERGEN,0,1,1 in it
-can you check if the ADDON,0,1 contains ALLERGEN,0,1,1 or ALLERGEN,0,1,1
-does the ADDON,0,1 have any traces of ALLERGEN,0,1,1 or ALLERGEN,0,1,1
-can you see if there’s ALLERGEN,0,1,3 or maybe ALLERGEN,0,1,3 in the ADDON,0,1
-is there any ALLERGEN,0,1,3 or ALLERGEN,0,1,3 in that ADDON,0,1
-do you know if the ADDON,0,1 contains ALLERGEN,0,1,1 or ALLERGEN,0,1,1
-does this ADDON,0,1 have any ALLERGEN,0,1,1 or ALLERGEN,0,1,1 in it
-is it possible the ADDON,0,1 has ALLERGEN,0,1,1 or ALLERGEN,0,1,1 in it
-can you find out if ALLERGEN,0,1,3 or ALLERGEN,0,1,3 are in the ADDON,0,1
-is there any chance that the ADDON,0,1 has ALLERGEN,0,1,1 or ALLERGEN,0,1,1
-does the ADDON,0,1 have any ALLERGEN,0,1,1 or ALLERGEN,0,1,1 inside
-can you confirm if the ADDON,0,1 has ALLERGEN,0,1,1 or ALLERGEN,0,1,1 in it
-does that ADDON,0,1 contain any ALLERGEN,0,1,1 or ALLERGEN,0,1,1
-are ALLERGEN,0,1,3 or ALLERGEN,0,1,3 in the ADDON,0,1
-can you check for both ALLERGEN,0,1,3 and ALLERGEN,0,1,3 in the ADDON,0,1
-is there any ALLERGEN,0,1,3 or ALLERGEN,0,1,3 in the ADDON,0,1 at all
-does the ADDON,0,1 happen to have ALLERGEN,0,1,1 or ALLERGEN,0,1,1
-can you check if the ADDON,0,1 has any ALLERGEN,0,1,1 or ALLERGEN,0,1,1
-are there any traces of ALLERGEN,0,1,3 or ALLERGEN,0,1,3 in the ADDON,0,1
-
-// addons
-is there any ALLERGEN,0,1,2,3 in the ADDON,0,1 or ADDON,0,1
-does the ADDON,0,1 or ADDON,0,1 contain ALLERGEN,0,1,1,2
-is there any ALLERGEN,0,1,2,3 in the ADDON,0,1 or ADDON,0,1
-does the ADDON,0,1 or ADDON,0,1 contain ALLERGEN,0,1,1,2
-can you check if there's ALLERGEN,0,1,2,3 in the ADDON,0,1 or ADDON,0,1
-is there a chance that the ADDON,0,1 or ADDON,0,1 has ALLERGEN,0,1,2,3
-do you know if either the ADDON,0,1 or ADDON,0,1 contains ALLERGEN,0,1,2,3
-could you check if the ADDON,0,1 or ADDON,0,1 have any ALLERGEN,0,1,1,2
-does either the ADDON,0,1 or ADDON,0,1 have ALLERGEN,0,1,1,2 in them
-is it possible that ALLERGEN,0,1,2,3 is in the ADDON,0,1 or ADDON,0,1
-can you tell me if there's any ALLERGEN,0,1,2,3 in the ADDON,0,1 or ADDON,0,1
-are there traces of ALLERGEN,0,1,2,3 in the ADDON,0,1 or ADDON,0,1
-can you find out if the ADDON,0,1 or ADDON,0,1 have ALLERGEN,0,1,1,2
-does the ADDON,0,1 or ADDON,0,1 contain any traces of ALLERGEN,0,1,1,2
-is ALLERGEN,0,1,2,3 in the ADDON,0,1 or ADDON,0,1 at all
-does either the ADDON,0,1 or ADDON,0,1 happen to have ALLERGEN,0,1,1,2
-can you confirm if the ADDON,0,1 or ADDON,0,1 has ALLERGEN,0,1,1,2 in it
-is there any chance that ALLERGEN,0,1,2,3 is in the ADDON,0,1 or ADDON,0,1
-can you see if there's ALLERGEN,0,1,2,3 in the ADDON,0,1 or ADDON,0,1
-does the ADDON,0,1 or ADDON,0,1 have any ALLERGEN,0,1,1,2
-are there any traces of ALLERGEN,0,1,2,3 in the ADDON,0,1 or ADDON,0,1
-do either of the ADDON,0,1 or ADDON,0,1 contain ALLERGEN,0,1,1,2
-
-// addons - multiple allergens
-does the ADDON,0,1 or the ADDON,0,1 contain any ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
-is it possible that the ADDON,0,1 or the ADDON,0,1 comes into contact with ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
-is there any ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 in my ADDON,0,1 or ADDON,0,1
-does the ADDON,0,1 or the ADDON,0,1 have any ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
-is there any ALLERGEN,0,1,2,3 or ALLERGEN,0,1,2,3 in the ADDON,0,1 or ADDON,0,1
-can you check if the ADDON,0,1 or ADDON,0,1 contains ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
-does either the ADDON,0,1 or ADDON,0,1 have ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2 in it
-is it possible that the ADDON,0,1 or the ADDON,0,1 comes into contact with ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
-are there traces of ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 in the ADDON,0,1 or ADDON,0,1
-can you tell me if the ADDON,0,1 or ADDON,0,1 contains ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
-is there a chance that the ADDON,0,1 or ADDON,0,1 has ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
-does either the ADDON,0,1 or ADDON,0,1 contain ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
-is it possible that ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 is in the ADDON,0,1 or ADDON,0,1
-does the ADDON,0,1 or the ADDON,0,1 contain any ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
-can you check for ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 in either the ADDON,0,1 or ADDON,0,1
-are there any traces of ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 in the ADDON,0,1 or ADDON,0,1
-is there a possibility of ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 being in the ADDON,0,1 or ADDON,0,1
-does the ADDON,0,1 or the ADDON,0,1 have any ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2 on them
-is ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 present in the ADDON,0,1 or ADDON,0,1
-can you see if either the ADDON,0,1 or ADDON,0,1 has ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
-does the ADDON,0,1 or the ADDON,0,1 contain traces of ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
-is there any ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 in the ADDON,0,1 or ADDON,0,1
-are there ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 in the ADDON,0,1 or ADDON,0,1 at all
+// objects - multiple allergens
+do either of the OBJECT,0,1 or OBJECT,0,1 have any ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
+is it possible for the OBJECT,0,1 or OBJECT,0,1 to contain ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
+is there any ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 in the OBJECT,0,1 or OBJECT,0,1
+can you check if theres ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 in the OBJECT,0,1 or the OBJECT,0,1
+does the OBJECT,0,1 or OBJECT,0,1 contain ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
+is there any chance the OBJECT,0,1 or OBJECT,0,1 have ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2 in them
+are there traces of ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 in either the OBJECT,0,1 or the OBJECT,0,1
+could you check if the OBJECT,0,1 or the OBJECT,0,1 have ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
+is it possible for the OBJECT,0,1 or OBJECT,0,1 to have any ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
+can you tell me if the OBJECT,0,1 or OBJECT,0,1 has ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
+do both the OBJECT,0,1 or OBJECT,0,1 have traces of ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2 in them
+i was wondering if either the OBJECT,0,1 or the OBJECT,0,1 contain ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
+can you find out if either the OBJECT,0,1 or OBJECT,0,1 contain ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
+does the OBJECT,0,1 or the OBJECT,0,1 have any ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2 in them
+is there any ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 in the OBJECT,0,1 or the OBJECT,0,1
+can you confirm if both the OBJECT,0,1 and OBJECT,0,1 have ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2 in them
+do the OBJECT,0,1 or OBJECT,0,1 contain any ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
+can you see if theres ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 in either the OBJECT,0,1 or OBJECT,0,1
+does the OBJECT,0,1 or OBJECT,0,1 have any of the ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2 inside
+is it possible for both OBJECT,0,1 or OBJECT,0,1 to contain ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
+are there any traces of ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 in the OBJECT,0,1 or OBJECT,0,1
+is there any ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 in my OBJECT,0,1 or OBJECT,0,1
+is there any ALLERGEN,0,1,2,3 or ALLERGEN,0,1,2,3 in the OBJECT,0,1 or OBJECT,0,1
+can you check if the OBJECT,0,1 or OBJECT,0,1 contains ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
+does either the OBJECT,0,1 or OBJECT,0,1 have ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2 in it
+is it possible that the OBJECT,0,1 or the OBJECT,0,1 comes into contact with ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
+are there traces of ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 in the OBJECT,0,1 or OBJECT,0,1
+can you tell me if the OBJECT,0,1 or OBJECT,0,1 contains ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
+is there a chance that the OBJECT,0,1 or OBJECT,0,1 has ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
+does either the OBJECT,0,1 or OBJECT,0,1 contain ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
+is it possible that ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 is in the OBJECT,0,1 or OBJECT,0,1
+does the OBJECT,0,1 or the OBJECT,0,1 contain any ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
+can you check for ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 in either the OBJECT,0,1 or OBJECT,0,1
+is there a possibility of ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 being in the OBJECT,0,1 or OBJECT,0,1
+does the OBJECT,0,1 or the OBJECT,0,1 have any ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2 on them
+is ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 present in the OBJECT,0,1 or OBJECT,0,1
+can you see if either the OBJECT,0,1 or OBJECT,0,1 has ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
+does the OBJECT,0,1 or the OBJECT,0,1 contain traces of ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
+is there any ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 in the OBJECT,0,1 or OBJECT,0,1
+are there ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 in the OBJECT,0,1 or OBJECT,0,1 at all
 
 
 
 // addons on items
-is there any ALLERGEN,0,1,2 in the ADDON,0,1,3 on the ITEM,0,1
-does the ADDON,0,1,2 in my ITEM,0,1 contain ALLERGEN,0,1,1 or ALLERGEN,0,1,1
-is there any ALLERGEN,0,1,2 in the ADDON,0,1,3 on my ITEM,0,1
-does the ADDON,0,1,2 in my ITEM,0,1 contain ALLERGEN,0,1,1 or ALLERGEN,0,1,1
-can you check if there's ALLERGEN,0,1,2 in the ADDON,0,1,3 on my ITEM,0,1
-does the ADDON,0,1,2 on the ITEM,0,1 have any ALLERGEN,0,1,1 or ALLERGEN,0,1,1
-is it possible that the ADDON,0,1,2 on my ITEM,0,1 has ALLERGEN,0,1,1 in it
-are there any traces of ALLERGEN,0,1,2 in the ADDON,0,1,3 on the ITEM,0,1
-does the ADDON,0,1,2 in my ITEM,0,1 come into contact with ALLERGEN,0,1,1 or ALLERGEN,0,1,1
-does the ADDON,0,1,3 or ADDON,0,1,3 in my ITEM,0,1 have any traces of ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
-is it possible that the ADDON,0,1,2,3 on the ITEM,0,1 and ITEM,0,1 has any ALLERGEN,0,1,1 or ALLERGEN,0,1,1
+is there any ALLERGEN,0,1,2 in the ADDON,3,1,3 on the ITEM,0,1
+does the ADDON,3,1,2 in my ITEM,0,1 contain ALLERGEN,0,1,1 or ALLERGEN,0,1,1
+is there any ALLERGEN,0,1,2 with the ADDON,0,1,3 on my ITEM,0,1
+does the ADDON,3,1,2 in my ITEM,0,1 contain ALLERGEN,0,1,1 or ALLERGEN,0,1,1
+can you check if there's ALLERGEN,0,1,2 in the ADDON,0,1,3 with my ITEM,0,1
+does the ADDON,2,1,2 on the side of the ITEM,0,1 have any ALLERGEN,0,1,1 or ALLERGEN,0,1,1
+is it possible that the ADDON,2,1,2 on the side of my ITEM,0,1 has ALLERGEN,0,1,1 in it
+are there any traces of ALLERGEN,0,1,2 in the ADDON,3,1,3 on the ITEM,0,1
+does the ADDON,3,1,2 in my ITEM,0,1 come into contact with ALLERGEN,0,1,1 or ALLERGEN,0,1,1
+does the ADDON,3,1,3 or ADDON,3,1,3 in my ITEM,0,1 have any traces of ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
+is it possible that the ADDON,3,1,2,3 on the ITEM,0,1 and ITEM,0,1 has any ALLERGEN,0,1,1 or ALLERGEN,0,1,1
+
+
+
+//! allergy_declaration + allergen_inquiry
+[allergy_declaration]:im allergic to ALLERGEN,0,1,2 is it safe to eat the OBJECT,0,1
+[allergy_declaration]:is there any chance the OBJECT,0,1 or OBJECT,0,1 have ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2 in them im allergic
+[allergy_declaration]:are there traces of ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 in either the OBJECT,0,1 or the OBJECT,0,1 i have an allergy
+[allergy_declaration]:im allergic to ALLERGEN,0,1,2 is it possible that the ADDON,2,1,3 on the side of my ITEM,0,1 has any in it
+[allergy_declaration]:i have an allergy to ALLERGEN,0,1,2,3 is there any in the OBJECT,0,1 or OBJECT,0,1
+[allergy_declaration]:does the OBJECT,0,1 or OBJECT,0,1 contain ALLERGEN,0,1,1,2 im allergic
+[allergy_declaration]:im allergic to ALLERGEN,0,1,2 is there any in your OBJECT,0,1
+[allergy_declaration]:does the OBJECT,0,1 have any ALLERGEN,0,1,1 whatsoever because i am severely allergic
+[allergy_declaration]:mind telling me if theres ALLERGEN,0,1,2 in the OBJECT,0,1 i am allergic
+[allergy_declaration]:im trying to figure out if your OBJECT,0,1 has ALLERGEN,0,1,1 in it i have an allergy
+[allergy_declaration]:im allergic to ALLERGEN,0,1,3 and ALLERGEN,0,1,3 are they in the OBJECT,0,1
+[allergy_declaration]:can you check for both ALLERGEN,0,1,3 and ALLERGEN,0,1,3 in the OBJECT,0,1 im allergic
+
+
+// greeting + allergen_inquiry
+[greeting]:aloha is it possible that the ADDON,2,1,2 on the side of my ITEM,0,1 has ALLERGEN,0,1,1 in it
+[greeting]:good morning are there any traces of ALLERGEN,0,1,2 in the ADDON,3,1,3 on the ITEM,0,1
+[greeting]:good afternoon is it possible for both OBJECT,0,1 or OBJECT,0,1 to contain ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
+[greeting]:good evening are there any traces of ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 in the OBJECT,0,1 or OBJECT,0,1
+[greeting]:hey does ALLERGEN,0,1,2,3 appear in the OBJECT,0,1 or the OBJECT,0,1
+[greeting]:hi there is there any ALLERGEN,0,1,2,3 in either of the OBJECT,0,1 and OBJECT,0,1
+[greeting]:hello everyone does that OBJECT,0,1 contain any ALLERGEN,0,1,1
+[greeting]:hey guys is it possible that the OBJECT,0,1 has ALLERGEN,0,1,1 in it
+[greeting]:hi team could you check if the OBJECT,0,1 has ALLERGEN,0,1,1

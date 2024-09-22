@@ -8,6 +8,35 @@ put your boss on the phone
 i need to speak with the owner
 let me speak with the owner
 put someone else on the phone
+can you connect me with your manager
+let me talk to whoevers in charge
+i need to speak to your boss
+could you transfer me to the manager
+can i talk to someone higher up
+can you put the owner on the line
+id like to talk to your manager
+can you pass me to your supervisor
+i want to speak to the person in charge
+can you get me a manager
+let me speak to whoevers running things
+can you put me through to the owner
+i need to talk to the head person there
+can i be connected to your supervisor
+get me someone in charge
+can i have a word with your boss
+could you get the manager on the phone
+id like to speak to the owner, please
+can you transfer me to the person in charge
+please put me through to your manager
+i want to talk to your higher-up
+can you connect me to someone in charge
+could you get me the top person there
+put your manager on the line
+can i talk to your lead person
+let me speak to whoevers supervising
+i need to speak with whoevers in charge
+can you call over your manager
+please put me in touch with the owner
 
 
 // talk to a human
@@ -16,4 +45,44 @@ put a real person on the phone
 i need to talk to a real person
 get a human on the phone
 i need to speak with a real person
+get me to a real person
+can you transfer me to a human
+i want to talk to an actual person
+put a human on the line
+can you connect me with a person
+get a real person on the phone
+let me speak with a human being
+i need to be connected to a real person
+is there a person i can talk to
+i need to talk to a live human
+can you put a person on the phone
+connect me with a real human
+please let me speak to a real person
+put me through to an actual person
+is there a human i can speak with
+can you give me someone real
+get me in touch with a human
+can you transfer me to someone real
+give me someone i can talk to
+connect me to a human please
+can you let me speak to a person
+i want to be put through to a person
+give me a real person on the line
+can i speak with a live person
+i need to be transferred to someone
+put a live human on the phone
+can you connect me with someone real
+please put a real human on
+can you get a real person for me
+connect me with an actual human
 
+
+
+// greeting + manager_inquiry
+[greeting]:hello hello please put a real human on
+[greeting]:hi hi is there a human i can speak with
+[greeting]:hey hey give me the head person
+[greeting]:aloha let me talk to whoevers in charge
+[greeting]:salutations can you put a person on the phone
+[greeting]:hi y'all i need to speak with the owner
+[greeting]:whats up can you put me through to the owner

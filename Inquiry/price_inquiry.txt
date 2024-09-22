@@ -1,0 +1,69 @@
+// object
+how much does the OBJECT,0,1 cost
+what would it cost for a OBJECT,0,1
+how much is the OBJECT,0,1
+can you tell me how much a single OBJECT,0,1 costs
+how much does one OBJECT,0,1 with no addons cost
+what would it cost me if i wanted a OBJECT,0,1
+how much will it be if i just want a OBJECT,0,1 without any addons
+could you tell me the price for a single OBJECT,0,1
+if i got an OBJECT,0,1 what would the total be
+how much is an OBJECT,0,1 by itself
+how much would a OBJECT,0,1 come to
+whats the cost if i just buy NUMBER,0,1,2 OBJECT,0,1
+whats the price for one OBJECT,0,1 with no addons
+how much would a single OBJECT,0,1 cost me
+if i want an OBJECT,0,1 whats the price tag on that
+how much does a OBJECT,0,1 run with no extras
+how much am i looking at for one OBJECT,0,1
+what would NUMBER,0,1,2 OBJECT,0,1s cost
+how much would NUMBER,0,0,2 OBJECT,0,1s cost me
+if i want NUMBER,0,0,2 OBJECT,0,1s whats the price tag on that
+how much does NUMBER,0,0,2 OBJECT,0,1s run with no extras
+how much am i looking at for NUMBER,0,0,2 OBJECT,0,1s
+
+
+
+// objects
+how much would a OBJECT,0,1 and a OBJECT,0,1 cost
+what is the cost of a OBJECT,0,1 or a OBJECT,0,1
+whats the cost of a OBJECT,0,1 a OBJECT,0,1 and a OBJECT,0,1
+how much would a OBJECT,0,1 and a OBJECT,0,1 cost
+what is the cost of a OBJECT,0,1 or a OBJECT,0,1
+whats the cost of a OBJECT,0,1 a OBJECT,0,1 and a OBJECT,0,1
+how much would i pay for NUMBER,0,0,2 OBJECT,0,1s with a OBJECT,0,1
+what would be the total for a OBJECT,0,1 plus a OBJECT,0,1 and a OBJECT,0,1
+could you tell me how much a OBJECT,0,1 with a OBJECT,0,1 would be
+if i ordered a OBJECT,0,1 and NUMBER,0,0,3 OBJECT,0,1s how much would that cost
+how much would it be if i got a OBJECT,0,1 with a OBJECT,0,1 and a OBJECT,0,1
+could you tell me the price for a OBJECT,0,1 or NUMBER,0,0,3 OBJECT,0,1s
+how much is it for NUMBER,0,0,2 OBJECT,0,1s and NUMBER,0,0,4 OBJECT,0,1
+whats the cost for NUMBER,0,0,2 OBJECT,0,1s with a OBJECT,0,1
+
+
+
+// item(s) with addon(s)
+how much is NUMBER,0,1,2 ITEM,0,1s with ADDON,3,1,2 on each
+what would it cost me for a ITEM,0,1 with ADDON,0,1,1 ADDON,0,1,1 and ADDON,0,1,1
+whats the price for a ITEM,0,1 with ADDON,0,1,1
+how much would i pay for an ITEM,0,1 with ADDON,3,1,1 on it
+whats the cost of a ITEM,0,1 with ADDON,0,1,1 and ADDON,0,1,1
+whats the price for an ITEM,0,1 with ADDON,3,1,1 on it
+could you let me know how much it would be for a ITEM,0,1 with ADDON,0,1,1 and ADDON,0,1,1
+whats the price for a ITEM,0,1 including ADDON,0,1,1
+can you give me the cost for a ITEM,0,1 with ADDON,0,1,1
+how much would i spend if i got a ITEM,0,1 with ADDON,3,1,1 on it
+could you tell me the price of a ITEM,0,1 if i wanted ADDON,0,1,1 as well
+whats the total for a ITEM,0,1 that includes ADDON,3,1,1 and ADDON,3,1,1 on top
+could you tell me what a ITEM,0,1 costs if i add ADDON,0,1,1
+whats the cost for a single ITEM,0,1 with ADDON,0,1,1 added
+can you let me know how much a ITEM,0,1 would be with ADDON,0,1,1
+could you give me the total for an ITEM,0,1 that has ADDON,0,1,1 and ADDON,0,1,1
+what would the bill be for a ITEM,0,1 with ADDON,0,1,1 and ADDON,0,1,1
+how much is an ITEM,0,1 with ADDON,0,1,1 added
+could you provide the cost for a ITEM,0,1 and a ADDON,0,1,1 together
+how much am i looking at for a ITEM,0,1 with ADDON,0,1,1
+if i want to buy a ITEM,0,1 with ADDON,0,1,1 what would that be
+how much does an ITEM,0,1 go for with ADDON,0,1,1 and ADDON,0,1,1 on it
+how much will i spend on a ITEM,0,1 if i add ADDON,3,1,1 on top
+could you tell me the full cost for a ITEM,0,1 that has ADDON,3,1,1 ADDON,3,1,1 and ADDON,3,1,1 on it

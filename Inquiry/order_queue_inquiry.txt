@@ -9,14 +9,60 @@ how long until its ready
 when will it be ready
 when should i come for pickup
 how long until its ready for pickup
+how much longer till my orders done
+when should i expect my order to be ready
+can you tell me how long my order will take
+any idea how long until my orders ready
+how long before my orders ready for pickup
+whats the wait time for my order
+can you give me an estimate on my order
+how long until i can pick up my order
+when will my order be done
+whats the time frame for my order
+can you let me know when my order will be ready
+how much time before my order is finished
+when do you think my order will be ready
+how long till my orders good to go
+how long until i should come get my order
+whats the eta on my order
+do you know when my order will be ready
+can you tell me when my order will be finished
+how long will i be waiting for my order
+can you give me a rough estimate on my pickup time
+when can i expect my items to be ready
+whats the timeline for my pickup
+how much longer until my items are ready
+do you have an idea when my stuff will be ready
+how much longer is it gonna take
+how long will i have to wait
+when will my things be available for pickup
+whats the wait on my stuff
+how soon will my things be done
+any chance you can tell me how long itll take for my items
 
 
 
 // name
 i have an order for NAME,0,1 how long until its ready
-when will my order for NAME,0,1 be ready
-how long until my order under NAME,0,1 is ready
-when is the order for NAME,0,1 going to be ready
+when will my items for NAME,0,1 be ready
+how long until my stuff under NAME,0,1 is ready
+when is the cart for NAME,0,1 going to be done
+how much longer till the things for NAME,0,1 will be ready
+when will the items under NAME,0,1 be good to go
+can you tell me how long for my stuff under NAME,0,1
+how long until the order placed by NAME,0,1 is done
+when should NAME,0,1s order be finished
+whats the wait time on my order for NAME,0,1
+can you give me an estimate on the order for NAME,0,1
+how long before my order for NAME,0,1 is ready
+when will the order linked to NAME,0,1 be ready
+how soon can i pick up my order for NAME,0,1
+when will my order for NAME,0,1 be ready for pickup
+how much longer for NAME,0,1s order
+when is the stuff for NAME,0,1 going to be finished
+whats the timeline for NAME,0,1s order
+how long till the items for NAME,0,1 are good to go
+can you tell me when the order under NAME,0,1 will be ready
 
 
 
@@ -28,6 +74,32 @@ when can i pickup my ITEM,0,1
 when will that ITEM,0,1 with ADDON,0,1,1 be done
 how long on that ITEM,0,1 with ADDON,0,1,1
 how long on the ITEM,0,1 and ITEM,0,1 which both had ADDON,0,1,1,2
+when will my ITEM,0,1 be done
+how much longer for my ITEM,0,1 and ITEM,0,1
+how long will it take for my ITEM,0,1 to be ready
+when can i pick up my ITEM,0,1 with ADDON,0,1,1
+how much time until my ITEM,0,1 is ready
+when will my ITEM,0,1 and ITEM,0,1 be ready for pickup
+how much longer until my ITEM,0,1 with ADDON,3,1,1 on it is done
+what the wait time on my ITEM,0,1
+how long will my ITEM,0,1 with ADDON,2,1,1 on the side take to be ready
+when can i expect my ITEM,0,1 and ITEM,0,1 to be done
+can you tell me how long for my ITEM,0,1 with ADDON,3,1,1 in it
+when can i get my ITEM,0,1 and ADDON,0,1,1
+how long until my ITEM,0,1 is finished
+what the estimated time for my ITEM,0,1 with ADDON,0,1,1
+when will the ITEM,0,1 be finished
+how long will it take to prepare my ITEM,0,1
+when can i pick up my ITEM,0,1 and ITEM,0,1
+can you let me know when my ITEM,0,1 with ADDON,3,1,1 on top will be ready
+how long for my ITEM,0,1 that has ADDON,3,1,1 in it
+when is my order with ITEM,0,1 and ITEM,0,1 going to be ready
+when will my ITEM,0,1 with ADDON,0,1,1 be done
+can you tell me when my ITEM,0,1 and ITEM,0,1 will be ready
+how much longer until my ITEM,0,1 with ADDON,2,1,1 on the side is ready
+when will my ITEM,0,1 with ADDON,0,1,1 be done
+what the estimated wait for my ITEM,0,1
+when will my ITEM,0,1 order ready for pickup
 
 
 
@@ -36,3 +108,21 @@ when will my order under NAME,0,1 which had ITEM,0,1 be done
 when should i pickup my order for ITEM,0,1 under NAME,0,1
 how long on the ITEM,0,1 under the name NAME,0,1
 when should i get my ITEM,0,1 which was under NAME,0,1
+when will my order for ITEM,0,1 under NAME,0,1 be ready
+how long until my ITEM,0,1 for NAME,0,1 is done
+when can i pick up my ITEM,0,1 and ITEM,0,1 that is under the name NAME,0,1
+how much longer on my order with ITEM,0,1 for NAME,0,1
+when will my ITEM,0,1 with ADDON,0,1,1 for NAME,0,1 be ready
+whats the wait time for my ITEM,0,1 under NAME,0,1
+how long until my order for ITEM,0,1 under NAME,0,1 is finished
+when should i expect my order of ITEM,0,1 for NAME,0,1
+can you tell me when my ITEM,0,1 under the name NAME,0,1 will be ready
+how long will my order under NAME,0,1 with ITEM,0,1 take
+when can i get my ITEM,0,1 with ADDON,0,1,1 thats under NAME,0,1
+whats the estimated time for my ITEM,0,1 under NAME,0,1
+when should i come for my ITEM,0,1 order under the name NAME,0,1
+how long for my ITEM,0,1 with ADDON,0,1,1 which is under NAME,0,1
+can you tell me when my order for ITEM,0,1 under NAME,0,1 is ready
+whats the pickup time for my ITEM,0,1 under NAME,0,1
+when should i come for my ITEM,0,1 under the name NAME,0,1
+how much longer on my ITEM,0,1 and ITEM,0,1 under NAME,0,1

@@ -1,0 +1,109 @@
+// basic
+does the ITEM,0,1 have any ADDON,0,1,1 in it
+is it possible that the ITEM,0,1 has ADDON,3,1,1 on it
+would the ITEM,0,1 happen to contain any ADDON,0,1,1
+is there ADDON,2,1,2 on the side of the ITEM,0,1
+is there ADDON,3,1,2 on the ITEM,0,1
+do you guys make the ITEM,0,1 with ADDON,0,1,1
+does the ITEM,0,1 come with ADDON,3,1,1 on it
+is there any ADDON,0,1,2 in that ITEM,0,1
+does that ITEM,0,1 got ADDON,3,1,1 on top
+is there ADDON,0,1,2 inside the ITEM,0,1
+does that ITEM,0,1 usually have ADDON,0,1,1 in it
+is there ADDON,2,1,2 included on the side of the ITEM,0,1
+do yall put ADDON,3,1,2 in the ITEM,0,1
+does the ITEM,0,1 got ADDON,0,1,1 added
+would there be ADDON,0,1,2 with the ITEM,0,1
+is it possible that ITEM,0,1 has ADDON,3,1,1 on it
+is there ADDON,2,1,2 on the side of ITEM,0,1
+does the ITEM,0,1 come with ADDON,3,1,1 inside
+do you ever make the ITEM,0,1 with ADDON,0,1,1
+might there be ADDON,2,1,2 on the side of ITEM,0,1
+is ADDON,3,1,2 on top of the ITEM,0,1
+does the ITEM,0,1 have ADDON,0,1,1 mixed in
+do yall put ADDON,2,1,2 in the ITEM,0,1
+does the ITEM,0,1 usually come with ADDON,0,1,1
+do you guys make the ITEM,0,1 with ADDON,3,1,1 in it
+would the ITEM,0,1 come with ADDON,0,1,1
+is ADDON,0,1,2 a part of that ITEM,0,1
+does ITEM,0,1 have ADDON,3,1,1 on it
+is there usually ADDON,2,1,2 on the side of the ITEM,0,1
+is there any ADDON,3,1,1 on that ITEM,0,1
+
+// multiple items
+does the ITEM,0,1 or the ITEM,0,1 contain any ADDON,0,1,1,2
+is there ADDON,3,1,2,3 on the ITEM,0,1 or the ITEM,0,1
+would the ITEM,0,1 ITEM,0,1 or ITEM,0,1 happen to have ADDON,0,1,1,2,3
+do you put ADDON,3,1,2,3 on the ITEM,0,1 or the ITEM,0,1
+do you make the ITEM,0,1 or the ITEM,0,1 with ADDON,0,1,1,2
+is there ADDON,0,1,2,3,4 with the ITEM,0,1 ITEM,0,1 or ITEM,0,1
+does either of the ITEM,0,1 or ITEM,0,1 come with ADDON,0,1,1,2
+is there ADDON,3,1,2,3 on the ITEM,0,1 or ITEM,0,1
+do the ITEM,0,1 ITEM,0,1 or ITEM,0,1 come with ADDON,0,1,1,2,3
+would the ITEM,0,1 or the ITEM,0,1 happen to have ADDON,0,1,1,2
+do you put ADDON,3,1,2,3 on the ITEM,0,1 or the ITEM,0,1
+does the ITEM,0,1 ITEM,0,1 or ITEM,0,1 come with ADDON,0,1,1,2,3
+is there ADDON,2,1,2,3 on the side of the ITEM,0,1 or the ITEM,0,1
+do the ITEM,0,1 or ITEM,0,1 have ADDON,3,1,1,2 on em
+do yall add ADDON,0,1,1,2 to the ITEM,0,1 or ITEM,0,1
+do the ITEM,0,1 or ITEM,0,1 come with ADDON,2,1,1,2 on the side
+do the ITEM,0,1 or ITEM,0,1 have ADDON,3,1,1,2 in them
+do you put ADDON,3,1,2,3 on ITEM,0,1 or ITEM,0,1
+is there ADDON,3,1,1,2,3 on the ITEM,0,1 ITEM,0,1 or ITEM,0,1
+do either of the ITEM,0,1 ITEM,0,1 or ITEM,0,1 have ADDON,0,1,1,2,3
+do you add ADDON,0,1,2,3 to the ITEM,0,1 or the ITEM,0,1
+would ITEM,0,1 or ITEM,0,1 have ADDON,0,1,1,2
+do the ITEM,0,1 ITEM,0,1 or ITEM,0,1 come with ADDON,0,1,1,2,3
+does the ITEM,0,1 or ITEM,0,1 have ADDON,3,1,1,2 in it
+would the ITEM,0,1 ITEM,0,1 or ITEM,0,1 usually come with ADDON,0,1,1,2,3
+is ADDON,0,1,2,3 included with ITEM,0,1 or ITEM,0,1
+do the ITEM,0,1 or ITEM,0,1 come with ADDON,0,1,1,2
+do yall make the ITEM,0,1 or ITEM,0,1 with ADDON,0,1,1,2
+is ADDON,0,1,2,3 on either the ITEM,0,1 or ITEM,0,1
+do you add ADDON,3,1,2,3 on the ITEM,0,1 or the ITEM,0,1
+
+// multiple addons
+does the ITEM,0,1 contain ADDON,0,1,1 or ADDON,0,1,1
+is there ADDON,3,1,3 or ADDON,3,1,3 on the ITEM,0,1
+do you put ADDON,3,1,4 ADDON,3,1,4 or ADDON,3,1,4 in the ITEM,0,1
+is there ADDON,0,1,3 or ADDON,0,1,3 with the ITEM,0,1
+does the ITEM,0,1 have ADDON,3,1,1 or ADDON,3,1,1 in it
+is there ADDON,3,1,3 or ADDON,3,1,3 on the ITEM,0,1
+does the ITEM,0,1 come with ADDON,0,1,1 and ADDON,0,1,1
+do you put ADDON,3,1,3 and ADDON,3,1,3 in the ITEM,0,1
+is there ADDON,0,1,3 or ADDON,0,1,3 with the ITEM,0,1
+does the ITEM,0,1 usually come with ADDON,0,1,1 and ADDON,0,1,1
+does the ITEM,0,1 usually have ADDON,3,1,1 or ADDON,3,1,1 on it
+can i get ADDON,3,1,3 and ADDON,3,1,3 on my ITEM,0,1
+do yall put ADDON,0,1,3 or ADDON,0,1,3 inside the ITEM,0,1
+is there ADDON,3,1,3 or ADDON,3,1,3 on top of the ITEM,0,1
+does the ITEM,0,1 come with ADDON,0,1,1 and ADDON,0,1,1
+do yall add ADDON,0,1,2 and ADDON,0,1,2 to the ITEM,0,1
+does the ITEM,0,1 contain ADDON,3,1,1 or ADDON,3,1,1
+is there any ADDON,0,1,3 and ADDON,0,1,3 with the ITEM,0,1
+does the ITEM,0,1 have ADDON,3,1,1 ADDON,3,1,1 or ADDON,3,1,1 on it
+does the ITEM,0,1 come with ADDON,0,1,1 ADDON,0,1,1 and ADDON,0,1,1
+do you usually put ADDON,0,1,3 and ADDON,0,1,3 with the ITEM,0,1
+is there ADDON,3,1,3 and ADDON,3,1,3 on top of the ITEM,0,1
+do you make the ITEM,0,1 with ADDON,0,1,1 or ADDON,0,1,1
+would the ITEM,0,1 have ADDON,3,1,1 and ADDON,3,1,1 in it
+is there any ADDON,3,1,3 or ADDON,3,1,3 inside the ITEM,0,1
+
+// multiple items and addons
+do either of the ITEM,0,1 or ITEM,0,1 contain ADDON,0,1,1,2 or ADDON,0,1,1,2
+is there ADDON,0,1,3,4 or ADDON,0,1,3,4 in the ITEM,0,1 or ITEM,0,1
+do either the ITEM,0,1 or the ITEM,0,1 come with ADDON,0,1,1,2 and ADDON,0,1,1,2
+is there any ADDON,3,1,3,4 or ADDON,3,1,3,4 in the ITEM,0,1 or ITEM,0,1
+do the ITEM,0,1 or ITEM,0,1 have ADDON,2,1,1,2 or ADDON,2,1,1,2 on the side of em
+would the ITEM,0,1 or ITEM,0,1 contain ADDON,3,1,1,2 or ADDON,3,1,1,2
+do either of the ITEM,0,1 or ITEM,0,1 have ADDON,0,1,1,2 or ADDON,0,1,1,2
+does ITEM,0,1 or ITEM,0,1 come with ADDON,0,1,1,2 or ADDON,0,1,1,2
+is there ADDON,3,1,4,5 ADDON,3,1,4,5 or ADDON,3,1,4,5 on either the ITEM,0,1 or ITEM,0,1
+do the ITEM,0,1 or ITEM,0,1 come with ADDON,3,1,1,2 ADDON,3,1,1,2 or ADDON,3,1,1,2 on the side
+do either the ITEM,0,1 or ITEM,0,1 contain ADDON,3,1,1,2 ADDON,3,1,1,2 or ADDON,3,1,1,2
+is there ADDON,0,1,3,4 or ADDON,0,1,3,4 on the side of the ITEM,0,1 or ITEM,0,1
+do either the ITEM,0,1 and ITEM,0,1 have ADDON,0,1,1,2 or ADDON,0,1,1,2
+do yall put ADDON,0,1,4,5 ADDON,0,1,4,5 or ADDON,0,1,4,5 on either the ITEM,0,1 or the ITEM,0,1
+does either the ITEM,0,1 or ITEM,0,1 come with ADDON,0,1,1,2 or ADDON,0,1,1,2
+is there any ADDON,3,1,3,4 or ADDON,3,1,3,4 in the ITEM,0,1 or ITEM,0,1
+do the ITEM,0,1 or ITEM,0,1 come with ADDON,0,1,1,2 or ADDON,0,1,1,2

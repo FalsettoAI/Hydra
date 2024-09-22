@@ -6,7 +6,43 @@ do you speak portuguese
 do you speak spanish
 speak spanish
 can you speak a different languages
-how many languages can you speak
 could you speak mandarin
 do you speak chinese
 do you speak polish
+can you speak spanish
+do you know how to speak german
+can you speak portuguese
+do you speak italian
+do you speak english
+can you talk in japanese
+are you able to speak russian
+do you know any other languages
+can you speak arabic
+do you speak dutch
+what other languages do you know
+can you speak korean
+can you try speaking in spanish
+are you able to talk in french
+do you speak polish
+do you speak any asian languages
+can you speak swedish
+can you talk in hindi
+do you happen to speak hebrew
+how many languages can you speak
+can you try saying that in english
+do you speak any european languages
+can you speak tagalog
+can you speak finnish
+are you fluent in any other languages
+could you speak cantonese
+do you understand any other languages
+
+
+// greeting + language_inquiry
+[greeting]:hello all do you speak any asian languages
+[greeting]:good day to you how many languages can you speak
+[greeting]:hi there everyone can you speak mandarin
+[greeting]:hello hello do you know how to speak german
+[greeting]:hi hi what languages can you speak
+[greeting]:hey hey are you able to speak russian
+[greeting]:aloha can you speak tagalog

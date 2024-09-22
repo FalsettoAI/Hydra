@@ -1,7 +1,5 @@
 //                          ****  BASIC  ****
 
-
-
 // basic sentences
 can i get an ITEM,0,0,0 with ADDON,0,0,1 and no ADDON,1,0,1
 give me an ITEM,0,0,0 no ADDON,1,0,1
@@ -538,6 +536,115 @@ id like NUMBER,0,0,2 of those ITEM,0,0s that have ADDON,0,1,2 on them
 give me the ITEM,0,0 which already comes with ADDON,2,1,1 on the side
 add NUMBER,0,0,2 of those ITEM,0,0s with ADDON,0,1,1 on the side
 can we get the ITEM,0,0 which comes with ADDON,0,1,1 already inside
+
+
+
+// remove allergen
+can i have a ITEM,0,0 with no ALLERGEN,1,0,1 on it
+i need a ITEM,0,0 but make sure there isnt any ALLERGEN,1,0,1 or ALLERGEN,1,0,1 in it
+give me an ITEM,0,0 and make sure its free from ALLERGEN,1,0,1 ALLERGEN,1,0,1 and ALLERGEN,1,0,1
+ill take NUMBER,0,0,2 ITEM,0,0s and make sure they dont have ALLERGEN,1,0,1
+i want NUMBER,0,0,2 ITEM,0,0s with ADDON,0,0,2 and make sure they dont come in contact with any ALLERGEN,1,0,2
+i need a SIZE,0,0,2 ITEM,0,0 that has ADDON,0,0,2 and ADDON,0,0,2 but make sure it doesnt have ALLERGEN,1,0,2
+can i get a ITEM,0,0 without any ALLERGEN,1,0,1
+id like to add a ITEM,0,0 but hold the ALLERGEN,1,0,1
+can you add a ITEM,0,0 to my cart and make sure theres no ALLERGEN,1,0,1
+i want an ITEM,0,0 but please leave out the ALLERGEN,1,0,1
+could you put a ITEM,0,0 with ADDON,0,0,1 in my cart but make sure its free of ALLERGEN,1,0,1
+can i get NUMBER,0,0,2 ITEM,0,0s with no trace of ALLERGEN,1,0,2
+id like to order NUMBER,0,0,2 ITEM,0,0s but keep the ALLERGEN,1,0,2 out
+can you add an ITEM,0,0 but make sure theres absolutely no ALLERGEN,1,0,1 or ALLERGEN,1,0,1 in it
+i want a SIZE,0,0,2 ITEM,0,0 without any ALLERGEN,1,0,2 on it
+ill take NUMBER,0,0,2 ITEM,0,0s but please dont let there be any ALLERGEN,1,0,2
+add an ITEM,0,0 with ADDON,0,0,1 but make sure theres no ALLERGEN,1,0,1
+can you put a SIZE,0,0,2 ITEM,0,0 with ADDON,0,0,2 and leave out the ALLERGEN,1,0,2
+i want to order an ITEM,0,0 that doesnt have any ALLERGEN,1,0,1 in it
+ill take a SIZE,0,0,2 ITEM,0,0 with ADDON,0,0,2 as long as theres no ALLERGEN,1,0,2
+give me an ITEM,0,0 and make sure there isnt a bit of ALLERGEN,1,0,1 or ALLERGEN,1,0,1
+can you throw in a ITEM,0,0 with ADDON,2,0,1 on the side but make sure theres no ALLERGEN,1,0,1 or ALLERGEN,1,0,1
+ill have a SIZE,0,0,2 ITEM,0,0 but only if theres no ALLERGEN,1,0,2 in it
+can you add a ITEM,0,0 with ADDON,0,0,1 and ADDON,0,0,1 but please no ALLERGEN,1,0,1
+id like a SIZE,0,0,2 ITEM,0,0 with ADDON,3,0,2 on it but keep the ALLERGEN,1,0,2 out
+add NUMBER,0,0,2 ITEM,0,0s to my cart and make sure theyre without ALLERGEN,1,0,2
+id like an ITEM,0,0 but make sure theres no ALLERGEN,1,0,1 anywhere
+can you put a ITEM,0,0 with ADDON,0,0,1 but make sure it doesnt touch any ALLERGEN,1,0,1
+i want to order NUMBER,0,0,2 ITEM,0,0s but make sure theres no trace of ALLERGEN,1,0,2 in them
+give me a SIZE,0,0,2 ITEM,0,0 and make sure its completely free of ALLERGEN,1,0,2
+ill take an ITEM,0,0 with ADDON,0,0,1 but make sure there isnt any ALLERGEN,1,0,1 in there
+could you add a SIZE,0,0,2 ITEM,0,0 with ADDON,0,0,2 but make sure its without any ALLERGEN,1,0,2
+can i have a SIZE,0,0,2 ITEM,0,0 but make sure it doesnt have any ALLERGEN,1,0,2
+put an ITEM,0,0 with ADDON,0,0,1 in my cart but keep it free of ALLERGEN,1,0,1
+could you add an ITEM,0,0 to my order but please make sure it doesnt contain ALLERGEN,1,0,1
+add a SIZE,0,0,2 ITEM,0,0 with ADDON,0,0,2 and ADDON,0,0,2 but make sure no ALLERGEN,1,0,2 is in it
+
+// allergy_declaration + remove allergen
+[allergy_declaration]:i will get a ITEM,0,0 and i have a ALLERGEN,1,0,1 allergy so make sure its not on it
+[allergy_declaration]:i need to add a ITEM,0,0 with no ALLERGEN,1,0,1 on it because im allergic
+[allergy_declaration]:add a ITEM,0,0 but make sure there is no ALLERGEN,1,0,1 because i have an allergy
+[allergy_declaration]:ill have a ITEM,0,0 but im allergic to ALLERGEN,1,0,1 so make sure its not in there
+[allergy_declaration]:i need to order a ITEM,0,0 without any ALLERGEN,1,0,1 because i have an allergy
+[allergy_declaration]:can you add an ITEM,0,0 to my cart but make sure theres no ALLERGEN,1,0,1 since im allergic
+[allergy_declaration]:i want a ITEM,0,0 but im allergic to ALLERGEN,1,0,1 so please leave it out
+[allergy_declaration]:add a ITEM,0,0 but make sure theres absolutely no ALLERGEN,1,0,1 because i have an allergy
+[allergy_declaration]:ill take a SIZE,0,0,2 ITEM,0,0 and make sure theres no ALLERGEN,1,0,2 in it because im allergic
+[allergy_declaration]:can you add an ITEM,0,0 with ADDON,3,0,1 in it but leave out the ALLERGEN,1,0,1 since im allergic
+[allergy_declaration]:i have an allergy to ALLERGEN,1,0,2 so make sure my ITEM,0,0 doesnt have any
+[allergy_declaration]:could you put an ITEM,0,0 with ADDON,0,0,1 in my cart but keep it free of ALLERGEN,1,0,1 since im allergic
+[allergy_declaration]:i need a ITEM,0,0 with ADDON,2,0,1 on the side but make sure theres no ALLERGEN,1,0,1 because of my allergy
+[allergy_declaration]:please add NUMBER,0,0,2 ITEM,0,0s but make sure they dont have any ALLERGEN,1,0,2 since im allergic
+[allergy_declaration]:id like to get a SIZE,0,0,2 ITEM,0,0 but make sure theres no ALLERGEN,1,0,2 in it because i have an allergy
+[allergy_declaration]:i want to order a SIZE,0,0,2 ITEM,0,0 but keep any ALLERGEN,1,0,2 out since im allergic
+[allergy_declaration]:ill take a SIZE,0,0,2 ITEM,0,0 but no ALLERGEN,1,0,2 because i have an allergy
+[allergy_declaration]:can you put an ITEM,0,0 with ADDON,0,0,1 in my cart but make sure theres no ALLERGEN,1,0,1 as im allergic
+[allergy_declaration]:i need a ITEM,0,0 and have an allergy to ALLERGEN,1,0,1 so keep it out
+[allergy_declaration]:add NUMBER,0,0,2 ITEM,0,0s with no ALLERGEN,1,0,2 as i have an allergy
+[allergy_declaration]:can you add a ITEM,0,0 but make sure theres no ALLERGEN,1,0,1 because im allergic to it
+[allergy_declaration]:id like to order an ITEM,0,0 but make sure theres no ALLERGEN,1,0,1 due to my allergy
+[allergy_declaration]:could you add a SIZE,0,0,2 ITEM,0,0 with ADDON,0,0,2 but keep out the ALLERGEN,1,0,2 because im allergic
+[allergy_declaration]:i will take an ITEM,0,0 but make sure theres no ALLERGEN,1,0,1 since i have an allergy
+[allergy_declaration]:please give me a SIZE,0,0,2 ITEM,0,0 without ALLERGEN,1,0,2 because im allergic
+[allergy_declaration]:id like an ITEM,0,0 but i have an allergy to ALLERGEN,1,0,1 so dont add it
+[allergy_declaration]:could you add a SIZE,0,0,2 ITEM,0,0 with ADDON,0,0,2 but make sure its free of ALLERGEN,1,0,2 because im allergic
+[allergy_declaration]:ill have a ITEM,0,0 but im allergic to ALLERGEN,1,0,1 so make sure its not included
+[allergy_declaration]:add NUMBER,0,0,2 ITEM,0,0s but no ALLERGEN,1,0,2 since i have an allergy
+
+
+
+// allergy_declaration + basic
+[allergy_declaration]:im allergic to ALLERGEN,0,1 and i want a ITEM,0,0
+[allergy_declaration]:i want a ITEM,0,0 and im allergic to ALLERGEN,0,1 and ALLERGEN,0,1
+[allergy_declaration]:im going to get a ITEM,0,0 and i have an allergy to ALLERGEN,0,1
+[allergy_declaration]:add a ITEM,0,0 with ADDON,0,0,1 to the cart and i am allergic to ALLERGEN,0,1
+[allergy_declaration]:i have a ALLERGEN,0,1 allergy so lets add a ITEM,0,0 and a ITEM,0,0
+[allergy_declaration]:id like to order a ITEM,0,0 but i have an allergy to ALLERGEN,0,1
+[allergy_declaration]:im going to get a SIZE,0,0,2 ITEM,0,0 and im allergic to ALLERGEN,0,1
+[allergy_declaration]:add a ITEM,0,0 to my cart and just letting you know im allergic to ALLERGEN,0,1
+[allergy_declaration]:i have an allergy to ALLERGEN,0,1 can you add a ITEM,0,0 to my order
+[allergy_declaration]:i want a ITEM,0,0 and just so you know im allergic to ALLERGEN,0,1
+[allergy_declaration]:lets add a ITEM,0,0 and a ITEM,0,0 but be aware i have a ALLERGEN,0,1 allergy
+[allergy_declaration]:i have a ALLERGEN,0,1 allergy and would like a ITEM,0,0 with ADDON,0,0,2
+[allergy_declaration]:ill take a SIZE,0,0,2 ITEM,0,0 and i have an allergy to ALLERGEN,0,1
+[allergy_declaration]:i need to add a ITEM,0,0 to my cart and im allergic to ALLERGEN,0,1
+[allergy_declaration]:can you add an ITEM,0,0 with ADDON,0,0,1 and by the way i have a ALLERGEN,0,1 allergy
+[allergy_declaration]:ill have a SIZE,0,0,2 ITEM,0,0 but keep in mind im allergic to ALLERGEN,0,1
+[allergy_declaration]:please add a ITEM,0,0 and a ITEM,0,0 and i should mention im allergic to ALLERGEN,0,1
+[allergy_declaration]:i want a ITEM,0,0 with ADDON,0,0,1 and im allergic to ALLERGEN,0,1
+[allergy_declaration]:im ordering a ITEM,0,0 but i have an allergy to ALLERGEN,0,1
+[allergy_declaration]:can you add a ITEM,0,0 to my cart and i have a ALLERGEN,0,1 allergy
+[allergy_declaration]:im allergic to ALLERGEN,0,1 and id like a SIZE,0,0,3 ITEM,0,0
+[allergy_declaration]:lets add a ITEM,0,0 and i should tell you im allergic to ALLERGEN,0,1
+[allergy_declaration]:i want to add a SIZE,0,0,2 ITEM,0,0 and i have a ALLERGEN,0,1 allergy
+[allergy_declaration]:i have an allergy to ALLERGEN,0,1 and would like to order a ITEM,0,0
+[allergy_declaration]:can you add a SIZE,0,0,2 ITEM,0,0 to my cart im allergic to ALLERGEN,0,1
+[allergy_declaration]:id like an ITEM,0,0 with ADDON,0,0,1 and im allergic to ALLERGEN,0,1
+[allergy_declaration]:i have a ALLERGEN,0,1 allergy and need to add a SIZE,0,0,3 ITEM,0,0 to my order
+[allergy_declaration]:ill order a ITEM,0,0 and im allergic to ALLERGEN,0,1
+[allergy_declaration]:can you add a ITEM,0,0 to my order and by the way im allergic to ALLERGEN,0,1
+[allergy_declaration]:add an ITEM,0,0 with ADDON,0,0,1 to my cart i have an allergy to ALLERGEN,0,1
+[allergy_declaration]:im going to get a SIZE,0,0,2 ITEM,0,0 and just want you to know im allergic to ALLERGEN,0,1
+[allergy_declaration]:i want an ITEM,0,0 and just to let you know im allergic to ALLERGEN,0,1
+[allergy_declaration]:ill have a SIZE,0,0,2 ITEM,0,0 and by the way i have a ALLERGEN,0,1 allergy
+[allergy_declaration]:im allergic to ALLERGEN,0,1 and id like to have a ITEM,0,0 with ADDON,0,0,2
 
 
 
@@ -1311,28 +1418,28 @@ i want to change the PREV_ADDON,0,0,3 and PREV_ADDON,0,0,3 with my PREV_ITEM,0,1
 
 //              ****  Inquiry → Intent ****
 
-// possible_item_inquiry -> add object
-possible_item_inquiry:do you guys have a ITEM,0,1 on the menu|can you add that to my order*1,0,0
-possible_item_inquiry:do you have a ITEM,0,1|ill take NUMBER,0,0,3 of those*1,0,0
-possible_item_inquiry:is there a ITEM,0,1|can you add that to my cart*1,0,0
-possible_item_inquiry:does the menu have a ITEM,0,1 on it|lets add that to my order*1,0,0
-possible_item_inquiry:is there a ITEM,0,1 or a ITEM,0,1 on the menu|lets add both to my order*1,0,0*2,0,0
-possible_item_inquiry:do you guys have a ITEM,0,1 or a ITEM,0,1 in house|can i have NUMBER,0,0,4,5 of each*1,0,0*2,0,0
-possible_item_inquiry:does your menu have a ITEM,0,1 on it|i would like to add that to my cart and put ADDON,3,0,3 on it*1,0,0
-possible_item_inquiry:do you have a ITEM,0,1 or an ITEM,0,1|can i add the first one*1,0,0
-possible_item_inquiry:is there a ITEM,0,1 or maybe an ITEM,0,1 on your menu|can you add the second one to my order*2,0,0
+// possible_object_inquiry -> add object
+possible_object_inquiry:do you guys have a ITEM,0,1 on the menu|can you add that to my order*1,0,0
+possible_object_inquiry:do you have a ITEM,0,1|ill take NUMBER,0,0,3 of those*1,0,0
+possible_object_inquiry:is there a ITEM,0,1|can you add that to my cart*1,0,0
+possible_object_inquiry:does the menu have a ITEM,0,1 on it|lets add that to my order*1,0,0
+possible_object_inquiry:is there a ITEM,0,1 or a ITEM,0,1 on the menu|lets add both to my order*1,0,0*2,0,0
+possible_object_inquiry:do you guys have a ITEM,0,1 or a ITEM,0,1 in house|can i have NUMBER,0,0,4,5 of each*1,0,0*2,0,0
+possible_object_inquiry:does your menu have a ITEM,0,1 on it|i would like to add that to my cart and put ADDON,3,0,3 on it*1,0,0
+possible_object_inquiry:do you have a ITEM,0,1 or an ITEM,0,1|can i add the first one*1,0,0
+possible_object_inquiry:is there a ITEM,0,1 or maybe an ITEM,0,1 on your menu|can you add the second one to my order*2,0,0
 
 
 
-// item_description_inquiry -> add object
-item_description_inquiry:what is the ITEM,0,1|ill take that*1,0,0
-item_description_inquiry:i dont know what the ITEM,0,1 is|lets add that to my cart*1,0,0
-item_description_inquiry:can you explain the ITEM,0,1|add NUMBER,0,0,3 of them to my cart please*1,0,0
-item_description_inquiry:can you explain the ITEM,0,1 to me|add it to my cart and with ADDON,0,0,3*1,0,0
-item_description_inquiry:what is the ITEM,0,1|ill have NUMBER,0,0,3 of those please*1,0,0
-item_description_inquiry:explain the ITEM,0,1|put that in my cart*1,0,0
-item_description_inquiry:describe the ITEM,0,1 please|ill take NUMBER,0,0,3 of those*1,0,0
-item_description_inquiry:what is the ITEM,0,1|add that to my order*1,0,0
+// object_description_inquiry -> add object
+object_description_inquiry:what is the ITEM,0,1|ill take that*1,0,0
+object_description_inquiry:i dont know what the ITEM,0,1 is|lets add that to my cart*1,0,0
+object_description_inquiry:can you explain the ITEM,0,1|add NUMBER,0,0,3 of them to my cart please*1,0,0
+object_description_inquiry:can you explain the ITEM,0,1 to me|add it to my cart and with ADDON,0,0,3*1,0,0
+object_description_inquiry:what is the ITEM,0,1|ill have NUMBER,0,0,3 of those please*1,0,0
+object_description_inquiry:explain the ITEM,0,1|put that in my cart*1,0,0
+object_description_inquiry:describe the ITEM,0,1 please|ill take NUMBER,0,0,3 of those*1,0,0
+object_description_inquiry:what is the ITEM,0,1|add that to my order*1,0,0
 
 
 
@@ -1344,115 +1451,115 @@ item_description_inquiry:what is the ITEM,0,1|add that to my order*1,0,0
 
 
 
-// item_ingredient_inquiry -> add addon
-item_ingredient_inquiry:does my PREV_ITEM,0,1 have PREV_ADDON,0,1,1 with it|can you add it*2,0,0,1
-item_ingredient_inquiry:does the PREV_ITEM,0,1 in my order have PREV_ADDON,3,1,1 in it|can you add NUMBER,0,0,4*2,0,0,1
-item_ingredient_inquiry:does my PREV_ITEM,0,1 have any PREV_ADDON,0,1,1 with it|can you add the ADDON,0,0,1
-item_ingredient_inquiry:is there a PREV_ITEM,0,1 in my order with PREV_ADDON,0,1,1|i wanna add ADDON,0,0,1 to it
-item_ingredient_inquiry:does my PREV_ITEM,0,1 come with an PREV_ADDON,0,1,1|add it please*2,0,0,1
-item_ingredient_inquiry:can you check if theres an PREV_ADDON,0,1,2 on my PREV_ITEM,0,1|id like to add ADDON,0,0,1 to that
-item_ingredient_inquiry:do i have any PREV_ADDON,0,1,2 on the PREV_ITEM,0,1 in my cart|add that*1,0,0
-item_ingredient_inquiry:does the PREV_ITEM,0,1 in my order already have PREV_ADDON,0,1,1|add ADDON,0,0,1 to it
-item_ingredient_inquiry:do i have a PREV_ITEM,0,1 with PREV_ADDON,0,1,1|i want that addon to be added*2,0,0
-item_ingredient_inquiry:does my PREV_ITEM,0,1 have PREV_ADDON,0,1,1 on it|can you add it*2,0,0,1
-item_ingredient_inquiry:is there a PREV_ADDON,0,1,2 on my PREV_ITEM,0,1|can you add that*1,0,0,2
-item_ingredient_inquiry:do i have a PREV_ITEM,0,1 with PREV_ADDON,0,1 in my order|lets add that addon to it*2,0,0,1
+// object_ingredient_inquiry -> add addon
+object_ingredient_inquiry:does my PREV_ITEM,0,1 have PREV_ADDON,0,1,1 with it|can you add it*2,0,0,1
+object_ingredient_inquiry:does the PREV_ITEM,0,1 in my order have PREV_ADDON,3,1,1 in it|can you add NUMBER,0,0,4*2,0,0,1
+object_ingredient_inquiry:does my PREV_ITEM,0,1 have any PREV_ADDON,0,1,1 with it|can you add the ADDON,0,0,1
+object_ingredient_inquiry:is there a PREV_ITEM,0,1 in my order with PREV_ADDON,0,1,1|i wanna add ADDON,0,0,1 to it
+object_ingredient_inquiry:does my PREV_ITEM,0,1 come with an PREV_ADDON,0,1,1|add it please*2,0,0,1
+object_ingredient_inquiry:can you check if theres an PREV_ADDON,0,1,2 on my PREV_ITEM,0,1|id like to add ADDON,0,0,1 to that
+object_ingredient_inquiry:do i have any PREV_ADDON,0,1,2 on the PREV_ITEM,0,1 in my cart|add that*1,0,0
+object_ingredient_inquiry:does the PREV_ITEM,0,1 in my order already have PREV_ADDON,0,1,1|add ADDON,0,0,1 to it
+object_ingredient_inquiry:do i have a PREV_ITEM,0,1 with PREV_ADDON,0,1,1|i want that addon to be added*2,0,0
+object_ingredient_inquiry:does my PREV_ITEM,0,1 have PREV_ADDON,0,1,1 on it|can you add it*2,0,0,1
+object_ingredient_inquiry:is there a PREV_ADDON,0,1,2 on my PREV_ITEM,0,1|can you add that*1,0,0,2
+object_ingredient_inquiry:do i have a PREV_ITEM,0,1 with PREV_ADDON,0,1 in my order|lets add that addon to it*2,0,0,1
 
-// multiple pointers - item_ingredient_inquiry -> add addon
-item_ingredient_inquiry:do either of my PREV_ITEM,0,1 or PREV_ITEM,0,1 have PREV_ADDON,0,1,1,2 on them|can you add it to both*3,0,0,1,2
-item_ingredient_inquiry:is there PREV_ADDON,0,1,2,3 in either of the PREV_ITEM,0,1 or the PREV_ITEM,0,1|lets add it then*1,0,0,2,3
-item_ingredient_inquiry:do the PREV_ITEM,0,1 and PREV_ITEM,0,1 in my cart have PREV_ADDON,0,1,1,2|lets put ADDON,0,0,1,2 on both
-item_ingredient_inquiry:is there any PREV_ADDON,0,1,2,3 on my PREV_ITEM,0,1 or PREV_ITEM,0,1|can you add it to both of them*1,0,0,2,3
-item_ingredient_inquiry:do my PREV_ITEM,0,1 or PREV_ITEM,0,1 already have PREV_ADDON,0,1,1,2 on them|lets add to both*3,0,0,1,2
-item_ingredient_inquiry:can you check if theres any PREV_ADDON,0,1,2,3,4 on my PREV_ITEM,0,1 PREV_ITEM,0,1 or PREV_ITEM,0,1|can we add it to everything*1,0,0,2,3,4
-item_ingredient_inquiry:does either of my PREV_ITEM,0,1 or PREV_ITEM,0,1 come with PREV_ADDON,0,1,1,2|can we add that to each*3,0,0,1,2
-item_ingredient_inquiry:is there PREV_ADDON,0,1,2,3 in either my PREV_ITEM,0,1 or PREV_ITEM,0,1|lets add them to both*1,0,0,2,3
-item_ingredient_inquiry:do either of my PREV_ITEM,0,1 or PREV_ITEM,0,1 have PREV_ADDON,0,1,1,2|add it to both of those*1,0,0,1,2
+// multiple pointers - object_ingredient_inquiry -> add addon
+object_ingredient_inquiry:do either of my PREV_ITEM,0,1 or PREV_ITEM,0,1 have PREV_ADDON,0,1,1,2 on them|can you add it to both*3,0,0,1,2
+object_ingredient_inquiry:is there PREV_ADDON,0,1,2,3 in either of the PREV_ITEM,0,1 or the PREV_ITEM,0,1|lets add it then*1,0,0,2,3
+object_ingredient_inquiry:do the PREV_ITEM,0,1 and PREV_ITEM,0,1 in my cart have PREV_ADDON,0,1,1,2|lets put ADDON,0,0,1,2 on both
+object_ingredient_inquiry:is there any PREV_ADDON,0,1,2,3 on my PREV_ITEM,0,1 or PREV_ITEM,0,1|can you add it to both of them*1,0,0,2,3
+object_ingredient_inquiry:do my PREV_ITEM,0,1 or PREV_ITEM,0,1 already have PREV_ADDON,0,1,1,2 on them|lets add to both*3,0,0,1,2
+object_ingredient_inquiry:can you check if theres any PREV_ADDON,0,1,2,3,4 on my PREV_ITEM,0,1 PREV_ITEM,0,1 or PREV_ITEM,0,1|can we add it to everything*1,0,0,2,3,4
+object_ingredient_inquiry:does either of my PREV_ITEM,0,1 or PREV_ITEM,0,1 come with PREV_ADDON,0,1,1,2|can we add that to each*3,0,0,1,2
+object_ingredient_inquiry:is there PREV_ADDON,0,1,2,3 in either my PREV_ITEM,0,1 or PREV_ITEM,0,1|lets add them to both*1,0,0,2,3
+object_ingredient_inquiry:do either of my PREV_ITEM,0,1 or PREV_ITEM,0,1 have PREV_ADDON,0,1,1,2|add it to both of those*1,0,0,1,2
 
-// item_ingredient_inquiry -> add size
-item_ingredient_inquiry:does my PREV_ITEM,0,1 have any PREV_ADDON,0,1,1|can we make that a SIZE,0,0,2
-item_ingredient_inquiry:is there PREV_ADDON,0,1,2 on the PREV_ITEM,0,1 in my cart|i want SIZE,0,0,1 of that
-item_ingredient_inquiry:does my PREV_ITEM,0,1 have any PREV_ADDON,0,1,1|can you make that a SIZE,0,0,2
-item_ingredient_inquiry:is there a PREV_ADDON,0,1,2 on my PREV_ITEM,0,1|id like that to be SIZE,0,0,1
-item_ingredient_inquiry:does the PREV_ITEM,0,1 i have in my cart  PREV_ADDON,0,1,1|lets make it SIZE,0,0,1
-item_ingredient_inquiry:is there any PREV_ADDON,0,1,2 on my PREV_ITEM,0,1|i want the PREV_ADDON,0,1,2 to be SIZE,0,0,3
-item_ingredient_inquiry:does my PREV_ITEM,0,1 have PREV_ADDON,0,1,1 on it|lets get that PREV_ADDON,0,1,1 in a SIZE,0,0,3
-item_ingredient_inquiry:can you check if my PREV_ITEM,0,1 has PREV_ADDON,0,1,2|make it a SIZE,0,0,1
-item_ingredient_inquiry:is there PREV_ADDON,0,1 on my PREV_ITEM,0,1|id like SIZE,0,0,1 of that addon
-item_ingredient_inquiry:does the PREV_ADDON,0,1,1 on my PREV_ITEM,0,1 come in a specific size|lets change it to SIZE,0,0,2
-item_ingredient_inquiry:do i have PREV_ADDON,0,1 on my PREV_ITEM,0,1|lets make it SIZE,0,0,1
+// object_ingredient_inquiry -> add size
+object_ingredient_inquiry:does my PREV_ITEM,0,1 have any PREV_ADDON,0,1,1|can we make that a SIZE,0,0,2
+object_ingredient_inquiry:is there PREV_ADDON,0,1,2 on the PREV_ITEM,0,1 in my cart|i want SIZE,0,0,1 of that
+object_ingredient_inquiry:does my PREV_ITEM,0,1 have any PREV_ADDON,0,1,1|can you make that a SIZE,0,0,2
+object_ingredient_inquiry:is there a PREV_ADDON,0,1,2 on my PREV_ITEM,0,1|id like that to be SIZE,0,0,1
+object_ingredient_inquiry:does the PREV_ITEM,0,1 i have in my cart  PREV_ADDON,0,1,1|lets make it SIZE,0,0,1
+object_ingredient_inquiry:is there any PREV_ADDON,0,1,2 on my PREV_ITEM,0,1|i want the PREV_ADDON,0,1,2 to be SIZE,0,0,3
+object_ingredient_inquiry:does my PREV_ITEM,0,1 have PREV_ADDON,0,1,1 on it|lets get that PREV_ADDON,0,1,1 in a SIZE,0,0,3
+object_ingredient_inquiry:can you check if my PREV_ITEM,0,1 has PREV_ADDON,0,1,2|make it a SIZE,0,0,1
+object_ingredient_inquiry:is there PREV_ADDON,0,1 on my PREV_ITEM,0,1|id like SIZE,0,0,1 of that addon
+object_ingredient_inquiry:does the PREV_ADDON,0,1,1 on my PREV_ITEM,0,1 come in a specific size|lets change it to SIZE,0,0,2
+object_ingredient_inquiry:do i have PREV_ADDON,0,1 on my PREV_ITEM,0,1|lets make it SIZE,0,0,1
 
-// multiple pointers - item_ingredient_inquiry -> add size
-item_ingredient_inquiry:does my PREV_ITEM,0,1 have any PREV_ADDON,0,1,1 or PREV_ADDON,0,1,1|can we get SIZE,0,0,2,3 of both those
-item_ingredient_inquiry:is there PREV_ADDON,0,1,3 or some PREV_ADDON,0,1,3 on the PREV_ITEM,0,1 in my cart|i want SIZE,0,0,1,2 of both
-item_ingredient_inquiry:does my PREV_ITEM,0,1 have any PREV_ADDON,0,1,1 or PREV_ADDON,0,1,1|can you make both a SIZE,0,0,2,3
+// multiple pointers - object_ingredient_inquiry -> add size
+object_ingredient_inquiry:does my PREV_ITEM,0,1 have any PREV_ADDON,0,1,1 or PREV_ADDON,0,1,1|can we get SIZE,0,0,2,3 of both those
+object_ingredient_inquiry:is there PREV_ADDON,0,1,3 or some PREV_ADDON,0,1,3 on the PREV_ITEM,0,1 in my cart|i want SIZE,0,0,1,2 of both
+object_ingredient_inquiry:does my PREV_ITEM,0,1 have any PREV_ADDON,0,1,1 or PREV_ADDON,0,1,1|can you make both a SIZE,0,0,2,3
 
-// item_ingredient_inquiry -> add number
-item_ingredient_inquiry:do i have PREV_NUMBER,3,1,2 PREV_ADDON,0,1,3s on my PREV_ITEM,0,1|actually lets make that NUMBER,0,0,2 of those
-item_ingredient_inquiry:how many PREV_ADDON,3,1,2s are on my PREV_ITEM,0,1|can we change that to NUMBER,0,0,1
-item_ingredient_inquiry:how many PREV_ADDON,0,1,2s did you put with my PREV_ITEM,0,1|can i have NUMBER,0,0,4 more*1,0,0,2
+// object_ingredient_inquiry -> add number
+object_ingredient_inquiry:do i have PREV_NUMBER,3,1,2 PREV_ADDON,0,1,3s on my PREV_ITEM,0,1|actually lets make that NUMBER,0,0,2 of those
+object_ingredient_inquiry:how many PREV_ADDON,3,1,2s are on my PREV_ITEM,0,1|can we change that to NUMBER,0,0,1
+object_ingredient_inquiry:how many PREV_ADDON,0,1,2s did you put with my PREV_ITEM,0,1|can i have NUMBER,0,0,4 more*1,0,0,2
 
-// multiple pointers - item_ingredient_inquiry -> add number
-item_ingredient_inquiry:how many PREV_ADDON,3,1,2,3s are on the PREV_ITEM,0,1 or the PREV_ITEM,0,1|it should be NUMBER,0,0,1 for both
-item_ingredient_inquiry:what is the count of PREV_ADDON,0,1,2,3,4s with the PREV_ITEM,0,1 PREV_ITEM,0,1 or the PREV_ITEM,0,1|i would actually want NUMBER,0,0,1 for each
+// multiple pointers - object_ingredient_inquiry -> add number
+object_ingredient_inquiry:how many PREV_ADDON,3,1,2,3s are on the PREV_ITEM,0,1 or the PREV_ITEM,0,1|it should be NUMBER,0,0,1 for both
+object_ingredient_inquiry:what is the count of PREV_ADDON,0,1,2,3,4s with the PREV_ITEM,0,1 PREV_ITEM,0,1 or the PREV_ITEM,0,1|i would actually want NUMBER,0,0,1 for each
 
-// item_ingredient_inquiry -> add size
-item_ingredient_inquiry:is the PREV_ADDON,0,1,2 on my PREV_ITEM,0,1 a SIZE,0,1,1|can you make that happen*3,0,0,1
-item_ingredient_inquiry:how much PREV_ADDON,0,1,2 is on the PREV_ITEM,0,1|lets change it to be SIZE,0,0,1
-item_ingredient_inquiry:is there a lot of PREV_ADDON,0,1,2 on my PREV_ITEM,0,1|i only want SIZE,0,0,1
+// object_ingredient_inquiry -> add size
+object_ingredient_inquiry:is the PREV_ADDON,0,1,2 on my PREV_ITEM,0,1 a SIZE,0,1,1|can you make that happen*3,0,0,1
+object_ingredient_inquiry:how much PREV_ADDON,0,1,2 is on the PREV_ITEM,0,1|lets change it to be SIZE,0,0,1
+object_ingredient_inquiry:is there a lot of PREV_ADDON,0,1,2 on my PREV_ITEM,0,1|i only want SIZE,0,0,1
 
-// multiple pointers - item_ingredient_inquiry -> add size
-item_ingredient_inquiry:how much PREV_ADDON,0,1,3 and PREV_ADDON,0,1,3 is on the PREV_ITEM,0,1|i want SIZE,0,0,1,2 of both
-item_ingredient_inquiry:is there SIZE,0,1,2,3 of PREV_ADDON,0,1,4 and PREV_ADDON,0,1,4 on the PREV_ITEM,0,1|i only want SIZE,0,0,2,3
+// multiple pointers - object_ingredient_inquiry -> add size
+object_ingredient_inquiry:how much PREV_ADDON,0,1,3 and PREV_ADDON,0,1,3 is on the PREV_ITEM,0,1|i want SIZE,0,0,1,2 of both
+object_ingredient_inquiry:is there SIZE,0,1,2,3 of PREV_ADDON,0,1,4 and PREV_ADDON,0,1,4 on the PREV_ITEM,0,1|i only want SIZE,0,0,2,3
 
-// item_ingredient_inquiry - change addon orientation
-item_ingredient_inquiry:is there a ADDON,0,1,2 on my PREV_ITEM,0,1|i want that to be on the side*1,2,0,2
-item_ingredient_inquiry:is there any ADDON,0,1,2 on my PREV_ITEM,0,1|can you put that off to the side*1,2,0,2
-item_ingredient_inquiry:does the PREV_ITEM,0,1 have ADDON,0,1,1|i want that to be in it*2,3,0,1
-
-
-
-// ingredient_description_inquiry -> add addon to object
-ingredient_description_inquiry:explain the ADDON,0,1|can you put that on my PREV_ITEM,0,1*1,3,0,2
-ingredient_description_inquiry:what is ADDON,0,1|put it on my PREV_ITEM,0,1 please*1,3,0,2
-ingredient_description_inquiry:i dont know what ADDON,0,1 is|lets add that to my PREV_ITEM,0,1*1,0,0,2
-ingredient_description_inquiry:what is a ADDON,0,1|can you put that with my PREV_ITEM,0,1*1,0,0,2
-ingredient_description_inquiry:what is ADDON,0,1|can you add that on the side of my PREV_ITEM,0,1*1,2,0,2
-
-// ingredient_description_inquiry -> add object with addon
-ingredient_description_inquiry:what is ADDON,0,1|can you give me a ITEM,0,0 with that on it*1,3,0,2
-ingredient_description_inquiry:can you describe the ADDON,0,1|add a ITEM,0,0 with that*1,0,0,2
-ingredient_description_inquiry:describe the ADDON,0,1|i need a ITEM,0,0 in my cart with that on the side*1,2,0,2
-ingredient_description_inquiry:explain the ADDON,0,1|let me add a ITEM,0,0 and a ITEM,0,0 with that on both*1,3,0,2,3
-ingredient_description_inquiry:explain ADDON,0,1|give me a ITEM,0,0 with it*1,0,0,2
-
-// ingredient_description_inquiry -> add object with addon reference
-ingredient_description_inquiry:what is ADDON,0,1|can you give me the ITEM,0,0 that has that*1,0,1
-ingredient_description_inquiry:explain ADDON,0,1 for me|id like the ITEM,0,0 containing that*1,0,1
-ingredient_description_inquiry:i dont understand what the ADDON,0,1 is|add that ITEM,0,0 which has it*1,0,1
-ingredient_description_inquiry:i dont know what ADDON,0,1 is|add the ITEM,0,0 which has it*1,0,1
+// object_ingredient_inquiry - change addon orientation
+object_ingredient_inquiry:is there a ADDON,0,1,2 on my PREV_ITEM,0,1|i want that to be on the side*1,2,0,2
+object_ingredient_inquiry:is there any ADDON,0,1,2 on my PREV_ITEM,0,1|can you put that off to the side*1,2,0,2
+object_ingredient_inquiry:does the PREV_ITEM,0,1 have ADDON,0,1,1|i want that to be in it*2,3,0,1
 
 
 
-// possible_ingredient_inquiry - addon -> add object with addon 
-possible_ingredient_inquiry:do you guys have any ADDON,0,1|can i add a ITEM,0,0 with that on it*3,0,2
+// object_description_inquiry -> add addon to object
+object_description_inquiry:explain the ADDON,0,1|can you put that on my PREV_ITEM,0,1*1,3,0,2
+object_description_inquiry:what is ADDON,0,1|put it on my PREV_ITEM,0,1 please*1,3,0,2
+object_description_inquiry:i dont know what ADDON,0,1 is|lets add that to my PREV_ITEM,0,1*1,0,0,2
+object_description_inquiry:what is a ADDON,0,1|can you put that with my PREV_ITEM,0,1*1,0,0,2
+object_description_inquiry:what is ADDON,0,1|can you add that on the side of my PREV_ITEM,0,1*1,2,0,2
 
-// possible_ingredient_inquiry - addon -> add addon to object
-possible_ingredient_inquiry:do you guys have ADDON,0,1|can i add that to my ITEM,0,0*3,0,2
+// object_description_inquiry -> add object with addon
+object_description_inquiry:what is ADDON,0,1|can you give me a ITEM,0,0 with that on it*1,3,0,2
+object_description_inquiry:can you describe the ADDON,0,1|add a ITEM,0,0 with that*1,0,0,2
+object_description_inquiry:describe the ADDON,0,1|i need a ITEM,0,0 in my cart with that on the side*1,2,0,2
+object_description_inquiry:explain the ADDON,0,1|let me add a ITEM,0,0 and a ITEM,0,0 with that on both*1,3,0,2,3
+object_description_inquiry:explain ADDON,0,1|give me a ITEM,0,0 with it*1,0,0,2
+
+// object_description_inquiry -> add object with addon reference
+object_description_inquiry:what is ADDON,0,1|can you give me the ITEM,0,0 that has that*1,0,1
+object_description_inquiry:explain ADDON,0,1 for me|id like the ITEM,0,0 containing that*1,0,1
+object_description_inquiry:i dont understand what the ADDON,0,1 is|add that ITEM,0,0 which has it*1,0,1
+object_description_inquiry:i dont know what ADDON,0,1 is|add the ITEM,0,0 which has it*1,0,1
 
 
-// possible_ingredient_inquiry - addon and item -> add object with addon 
-possible_ingredient_inquiry:is it possible for you to add a ADDON,3,1,2 on top of a ITEM,0,1|lets put that in my order*2,0,0
-possible_ingredient_inquiry:could you give me a ADDON,2,1,2 on the side of a ITEM,0,1|lets add those to the cart*2,0,0
-possible_ingredient_inquiry:would it be possible to add a ADDON,0,1,2 with a ITEM,0,1|id like to get that*2,0,0
-possible_ingredient_inquiry:can you put a ADDON,3,1,2 on the side for a ITEM,0,1|lets go with that*2,0,0
-possible_ingredient_inquiry:if i got a ITEM,0,1 could you put a ADDON,0,1,1 with it|ill take that please*1,0,0
-possible_ingredient_inquiry:if i had a ITEM,0,1 could i have a ADDON,3,1,1 on it|ill add that*1,0,0
 
-// possible_ingredient_inquiry - addon and item -> add addon to object
-possible_ingredient_inquiry:would it be possible to put a ADDON,3,1,2 on my PREV_ITEM,0,1|lets do that*1,0,0,2
-possible_ingredient_inquiry:would it be okay if i put a ADDON,0,1,2 with my PREV_ITEM,0,1|add it please*1,0,0,2
-possible_ingredient_inquiry:is it alright if i put ADDON,0,1,2 on the side of my PREV_ITEM,0,1|lets do it*1,0,0,2 
+// possible_object_inquiry - addon -> add object with addon 
+possible_object_inquiry:do you guys have any ADDON,0,1|can i add a ITEM,0,0 with that on it*3,0,2
+
+// possible_object_inquiry - addon -> add addon to object
+possible_object_inquiry:do you guys have ADDON,0,1|can i add that to my ITEM,0,0*3,0,2
+
+
+// possible_object_inquiry - addon and item -> add object with addon 
+possible_object_inquiry:is it possible for you to add a ADDON,3,1,2 on top of a ITEM,0,1|lets put that in my order*2,0,0
+possible_object_inquiry:could you give me a ADDON,2,1,2 on the side of a ITEM,0,1|lets add those to the cart*2,0,0
+possible_object_inquiry:would it be possible to add a ADDON,0,1,2 with a ITEM,0,1|id like to get that*2,0,0
+possible_object_inquiry:can you put a ADDON,3,1,2 on the side for a ITEM,0,1|lets go with that*2,0,0
+possible_object_inquiry:if i got a ITEM,0,1 could you put a ADDON,0,1,1 with it|ill take that please*1,0,0
+possible_object_inquiry:if i had a ITEM,0,1 could i have a ADDON,3,1,1 on it|ill add that*1,0,0
+
+// possible_object_inquiry - addon and item -> add addon to object
+possible_object_inquiry:would it be possible to put a ADDON,3,1,2 on my PREV_ITEM,0,1|lets do that*1,0,0,2
+possible_object_inquiry:would it be okay if i put a ADDON,0,1,2 with my PREV_ITEM,0,1|add it please*1,0,0,2
+possible_object_inquiry:is it alright if i put ADDON,0,1,2 on the side of my PREV_ITEM,0,1|lets do it*1,0,0,2 
 
 
 

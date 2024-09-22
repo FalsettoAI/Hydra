@@ -1,3 +1,4 @@
+// simple greeting
 hi
 hello
 hey there
@@ -28,166 +29,88 @@ aloha
 salutations
 hi y'all
 whats up
-hi hows it going
-hello how are you today
-hey there how are you doing
-good morning how are you
-hi there hows your day been
-hey whats new
-hello hows everything
-hi how have you been
-hey there hows life treating you
-good afternoon how are things
-hi hows your day going so far
-hello how are you feeling today
-hey whats happening
-hi there how has your week been
-good evening hows it going
-hey hows everything with you
-hi how are you holding up
-hello hows your day shaping up
-hey there how have you been
-hi whats the latest
-good morning hows life
-hey hows your world
-hello how are things going
-hi there whats new with you
-hey hows it hanging
-good afternoon how are you doing
-hi hows your day treating you
-hello whats going on
-hey there how are you feeling
-hi hows everything in your world
-good evening how has your day been
-hey hows life treating you lately
-hi there how are you today
-hello whats happening in your world
-hey how have you been keeping
-hi hows it been going
-good morning how are things with you
-hey there whats new and exciting
-hello how are you holding up
-hi whats going on with you
-good afternoon hows your day so far
-hey hows everything going
-hi there how have you been doing
-hello whats the word
-hey how are things shaping up
-hi hows your week been
-good evening whats happening with you
-hey there how are you feeling today
-hi how has life been treating you
-hello hows it going today
-hey whats new in your world
-hi there how are things going
-good morning hows your day starting
-hello how have you been lately
-hey hows everything in your world
-hi whats been happening
-good afternoon how are you feeling
-hey there hows life going
-hi how are things with you
-hi there how have you been keeping
-good evening hows it hanging
-hello how are you doing today
-hey whats going on in your world
-hi hows life treating you
-good morning how have you been
-hey there whats happening with you
-hi how are things going so far
-hello hows your week been
-hey whats the latest with you
-hi there how are you holding up
-good afternoon hows everything going
-hello how has your day been
-hey hows it been going
-hi whats new with you
-good evening how are you feeling
-hello whats happening in your life
-hey hows it going today
-hello how are you keeping
-hey hows everything with you today
-hi there hows the day treating you
-hey whats cooking
-hello hows your morning going
-hi hows life been lately
-hey hows it rolling
-hi there whats new and exciting in your world
-good morning how are you feeling today
-hey hows life treating you these days
-hi hows it hanging today
-hi there hows your week been going
-good day whats happening in your world
-hi whats been going on with you
-hey hows everything under your roof
-hi there whats the latest and greatest
-hey hows life been lately
-hi hows your day treating you so far
-hi whats been cooking in your life
-hey there hows life rolling for you
-hi hows life treating you this fine day
-good day whats the buzz in your world
-hey there hows your universe treating you
-hi how are you
-hello how are you
-hi hows it going
-hello hows it going
-hi good morning
-hello good morning
-hi good afternoon
-hello good afternoon
-hi good evening
-hello good evening
-hi i hope you're well
-hello i hope you're well
-hi i hope you're having a good day
-hello i hope you're having a good day
-hi i hope you're having a great day
-hello i hope you're having a great day
-hi can you help me
-hello can you help me
-hi can i ask a question
-hello can i ask a question
-hi do you have a moment
-hello do you have a moment
-hi do you have time to talk
-hello do you have time to talk
-hi i need some assistance
-hello i need some assistance
-hi can i get some help
-hello can i get some help
-hi can you assist me
-hello can you assist me
-hi can you help me out
-hello can you help me out
-hi could you help me
-hello could you help me
-hi may i ask something
-hello may i ask something
-hi may i ask a question
-hello may i ask a question
-hi could i ask a question
-hello could i ask a question
-hi i need some information
-hello i need some information
-hi i have a question
-hello i have a question
-hi can you provide some information
-hello can you provide some information
-hi can i get some details
-hello can i get some details
-hi do you have information
-hello do you have information
-hi i need details
-hello i need details
-hi could you give me some information
-hello could you give me some information
-hi i need to know something
-hello i need to know something
-hi can you tell me something
-hello can you tell me something
-hi do you hear me
-hello i’m calling the restaurant
-can you hear me
-hey does my audio work
-how are ya
+
+
+
+// greeting + ask for help
+[basic_inquiry]:good morning how are you
+[basic_inquiry]:hi there hows your day been
+[basic_inquiry]:hey whats new
+[basic_inquiry]:hello hows everything
+[basic_inquiry]:hi how have you been
+[basic_inquiry]:hey there hows life treating you
+[basic_inquiry]:good afternoon how are things
+[basic_inquiry]:hi hows your day going so far
+[basic_inquiry]:hello how are you feeling today
+[basic_inquiry]:hey whats happening
+[basic_inquiry]:hi there how has your week been
+[basic_inquiry]:good evening hows it going
+[basic_inquiry]:hey hows everything with you
+[basic_inquiry]:hi how are you holding up
+[basic_inquiry]:hello hows your day shaping up
+[basic_inquiry]:hey there how have you been
+[basic_inquiry]:hi whats the latest
+[basic_inquiry]:good morning hows life
+[basic_inquiry]:hey hows your world
+[basic_inquiry]:hello how are things going
+[basic_inquiry]:hi there whats new with you
+[basic_inquiry]:hey hows it hanging
+[basic_inquiry]:good afternoon how are you doing
+[basic_inquiry]:hi hows your day treating you
+[basic_inquiry]:hello whats going on
+[basic_inquiry]:hey there how are you feeling
+[basic_inquiry]:hi hows everything in your world
+[basic_inquiry]:good evening how has your day been
+[basic_inquiry]:hey hows life treating you lately
+[basic_inquiry]:hi there how are you today
+[basic_inquiry]:hello whats happening in your world
+[basic_inquiry]:hey how have you been keeping
+[basic_inquiry]:hi hows it been going
+[basic_inquiry]:good morning how are things with you
+[basic_inquiry]:hey there whats new and exciting
+[basic_inquiry]:hello how are you holding up
+[basic_inquiry]:hi whats going on with you
+[basic_inquiry]:good afternoon hows your day so far
+[basic_inquiry]:hey hows everything going
+[basic_inquiry]:hi there how have you been doing
+[basic_inquiry]:hello whats the word
+[basic_inquiry]:hey how are things shaping up
+[basic_inquiry]:hi hows your week been
+[basic_inquiry]:good evening whats happening with you
+[basic_inquiry]:hey there how are you feeling today
+[basic_inquiry]:hi how has life been treating you
+[basic_inquiry]:hello hows it going today
+[basic_inquiry]:hey whats new in your world
+[basic_inquiry]:hi there how are things going
+[basic_inquiry]:good morning hows your day starting
+[basic_inquiry]:hello how have you been lately
+[basic_inquiry]:hey hows everything in your world
+[basic_inquiry]:hi whats been happening
+[basic_inquiry]:good afternoon how are you feeling
+[basic_inquiry]:hey there hows life going
+[basic_inquiry]:hi how are things with you
+
+
+
+// greeting + mood
+[basic_inquiry]:hi do you have a moment
+[basic_inquiry]:hello do you have a moment
+[basic_inquiry]:hi do you have time to talk
+[basic_inquiry]:hello do you have time to talk
+[basic_inquiry]:hi i need some assistance
+[basic_inquiry]:hello i need some assistance
+[basic_inquiry]:hi can i get some help
+[basic_inquiry]:hello can i get some help
+[basic_inquiry]:hi can you assist me
+[basic_inquiry]:hello can you assist me
+[basic_inquiry]:hi can you help me out
+[basic_inquiry]:hello can you help me out
+[basic_inquiry]:hi could you help me
+[basic_inquiry]:hello could you help me
+[basic_inquiry]:hi may i ask something
+[basic_inquiry]:hello may i ask something
+[basic_inquiry]:hi may i ask a question
+[basic_inquiry]:hello may i ask a question
+[basic_inquiry]:hi could i ask a question
+[basic_inquiry]:hello could i ask a question
+[basic_inquiry]:hi i need some information
