@@ -345,11 +345,11 @@ whats up
 [manage_order_info]:greetings NAME,0,0,0 here gimme a SIZE,0,0,3 ITEM,0,0,0 ADDON,3,0,3 if you could
 [manage_order_info]:howdy for NAME,0,0,0 can we do an ITEM,0,0,0 and NUMBER,0,0,5 SIZE,0,0,5 ITEM,0,0,0s
 [manage_order_info]:afternoon lets add ITEM,0,0 with ADDON,0,0,1 and ADDON,0,0,1 but ill take NUMBER,0,0,2,3 of both those under NAME,0,0
-[manage_order_info]:evening lets add ADDON,0,0,2 to the PREV_ITEM,0,1,0
-[manage_order_info]:yo how about we toss some ADDON,3,0,2 on that PREV_ITEM,0,1,0
-[manage_order_info]:hi folks give me SIZE,0,0,2 ADDON,0,0,3,4,5 for each of my PREV_ITEM,0,1 PREV_ITEM,0,1 and PREV_ITEM,0,1
-[manage_order_info]:hello everyone change the PREV_ADDON,0,1,2 i had on the PREV_ITEM,0,1 to NUMBER,0,0,1
-[manage_order_info]:hey guys make all the PREV_ADDON,0,1,4 PREV_ADDON,0,1,4 and PREV_ADDON,0,1,4 from my PREV_ITEM,0,1 into SIZE,0,0,1,2,3
+[manage_order_info]:evening lets add ADDON,0,0,2 to the ITEM,0,1,0
+[manage_order_info]:yo how about we toss some ADDON,3,0,2 on that ITEM,0,1,0
+[manage_order_info]:hi folks give me SIZE,0,0,2 ADDON,0,0,3,4,5 for each of my ITEM,0,1 ITEM,0,1 and ITEM,0,1
+[manage_order_info]:hello everyone change the ADDON,0,1,2 i had on the ITEM,0,1 to NUMBER,0,0,1
+[manage_order_info]:hey guys make all the ADDON,0,1,4 ADDON,0,1,4 and ADDON,0,1,4 from my ITEM,0,1 into SIZE,0,0,1,2,3
 [manage_order_info]:hi team we would like to have NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,5,6 of em SIZE,0,0,6*2,1,0*2,0,0
 [manage_order_info]:hello all put in NUMBER,0,0,2 ITEM,0,0,0s my way and slap ADDON,3,0,6 on NUMBER,0,0,5,6*2,1,0*2,0,0
 [manage_order_info]:good day to you i want the ITEM,0,0 that includes ADDON,0,1,1
@@ -365,36 +365,36 @@ whats up
 // delete_order_info + greeting
 [manage_order_info]:hi can i remove an item
 [manage_order_info]:hello i need to delete an item
-[manage_order_info]:hey there delete the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 from my list
-[manage_order_info]:good morning can you remove that PREV_ITEM,1,0,0 i asked for
-[manage_order_info]:good afternoon scratch off the PREV_ITEM,1,0,0 from the order
-[manage_order_info]:good evening take away the PREV_ITEM,1,0,0 with no PREV_ADDON,1,1,1
-[manage_order_info]:evening take out NUMBER,0,0,2 of the PREV_ITEM,1,0
-[manage_order_info]:yo can you remove NUMBER,0,0,2 PREV_ITEM,1,0s for me
-[manage_order_info]:hi folks delete NUMBER,0,0,2,3 PREV_ITEM,1,0s and PREV_ITEM,1,0s from the list
-[manage_order_info]:hello everyone cancel the PREV_ITEM,1,0,0 and that PREV_SIZE,0,1,3 PREV_ITEM,1,0,0 with PREV_ADDON,0,1,3
-[manage_order_info]:hey guys can you get rid of the PREV_ITEM,1,0 and PREV_ITEM,1,0 that are both with ADDON,0,1,1,2
-[manage_order_info]:hi team help me delete the PREV_ITEM,1,0 and the PREV_ITEM,1,0 which are both SIZE,0,1,1,2
+[manage_order_info]:hey there delete the SIZE,0,1,2 ITEM,1,0,0 from my list
+[manage_order_info]:good morning can you remove that ITEM,1,0,0 i asked for
+[manage_order_info]:good afternoon scratch off the ITEM,1,0,0 from the order
+[manage_order_info]:good evening take away the ITEM,1,0,0 with no ADDON,1,1,1
+[manage_order_info]:evening take out NUMBER,0,0,2 of the ITEM,1,0
+[manage_order_info]:yo can you remove NUMBER,0,0,2 ITEM,1,0s for me
+[manage_order_info]:hi folks delete NUMBER,0,0,2,3 ITEM,1,0s and ITEM,1,0s from the list
+[manage_order_info]:hello everyone cancel the ITEM,1,0,0 and that SIZE,0,1,3 ITEM,1,0,0 with ADDON,0,1,3
+[manage_order_info]:hey guys can you get rid of the ITEM,1,0 and ITEM,1,0 that are both with ADDON,0,1,1,2
+[manage_order_info]:hi team help me delete the ITEM,1,0 and the ITEM,1,0 which are both SIZE,0,1,1,2
 
 
 
 // swap_order_info + greeting
-[manage_order_info]:hey there i wanna switch my PREV_ITEM,1,0,0 with a ITEM,0,0,0 and add ADDON,2,0,3 on the side
-[manage_order_info]:good morning swap the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 for a ITEM,0,0,0 with ADDON,0,0,3
-[manage_order_info]:hey remove NUMBER,0,0,2 of the PREV_ITEM,1,0 and swap it for a ITEM,0,0 and a ITEM,0,0 with ADDON,0,0,4
-[manage_order_info]:hi there lemme change the PREV_ITEM,1,0,0 and PREV_ITEM,1,0,0 to NUMBER,0,0,5 SIZE,0,0,5 ITEM,0,0,0s and a ITEM,0,0,0
-[manage_order_info]:hello there can you switch out my PREV_ITEM,1,0,0 and PREV_ITEM,1,0,0 for a SIZE,0,0,4 ITEM,0,0,0 and a ITEM,0,0,0
-[manage_order_info]:morning replace the PREV_ITEM,1,0,0 and PREV_ITEM,1,0,0 with NUMBER,0,0,5 SIZE,0,0,5 ITEM,0,0,0s and a ITEM,0,0,0
-[manage_order_info]:afternoon i need to replace my PREV_ITEM,1,0,0 with NUMBER,0,0,3 ITEM,0,0,0s containing SIZE,0,0,5 ADDON,0,0,3
-[manage_order_info]:evening could you take the ADDON,1,0,2 off my PREV_ITEM,1,0,0 and add some ADDON,0,0,2
-[manage_order_info]:yo make my PREV_ITEM,1,0,0 a SIZE,0,0,3 ITEM,0,0,0 with ADDON,0,0,3 instead
-[manage_order_info]:hi folks switch out my PREV_ITEM,1,0,0 for a ITEM,0,0,0 with SIZE,0,0,4 ADDON,0,0,2
-[manage_order_info]:hello everyone i need to swap the PREV_ITEM,1,0 and PREV_ITEM,1,0 for a SIZE,0,0,4 ITEM,0,0
+[manage_order_info]:hey there i wanna switch my ITEM,1,0,0 with a ITEM,0,0,0 and add ADDON,2,0,3 on the side
+[manage_order_info]:good morning swap the SIZE,0,1,2 ITEM,1,0,0 for a ITEM,0,0,0 with ADDON,0,0,3
+[manage_order_info]:hey remove NUMBER,0,0,2 of the ITEM,1,0 and swap it for a ITEM,0,0 and a ITEM,0,0 with ADDON,0,0,4
+[manage_order_info]:hi there lemme change the ITEM,1,0,0 and ITEM,1,0,0 to NUMBER,0,0,5 SIZE,0,0,5 ITEM,0,0,0s and a ITEM,0,0,0
+[manage_order_info]:hello there can you switch out my ITEM,1,0,0 and ITEM,1,0,0 for a SIZE,0,0,4 ITEM,0,0,0 and a ITEM,0,0,0
+[manage_order_info]:morning replace the ITEM,1,0,0 and ITEM,1,0,0 with NUMBER,0,0,5 SIZE,0,0,5 ITEM,0,0,0s and a ITEM,0,0,0
+[manage_order_info]:afternoon i need to replace my ITEM,1,0,0 with NUMBER,0,0,3 ITEM,0,0,0s containing SIZE,0,0,5 ADDON,0,0,3
+[manage_order_info]:evening could you take the ADDON,1,0,2 off my ITEM,1,0,0 and add some ADDON,0,0,2
+[manage_order_info]:yo make my ITEM,1,0,0 a SIZE,0,0,3 ITEM,0,0,0 with ADDON,0,0,3 instead
+[manage_order_info]:hi folks switch out my ITEM,1,0,0 for a ITEM,0,0,0 with SIZE,0,0,4 ADDON,0,0,2
+[manage_order_info]:hello everyone i need to swap the ITEM,1,0 and ITEM,1,0 for a SIZE,0,0,4 ITEM,0,0
 [manage_order_info]:hey guys is there a way to exchange an item in my cart
 [manage_order_info]:hi team mind if i modify one of my choices
 [manage_order_info]:hello all can we tweak one of the items i ordered
-[manage_order_info]:good day remove the PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 on the side and replace it with a SIZE,0,0,4 ITEM,0,0,0 with ADDON,0,0,4
-[manage_order_info]:hi there take out the PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 on the side and add a SIZE,0,0,4 ITEM,0,0,0
+[manage_order_info]:good day remove the ITEM,1,0,0 with ADDON,2,1,1 on the side and replace it with a SIZE,0,0,4 ITEM,0,0,0 with ADDON,0,0,4
+[manage_order_info]:hi there take out the ITEM,1,0,0 with ADDON,2,1,1 on the side and add a SIZE,0,0,4 ITEM,0,0,0
 
 
 
@@ -402,32 +402,32 @@ whats up
 [access_prev_order]:hi could we revisit my last order and make a few edits
 [access_prev_order]:hello i just called in an order
 [access_prev_order]:hey there we just talked about the order i placed earlier
-[access_prev_order]:good morning lets update PREV_NAME,0,1,0s recent order details
+[access_prev_order]:good morning lets update NAME,0,1,0s recent order details
 [access_prev_order]:good afternoon i called not too long ago about ordering
-[access_prev_order]:good evening cancel the PREV_ITEM,1,0,0 i mentioned in our last chat
-[access_prev_order]:hey drop PREV_NUMBER,0,0,2 PREV_ITEM,1,0,0s from my last order
-[access_prev_order]:good day trade the PREV_ITEM,1,0,0 from earlier for ITEM,0,0,0 and put ADDON,3,0,2 on it
-[access_prev_order]:morning i want to tweak PREV_NAME,0,1,0s last order
-[access_prev_order]:afternoon for the old order under PREV_NAME,0,1,0 i want to swap PREV_ITEM,1,0,0 for a ITEM,0,0,0 with ADDON,0,0,3
-[access_prev_order]:hello everyone id like to adjust the items in PREV_NAME,0,1,0s last purchase
-[access_prev_order]:hello hello could you help me add items the order that had PREV_ITEM,0,1,0
-[access_prev_order]:hi hi id like to adjust my order containing PREV_ITEM,0,1,0 and PREV_ADDON,0,1,1
-[access_prev_order]:hey hey can we modify what we got for PREV_NAME,0,1,0 in our last conversation
+[access_prev_order]:good evening cancel the ITEM,1,0,0 i mentioned in our last chat
+[access_prev_order]:hey drop NUMBER,0,0,2 ITEM,1,0,0s from my last order
+[access_prev_order]:good day trade the ITEM,1,0,0 from earlier for ITEM,0,0,0 and put ADDON,3,0,2 on it
+[access_prev_order]:morning i want to tweak NAME,0,1,0s last order
+[access_prev_order]:afternoon for the old order under NAME,0,1,0 i want to swap ITEM,1,0,0 for a ITEM,0,0,0 with ADDON,0,0,3
+[access_prev_order]:hello everyone id like to adjust the items in NAME,0,1,0s last purchase
+[access_prev_order]:hello hello could you help me add items the order that had ITEM,0,1,0
+[access_prev_order]:hi hi id like to adjust my order containing ITEM,0,1,0 and ADDON,0,1,1
+[access_prev_order]:hey hey can we modify what we got for NAME,0,1,0 in our last conversation
 [access_prev_order]:aloha just touching base on the order we discussed recently
 [access_prev_order]:salutations we just had a conversation where i placed an order
 
 
 
 // cancel_order + greeting
-[cancel_order]:hi delete my entire order but that PREV_ITEM,0,0 with PREV_ADDON,0,0,1
-[cancel_order]:hello clear my order but leave PREV_ITEM,0,0 with PREV_ADDON,3,0,1 on top
+[cancel_order]:hi delete my entire order but that ITEM,0,0 with ADDON,0,0,1
+[cancel_order]:hello clear my order but leave ITEM,0,0 with ADDON,3,0,1 on top
 [cancel_order]:hey there can we erase my whole order and start over with NUMBER,0,0,2 ITEM,0,0,0s and an ITEM,0,0,0
 [cancel_order]:good evening scratch all that lets go with SIZE,0,0,2 ITEM,0,0,0 and ADDON,2,0,2 on the side
-[cancel_order]:hey shred that order under PREV_NAME,0,1,0 with PREV_ITEM,0,1,0
-[cancel_order]:hi there bust up my order for PREV_ITEM,0,1,0 please
-[cancel_order]:howdy void all items in PREV_NAME,0,1,0s order now
+[cancel_order]:hey shred that order under NAME,0,1,0 with ITEM,0,1,0
+[cancel_order]:hi there bust up my order for ITEM,0,1,0 please
+[cancel_order]:howdy void all items in NAME,0,1,0s order now
 [cancel_order]:good day empty my cart entirely
-[cancel_order]:morning clear the slate for PREV_NAME,0,1,0s order
+[cancel_order]:morning clear the slate for NAME,0,1,0s order
 [cancel_order]:hi team clear everything out of my cart
 [cancel_order]:hello all clear everything in my order fully
 [cancel_order]:good day to you can i remove all the items in my cart
@@ -471,16 +471,16 @@ whats up
 [view_order]:good day i'd like to check my current cart
 [view_order]:morning what's in my order at the moment
 [view_order]:afternoon can you display my cart summary
-[view_order]:evening what food did i order it’s for PREV_NAME,0,1,0
-[view_order]:yo this is PREV_NAME,0,1,0 can you check what i ordered
-[view_order]:hello all can you list the details of my food order it’s under PREV_NAME,0,1,0
-[view_order]:good day to you did you add the correct size to my PREV_ITEM,0,1,0
-[view_order]:hi there everyone did you add PREV_ITEM,0,1,0 to my order
-[view_order]:hello hello how many PREV_ITEM,0,1,0's do i have
-[view_order]:hi hi is my PREV_ITEM,0,1,0 still there
-[view_order]:hey hey did you put any ADDON,0,1,2 on my PREV_ITEM,0,1,0
-[view_order]:aloha what PREV_ITEM,0,1,0 did you just add
-[view_order]:salutations is my PREV_ITEM,0,1,0 with ADDON,0,1,2
+[view_order]:evening what food did i order it’s for NAME,0,1,0
+[view_order]:yo this is NAME,0,1,0 can you check what i ordered
+[view_order]:hello all can you list the details of my food order it’s under NAME,0,1,0
+[view_order]:good day to you did you add the correct size to my ITEM,0,1,0
+[view_order]:hi there everyone did you add ITEM,0,1,0 to my order
+[view_order]:hello hello how many ITEM,0,1,0's do i have
+[view_order]:hi hi is my ITEM,0,1,0 still there
+[view_order]:hey hey did you put any ADDON,0,1,2 on my ITEM,0,1,0
+[view_order]:aloha what ITEM,0,1,0 did you just add
+[view_order]:salutations is my ITEM,0,1,0 with ADDON,0,1,2
 
 
 
@@ -519,25 +519,25 @@ whats up
 
 
 // cancel_res + greeting
-[cancel_res]:hi im unable to attend my reservation on PREV_DATE,0,1,0 at PREV_TIME,0,1,0 please cancel
-[cancel_res]:hello please cancel the reservation i made for PREV_DATE,0,1,0 at PREV_TIME,0,1,0
-[cancel_res]:hey there i want to cancel the booking i made for PREV_DATE,0,1,0 at PREV_TIME,0,1,0
-[cancel_res]:good morning i have decided to cancel my reservation scheduled for PREV_DATE,0,1,0
-[cancel_res]:hi there unfortunately i must cancel the PREV_DATE,0,1,0 reservation i had made
-[cancel_res]:hello there i need to get my upcoming reservation on PREV_DATE,0,1,0 canceled
-[cancel_res]:greetings i wont be able to make it to the reservation scheduled on PREV_DATE,0,1,0
-[cancel_res]:howdy id like to request cancellation of the booking i had set for PREV_DATE,0,1,0
-[cancel_res]:good day unfortunately i have to cancel the reservation that was made for PREV_DATE,0,1,0
-[cancel_res]:morning please cancel my reservation scheduled for PREV_DATE,0,1,0
-[cancel_res]:afternoon i wont be able to make it on PREV_DATE,0,1,0 so i need to cancel
-[cancel_res]:hi folks please cancel my current reservation that was scheduled to take place on PREV_DATE,0,1,0 at PREV_TIME,0,1,0
-[cancel_res]:hello everyone i had made plans to attend my reservation on PREV_DATE,0,1,0 at PREV_TIME,0,1,0 but something came up and i have to cancel
-[cancel_res]:hey guys i want to cancel the reservation i made for PREV_DATE,0,1,0 at PREV_TIME,0,1,0
-[cancel_res]:hi team i need to cancel the appointment i have on PREV_DATE,0,1,0 at PREV_TIME,0,1,0
-[cancel_res]:hello all im looking to cancel my reservation that is scheduled for PREV_DATE,0,1,0 at PREV_TIME,0,1,0
-[cancel_res]:good day to you id like to cancel my reservation thats on PREV_DATE,0,1,0 at PREV_TIME,0,1,0
-[cancel_res]:hi there everyone im not going to be able to make it to my reservation on PREV_DATE,0,1,0 at PREV_TIME,0,1,0 please cancel
-[cancel_res]:hello hello i wont be able to come in for my reservation scheduled for PREV_DATE,0,1,0 please cancel it
+[cancel_res]:hi im unable to attend my reservation on DATE,0,1,0 at TIME,0,1,0 please cancel
+[cancel_res]:hello please cancel the reservation i made for DATE,0,1,0 at TIME,0,1,0
+[cancel_res]:hey there i want to cancel the booking i made for DATE,0,1,0 at TIME,0,1,0
+[cancel_res]:good morning i have decided to cancel my reservation scheduled for DATE,0,1,0
+[cancel_res]:hi there unfortunately i must cancel the DATE,0,1,0 reservation i had made
+[cancel_res]:hello there i need to get my upcoming reservation on DATE,0,1,0 canceled
+[cancel_res]:greetings i wont be able to make it to the reservation scheduled on DATE,0,1,0
+[cancel_res]:howdy id like to request cancellation of the booking i had set for DATE,0,1,0
+[cancel_res]:good day unfortunately i have to cancel the reservation that was made for DATE,0,1,0
+[cancel_res]:morning please cancel my reservation scheduled for DATE,0,1,0
+[cancel_res]:afternoon i wont be able to make it on DATE,0,1,0 so i need to cancel
+[cancel_res]:hi folks please cancel my current reservation that was scheduled to take place on DATE,0,1,0 at TIME,0,1,0
+[cancel_res]:hello everyone i had made plans to attend my reservation on DATE,0,1,0 at TIME,0,1,0 but something came up and i have to cancel
+[cancel_res]:hey guys i want to cancel the reservation i made for DATE,0,1,0 at TIME,0,1,0
+[cancel_res]:hi team i need to cancel the appointment i have on DATE,0,1,0 at TIME,0,1,0
+[cancel_res]:hello all im looking to cancel my reservation that is scheduled for DATE,0,1,0 at TIME,0,1,0
+[cancel_res]:good day to you id like to cancel my reservation thats on DATE,0,1,0 at TIME,0,1,0
+[cancel_res]:hi there everyone im not going to be able to make it to my reservation on DATE,0,1,0 at TIME,0,1,0 please cancel
+[cancel_res]:hello hello i wont be able to come in for my reservation scheduled for DATE,0,1,0 please cancel it
 [cancel_res]:salutations can you cancel my reservation
 [cancel_res]:hi y'all is it possible to cancel my reservation
 [cancel_res]:whats up would you cancel my table reservation
@@ -545,25 +545,25 @@ whats up
 
 
 // change_res_info + greeting
-[change_res_info]:hi can you please look into modifying my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-[change_res_info]:good afternoon i need to shift my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if thats okay
-[change_res_info]:good evening i had booked a reservation for PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to amend it to TIME,0,0,0
-[change_res_info]:greetings would you kindly update my booking on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to accommodate NUMBER,0,0,0 people
-[change_res_info]:howdy i need to edit my reservation from PREV_DATE,1,0,0 to DATE,0,0,0
-[change_res_info]:good day can i adjust the time from PREV_TIME,1,0,0 to TIME,0,0,0
-[change_res_info]:morning can you change my reservation date from PREV_DATE,1,0,0 to DATE,0,0,0
-[change_res_info]:yo i want to switch my reservation from PREV_TIME,1,0,0 to TIME,0,0,0
-[change_res_info]:hi folks can i update my reservation on PREV_DATE,1,0,0 to DATE,0,0,0
-[change_res_info]:hello everyone could you update the time for my reservation on PREV_DATE,0,1,0 to TIME,0,0,0
-[change_res_info]:hey guys can i edit the reservation on PREV_DATE,0,1,0 to have a new time of TIME,0,0,0
-[change_res_info]:hi team please switch the party size from PREV_NUMBER,1,0,0 to NUMBER,0,0,0 on PREV_DATE,0,1,0
-[change_res_info]:hello all i need to change my reservation on PREV_DATE,0,1,0 to a new time of TIME,0,0,0
-[change_res_info]:good day to you i want to move my reservation date from PREV_DATE,1,0,0 to DATE,0,0,0
-[change_res_info]:hi there everyone please adjust my reservation date for PREV_NAME,0,1,0 to DATE,0,0,0
+[change_res_info]:hi can you please look into modifying my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+[change_res_info]:good afternoon i need to shift my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if thats okay
+[change_res_info]:good evening i had booked a reservation for DATE,0,1,0 at TIME,1,0,0 but i need to amend it to TIME,0,0,0
+[change_res_info]:greetings would you kindly update my booking on DATE,0,1,0 from TIME,1,0,0 to accommodate NUMBER,0,0,0 people
+[change_res_info]:howdy i need to edit my reservation from DATE,1,0,0 to DATE,0,0,0
+[change_res_info]:good day can i adjust the time from TIME,1,0,0 to TIME,0,0,0
+[change_res_info]:morning can you change my reservation date from DATE,1,0,0 to DATE,0,0,0
+[change_res_info]:yo i want to switch my reservation from TIME,1,0,0 to TIME,0,0,0
+[change_res_info]:hi folks can i update my reservation on DATE,1,0,0 to DATE,0,0,0
+[change_res_info]:hello everyone could you update the time for my reservation on DATE,0,1,0 to TIME,0,0,0
+[change_res_info]:hey guys can i edit the reservation on DATE,0,1,0 to have a new time of TIME,0,0,0
+[change_res_info]:hi team please switch the party size from NUMBER,1,0,0 to NUMBER,0,0,0 on DATE,0,1,0
+[change_res_info]:hello all i need to change my reservation on DATE,0,1,0 to a new time of TIME,0,0,0
+[change_res_info]:good day to you i want to move my reservation date from DATE,1,0,0 to DATE,0,0,0
+[change_res_info]:hi there everyone please adjust my reservation date for NAME,0,1,0 to DATE,0,0,0
 [change_res_info]:aloha i want to remove the time TIME,1,0,0 from my reservation
 [change_res_info]:salutations can you delete the number of guests NUMBER,1,0,0 from my booking
 [change_res_info]:hi y'all please erase the date DATE,1,0,0 from my booking
-[change_res_info]:whats up can you help me change my reservation from PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for NUMBER,0,0,0 people
+[change_res_info]:whats up can you help me change my reservation from DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for NUMBER,0,0,0 people
 
 
 
@@ -571,22 +571,22 @@ whats up
 [view_res]:hi can you tell me the name on my booking
 [view_res]:hello what time did i reserve the table for
 [view_res]:hey there what's the time for my reservation
-[view_res]:good morning you can show booking details for PREV_NAME,0,1,0 on PREV_DATE,0,1,0
-[view_res]:good afternoon me need see PREV_NAME,0,1,0 reservation for PREV_DATE,0,1,0
-[view_res]:good evening i want to verify the details for the reservation made on PREV_DATE,0,1,0
-[view_res]:hey i should look at the reservation details for PREV_NUMBER,0,1,0 on PREV_DATE,0,1,0
-[view_res]:hi there can you check if i have a reservation for PREV_TIME,0,1,0 on PREV_DATE,0,1,0
-[view_res]:hello there got to pull up the reservation info for PREV_NUMBER,0,1,0 on PREV_DATE,0,1,0
-[view_res]:greetings i want to confirm the info for the booking at PREV_TIME,0,1,0 for PREV_NAME,0,1,0
-[view_res]:howdy are you able to view my reservation for PREV_TIME,0,1,0
-[view_res]:evening are there any tables saved for a party of PREV_NUMBER,0,1,0
-[view_res]:yo fill me in on that booking listed under PREV_NAME,0,1,0
-[view_res]:hi folks you have details for PREV_NAME,0,1,0 booking reservation
+[view_res]:good morning you can show booking details for NAME,0,1,0 on DATE,0,1,0
+[view_res]:good afternoon me need see NAME,0,1,0 reservation for DATE,0,1,0
+[view_res]:good evening i want to verify the details for the reservation made on DATE,0,1,0
+[view_res]:hey i should look at the reservation details for NUMBER,0,1,0 on DATE,0,1,0
+[view_res]:hi there can you check if i have a reservation for TIME,0,1,0 on DATE,0,1,0
+[view_res]:hello there got to pull up the reservation info for NUMBER,0,1,0 on DATE,0,1,0
+[view_res]:greetings i want to confirm the info for the booking at TIME,0,1,0 for NAME,0,1,0
+[view_res]:howdy are you able to view my reservation for TIME,0,1,0
+[view_res]:evening are there any tables saved for a party of NUMBER,0,1,0
+[view_res]:yo fill me in on that booking listed under NAME,0,1,0
+[view_res]:hi folks you have details for NAME,0,1,0 booking reservation
 [view_res]:hello everyone how many people did i book the table for
-[view_res]:hey guys can you give details for PREV_NAME,0,1,0 reservation on PREV_DATE,0,1,0 at PREV_TIME,0,1,0 with guests PREV_NUMBER,0,1,0
-[view_res]:hi team i was hoping to view the reservation details for PREV_NAME,0,1,0 with a party of PREV_NUMBER,0,1,0
-[view_res]:hello hello please show the reservation for PREV_NAME,0,1,0 on PREV_DATE,0,1,0
-[view_res]:hi hi is there a booking under PREV_NAME,0,1,0 at PREV_TIME,0,1,0 on PREV_DATE,0,1,0
-[view_res]:hey hey can i check the reservation for PREV_NUMBER,0,1,0 on PREV_DATE,0,1,0 for PREV_NAME,0,1,0
-[view_res]:aloha let me know PREV_NAME,0,1,0 booking details for PREV_DATE,0,1,0 time PREV_TIME,0,1,0 party count PREV_NUMBER,0,1,0
-[view_res]:salutations let me know reservation for PREV_NAME,0,1,0
+[view_res]:hey guys can you give details for NAME,0,1,0 reservation on DATE,0,1,0 at TIME,0,1,0 with guests NUMBER,0,1,0
+[view_res]:hi team i was hoping to view the reservation details for NAME,0,1,0 with a party of NUMBER,0,1,0
+[view_res]:hello hello please show the reservation for NAME,0,1,0 on DATE,0,1,0
+[view_res]:hi hi is there a booking under NAME,0,1,0 at TIME,0,1,0 on DATE,0,1,0
+[view_res]:hey hey can i check the reservation for NUMBER,0,1,0 on DATE,0,1,0 for NAME,0,1,0
+[view_res]:aloha let me know NAME,0,1,0 booking details for DATE,0,1,0 time TIME,0,1,0 party count NUMBER,0,1,0
+[view_res]:salutations let me know reservation for NAME,0,1,0

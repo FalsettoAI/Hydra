@@ -1,419 +1,419 @@
-i need to change the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-is it possible to modify my reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 to TIME,0,0,0 instead
-can you please update my reservation for PREV_DATE,0,1,0 at PREV_TIME,1,0,0 to be at TIME,0,0,0
-i have a reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to change it to TIME,0,0,0
-i would like to adjust the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-my reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 needs to be changed to TIME,0,0,0 if possible
-could you please modify my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to reschedule my reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 to a later time of TIME,0,0,0
-is there a way to change my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i have a request to update my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i booked a reservation for PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to change it to TIME,0,0,0
-can i please modify the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i would appreciate if you could change my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i need assistance in updating my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-could you help me adjust my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please
-i have a reservation scheduled for PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to move it to TIME,0,0,0
-is it possible to alter my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead
-i would like to request a change to my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-can you please look into modifying my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to shift my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if thats okay
-i had booked a reservation for PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to amend it to TIME,0,0,0
-could you kindly update my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 for me
-i would be grateful if you could change my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i require some help in modifying my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please
-is it feasible to adjust my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead
-can i trouble you to alter my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please
-i had made a reservation for PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to reschedule it to TIME,0,0,0
-would it be possible to modify my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead
-i would appreciate your assistance in changing my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to revise the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if possible
-could you please check if its possible to update my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i have a reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 that i need to reschedule to TIME,0,0,0 please
-is there any way to change my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead
-can you help me modify my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if possible
-i had reserved a table for PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to push it back to TIME,0,0,0
-would you be able to adjust my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 for me
-i would be thankful if you could assist me in changing my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to alter the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please
-is it doable to modify my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead
-can i ask you to change my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please
-i made a reservation for PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but something came up so i need to change it to TIME,0,0,0
-would it be feasible to update my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead
-i would really appreciate it if you could help me change my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to shift the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if thats alright
-could you please see if its possible to adjust my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i have a reservation booked for PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to move it to TIME,0,0,0 please
-is it achievable to alter my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead
-can you assist me in modifying my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if possible
-i had made plans for a reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to delay it to TIME,0,0,0
-would you be willing to change my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 for me
-i would sincerely appreciate your help in adjusting my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to modify the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please let me know if thats possible
-is there a chance i could change my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead
-can i please request you to update my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please
-i made a reservation for PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to postpone it to TIME,0,0,0 if possible
-would it be okay to alter my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead
-i would be very grateful if you could assist me in modifying my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to adjust the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please advise if thats doable
-could you kindly check if its feasible to change my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i have a booking for a reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to reschedule it to TIME,0,0,0 please
-is it viable to modify my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead
-can you help me out by updating my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if possible
-i had arranged for a reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to push it to TIME,0,0,0
-would you be able to accommodate changing my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 for me
-i would truly appreciate your assistance in adjusting my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to change the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please confirm if thats alright
-is there any possibility to alter my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead
-can i ask for your help in modifying my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please
-i made plans for a reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but something came up so i need to delay it to TIME,0,0,0
-would it be permissible to update my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead
-i would be extremely grateful if you could help me change my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to modify the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please let me know if its possible
-is it feasible to change my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead
-can you please check if its doable to adjust my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i have a reservation scheduled for PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to reschedule it to TIME,0,0,0 please
-is it possible to modify my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead
-can you assist me in updating my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if possible
-i had booked a reservation for PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to postpone it to TIME,0,0,0
-would you be willing to change my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 for me please
-i would sincerely appreciate your help in modifying my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to adjust the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please confirm if its okay
-is there a way i could alter my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead
-can i please request you to update my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if possible
-i made arrangements for a reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to delay it to TIME,0,0,0
-would it be alright to modify my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead
-i would be really grateful if you could help me change my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to shift the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please advise if thats fine
-could you kindly see if its possible to adjust my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i have a booking for a reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to push it back to TIME,0,0,0 please
-is it achievable to update my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead
-can you help me out by altering my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if possible
-i had made plans for a reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but something came up so i need to reschedule it to TIME,0,0,0
-would you be able to accommodate changing my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 for me please
-i would truly appreciate your assistance in modifying my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to change the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please let me know if thats doable
-is there any chance to modify my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead
-can i ask for your help in adjusting my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please
-i made arrangements for a reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to postpone it to TIME,0,0,0 if possible
-would it be okay to update my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead
-i would be extremely grateful if you could assist me in changing my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-can you please change the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to modify the time for my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-is it possible to adjust the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i have a reservation booked for PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to change it to TIME,0,0,0
-could you help me reschedule my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i would appreciate if you could update my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-can i please request a change to my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i need assistance in modifying my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-would it be feasible to alter my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i have a reservation set for PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to move it to TIME,0,0,0
-is there a way to shift my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-can you kindly look into changing my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i would be grateful if you could adjust my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to revise the time for my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-could you please check if its possible to modify my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-is it doable to update my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-can i trouble you to alter my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i had booked a table for PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to reschedule it to TIME,0,0,0
-would you be able to assist me in changing my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-can you please modify the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to change the timing for my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-is there a possibility to shift my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i have a booking for PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to move it to TIME,0,0,0
-could you kindly assist me in rescheduling my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i would be thankful if you could update my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-can i please ask for a modification to my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i require some help in altering my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-would it be possible to change my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i have a reservation scheduled for PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to adjust it to TIME,0,0,0
-is there a chance to amend my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i would greatly appreciate if you could change my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to shift the timing for my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-could you kindly check if its feasible to update my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i made plans for a reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to postpone it to TIME,0,0,0
-is it achievable to alter my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-can i ask you to modify my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i had reserved a table for PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but something came up so i need to reschedule it to TIME,0,0,0
-would you be willing to help me in changing my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-can you please adjust the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to modify the schedule for my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i have a reservation booked for PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to shift it to TIME,0,0,0
-could you kindly help me reschedule my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i would be grateful if you could amend my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-can i please request an adjustment to my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i require assistance in altering my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-would it be doable to modify my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i have a reservation set for PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to reschedule it to TIME,0,0,0
-is there a possibility to update my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-can you please check if its possible to change my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-is it feasible to alter my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-can i trouble you to modify my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i had booked a table for PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to push it back to TIME,0,0,0
-would you be able to assist me in adjusting my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i would sincerely appreciate your help in changing my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to revise the timing for my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-is there a chance to shift my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i have a booking for PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but something came up so i need to move it to TIME,0,0,0
-i would be thankful if you could amend my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-can i please ask for a change to my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i want to modify my reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 to TIME,0,0,0
-i need to change the time of my reservation from PREV_TIME,1,0,0 on PREV_DATE,0,1,0 to TIME,0,0,0
-could you please update my reservation for PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-is it possible to alter my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-my reservation on PREV_DATE,0,1,0 is currently at PREV_TIME,1,0,0 but i need to modify it to TIME,0,0,0
-i need to shift my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-could you kindly update the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to modify the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i would like to reschedule my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-could you please update my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to change my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i would like to modify the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-is it possible to adjust my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i have a reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i would like to change it to TIME,0,0,0
-my reservation on PREV_DATE,0,1,0 is currently set for PREV_TIME,1,0,0 but i need to modify it to TIME,0,0,0
-i need to update my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-could you kindly change the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i would appreciate if you could adjust my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i have a reservation booked for PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to reschedule it to TIME,0,0,0
-i need to alter the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-would it be possible to modify my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i would like to change my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-could you please adjust my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to reschedule my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i would like to update the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-is it possible to change my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i have a reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i would prefer to modify it to TIME,0,0,0
-my reservation on PREV_DATE,0,1,0 is currently scheduled for PREV_TIME,1,0,0 but i need to adjust it to TIME,0,0,0
-i need to modify my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i would appreciate if you could alter my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i have a reservation set for PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to change it to TIME,0,0,0
-i need to adjust the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-would it be possible to update my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i would like to modify my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-could you please change my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to alter my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-is it possible to reschedule my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i have a reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i would like to update it to TIME,0,0,0
-my reservation on PREV_DATE,0,1,0 is currently booked for PREV_TIME,1,0,0 but i need to change it to TIME,0,0,0
-i need to shift the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-could you kindly alter the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i would appreciate if you could modify my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-would it be possible to alter my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to update my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i would like to change the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i have a reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i would prefer to reschedule it to TIME,0,0,0
-my reservation on PREV_DATE,0,1,0 is currently set for PREV_TIME,1,0,0 but i need to update it to TIME,0,0,0
-could you kindly change my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i would appreciate if you could adjust the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i have a reservation booked for PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to alter it to TIME,0,0,0
-i need to reschedule the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-would it be possible to modify the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-could you please update the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to adjust my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i would like to alter the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-is it possible to change the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i have a reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i would like to modify it to TIME,0,0,0
-could you kindly update my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i would appreciate if you could change the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-would it be possible to update the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i would like to alter my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-could you please adjust the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-is it possible to reschedule the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-could you kindly alter my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i would appreciate if you could modify the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-would it be possible to alter the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-could you please modify the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to change my reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 to TIME,0,0,0 instead
-can you please modify my booking for PREV_NUMBER,0,1,0 people on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-id like to adjust the timing of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if possible
-is it possible to shift my reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 to TIME,0,0,0
-can i change the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please
-id appreciate if you could alter my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-would it be possible to modify my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead
-can you help me change my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 thank you
-i need to adjust my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if thats okay
-is there any way to change my reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 to TIME,0,0,0 instead
-id like to change the timing of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please
-would you be able to change my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 thanks
-can we adjust the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if possible
-is it alright if i change my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead
-i was hoping to modify my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if thats doable
-could you please change the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 thank you
-would it be alright to adjust my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead
-is there a way to modify the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please
-can i change my reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 to TIME,0,0,0 on the same day if possible
-id like to adjust my reservation for PREV_NUMBER,0,1,0 people on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please
-can you help me modify the time of my booking on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 thanks
-would it be possible to change my reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 to TIME,0,0,0 instead
-i need to alter the timing of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if thats alright
-is it okay if i adjust my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please
-can we please change my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if possible
-id appreciate if you could modify my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead
-would you be able to adjust the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 thanks
-can i shift the timing of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please
-is there any chance i could change my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-can you assist me in modifying my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 thank you
-id like to change my booking for PREV_NUMBER,0,1,0 people on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if thats okay
-would it be alright if i adjusted the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-can we alter my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please
-is it possible to modify my reservation for PREV_NUMBER,0,1,0 people on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-id appreciate if you could change the timing of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 thanks
-can you help me adjust my reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 to TIME,0,0,0 instead if possible
-would it be okay to shift my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please
-i need to modify the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if thats alright
-can i please change my booking on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 to TIME,0,0,0 on the same day
-id like to alter my reservation for PREV_NUMBER,0,1,0 people on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if possible
-is there a way to adjust the timing of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 thanks
-can we modify my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead please
-would you be able to change the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 thank you
-i was hoping to shift my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if thats doable
-could you please adjust my reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 to TIME,0,0,0 if possible
-is it alright if i modify the timing of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-can i change my booking for PREV_NUMBER,0,1,0 people on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please
-id appreciate if you could alter my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 thanks
-would it be possible to adjust my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead
-can you assist me in changing the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 thank you
-i need to modify my booking on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 to TIME,0,0,0 on the same day if thats okay
-is it okay if i shift the timing of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-can we please alter my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if possible
-id like to change the time of my reservation for PREV_NUMBER,0,1,0 people on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 thanks
-would you be able to modify my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead please
-can i adjust the timing of my booking on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if thats alright
-is there any chance i could change my reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 to TIME,0,0,0
-can you help me shift my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 thank you
-id appreciate if you could adjust the time of my reservation for PREV_NUMBER,0,1,0 people on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-would it be alright if i modified my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead
-can we change the timing of my booking on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please
-is it possible to alter my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 thanks
-i need to adjust my reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 to TIME,0,0,0 if thats okay
-can i please modify the time of my reservation for PREV_NUMBER,0,1,0 people on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-id like to change my booking on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 on the same day if possible
-is there a way to shift the timing of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 thank you
-can you assist me in altering my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please
-would you be able to adjust my booking for PREV_NUMBER,0,1,0 people on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 thanks
-i was hoping to modify the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if thats doable
-could you please change my reservation timing on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if possible
-is it alright if i adjust the time of my booking on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-can i shift my reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 to TIME,0,0,0 instead please
-id appreciate if you could alter the timing of my reservation for PREV_NUMBER,0,1,0 people on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 thanks
-would it be possible to modify my booking time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead
-can you help me change the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 thank you
-i need to adjust the timing of my reservation for PREV_NUMBER,0,1,0 people on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if thats okay
-is it okay if i shift my booking time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-can we please alter the time of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if possible
-id like to change my reservation timing on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 thanks
-would you be able to modify the time of my booking for PREV_NUMBER,0,1,0 people on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please
-can i adjust my reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 to TIME,0,0,0 if thats alright
-is there any chance i could change the timing of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-can you assist me in shifting my booking time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 thank you
-id appreciate if you could alter my reservation for PREV_NUMBER,0,1,0 people on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead
-would it be alright if i modified the time of my booking on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-can we change my reservation timing on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please
-is it possible to adjust the time of my reservation for PREV_NUMBER,0,1,0 people on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 thanks
-i need to alter my booking on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 to TIME,0,0,0 if thats okay
-can i please modify the timing of my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-id like to shift my booking time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 on the same day if possible
-is there a way to change the time of my reservation for PREV_NUMBER,0,1,0 people on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 thank you
-can you help me adjust the timing of my booking on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please
-would you be able to modify my reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 to TIME,0,0,0 instead thanks
-i was hoping to alter the time of my reservation for PREV_NUMBER,0,1,0 people on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if thats doable
-could you please change the timing of my booking on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if possible
-is it alright if i shift my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-can i adjust the time of my reservation for PREV_NUMBER,0,1,0 people on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please
-id appreciate if you could modify the timing of my booking on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 thanks
-would it be possible to alter my reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 to TIME,0,0,0 instead
-can you assist me in changing the time of my reservation for PREV_NUMBER,0,1,0 people on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 thank you
-is it possible to change my reservation from PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a group of NUMBER,0,0,0
-i need help modifying my reservation on PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a party size of NUMBER,0,0,0
-could you please alter my reservation from PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for NUMBER,0,0,0 people
-can i adjust my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 for a party of NUMBER,0,0,0 guests please
-i would like to reschedule my reservation from PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a group of NUMBER,0,0,0
-is it possible to modify my reservation on PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a party size of NUMBER,0,0,0
-can you help me change my reservation from PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for NUMBER,0,0,0 people
-i need assistance altering my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 for a party of NUMBER,0,0,0 please
-could i adjust my reservation from PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for NUMBER,0,0,0 guests
-i would like to reschedule my reservation on PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a group of NUMBER,0,0,0
-can you assist me in modifying my reservation from PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a party size of NUMBER,0,0,0
-is it possible to change my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 for NUMBER,0,0,0 people please
-i need help altering my reservation from PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a party of NUMBER,0,0,0
-could you please adjust my reservation on PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for NUMBER,0,0,0 guests
-can i modify my reservation from PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a group of NUMBER,0,0,0
-i would like to change my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 for a party size of NUMBER,0,0,0 please
-is it possible to reschedule my reservation from PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for NUMBER,0,0,0 people
-can you help me alter my reservation on PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a party of NUMBER,0,0,0
-could i adjust my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 for a group of NUMBER,0,0,0
-i would like to change my reservation from PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a party size of NUMBER,0,0,0
-can you assist me in rescheduling my reservation on PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for NUMBER,0,0,0 people
-is it possible to modify my reservation from PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a party of NUMBER,0,0,0 please
-i need help altering my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 for NUMBER,0,0,0 guests
-could you please adjust my reservation from PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a group of NUMBER,0,0,0
-can i change my reservation on PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a party size of NUMBER,0,0,0
-i would like to reschedule my reservation from PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for NUMBER,0,0,0 people please
-is it possible to modify my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 for a party of NUMBER,0,0,0
-can you help me alter my reservation from PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for NUMBER,0,0,0 guests
-i need assistance adjusting my reservation on PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a group of NUMBER,0,0,0 please
-could i change my reservation from PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a party size of NUMBER,0,0,0
-i would like to reschedule my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 for NUMBER,0,0,0 people
-is it alright if i change my reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 to TIME,0,0,0 instead its still for NUMBER,0,0,0
-can i please move my reservation for PREV_NUMBER,0,1,0 on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 to TIME,0,0,0
-i need to reschedule my reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 for PREV_NUMBER,0,1,0 to TIME,0,0,0 if possible
-would you be able to change my PREV_NUMBER,0,1,0 person reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-im hoping to edit the time of my reservation for PREV_NUMBER,0,1,0 on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please
-i have a reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 for PREV_NUMBER,0,1,0 but something came up can i change it to TIME,0,0,0
-could we possibly adjust my PREV_NUMBER,0,1,0 person reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead
-can i modify the reservation i have for PREV_DATE,0,1,0 at PREV_TIME,1,0,0 for PREV_NUMBER,0,1,0 people to TIME,0,0,0
-i want to shift my booking on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 for a party of PREV_NUMBER,0,1,0 to a later time of TIME,0,0,0
-is there any way to change my reservation on PREV_DATE,0,1,0 for PREV_NUMBER,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
-can i change my PREV_NUMBER,0,1,0 person reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 instead please
-i need to reschedule the time of my booking for PREV_DATE,0,1,0 at PREV_TIME,1,0,0 for a group of PREV_NUMBER,0,1,0 to TIME,0,0,0 if possible
-is it alright if we shift my reservation on PREV_DATE,0,1,0 for PREV_NUMBER,0,1,0 people from PREV_TIME,1,0,0 to a later time of TIME,0,0,0
-can you help me alter the time of my PREV_NUMBER,0,1,0 person reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please
-i want to adjust my booking on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 for a party of PREV_NUMBER,0,1,0 to TIME,0,0,0 if thats alright
-i have a reservation for PREV_DATE,0,1,0 at PREV_TIME,1,0,0 for PREV_NUMBER,0,1,0 people but i need to adjust it to a later time of TIME,0,0,0
-could we modify the time of my PREV_NUMBER,0,1,0 person reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if thats okay please
-can you help me shift my booking on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 for a party of PREV_NUMBER,0,1,0 to TIME,0,0,0 instead if possible
-i need to move the time of my reservation on PREV_DATE,0,1,0 for PREV_NUMBER,0,1,0 from PREV_TIME,1,0,0 to a later time of TIME,0,0,0 if thats alright
-is there any way to change the time of my PREV_NUMBER,0,1,0 person reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 please
-i want to reschedule my booking on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 for a group of PREV_NUMBER,0,1,0 to TIME,0,0,0 if possible
-could i please alter the time of my reservation on PREV_DATE,0,1,0 for PREV_NUMBER,0,1,0 people from PREV_TIME,1,0,0 to a later time of TIME,0,0,0
-can we adjust the time of my PREV_NUMBER,0,1,0 person reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if thats okay please
-can you help me adjust my reservation from PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0
-i would like to change my reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 to TIME,0,0,0 if possible
-could we update my reservation from PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0
-i need to alter my reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 to TIME,0,0,0 please
-would you be able to revise my reservation from PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0
-i want to modify my reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 to TIME,0,0,0 if thats okay
-can i change my reservation from PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 instead
-i would like to shift my reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 to TIME,0,0,0 please
-is it possible to amend my reservation from PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0
-is it feasible to alter my booking on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 to fit NUMBER,0,0,0 people
-could you please amend my reservation on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to NUMBER,0,0,0 guests
-can you change my booking on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to a later time of TIME,0,0,0 please
-i would be grateful if you could adjust my reservation on PREV_DATE,0,1,0 at PREV_TIME,1,0,0 to an earlier time of TIME,0,0,0
-is it possible to reschedule my reservation from PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0
-would you kindly update my booking on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to accommodate NUMBER,0,0,0 people
-i need to edit my reservation from PREV_DATE,1,0,0 to DATE,0,0,0
-can i adjust the time from PREV_TIME,1,0,0 to TIME,0,0,0
-can you change my reservation date from PREV_DATE,1,0,0 to DATE,0,0,0
-i want to switch my reservation from PREV_TIME,1,0,0 to TIME,0,0,0
-can i update my reservation on PREV_DATE,1,0,0 to DATE,0,0,0
-i need to change the time of my reservation from PREV_TIME,1,0,0 to TIME,0,0,0
-is it possible to edit the reservation on PREV_DATE,1,0,0 to the new date of DATE,0,0,0
-can you please switch the reservation time from PREV_TIME,1,0,0 to TIME,0,0,0
-can you help me change the party size from PREV_NUMBER,1,0,0 to NUMBER,0,0,0
-i need to adjust my reservation on PREV_DATE,1,0,0 to DATE,0,0,0
-can you modify the reservation time from PREV_TIME,1,0,0 to TIME,0,0,0
-can i alter the reservation on PREV_DATE,1,0,0 to DATE,0,0,0
-can i switch my reservation time from PREV_TIME,1,0,0 to TIME,0,0,0
-is it possible to move the reservation on PREV_DATE,1,0,0 to DATE,0,0,0
-please edit the reservation time from PREV_TIME,1,0,0 to TIME,0,0,0
-can i adjust the reservation time from PREV_TIME,1,0,0 to TIME,0,0,0
-can you change the reservation on PREV_DATE,1,0,0 to DATE,0,0,0
-i want to switch the reservation time from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to change my reservation time from PREV_TIME,1,0,0 to TIME,0,0,0
-can you move the reservation from PREV_DATE,1,0,0 to DATE,0,0,0
-i need to change my party size from PREV_NUMBER,1,0,0 to NUMBER,0,0,0
+i need to change the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+is it possible to modify my reservation on DATE,0,1,0 at TIME,1,0,0 to TIME,0,0,0 instead
+can you please update my reservation for DATE,0,1,0 at TIME,1,0,0 to be at TIME,0,0,0
+i have a reservation on DATE,0,1,0 at TIME,1,0,0 but i need to change it to TIME,0,0,0
+i would like to adjust the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+my reservation on DATE,0,1,0 at TIME,1,0,0 needs to be changed to TIME,0,0,0 if possible
+could you please modify my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i need to reschedule my reservation on DATE,0,1,0 at TIME,1,0,0 to a later time of TIME,0,0,0
+is there a way to change my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i have a request to update my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i booked a reservation for DATE,0,1,0 at TIME,1,0,0 but i need to change it to TIME,0,0,0
+can i please modify the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i would appreciate if you could change my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i need assistance in updating my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+could you help me adjust my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please
+i have a reservation scheduled for DATE,0,1,0 at TIME,1,0,0 but i need to move it to TIME,0,0,0
+is it possible to alter my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead
+i would like to request a change to my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+can you please look into modifying my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i need to shift my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if thats okay
+i had booked a reservation for DATE,0,1,0 at TIME,1,0,0 but i need to amend it to TIME,0,0,0
+could you kindly update my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 for me
+i would be grateful if you could change my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i require some help in modifying my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please
+is it feasible to adjust my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead
+can i trouble you to alter my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please
+i had made a reservation for DATE,0,1,0 at TIME,1,0,0 but i need to reschedule it to TIME,0,0,0
+would it be possible to modify my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead
+i would appreciate your assistance in changing my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i need to revise the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if possible
+could you please check if its possible to update my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i have a reservation on DATE,0,1,0 at TIME,1,0,0 that i need to reschedule to TIME,0,0,0 please
+is there any way to change my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead
+can you help me modify my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if possible
+i had reserved a table for DATE,0,1,0 at TIME,1,0,0 but i need to push it back to TIME,0,0,0
+would you be able to adjust my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 for me
+i would be thankful if you could assist me in changing my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i need to alter the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please
+is it doable to modify my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead
+can i ask you to change my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please
+i made a reservation for DATE,0,1,0 at TIME,1,0,0 but something came up so i need to change it to TIME,0,0,0
+would it be feasible to update my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead
+i would really appreciate it if you could help me change my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i need to shift the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if thats alright
+could you please see if its possible to adjust my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i have a reservation booked for DATE,0,1,0 at TIME,1,0,0 but i need to move it to TIME,0,0,0 please
+is it achievable to alter my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead
+can you assist me in modifying my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if possible
+i had made plans for a reservation on DATE,0,1,0 at TIME,1,0,0 but i need to delay it to TIME,0,0,0
+would you be willing to change my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 for me
+i would sincerely appreciate your help in adjusting my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i need to modify the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please let me know if thats possible
+is there a chance i could change my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead
+can i please request you to update my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please
+i made a reservation for DATE,0,1,0 at TIME,1,0,0 but i need to postpone it to TIME,0,0,0 if possible
+would it be okay to alter my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead
+i would be very grateful if you could assist me in modifying my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i need to adjust the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please advise if thats doable
+could you kindly check if its feasible to change my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i have a booking for a reservation on DATE,0,1,0 at TIME,1,0,0 but i need to reschedule it to TIME,0,0,0 please
+is it viable to modify my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead
+can you help me out by updating my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if possible
+i had arranged for a reservation on DATE,0,1,0 at TIME,1,0,0 but i need to push it to TIME,0,0,0
+would you be able to accommodate changing my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 for me
+i would truly appreciate your assistance in adjusting my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i need to change the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please confirm if thats alright
+is there any possibility to alter my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead
+can i ask for your help in modifying my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please
+i made plans for a reservation on DATE,0,1,0 at TIME,1,0,0 but something came up so i need to delay it to TIME,0,0,0
+would it be permissible to update my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead
+i would be extremely grateful if you could help me change my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i need to modify the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please let me know if its possible
+is it feasible to change my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead
+can you please check if its doable to adjust my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i have a reservation scheduled for DATE,0,1,0 at TIME,1,0,0 but i need to reschedule it to TIME,0,0,0 please
+is it possible to modify my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead
+can you assist me in updating my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if possible
+i had booked a reservation for DATE,0,1,0 at TIME,1,0,0 but i need to postpone it to TIME,0,0,0
+would you be willing to change my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 for me please
+i would sincerely appreciate your help in modifying my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i need to adjust the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please confirm if its okay
+is there a way i could alter my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead
+can i please request you to update my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if possible
+i made arrangements for a reservation on DATE,0,1,0 at TIME,1,0,0 but i need to delay it to TIME,0,0,0
+would it be alright to modify my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead
+i would be really grateful if you could help me change my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i need to shift the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please advise if thats fine
+could you kindly see if its possible to adjust my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i have a booking for a reservation on DATE,0,1,0 at TIME,1,0,0 but i need to push it back to TIME,0,0,0 please
+is it achievable to update my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead
+can you help me out by altering my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if possible
+i had made plans for a reservation on DATE,0,1,0 at TIME,1,0,0 but something came up so i need to reschedule it to TIME,0,0,0
+would you be able to accommodate changing my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 for me please
+i would truly appreciate your assistance in modifying my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i need to change the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please let me know if thats doable
+is there any chance to modify my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead
+can i ask for your help in adjusting my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please
+i made arrangements for a reservation on DATE,0,1,0 at TIME,1,0,0 but i need to postpone it to TIME,0,0,0 if possible
+would it be okay to update my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead
+i would be extremely grateful if you could assist me in changing my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+can you please change the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i need to modify the time for my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+is it possible to adjust the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i have a reservation booked for DATE,0,1,0 at TIME,1,0,0 but i need to change it to TIME,0,0,0
+could you help me reschedule my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i would appreciate if you could update my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+can i please request a change to my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i need assistance in modifying my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+would it be feasible to alter my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i have a reservation set for DATE,0,1,0 at TIME,1,0,0 but i need to move it to TIME,0,0,0
+is there a way to shift my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+can you kindly look into changing my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i would be grateful if you could adjust my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i need to revise the time for my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+could you please check if its possible to modify my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+is it doable to update my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+can i trouble you to alter my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i had booked a table for DATE,0,1,0 at TIME,1,0,0 but i need to reschedule it to TIME,0,0,0
+would you be able to assist me in changing my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+can you please modify the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i need to change the timing for my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+is there a possibility to shift my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i have a booking for DATE,0,1,0 at TIME,1,0,0 but i need to move it to TIME,0,0,0
+could you kindly assist me in rescheduling my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i would be thankful if you could update my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+can i please ask for a modification to my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i require some help in altering my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+would it be possible to change my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i have a reservation scheduled for DATE,0,1,0 at TIME,1,0,0 but i need to adjust it to TIME,0,0,0
+is there a chance to amend my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i would greatly appreciate if you could change my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i need to shift the timing for my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+could you kindly check if its feasible to update my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i made plans for a reservation on DATE,0,1,0 at TIME,1,0,0 but i need to postpone it to TIME,0,0,0
+is it achievable to alter my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+can i ask you to modify my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i had reserved a table for DATE,0,1,0 at TIME,1,0,0 but something came up so i need to reschedule it to TIME,0,0,0
+would you be willing to help me in changing my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+can you please adjust the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i need to modify the schedule for my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i have a reservation booked for DATE,0,1,0 at TIME,1,0,0 but i need to shift it to TIME,0,0,0
+could you kindly help me reschedule my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i would be grateful if you could amend my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+can i please request an adjustment to my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i require assistance in altering my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+would it be doable to modify my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i have a reservation set for DATE,0,1,0 at TIME,1,0,0 but i need to reschedule it to TIME,0,0,0
+is there a possibility to update my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+can you please check if its possible to change my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+is it feasible to alter my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+can i trouble you to modify my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i had booked a table for DATE,0,1,0 at TIME,1,0,0 but i need to push it back to TIME,0,0,0
+would you be able to assist me in adjusting my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i would sincerely appreciate your help in changing my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i need to revise the timing for my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+is there a chance to shift my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i have a booking for DATE,0,1,0 at TIME,1,0,0 but something came up so i need to move it to TIME,0,0,0
+i would be thankful if you could amend my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+can i please ask for a change to my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i want to modify my reservation on DATE,0,1,0 at TIME,1,0,0 to TIME,0,0,0
+i need to change the time of my reservation from TIME,1,0,0 on DATE,0,1,0 to TIME,0,0,0
+could you please update my reservation for DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+is it possible to alter my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+my reservation on DATE,0,1,0 is currently at TIME,1,0,0 but i need to modify it to TIME,0,0,0
+i need to shift my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+could you kindly update the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i need to modify the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i would like to reschedule my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+could you please update my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i need to change my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i would like to modify the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+is it possible to adjust my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i have a reservation on DATE,0,1,0 at TIME,1,0,0 but i would like to change it to TIME,0,0,0
+my reservation on DATE,0,1,0 is currently set for TIME,1,0,0 but i need to modify it to TIME,0,0,0
+i need to update my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+could you kindly change the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i would appreciate if you could adjust my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i have a reservation booked for DATE,0,1,0 at TIME,1,0,0 but i need to reschedule it to TIME,0,0,0
+i need to alter the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+would it be possible to modify my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i would like to change my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+could you please adjust my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i need to reschedule my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i would like to update the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+is it possible to change my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i have a reservation on DATE,0,1,0 at TIME,1,0,0 but i would prefer to modify it to TIME,0,0,0
+my reservation on DATE,0,1,0 is currently scheduled for TIME,1,0,0 but i need to adjust it to TIME,0,0,0
+i need to modify my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i would appreciate if you could alter my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i have a reservation set for DATE,0,1,0 at TIME,1,0,0 but i need to change it to TIME,0,0,0
+i need to adjust the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+would it be possible to update my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i would like to modify my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+could you please change my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i need to alter my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+is it possible to reschedule my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i have a reservation on DATE,0,1,0 at TIME,1,0,0 but i would like to update it to TIME,0,0,0
+my reservation on DATE,0,1,0 is currently booked for TIME,1,0,0 but i need to change it to TIME,0,0,0
+i need to shift the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+could you kindly alter the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i would appreciate if you could modify my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+would it be possible to alter my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i need to update my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i would like to change the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i have a reservation on DATE,0,1,0 at TIME,1,0,0 but i would prefer to reschedule it to TIME,0,0,0
+my reservation on DATE,0,1,0 is currently set for TIME,1,0,0 but i need to update it to TIME,0,0,0
+could you kindly change my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i would appreciate if you could adjust the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i have a reservation booked for DATE,0,1,0 at TIME,1,0,0 but i need to alter it to TIME,0,0,0
+i need to reschedule the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+would it be possible to modify the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+could you please update the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i need to adjust my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i would like to alter the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+is it possible to change the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i have a reservation on DATE,0,1,0 at TIME,1,0,0 but i would like to modify it to TIME,0,0,0
+could you kindly update my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i would appreciate if you could change the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+would it be possible to update the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i would like to alter my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+could you please adjust the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+is it possible to reschedule the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+could you kindly alter my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i would appreciate if you could modify the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+would it be possible to alter the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+could you please modify the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+i need to change my reservation on DATE,0,1,0 at TIME,1,0,0 to TIME,0,0,0 instead
+can you please modify my booking for NUMBER,0,1,0 people on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+id like to adjust the timing of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if possible
+is it possible to shift my reservation on DATE,0,1,0 at TIME,1,0,0 to TIME,0,0,0
+can i change the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please
+id appreciate if you could alter my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+would it be possible to modify my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead
+can you help me change my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 thank you
+i need to adjust my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if thats okay
+is there any way to change my reservation on DATE,0,1,0 at TIME,1,0,0 to TIME,0,0,0 instead
+id like to change the timing of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please
+would you be able to change my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 thanks
+can we adjust the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if possible
+is it alright if i change my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead
+i was hoping to modify my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if thats doable
+could you please change the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 thank you
+would it be alright to adjust my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead
+is there a way to modify the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please
+can i change my reservation on DATE,0,1,0 at TIME,1,0,0 to TIME,0,0,0 on the same day if possible
+id like to adjust my reservation for NUMBER,0,1,0 people on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please
+can you help me modify the time of my booking on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 thanks
+would it be possible to change my reservation on DATE,0,1,0 at TIME,1,0,0 to TIME,0,0,0 instead
+i need to alter the timing of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if thats alright
+is it okay if i adjust my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please
+can we please change my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if possible
+id appreciate if you could modify my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead
+would you be able to adjust the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 thanks
+can i shift the timing of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please
+is there any chance i could change my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+can you assist me in modifying my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 thank you
+id like to change my booking for NUMBER,0,1,0 people on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if thats okay
+would it be alright if i adjusted the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+can we alter my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please
+is it possible to modify my reservation for NUMBER,0,1,0 people on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+id appreciate if you could change the timing of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 thanks
+can you help me adjust my reservation on DATE,0,1,0 at TIME,1,0,0 to TIME,0,0,0 instead if possible
+would it be okay to shift my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please
+i need to modify the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if thats alright
+can i please change my booking on DATE,0,1,0 at TIME,1,0,0 to TIME,0,0,0 on the same day
+id like to alter my reservation for NUMBER,0,1,0 people on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if possible
+is there a way to adjust the timing of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 thanks
+can we modify my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead please
+would you be able to change the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 thank you
+i was hoping to shift my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if thats doable
+could you please adjust my reservation on DATE,0,1,0 at TIME,1,0,0 to TIME,0,0,0 if possible
+is it alright if i modify the timing of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+can i change my booking for NUMBER,0,1,0 people on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please
+id appreciate if you could alter my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 thanks
+would it be possible to adjust my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead
+can you assist me in changing the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 thank you
+i need to modify my booking on DATE,0,1,0 at TIME,1,0,0 to TIME,0,0,0 on the same day if thats okay
+is it okay if i shift the timing of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+can we please alter my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if possible
+id like to change the time of my reservation for NUMBER,0,1,0 people on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 thanks
+would you be able to modify my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead please
+can i adjust the timing of my booking on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if thats alright
+is there any chance i could change my reservation on DATE,0,1,0 at TIME,1,0,0 to TIME,0,0,0
+can you help me shift my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 thank you
+id appreciate if you could adjust the time of my reservation for NUMBER,0,1,0 people on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+would it be alright if i modified my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead
+can we change the timing of my booking on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please
+is it possible to alter my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 thanks
+i need to adjust my reservation on DATE,0,1,0 at TIME,1,0,0 to TIME,0,0,0 if thats okay
+can i please modify the time of my reservation for NUMBER,0,1,0 people on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+id like to change my booking on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 on the same day if possible
+is there a way to shift the timing of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 thank you
+can you assist me in altering my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please
+would you be able to adjust my booking for NUMBER,0,1,0 people on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 thanks
+i was hoping to modify the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if thats doable
+could you please change my reservation timing on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if possible
+is it alright if i adjust the time of my booking on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+can i shift my reservation on DATE,0,1,0 at TIME,1,0,0 to TIME,0,0,0 instead please
+id appreciate if you could alter the timing of my reservation for NUMBER,0,1,0 people on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 thanks
+would it be possible to modify my booking time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead
+can you help me change the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 thank you
+i need to adjust the timing of my reservation for NUMBER,0,1,0 people on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if thats okay
+is it okay if i shift my booking time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+can we please alter the time of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if possible
+id like to change my reservation timing on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 thanks
+would you be able to modify the time of my booking for NUMBER,0,1,0 people on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please
+can i adjust my reservation on DATE,0,1,0 at TIME,1,0,0 to TIME,0,0,0 if thats alright
+is there any chance i could change the timing of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+can you assist me in shifting my booking time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 thank you
+id appreciate if you could alter my reservation for NUMBER,0,1,0 people on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead
+would it be alright if i modified the time of my booking on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+can we change my reservation timing on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please
+is it possible to adjust the time of my reservation for NUMBER,0,1,0 people on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 thanks
+i need to alter my booking on DATE,0,1,0 at TIME,1,0,0 to TIME,0,0,0 if thats okay
+can i please modify the timing of my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+id like to shift my booking time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 on the same day if possible
+is there a way to change the time of my reservation for NUMBER,0,1,0 people on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 thank you
+can you help me adjust the timing of my booking on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please
+would you be able to modify my reservation on DATE,0,1,0 at TIME,1,0,0 to TIME,0,0,0 instead thanks
+i was hoping to alter the time of my reservation for NUMBER,0,1,0 people on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if thats doable
+could you please change the timing of my booking on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if possible
+is it alright if i shift my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+can i adjust the time of my reservation for NUMBER,0,1,0 people on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please
+id appreciate if you could modify the timing of my booking on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 thanks
+would it be possible to alter my reservation on DATE,0,1,0 at TIME,1,0,0 to TIME,0,0,0 instead
+can you assist me in changing the time of my reservation for NUMBER,0,1,0 people on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 thank you
+is it possible to change my reservation from DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a group of NUMBER,0,0,0
+i need help modifying my reservation on DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a party size of NUMBER,0,0,0
+could you please alter my reservation from DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for NUMBER,0,0,0 people
+can i adjust my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 for a party of NUMBER,0,0,0 guests please
+i would like to reschedule my reservation from DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a group of NUMBER,0,0,0
+is it possible to modify my reservation on DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a party size of NUMBER,0,0,0
+can you help me change my reservation from DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for NUMBER,0,0,0 people
+i need assistance altering my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 for a party of NUMBER,0,0,0 please
+could i adjust my reservation from DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for NUMBER,0,0,0 guests
+i would like to reschedule my reservation on DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a group of NUMBER,0,0,0
+can you assist me in modifying my reservation from DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a party size of NUMBER,0,0,0
+is it possible to change my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 for NUMBER,0,0,0 people please
+i need help altering my reservation from DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a party of NUMBER,0,0,0
+could you please adjust my reservation on DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for NUMBER,0,0,0 guests
+can i modify my reservation from DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a group of NUMBER,0,0,0
+i would like to change my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 for a party size of NUMBER,0,0,0 please
+is it possible to reschedule my reservation from DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for NUMBER,0,0,0 people
+can you help me alter my reservation on DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a party of NUMBER,0,0,0
+could i adjust my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 for a group of NUMBER,0,0,0
+i would like to change my reservation from DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a party size of NUMBER,0,0,0
+can you assist me in rescheduling my reservation on DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for NUMBER,0,0,0 people
+is it possible to modify my reservation from DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a party of NUMBER,0,0,0 please
+i need help altering my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 for NUMBER,0,0,0 guests
+could you please adjust my reservation from DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a group of NUMBER,0,0,0
+can i change my reservation on DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a party size of NUMBER,0,0,0
+i would like to reschedule my reservation from DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for NUMBER,0,0,0 people please
+is it possible to modify my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 for a party of NUMBER,0,0,0
+can you help me alter my reservation from DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for NUMBER,0,0,0 guests
+i need assistance adjusting my reservation on DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a group of NUMBER,0,0,0 please
+could i change my reservation from DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for a party size of NUMBER,0,0,0
+i would like to reschedule my reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 for NUMBER,0,0,0 people
+is it alright if i change my reservation on DATE,0,1,0 at TIME,1,0,0 to TIME,0,0,0 instead its still for NUMBER,0,0,0
+can i please move my reservation for NUMBER,0,1,0 on DATE,0,1,0 at TIME,1,0,0 to TIME,0,0,0
+i need to reschedule my reservation on DATE,0,1,0 at TIME,1,0,0 for NUMBER,0,1,0 to TIME,0,0,0 if possible
+would you be able to change my NUMBER,0,1,0 person reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+im hoping to edit the time of my reservation for NUMBER,0,1,0 on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please
+i have a reservation on DATE,0,1,0 at TIME,1,0,0 for NUMBER,0,1,0 but something came up can i change it to TIME,0,0,0
+could we possibly adjust my NUMBER,0,1,0 person reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead
+can i modify the reservation i have for DATE,0,1,0 at TIME,1,0,0 for NUMBER,0,1,0 people to TIME,0,0,0
+i want to shift my booking on DATE,0,1,0 at TIME,1,0,0 for a party of NUMBER,0,1,0 to a later time of TIME,0,0,0
+is there any way to change my reservation on DATE,0,1,0 for NUMBER,0,1,0 from TIME,1,0,0 to TIME,0,0,0
+can i change my NUMBER,0,1,0 person reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 instead please
+i need to reschedule the time of my booking for DATE,0,1,0 at TIME,1,0,0 for a group of NUMBER,0,1,0 to TIME,0,0,0 if possible
+is it alright if we shift my reservation on DATE,0,1,0 for NUMBER,0,1,0 people from TIME,1,0,0 to a later time of TIME,0,0,0
+can you help me alter the time of my NUMBER,0,1,0 person reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please
+i want to adjust my booking on DATE,0,1,0 at TIME,1,0,0 for a party of NUMBER,0,1,0 to TIME,0,0,0 if thats alright
+i have a reservation for DATE,0,1,0 at TIME,1,0,0 for NUMBER,0,1,0 people but i need to adjust it to a later time of TIME,0,0,0
+could we modify the time of my NUMBER,0,1,0 person reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if thats okay please
+can you help me shift my booking on DATE,0,1,0 at TIME,1,0,0 for a party of NUMBER,0,1,0 to TIME,0,0,0 instead if possible
+i need to move the time of my reservation on DATE,0,1,0 for NUMBER,0,1,0 from TIME,1,0,0 to a later time of TIME,0,0,0 if thats alright
+is there any way to change the time of my NUMBER,0,1,0 person reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 please
+i want to reschedule my booking on DATE,0,1,0 at TIME,1,0,0 for a group of NUMBER,0,1,0 to TIME,0,0,0 if possible
+could i please alter the time of my reservation on DATE,0,1,0 for NUMBER,0,1,0 people from TIME,1,0,0 to a later time of TIME,0,0,0
+can we adjust the time of my NUMBER,0,1,0 person reservation on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0 if thats okay please
+can you help me adjust my reservation from DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0
+i would like to change my reservation on DATE,0,1,0 at TIME,1,0,0 to TIME,0,0,0 if possible
+could we update my reservation from DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0
+i need to alter my reservation on DATE,0,1,0 at TIME,1,0,0 to TIME,0,0,0 please
+would you be able to revise my reservation from DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0
+i want to modify my reservation on DATE,0,1,0 at TIME,1,0,0 to TIME,0,0,0 if thats okay
+can i change my reservation from DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 instead
+i would like to shift my reservation on DATE,0,1,0 at TIME,1,0,0 to TIME,0,0,0 please
+is it possible to amend my reservation from DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0
+is it feasible to alter my booking on DATE,0,1,0 at TIME,1,0,0 to fit NUMBER,0,0,0 people
+could you please amend my reservation on DATE,0,1,0 from TIME,1,0,0 to NUMBER,0,0,0 guests
+can you change my booking on DATE,0,1,0 from TIME,1,0,0 to a later time of TIME,0,0,0 please
+i would be grateful if you could adjust my reservation on DATE,0,1,0 at TIME,1,0,0 to an earlier time of TIME,0,0,0
+is it possible to reschedule my reservation from DATE,1,0,0 at TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0
+would you kindly update my booking on DATE,0,1,0 from TIME,1,0,0 to accommodate NUMBER,0,0,0 people
+i need to edit my reservation from DATE,1,0,0 to DATE,0,0,0
+can i adjust the time from TIME,1,0,0 to TIME,0,0,0
+can you change my reservation date from DATE,1,0,0 to DATE,0,0,0
+i want to switch my reservation from TIME,1,0,0 to TIME,0,0,0
+can i update my reservation on DATE,1,0,0 to DATE,0,0,0
+i need to change the time of my reservation from TIME,1,0,0 to TIME,0,0,0
+is it possible to edit the reservation on DATE,1,0,0 to the new date of DATE,0,0,0
+can you please switch the reservation time from TIME,1,0,0 to TIME,0,0,0
+can you help me change the party size from NUMBER,1,0,0 to NUMBER,0,0,0
+i need to adjust my reservation on DATE,1,0,0 to DATE,0,0,0
+can you modify the reservation time from TIME,1,0,0 to TIME,0,0,0
+can i alter the reservation on DATE,1,0,0 to DATE,0,0,0
+can i switch my reservation time from TIME,1,0,0 to TIME,0,0,0
+is it possible to move the reservation on DATE,1,0,0 to DATE,0,0,0
+please edit the reservation time from TIME,1,0,0 to TIME,0,0,0
+can i adjust the reservation time from TIME,1,0,0 to TIME,0,0,0
+can you change the reservation on DATE,1,0,0 to DATE,0,0,0
+i want to switch the reservation time from TIME,1,0,0 to TIME,0,0,0
+i need to change my reservation time from TIME,1,0,0 to TIME,0,0,0
+can you move the reservation from DATE,1,0,0 to DATE,0,0,0
+i need to change my party size from NUMBER,1,0,0 to NUMBER,0,0,0
 please update my reservation date to DATE,0,0,0
 can you move my reservation to DATE,0,0,0
 please update my reservation to TIME,0,0,0
@@ -591,280 +591,280 @@ i want to alter the date of my reservation to DATE,0,0,0
 is it possible to adjust the date of my reservation to DATE,0,0,0
 can you modify the time of my reservation to TIME,0,0,0
 can you switch the date of my reservation to DATE,0,0,0
-i need to update my reservation time from PREV_TIME,1,0,0 to TIME,0,0,0
-please change the party size on PREV_DATE,0,1,0 from PREV_NUMBER,1,0,0 to NUMBER,0,0,0
-can we move our reservation on PREV_DATE,1,0,0 to DATE,0,0,0
-could you update the time for my reservation on PREV_DATE,0,1,0 to TIME,0,0,0
-can i edit the reservation on PREV_DATE,0,1,0 to have a new time of TIME,0,0,0
-please switch the party size from PREV_NUMBER,1,0,0 to NUMBER,0,0,0 on PREV_DATE,0,1,0
-i need to change my reservation on PREV_DATE,0,1,0 to a new time of TIME,0,0,0
-can we adjust the reservation time on PREV_DATE,0,1,0 to TIME,0,0,0
-could you change the reservation on PREV_DATE,1,0,0 to a different date DATE,0,0,0
-i want to update the party size from PREV_NUMBER,1,0,0 to NUMBER,0,0,0 on PREV_DATE,0,1,0
-can we change the time of our reservation on PREV_DATE,0,1,0 to TIME,0,0,0
-please update my reservation on PREV_DATE,1,0,0 to a new date of DATE,0,0,0
-can i edit the reservation time from PREV_TIME,1,0,0 to TIME,0,0,0 on PREV_DATE,0,1,0
-could you update the party size on PREV_DATE,0,1,0 from PREV_NUMBER,1,0,0 to NUMBER,0,0,0
-can we move our reservation to DATE,0,0,0 instead of PREV_DATE,1,0,0
-please change the reservation on PREV_DATE,0,1,0 to a new time of TIME,0,0,0
-i need to update the reservation date from PREV_DATE,1,0,0 to DATE,0,0,0
-can i change the party size on PREV_DATE,0,1,0 from PREV_NUMBER,1,0,0 to NUMBER,0,0,0
-could you adjust the reservation time from PREV_TIME,1,0,0 to TIME,0,0,0 on PREV_DATE,0,1,0
-could you change the party size on PREV_DATE,0,1,0 from PREV_NUMBER,1,0,0 to NUMBER,0,0,0
-can i update the party size on PREV_DATE,0,1,0 from PREV_NUMBER,1,0,0 to NUMBER,0,0,0
-could you switch the reservation on PREV_DATE,1,0,0 to a different date DATE,0,0,0
-please edit the reservation time from PREV_TIME,1,0,0 to TIME,0,0,0 on PREV_DATE,0,1,0
-i want to adjust the reservation on PREV_DATE,0,1,0 to TIME,0,0,0
-can we change the reservation party size from PREV_NUMBER,1,0,0 to NUMBER,0,0,0 on PREV_DATE,0,1,0
-could you update the reservation date from PREV_DATE,1,0,0 to DATE,0,0,0
-i need to change the party size on PREV_DATE,0,1,0 from PREV_NUMBER,1,0,0 to NUMBER,0,0,0
-can i edit the reservation date from PREV_DATE,1,0,0 to DATE,0,0,0
-please update the reservation on PREV_DATE,1,0,0 to DATE,0,0,0
-i want to change the reservation time on PREV_DATE,0,1,0 to TIME,0,0,0
-can we switch the party size from PREV_NUMBER,1,0,0 to NUMBER,0,0,0 on PREV_DATE,0,1,0
-can i update the reservation party size on PREV_DATE,0,1,0 from PREV_NUMBER,1,0,0 to NUMBER,0,0,0
-i want to switch the party size on PREV_DATE,0,1,0 from PREV_NUMBER,1,0,0 to NUMBER,0,0,0
-i need to edit the reservation party size on PREV_DATE,0,1,0 from PREV_NUMBER,1,0,0 to NUMBER,0,0,0
-could you switch the reservation time from PREV_TIME,1,0,0 to TIME,0,0,0 on PREV_DATE,0,1,0
-please move the party size on PREV_DATE,0,1,0 from PREV_NUMBER,1,0,0 to NUMBER,0,0,0
-could you change the party size from PREV_NUMBER,1,0,0 to NUMBER,0,0,0 on PREV_DATE,0,1,0
-i want to change the party size from PREV_NUMBER,1,0,0 to NUMBER,0,0,0 on PREV_DATE,0,1,0
-can i adjust the reservation time from PREV_TIME,1,0,0 to TIME,0,0,0 on PREV_DATE,0,1,0
-can we change the party size on PREV_DATE,0,1,0 from PREV_NUMBER,1,0,0 to NUMBER,0,0,0
-i need to edit the party size from PREV_NUMBER,1,0,0 to NUMBER,0,0,0 on PREV_DATE,0,1,0
-can we adjust the reservation time from PREV_TIME,1,0,0 to TIME,0,0,0 on PREV_DATE,0,1,0
-update the booking from PREV_DATE,1,0,0 to DATE,0,0,0
-shift the reservation time for PREV_NAME,0,1,0 to TIME,0,0,0
-please modify the booking date from PREV_DATE,1,0,0 to DATE,0,0,0
-adjust the reservation under PREV_NAME,0,1,0 to TIME,0,0,0
+i need to update my reservation time from TIME,1,0,0 to TIME,0,0,0
+please change the party size on DATE,0,1,0 from NUMBER,1,0,0 to NUMBER,0,0,0
+can we move our reservation on DATE,1,0,0 to DATE,0,0,0
+could you update the time for my reservation on DATE,0,1,0 to TIME,0,0,0
+can i edit the reservation on DATE,0,1,0 to have a new time of TIME,0,0,0
+please switch the party size from NUMBER,1,0,0 to NUMBER,0,0,0 on DATE,0,1,0
+i need to change my reservation on DATE,0,1,0 to a new time of TIME,0,0,0
+can we adjust the reservation time on DATE,0,1,0 to TIME,0,0,0
+could you change the reservation on DATE,1,0,0 to a different date DATE,0,0,0
+i want to update the party size from NUMBER,1,0,0 to NUMBER,0,0,0 on DATE,0,1,0
+can we change the time of our reservation on DATE,0,1,0 to TIME,0,0,0
+please update my reservation on DATE,1,0,0 to a new date of DATE,0,0,0
+can i edit the reservation time from TIME,1,0,0 to TIME,0,0,0 on DATE,0,1,0
+could you update the party size on DATE,0,1,0 from NUMBER,1,0,0 to NUMBER,0,0,0
+can we move our reservation to DATE,0,0,0 instead of DATE,1,0,0
+please change the reservation on DATE,0,1,0 to a new time of TIME,0,0,0
+i need to update the reservation date from DATE,1,0,0 to DATE,0,0,0
+can i change the party size on DATE,0,1,0 from NUMBER,1,0,0 to NUMBER,0,0,0
+could you adjust the reservation time from TIME,1,0,0 to TIME,0,0,0 on DATE,0,1,0
+could you change the party size on DATE,0,1,0 from NUMBER,1,0,0 to NUMBER,0,0,0
+can i update the party size on DATE,0,1,0 from NUMBER,1,0,0 to NUMBER,0,0,0
+could you switch the reservation on DATE,1,0,0 to a different date DATE,0,0,0
+please edit the reservation time from TIME,1,0,0 to TIME,0,0,0 on DATE,0,1,0
+i want to adjust the reservation on DATE,0,1,0 to TIME,0,0,0
+can we change the reservation party size from NUMBER,1,0,0 to NUMBER,0,0,0 on DATE,0,1,0
+could you update the reservation date from DATE,1,0,0 to DATE,0,0,0
+i need to change the party size on DATE,0,1,0 from NUMBER,1,0,0 to NUMBER,0,0,0
+can i edit the reservation date from DATE,1,0,0 to DATE,0,0,0
+please update the reservation on DATE,1,0,0 to DATE,0,0,0
+i want to change the reservation time on DATE,0,1,0 to TIME,0,0,0
+can we switch the party size from NUMBER,1,0,0 to NUMBER,0,0,0 on DATE,0,1,0
+can i update the reservation party size on DATE,0,1,0 from NUMBER,1,0,0 to NUMBER,0,0,0
+i want to switch the party size on DATE,0,1,0 from NUMBER,1,0,0 to NUMBER,0,0,0
+i need to edit the reservation party size on DATE,0,1,0 from NUMBER,1,0,0 to NUMBER,0,0,0
+could you switch the reservation time from TIME,1,0,0 to TIME,0,0,0 on DATE,0,1,0
+please move the party size on DATE,0,1,0 from NUMBER,1,0,0 to NUMBER,0,0,0
+could you change the party size from NUMBER,1,0,0 to NUMBER,0,0,0 on DATE,0,1,0
+i want to change the party size from NUMBER,1,0,0 to NUMBER,0,0,0 on DATE,0,1,0
+can i adjust the reservation time from TIME,1,0,0 to TIME,0,0,0 on DATE,0,1,0
+can we change the party size on DATE,0,1,0 from NUMBER,1,0,0 to NUMBER,0,0,0
+i need to edit the party size from NUMBER,1,0,0 to NUMBER,0,0,0 on DATE,0,1,0
+can we adjust the reservation time from TIME,1,0,0 to TIME,0,0,0 on DATE,0,1,0
+update the booking from DATE,1,0,0 to DATE,0,0,0
+shift the reservation time for NAME,0,1,0 to TIME,0,0,0
+please modify the booking date from DATE,1,0,0 to DATE,0,0,0
+adjust the reservation under NAME,0,1,0 to TIME,0,0,0
 can you reschedule the booking time to TIME,0,0,0
-change the reservation date to DATE,0,0,0 for PREV_NAME,0,1,0
-please update the booking on PREV_DATE,1,0,0 to DATE,0,0,0
-move the reservation time for PREV_NAME,0,1,0 to TIME,0,0,0
-shift the booking from PREV_DATE,1,0,0 to DATE,0,0,0 for PREV_NAME,0,1,0
-please modify the booking date to DATE,0,0,0 on PREV_TIME,1,0,0
-move the reservation under PREV_NAME,0,1,0 to TIME,0,0,0
-update the booking date for PREV_NAME,0,1,0 to DATE,0,0,0
-please reschedule the booking date from PREV_DATE,1,0,0 to DATE,0,0,0
-can you modify the booking from PREV_DATE,1,0,0 to DATE,0,0,0
-update the booking for PREV_NAME,0,1,0 to TIME,0,0,0
-please change the reservation date to DATE,0,0,0 for PREV_NAME,0,1,0
-shift the reservation date for PREV_NAME,0,1,0 to DATE,0,0,0
-can you reschedule the booking under PREV_NAME,0,1,0 to TIME,0,0,0
-modify the booking date for PREV_NAME,0,1,0 to DATE,0,0,0
-update the reservation from PREV_DATE,1,0,0 to DATE,0,0,0
-shift the booking under PREV_NAME,0,1,0 to TIME,0,0,0
-move the reservation date for PREV_NAME,0,1,0 to DATE,0,0,0
+change the reservation date to DATE,0,0,0 for NAME,0,1,0
+please update the booking on DATE,1,0,0 to DATE,0,0,0
+move the reservation time for NAME,0,1,0 to TIME,0,0,0
+shift the booking from DATE,1,0,0 to DATE,0,0,0 for NAME,0,1,0
+please modify the booking date to DATE,0,0,0 on TIME,1,0,0
+move the reservation under NAME,0,1,0 to TIME,0,0,0
+update the booking date for NAME,0,1,0 to DATE,0,0,0
+please reschedule the booking date from DATE,1,0,0 to DATE,0,0,0
+can you modify the booking from DATE,1,0,0 to DATE,0,0,0
+update the booking for NAME,0,1,0 to TIME,0,0,0
+please change the reservation date to DATE,0,0,0 for NAME,0,1,0
+shift the reservation date for NAME,0,1,0 to DATE,0,0,0
+can you reschedule the booking under NAME,0,1,0 to TIME,0,0,0
+modify the booking date for NAME,0,1,0 to DATE,0,0,0
+update the reservation from DATE,1,0,0 to DATE,0,0,0
+shift the booking under NAME,0,1,0 to TIME,0,0,0
+move the reservation date for NAME,0,1,0 to DATE,0,0,0
 please reschedule the booking time to TIME,0,0,0
-adjust the reservation date to DATE,0,0,0 for PREV_NAME,0,1,0
+adjust the reservation date to DATE,0,0,0 for NAME,0,1,0
 update the booking date to DATE,0,0,0
-shift the reservation from PREV_TIME,1,0,0 to TIME,0,0,0
-move the booking date for PREV_NAME,0,1,0 to DATE,0,0,0
-adjust the booking time for PREV_NAME,0,1,0 to TIME,0,0,0
-can you reschedule the reservation from PREV_DATE,1,0,0 to DATE,0,0,0
-modify the booking date from PREV_DATE,1,0,0 to DATE,0,0,0
-shift the reservation for PREV_NAME,0,1,0 to TIME,0,0,0
+shift the reservation from TIME,1,0,0 to TIME,0,0,0
+move the booking date for NAME,0,1,0 to DATE,0,0,0
+adjust the booking time for NAME,0,1,0 to TIME,0,0,0
+can you reschedule the reservation from DATE,1,0,0 to DATE,0,0,0
+modify the booking date from DATE,1,0,0 to DATE,0,0,0
+shift the reservation for NAME,0,1,0 to TIME,0,0,0
 move the booking time to TIME,0,0,0
-adjust the booking date for PREV_NAME,0,1,0 to DATE,0,0,0
-shift the booking time for PREV_NAME,0,1,0 to TIME,0,0,0
-move the reservation for PREV_NAME,0,1,0 to TIME,0,0,0
-can you update the booking date from PREV_DATE,1,0,0 to DATE,0,0,0
-adjust the reservation time for PREV_NAME,0,1,0 to TIME,0,0,0
-please change the booking date for PREV_NAME,0,1,0 to DATE,0,0,0
-modify the booking under PREV_NAME,0,1,0 to TIME,0,0,0
-update the booking time to TIME,0,0,0 for PREV_NAME,0,1,0
-can you change the booking date from PREV_DATE,1,0,0 to DATE,0,0,0
+adjust the booking date for NAME,0,1,0 to DATE,0,0,0
+shift the booking time for NAME,0,1,0 to TIME,0,0,0
+move the reservation for NAME,0,1,0 to TIME,0,0,0
+can you update the booking date from DATE,1,0,0 to DATE,0,0,0
+adjust the reservation time for NAME,0,1,0 to TIME,0,0,0
+please change the booking date for NAME,0,1,0 to DATE,0,0,0
+modify the booking under NAME,0,1,0 to TIME,0,0,0
+update the booking time to TIME,0,0,0 for NAME,0,1,0
+can you change the booking date from DATE,1,0,0 to DATE,0,0,0
 shift the reservation time to TIME,0,0,0
 modify the booking time to TIME,0,0,0
-please modify the booking under PREV_NAME,0,1,0 to TIME,0,0,0
-shift the reservation time from PREV_TIME,1,0,0 to TIME,0,0,0
+please modify the booking under NAME,0,1,0 to TIME,0,0,0
+shift the reservation time from TIME,1,0,0 to TIME,0,0,0
 please switch the booking date to DATE,0,0,0
-modify the reservation time for PREV_NAME,0,1,0 to TIME,0,0,0
-can you update the booking for PREV_NAME,0,1,0 to TIME,0,0,0
-modify the booking time for PREV_NAME,0,1,0 to TIME,0,0,0
-shift the reservation date to DATE,0,0,0 for PREV_NAME,0,1,0
-can i modify my reservation on PREV_DATE,1,0,0 to DATE,0,0,0
-is it possible to change the reservation on PREV_TIME,1,0,0 to TIME,0,0,0
-can we adjust the reservation under PREV_NAME,0,1,0 to the new DATE,0,0,0
-i need to update my reservation on PREV_DATE,1,0,0 to the new date DATE,0,0,0
-could you switch the reservation under PREV_NAME,0,1,0 to the new date DATE,0,0,0
-i want to change the reservation on PREV_DATE,0,1,0 to the new time TIME,0,0,0
-can you help me modify my reservation from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to reschedule the reservation under PREV_NAME,0,1,0 to DATE,0,0,0
-is it possible to adjust my reservation on PREV_DATE,0,1,0 to TIME,0,0,0
-i want to switch the reservation under PREV_NAME,0,1,0 to TIME,0,0,0
-could you update the reservation on PREV_DATE,1,0,0 to DATE,0,0,0
-i need to change the reservation time from PREV_TIME,1,0,0 to TIME,0,0,0
-can you adjust the reservation under PREV_NAME,0,1,0 to the new date DATE,0,0,0
-i want to reschedule my reservation on PREV_DATE,1,0,0 to DATE,0,0,0
-can we update the reservation time from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to switch the reservation on PREV_DATE,0,1,0 to TIME,0,0,0
-could you change the reservation under PREV_NAME,0,1,0 to the new time TIME,0,0,0
-can i change the reservation from PREV_TIME,1,0,0 to TIME,0,0,0 on PREV_DATE,0,1,0
-can you move the reservation on PREV_DATE,0,1,0 to TIME,0,0,0 for PREV_NAME,0,1,0
-i need to reschedule the reservation for PREV_NAME,0,1,0 to DATE,0,0,0
-please change the reservation time from PREV_TIME,1,0,0 to TIME,0,0,0 for PREV_NAME,0,1,0
-can you adjust the reservation under PREV_NAME,0,1,0 to DATE,0,0,0 instead
-is it possible to switch the reservation on PREV_DATE,0,1,0 to TIME,0,0,0
-can i update the reservation from PREV_TIME,1,0,0 to TIME,0,0,0 on PREV_DATE,0,1,0
-can we change the reservation on PREV_DATE,0,1,0 to TIME,0,0,0 for PREV_NAME,0,1,0
-please change the reservation on PREV_DATE,0,1,0 to TIME,0,0,0 for PREV_NAME,0,1,0
-can i reschedule the reservation under PREV_NAME,0,1,0 to TIME,0,0,0 instead
-i need to move the reservation from PREV_TIME,1,0,0 to TIME,0,0,0 for PREV_NAME,0,1,0
-can we switch the reservation under PREV_NAME,0,1,0 to DATE,0,0,0 instead
-please move the reservation under PREV_NAME,0,1,0 to TIME,0,0,0 instead
-can i update the reservation time from PREV_TIME,1,0,0 to TIME,0,0,0 for PREV_NAME,0,1,0
-can we adjust the reservation on PREV_DATE,1,0,0 to DATE,0,0,0 instead
-please switch the reservation from PREV_TIME,1,0,0 to TIME,0,0,0 on PREV_DATE,0,1,0
-can you modify the reservation under PREV_NAME,0,1,0 to TIME,0,0,0 instead
-is it possible to move the reservation from PREV_TIME,1,0,0 to TIME,0,0,0 on PREV_DATE,0,1,0
-please change the reservation on PREV_DATE,0,1,0 to TIME,0,0,0 instead
-can you reschedule the reservation under PREV_NAME,0,1,0 to DATE,0,0,0
-can you change the reservation from PREV_TIME,1,0,0 to TIME,0,0,0 on PREV_DATE,0,1,0
-please modify the reservation under PREV_NAME,0,1,0 to TIME,0,0,0 instead
-is it possible to move the reservation on PREV_DATE,0,1,0 to TIME,0,0,0
-can i adjust the reservation time from PREV_TIME,1,0,0 to TIME,0,0,0 for PREV_NAME,0,1,0
-please adjust the reservation for PREV_NAME,0,1,0 to TIME,0,0,0 instead
-is it possible to switch the reservation on PREV_DATE,0,1,0 to TIME,0,0,0 for PREV_NAME,0,1,0
-please update the reservation for PREV_NAME,0,1,0 to DATE,0,0,0 instead
-can i reschedule the reservation on PREV_DATE,0,1,0 to TIME,0,0,0 instead
-can we change the reservation from PREV_TIME,1,0,0 to TIME,0,0,0 for PREV_NAME,0,1,0
-can you move the reservation time from PREV_TIME,1,0,0 to TIME,0,0,0 for PREV_NAME,0,1,0
-can we reschedule the reservation on PREV_DATE,0,1,0 to TIME,0,0,0 instead
-is it possible to adjust the reservation time from PREV_TIME,1,0,0 to TIME,0,0,0 on PREV_DATE,0,1,0
-can you switch the reservation on PREV_DATE,0,1,0 to TIME,0,0,0 for PREV_NAME,0,1,0
-please change the reservation from PREV_TIME,1,0,0 to TIME,0,0,0 on PREV_DATE,0,1,0
-is it possible to shift the reservation from PREV_TIME,1,0,0 to TIME,0,0,0 on PREV_DATE,0,1,0
-can we change the reservation to TIME,0,0,0 on PREV_DATE,0,1,0 for PREV_NAME,0,1,0
-please move the reservation from PREV_TIME,1,0,0 to TIME,0,0,0
-can we adjust the reservation from PREV_DATE,1,0,0 to DATE,0,0,0
-can you switch my reservation from PREV_TIME,1,0,0 to TIME,0,0,0 for PREV_NAME,0,1,0
-is it possible to edit the reservation from PREV_DATE,1,0,0 to DATE,0,0,0
-can we shift the reservation on PREV_DATE,1,0,0 to DATE,0,0,0 for PREV_NAME,0,1,0
-can you change the reservation from PREV_TIME,1,0,0 to TIME,0,0,0
-please change my reservation on PREV_DATE,1,0,0 to DATE,0,0,0
-is it possible to change the reservation under PREV_NAME,0,1,0 to DATE,0,0,0
-please update the reservation from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to change my reservation from PREV_TIME,1,0,0 to TIME,0,0,0 for PREV_NAME,0,1,0
-is it possible to update the reservation from PREV_DATE,1,0,0 to DATE,0,0,0
-can you edit the reservation on PREV_DATE,1,0,0 to DATE,0,0,0
-please move my reservation from PREV_TIME,1,0,0 to TIME,0,0,0
-can we change the reservation on PREV_DATE,1,0,0 to DATE,0,0,0 for PREV_NAME,0,1,0
-can you adjust my reservation on PREV_DATE,1,0,0 to DATE,0,0,0
-is it possible to switch the reservation under PREV_NAME,0,1,0 to DATE,0,0,0
-can we update the reservation from PREV_DATE,1,0,0 to DATE,0,0,0
-please move the reservation under PREV_NAME,0,1,0 to DATE,0,0,0
-please update my reservation from PREV_TIME,1,0,0 to TIME,0,0,0
-can we move the reservation time from PREV_TIME,1,0,0 to TIME,0,0,0
-please adjust my reservation from PREV_DATE,1,0,0 to DATE,0,0,0
-please switch my reservation under PREV_NAME,0,1,0 to DATE,0,0,0
-please edit my reservation on PREV_DATE,1,0,0 to DATE,0,0,0
-please change my reservation under PREV_NAME,0,1,0 to DATE,0,0,0
-please update the reservation from PREV_DATE,1,0,0 to DATE,0,0,0 for PREV_NAME,0,1,0
-can we adjust my reservation time from PREV_TIME,1,0,0 to TIME,0,0,0 for PREV_NAME,0,1,0
-please edit my reservation from PREV_DATE,1,0,0 to DATE,0,0,0 for PREV_NAME,0,1,0
-can you move the reservation on PREV_DATE,1,0,0 to DATE,0,0,0 for PREV_NAME,0,1,0
-can we change my reservation under PREV_NAME,0,1,0 to DATE,0,0,0 for PREV_NAME,0,1,0
-can you move the reservation from PREV_DATE,1,0,0 to DATE,0,0,0 for PREV_NAME,0,1,0
-is it possible to switch the reservation from PREV_DATE,1,0,0 to DATE,0,0,0 for PREV_NAME,0,1,0
-please change the reservation under PREV_NAME,0,1,0 to DATE,0,0,0 for PREV_NAME,0,1,0
-is it possible to update my reservation from PREV_DATE,1,0,0 to DATE,0,0,0 for PREV_NAME,0,1,0
-please adjust my reservation from PREV_DATE,1,0,0 to DATE,0,0,0 for PREV_NAME,0,1,0
-please change the reservation time under PREV_NAME,0,1,0 to TIME,0,0,0
-can you adjust the reservation date from PREV_DATE,1,0,0 to DATE,0,0,0
-can my reservation time be switched from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to change the reservation date for PREV_NAME,0,1,0 to DATE,0,0,0
-please alter the reservation under PREV_NAME,0,1,0 to DATE,0,0,0
-i want to update the reservation time for PREV_NAME,0,1,0 to TIME,0,0,0
-i need to modify the reservation date for PREV_NAME,0,1,0 to DATE,0,0,0
-can you change my reservation under PREV_NAME,0,1,0 to DATE,0,0,0
-i want to adjust my reservation time from PREV_TIME,1,0,0 to TIME,0,0,0
-can my reservation under PREV_NAME,0,1,0 be updated to DATE,0,0,0
-i want to modify my reservation date from PREV_DATE,1,0,0 to DATE,0,0,0
-please alter the reservation time for PREV_NAME,0,1,0 to TIME,0,0,0
-can my reservation time be rescheduled from PREV_TIME,1,0,0 to TIME,0,0,0
-please adjust my reservation time from PREV_TIME,1,0,0 to TIME,0,0,0
-i need to reschedule the reservation time under PREV_NAME,0,1,0 to TIME,0,0,0
-can you alter the reservation date under PREV_NAME,0,1,0 to DATE,0,0,0
-please adjust the reservation date for PREV_NAME,0,1,0 to DATE,0,0,0
-i want to alter the reservation time from PREV_TIME,1,0,0 to TIME,0,0,0
-please reschedule the reservation date under PREV_NAME,0,1,0 to DATE,0,0,0
-i need to update my reservation under PREV_NAME,0,1,0 to DATE,0,0,0
-please alter the reservation date for PREV_NAME,0,1,0 to DATE,0,0,0
-can you reschedule my reservation under PREV_NAME,0,1,0 to DATE,0,0,0
-can my reservation date be altered from PREV_DATE,1,0,0 to DATE,0,0,0
-i want to move my reservation date from PREV_DATE,1,0,0 to DATE,0,0,0
-please adjust my reservation date for PREV_NAME,0,1,0 to DATE,0,0,0
-can you move the reservation date under PREV_NAME,0,1,0 to DATE,0,0,0
-please alter my reservation under PREV_NAME,0,1,0 to DATE,0,0,0
-please switch my reservation date under PREV_NAME,0,1,0 to DATE,0,0,0
-i need to modify my reservation date from PREV_DATE,1,0,0 to DATE,0,0,0
-please switch the reservation date for PREV_NAME,0,1,0 to DATE,0,0,0
-can you reschedule my reservation time from PREV_TIME,1,0,0 to TIME,0,0,0
-i want to update the reservation date under PREV_NAME,0,1,0 to DATE,0,0,0
-i need to move the reservation date under PREV_NAME,0,1,0 to DATE,0,0,0
-can you update the reservation time under PREV_NAME,0,1,0 to TIME,0,0,0
-please alter the reservation time under PREV_NAME,0,1,0 to TIME,0,0,0
-please switch the reservation date under PREV_NAME,0,1,0 to DATE,0,0,0
-can my reservation under PREV_NAME,0,1,0 be changed to DATE,0,0,0
-can you move my reservation date from PREV_DATE,1,0,0 to DATE,0,0,0
-i need to alter the reservation date for PREV_NAME,0,1,0 to DATE,0,0,0
-i need to update my reservation time for PREV_NAME,0,1,0 to TIME,0,0,0
-i want to switch the reservation time for PREV_NAME,0,1,0 to TIME,0,0,0
-i would like to adjust my reservation date from PREV_DATE,1,0,0 to DATE,0,0,0
-can you edit my reservation on PREV_DATE,1,0,0 to DATE,0,0,0
-how do i update my reservation on PREV_DATE,1,0,0 to DATE,0,0,0
-can i switch my reservation on PREV_DATE,1,0,0 to DATE,0,0,0
-how can i update my reservation from PREV_DATE,1,0,0 to DATE,0,0,0
-i want to switch my reservation on PREV_DATE,1,0,0 to DATE,0,0,0
-can i edit my reservation on PREV_DATE,1,0,0 to DATE,0,0,0
-how do i change my reservation on PREV_DATE,1,0,0 to DATE,0,0,0
-how do i switch my reservation on PREV_DATE,1,0,0 to DATE,0,0,0
-please edit my reservation from PREV_DATE,1,0,0 to DATE,0,0,0
-i want to update my reservation on PREV_DATE,1,0,0 to DATE,0,0,0
-can i change my reservation date from PREV_DATE,1,0,0 to DATE,0,0,0
-how can i edit my reservation on PREV_DATE,1,0,0 to DATE,0,0,0
-can i update my reservation time from PREV_TIME,1,0,0 to TIME,0,0,0
-i want to change my reservation on PREV_DATE,1,0,0 to DATE,0,0,0
-how do i switch my reservation time from PREV_TIME,1,0,0 to TIME,0,0,0
-can i edit my reservation time from PREV_TIME,1,0,0 to TIME,0,0,0
-please switch my reservation on PREV_DATE,1,0,0 to DATE,0,0,0
-can you change my reservation on PREV_DATE,1,0,0 to DATE,0,0,0
-how can i change my reservation date from PREV_DATE,1,0,0 to DATE,0,0,0
-can i switch my reservation date from PREV_DATE,1,0,0 to DATE,0,0,0
-how do i edit my reservation on PREV_DATE,1,0,0 to DATE,0,0,0
-how can i switch my reservation on PREV_DATE,1,0,0 to DATE,0,0,0
-can i update my reservation date from PREV_DATE,1,0,0 to DATE,0,0,0
-please edit my reservation date from PREV_DATE,1,0,0 to DATE,0,0,0
-how do i change my reservation time from PREV_TIME,1,0,0 to TIME,0,0,0
-can you edit my reservation time from PREV_TIME,1,0,0 to TIME,0,0,0
-how can i edit my reservation time from PREV_TIME,1,0,0 to TIME,0,0,0
-i want to edit my reservation date from PREV_DATE,1,0,0 to DATE,0,0,0
-how do i update my reservation time from PREV_TIME,1,0,0 to TIME,0,0,0
+modify the reservation time for NAME,0,1,0 to TIME,0,0,0
+can you update the booking for NAME,0,1,0 to TIME,0,0,0
+modify the booking time for NAME,0,1,0 to TIME,0,0,0
+shift the reservation date to DATE,0,0,0 for NAME,0,1,0
+can i modify my reservation on DATE,1,0,0 to DATE,0,0,0
+is it possible to change the reservation on TIME,1,0,0 to TIME,0,0,0
+can we adjust the reservation under NAME,0,1,0 to the new DATE,0,0,0
+i need to update my reservation on DATE,1,0,0 to the new date DATE,0,0,0
+could you switch the reservation under NAME,0,1,0 to the new date DATE,0,0,0
+i want to change the reservation on DATE,0,1,0 to the new time TIME,0,0,0
+can you help me modify my reservation from TIME,1,0,0 to TIME,0,0,0
+i need to reschedule the reservation under NAME,0,1,0 to DATE,0,0,0
+is it possible to adjust my reservation on DATE,0,1,0 to TIME,0,0,0
+i want to switch the reservation under NAME,0,1,0 to TIME,0,0,0
+could you update the reservation on DATE,1,0,0 to DATE,0,0,0
+i need to change the reservation time from TIME,1,0,0 to TIME,0,0,0
+can you adjust the reservation under NAME,0,1,0 to the new date DATE,0,0,0
+i want to reschedule my reservation on DATE,1,0,0 to DATE,0,0,0
+can we update the reservation time from TIME,1,0,0 to TIME,0,0,0
+i need to switch the reservation on DATE,0,1,0 to TIME,0,0,0
+could you change the reservation under NAME,0,1,0 to the new time TIME,0,0,0
+can i change the reservation from TIME,1,0,0 to TIME,0,0,0 on DATE,0,1,0
+can you move the reservation on DATE,0,1,0 to TIME,0,0,0 for NAME,0,1,0
+i need to reschedule the reservation for NAME,0,1,0 to DATE,0,0,0
+please change the reservation time from TIME,1,0,0 to TIME,0,0,0 for NAME,0,1,0
+can you adjust the reservation under NAME,0,1,0 to DATE,0,0,0 instead
+is it possible to switch the reservation on DATE,0,1,0 to TIME,0,0,0
+can i update the reservation from TIME,1,0,0 to TIME,0,0,0 on DATE,0,1,0
+can we change the reservation on DATE,0,1,0 to TIME,0,0,0 for NAME,0,1,0
+please change the reservation on DATE,0,1,0 to TIME,0,0,0 for NAME,0,1,0
+can i reschedule the reservation under NAME,0,1,0 to TIME,0,0,0 instead
+i need to move the reservation from TIME,1,0,0 to TIME,0,0,0 for NAME,0,1,0
+can we switch the reservation under NAME,0,1,0 to DATE,0,0,0 instead
+please move the reservation under NAME,0,1,0 to TIME,0,0,0 instead
+can i update the reservation time from TIME,1,0,0 to TIME,0,0,0 for NAME,0,1,0
+can we adjust the reservation on DATE,1,0,0 to DATE,0,0,0 instead
+please switch the reservation from TIME,1,0,0 to TIME,0,0,0 on DATE,0,1,0
+can you modify the reservation under NAME,0,1,0 to TIME,0,0,0 instead
+is it possible to move the reservation from TIME,1,0,0 to TIME,0,0,0 on DATE,0,1,0
+please change the reservation on DATE,0,1,0 to TIME,0,0,0 instead
+can you reschedule the reservation under NAME,0,1,0 to DATE,0,0,0
+can you change the reservation from TIME,1,0,0 to TIME,0,0,0 on DATE,0,1,0
+please modify the reservation under NAME,0,1,0 to TIME,0,0,0 instead
+is it possible to move the reservation on DATE,0,1,0 to TIME,0,0,0
+can i adjust the reservation time from TIME,1,0,0 to TIME,0,0,0 for NAME,0,1,0
+please adjust the reservation for NAME,0,1,0 to TIME,0,0,0 instead
+is it possible to switch the reservation on DATE,0,1,0 to TIME,0,0,0 for NAME,0,1,0
+please update the reservation for NAME,0,1,0 to DATE,0,0,0 instead
+can i reschedule the reservation on DATE,0,1,0 to TIME,0,0,0 instead
+can we change the reservation from TIME,1,0,0 to TIME,0,0,0 for NAME,0,1,0
+can you move the reservation time from TIME,1,0,0 to TIME,0,0,0 for NAME,0,1,0
+can we reschedule the reservation on DATE,0,1,0 to TIME,0,0,0 instead
+is it possible to adjust the reservation time from TIME,1,0,0 to TIME,0,0,0 on DATE,0,1,0
+can you switch the reservation on DATE,0,1,0 to TIME,0,0,0 for NAME,0,1,0
+please change the reservation from TIME,1,0,0 to TIME,0,0,0 on DATE,0,1,0
+is it possible to shift the reservation from TIME,1,0,0 to TIME,0,0,0 on DATE,0,1,0
+can we change the reservation to TIME,0,0,0 on DATE,0,1,0 for NAME,0,1,0
+please move the reservation from TIME,1,0,0 to TIME,0,0,0
+can we adjust the reservation from DATE,1,0,0 to DATE,0,0,0
+can you switch my reservation from TIME,1,0,0 to TIME,0,0,0 for NAME,0,1,0
+is it possible to edit the reservation from DATE,1,0,0 to DATE,0,0,0
+can we shift the reservation on DATE,1,0,0 to DATE,0,0,0 for NAME,0,1,0
+can you change the reservation from TIME,1,0,0 to TIME,0,0,0
+please change my reservation on DATE,1,0,0 to DATE,0,0,0
+is it possible to change the reservation under NAME,0,1,0 to DATE,0,0,0
+please update the reservation from TIME,1,0,0 to TIME,0,0,0
+i need to change my reservation from TIME,1,0,0 to TIME,0,0,0 for NAME,0,1,0
+is it possible to update the reservation from DATE,1,0,0 to DATE,0,0,0
+can you edit the reservation on DATE,1,0,0 to DATE,0,0,0
+please move my reservation from TIME,1,0,0 to TIME,0,0,0
+can we change the reservation on DATE,1,0,0 to DATE,0,0,0 for NAME,0,1,0
+can you adjust my reservation on DATE,1,0,0 to DATE,0,0,0
+is it possible to switch the reservation under NAME,0,1,0 to DATE,0,0,0
+can we update the reservation from DATE,1,0,0 to DATE,0,0,0
+please move the reservation under NAME,0,1,0 to DATE,0,0,0
+please update my reservation from TIME,1,0,0 to TIME,0,0,0
+can we move the reservation time from TIME,1,0,0 to TIME,0,0,0
+please adjust my reservation from DATE,1,0,0 to DATE,0,0,0
+please switch my reservation under NAME,0,1,0 to DATE,0,0,0
+please edit my reservation on DATE,1,0,0 to DATE,0,0,0
+please change my reservation under NAME,0,1,0 to DATE,0,0,0
+please update the reservation from DATE,1,0,0 to DATE,0,0,0 for NAME,0,1,0
+can we adjust my reservation time from TIME,1,0,0 to TIME,0,0,0 for NAME,0,1,0
+please edit my reservation from DATE,1,0,0 to DATE,0,0,0 for NAME,0,1,0
+can you move the reservation on DATE,1,0,0 to DATE,0,0,0 for NAME,0,1,0
+can we change my reservation under NAME,0,1,0 to DATE,0,0,0 for NAME,0,1,0
+can you move the reservation from DATE,1,0,0 to DATE,0,0,0 for NAME,0,1,0
+is it possible to switch the reservation from DATE,1,0,0 to DATE,0,0,0 for NAME,0,1,0
+please change the reservation under NAME,0,1,0 to DATE,0,0,0 for NAME,0,1,0
+is it possible to update my reservation from DATE,1,0,0 to DATE,0,0,0 for NAME,0,1,0
+please adjust my reservation from DATE,1,0,0 to DATE,0,0,0 for NAME,0,1,0
+please change the reservation time under NAME,0,1,0 to TIME,0,0,0
+can you adjust the reservation date from DATE,1,0,0 to DATE,0,0,0
+can my reservation time be switched from TIME,1,0,0 to TIME,0,0,0
+i need to change the reservation date for NAME,0,1,0 to DATE,0,0,0
+please alter the reservation under NAME,0,1,0 to DATE,0,0,0
+i want to update the reservation time for NAME,0,1,0 to TIME,0,0,0
+i need to modify the reservation date for NAME,0,1,0 to DATE,0,0,0
+can you change my reservation under NAME,0,1,0 to DATE,0,0,0
+i want to adjust my reservation time from TIME,1,0,0 to TIME,0,0,0
+can my reservation under NAME,0,1,0 be updated to DATE,0,0,0
+i want to modify my reservation date from DATE,1,0,0 to DATE,0,0,0
+please alter the reservation time for NAME,0,1,0 to TIME,0,0,0
+can my reservation time be rescheduled from TIME,1,0,0 to TIME,0,0,0
+please adjust my reservation time from TIME,1,0,0 to TIME,0,0,0
+i need to reschedule the reservation time under NAME,0,1,0 to TIME,0,0,0
+can you alter the reservation date under NAME,0,1,0 to DATE,0,0,0
+please adjust the reservation date for NAME,0,1,0 to DATE,0,0,0
+i want to alter the reservation time from TIME,1,0,0 to TIME,0,0,0
+please reschedule the reservation date under NAME,0,1,0 to DATE,0,0,0
+i need to update my reservation under NAME,0,1,0 to DATE,0,0,0
+please alter the reservation date for NAME,0,1,0 to DATE,0,0,0
+can you reschedule my reservation under NAME,0,1,0 to DATE,0,0,0
+can my reservation date be altered from DATE,1,0,0 to DATE,0,0,0
+i want to move my reservation date from DATE,1,0,0 to DATE,0,0,0
+please adjust my reservation date for NAME,0,1,0 to DATE,0,0,0
+can you move the reservation date under NAME,0,1,0 to DATE,0,0,0
+please alter my reservation under NAME,0,1,0 to DATE,0,0,0
+please switch my reservation date under NAME,0,1,0 to DATE,0,0,0
+i need to modify my reservation date from DATE,1,0,0 to DATE,0,0,0
+please switch the reservation date for NAME,0,1,0 to DATE,0,0,0
+can you reschedule my reservation time from TIME,1,0,0 to TIME,0,0,0
+i want to update the reservation date under NAME,0,1,0 to DATE,0,0,0
+i need to move the reservation date under NAME,0,1,0 to DATE,0,0,0
+can you update the reservation time under NAME,0,1,0 to TIME,0,0,0
+please alter the reservation time under NAME,0,1,0 to TIME,0,0,0
+please switch the reservation date under NAME,0,1,0 to DATE,0,0,0
+can my reservation under NAME,0,1,0 be changed to DATE,0,0,0
+can you move my reservation date from DATE,1,0,0 to DATE,0,0,0
+i need to alter the reservation date for NAME,0,1,0 to DATE,0,0,0
+i need to update my reservation time for NAME,0,1,0 to TIME,0,0,0
+i want to switch the reservation time for NAME,0,1,0 to TIME,0,0,0
+i would like to adjust my reservation date from DATE,1,0,0 to DATE,0,0,0
+can you edit my reservation on DATE,1,0,0 to DATE,0,0,0
+how do i update my reservation on DATE,1,0,0 to DATE,0,0,0
+can i switch my reservation on DATE,1,0,0 to DATE,0,0,0
+how can i update my reservation from DATE,1,0,0 to DATE,0,0,0
+i want to switch my reservation on DATE,1,0,0 to DATE,0,0,0
+can i edit my reservation on DATE,1,0,0 to DATE,0,0,0
+how do i change my reservation on DATE,1,0,0 to DATE,0,0,0
+how do i switch my reservation on DATE,1,0,0 to DATE,0,0,0
+please edit my reservation from DATE,1,0,0 to DATE,0,0,0
+i want to update my reservation on DATE,1,0,0 to DATE,0,0,0
+can i change my reservation date from DATE,1,0,0 to DATE,0,0,0
+how can i edit my reservation on DATE,1,0,0 to DATE,0,0,0
+can i update my reservation time from TIME,1,0,0 to TIME,0,0,0
+i want to change my reservation on DATE,1,0,0 to DATE,0,0,0
+how do i switch my reservation time from TIME,1,0,0 to TIME,0,0,0
+can i edit my reservation time from TIME,1,0,0 to TIME,0,0,0
+please switch my reservation on DATE,1,0,0 to DATE,0,0,0
+can you change my reservation on DATE,1,0,0 to DATE,0,0,0
+how can i change my reservation date from DATE,1,0,0 to DATE,0,0,0
+can i switch my reservation date from DATE,1,0,0 to DATE,0,0,0
+how do i edit my reservation on DATE,1,0,0 to DATE,0,0,0
+how can i switch my reservation on DATE,1,0,0 to DATE,0,0,0
+can i update my reservation date from DATE,1,0,0 to DATE,0,0,0
+please edit my reservation date from DATE,1,0,0 to DATE,0,0,0
+how do i change my reservation time from TIME,1,0,0 to TIME,0,0,0
+can you edit my reservation time from TIME,1,0,0 to TIME,0,0,0
+how can i edit my reservation time from TIME,1,0,0 to TIME,0,0,0
+i want to edit my reservation date from DATE,1,0,0 to DATE,0,0,0
+how do i update my reservation time from TIME,1,0,0 to TIME,0,0,0
 need to update my booking date to DATE,0,0,0 if thats okay
-could we reschedule my booking from PREV_DATE,1,0,0 to DATE,0,0,0
-can i shift my reservation date from PREV_DATE,1,0,0 to DATE,0,0,0 please
-id appreciate if you could change my booking time to TIME,0,0,0 on PREV_DATE,0,1,0
-is it okay to modify my reservation from PREV_DATE,1,0,0 to DATE,0,0,0
-can you assist me in moving my reservation time from PREV_TIME,1,0,0 to TIME,0,0,0
-im hoping to update my booking date to DATE,0,0,0 instead of PREV_DATE,1,0,0
-could i change my reservation time on PREV_DATE,0,1,0 to TIME,0,0,0
-can we switch my reservation from PREV_DATE,1,0,0 to DATE,0,0,0
-i need to reschedule my booking time from PREV_TIME,1,0,0 to TIME,0,0,0 if possible
+could we reschedule my booking from DATE,1,0,0 to DATE,0,0,0
+can i shift my reservation date from DATE,1,0,0 to DATE,0,0,0 please
+id appreciate if you could change my booking time to TIME,0,0,0 on DATE,0,1,0
+is it okay to modify my reservation from DATE,1,0,0 to DATE,0,0,0
+can you assist me in moving my reservation time from TIME,1,0,0 to TIME,0,0,0
+im hoping to update my booking date to DATE,0,0,0 instead of DATE,1,0,0
+could i change my reservation time on DATE,0,1,0 to TIME,0,0,0
+can we switch my reservation from DATE,1,0,0 to DATE,0,0,0
+i need to reschedule my booking time from TIME,1,0,0 to TIME,0,0,0 if possible
 is there a possibility to adjust my reservation date to DATE,0,0,0
-can you modify my booking time to TIME,0,0,0 instead of PREV_TIME,1,0,0 on PREV_DATE,0,1,0
-want to shift my reservation from PREV_DATE,1,0,0 to DATE,0,0,0
-could you help me update my reservation time from PREV_TIME,1,0,0 to TIME,0,0,0 please
-im looking to change my booking date from PREV_DATE,1,0,0 to DATE,0,0,0
-can i move my reservation time to TIME,0,0,0 on PREV_DATE,0,1,0
-id like to switch my reservation date to DATE,0,0,0 instead of PREV_DATE,1,0,0
-is it possible to reschedule my booking time from PREV_TIME,1,0,0 to TIME,0,0,0
-can you assist me in changing my reservation from PREV_DATE,1,0,0 to DATE,0,0,0
-need to adjust my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
+can you modify my booking time to TIME,0,0,0 instead of TIME,1,0,0 on DATE,0,1,0
+want to shift my reservation from DATE,1,0,0 to DATE,0,0,0
+could you help me update my reservation time from TIME,1,0,0 to TIME,0,0,0 please
+im looking to change my booking date from DATE,1,0,0 to DATE,0,0,0
+can i move my reservation time to TIME,0,0,0 on DATE,0,1,0
+id like to switch my reservation date to DATE,0,0,0 instead of DATE,1,0,0
+is it possible to reschedule my booking time from TIME,1,0,0 to TIME,0,0,0
+can you assist me in changing my reservation from DATE,1,0,0 to DATE,0,0,0
+need to adjust my reservation time on DATE,0,1,0 from TIME,1,0,0 to TIME,0,0,0
 i want to update my booking date to DATE,0,0,0 if available
-could we modify my reservation time to TIME,0,0,0 instead of PREV_TIME,1,0,0
-can i shift my booking from PREV_DATE,1,0,0 to DATE,0,0,0 please
-id appreciate if you could move my reservation time from PREV_TIME,1,0,0 to TIME,0,0,0 on PREV_DATE,0,1,0
+could we modify my reservation time to TIME,0,0,0 instead of TIME,1,0,0
+can i shift my booking from DATE,1,0,0 to DATE,0,0,0 please
+id appreciate if you could move my reservation time from TIME,1,0,0 to TIME,0,0,0 on DATE,0,1,0
 is there a way to change my reservation date to DATE,0,0,0
 can you help me reschedule my booking time to TIME,0,0,0
 i need to remove the date DATE,1,0,0 from my reservation
