@@ -517,10 +517,15 @@ whats in my current cart summary details
 can you show me my order summary right now
 i want to view my shopping list details
 show me my current basket contents please
+what did you just delete from my order
+
+
+
+// name
 do you have an order for PREV_NAME,0,1,0
 can i check on my order under PREV_NAME,0,1,0
 my name is PREV_NAME,0,1,0 and i need to check on my order
-hey is there an order for PREV_NAME,0,1,0
+is there an order for PREV_NAME,0,1,0
 PREV_NAME,0,1,0 here checking on my food
 i'm PREV_NAME,0,1,0 did you get my order
 looking for an order placed by PREV_NAME,0,1,0
@@ -537,7 +542,7 @@ is there an order for PREV_NAME,0,1,0 in your system
 do you see an order for PREV_NAME,0,1,0 there
 do you have an order for PREV_NAME,0,1,0 yet
 PREV_NAME,0,1,0 calling to check on an order
-hey do you have an order for PREV_NAME,0,1,0
+do you have an order for PREV_NAME,0,1,0
 this is PREV_NAME,0,1,0 can you check my order
 do you see an order under PREV_NAME,0,1,0
 did PREV_NAME,0,1,0 place an order with you
@@ -561,7 +566,7 @@ do you have anything for PREV_NAME,0,1,0
 can you find an order for PREV_NAME,0,1,0 in the system
 can you check an order for PREV_NAME,0,1,0
 can you tell me if there's an order for PREV_NAME,0,1,0
-hey PREV_NAME,0,1,0 here checking on my order
+PREV_NAME,0,1,0 here checking on my order
 do you have an order for PREV_NAME,0,1,0 in your system
 did you get an order for PREV_NAME,0,1,0
 did PREV_NAME,0,1,0 place an order with you guys
@@ -569,7 +574,7 @@ do you have an order from PREV_NAME,0,1,0
 just calling to check on an order for PREV_NAME,0,1,0
 is there an order under PREV_NAME,0,1,0
 did an order for PREV_NAME,0,1,0 come through
-hey do you have an order for PREV_NAME,0,1,0 there
+do you have an order for PREV_NAME,0,1,0 there
 i'm PREV_NAME,0,1,0 did you get my order
 do you see an order under PREV_NAME,0,1,0's name
 can you find an order placed by PREV_NAME,0,1,0
@@ -765,11 +770,14 @@ can you tell me what PREV_NAME,0,1,0 ordered
 can you check PREV_NAME,0,1,0's order items
 what's included in PREV_NAME,0,1,0's order
 can you tell me the contents of PREV_NAME,0,1,0's food order
-what did you just delete from my order
+
+
+
+// cart items
 did you just add NUMBER,0,1,2 PREV_ITEM,0,1,0's to my order
 was that PREV_ITEM,0,1,0 a SIZE,0,1,1
 does my order contain an PREV_ITEM,0,1,0
-hey did you remove ADDON,0,1,2 from my PREV_ITEM,0,1,0
+did you remove ADDON,0,1,2 from my PREV_ITEM,0,1,0
 what size was my PREV_ITEM,0,1,0 again
 did you add a PREV_ITEM,0,1,0 to my order
 how many PREV_ITEM,0,1,0's did i order

@@ -75,14 +75,3 @@ can you connect me with someone real
 please put a real human on
 can you get a real person for me
 connect me with an actual human
-
-
-
-// greeting + manager_inquiry
-[greeting]:hello hello please put a real human on
-[greeting]:hi hi is there a human i can speak with
-[greeting]:hey hey give me the head person
-[greeting]:aloha let me talk to whoevers in charge
-[greeting]:salutations can you put a person on the phone
-[greeting]:hi y'all i need to speak with the owner
-[greeting]:whats up can you put me through to the owner

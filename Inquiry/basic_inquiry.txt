@@ -26,12 +26,6 @@ what day is it right now
 can you tell me what day tomorrow is
 what day is it again today
 
-// current date + greeting
-[greeting]:yo man what day is it right now
-[greeting]:hello can you tell me what day tomorrow is
-[greeting]:hi what day is it again today
-
-
 // current time
 what time is it
 whats the time right now
@@ -53,13 +47,6 @@ do you know the time right now
 what time are we looking at
 can you tell me the exact time
 whats the time at the moment
-
-// current time + greeting
-[greeting]:hello do you know the time right now
-[greeting]:yo what time are we looking at
-[greeting]:hey can you tell me the exact time
-[greeting]:hey dude whats the time at the moment
-
 
 // weather
 what does the weather look like there
@@ -88,14 +75,6 @@ hows the weather treating you today
 is it humid where youre at
 whats the weather been like today
 
-// weather + greeting
-[greeting]:hi is it hot over there right now
-[greeting]:hello hows the weather treating you today
-[greeting]:hey is it humid where youre at
-[greeting]:hey man whats the weather been like today
-
-
-
 // mood
 how are you feeling
 how are you today
@@ -122,114 +101,75 @@ hows your day going so far
 are you having a busy day
 hows your mood today
 
-// mood + greeting
-[greeting]:hello hows it going with you
-[greeting]:hey you feeling alright today
-[greeting]:hello hows it going on your end
-[greeting]:hey man hows your day going so far
-[greeting]:hello are you having a busy day
-[greeting]:hello hows your mood today
-[greeting]:hi hows it going
-[greeting]:hello how are you today
-[greeting]:hey there how are you doing
-[greeting]:hi there how have you been keeping
-[greeting]:good evening hows it hanging
-[greeting]:hello how are you doing today
-[greeting]:hey whats going on in your world
-[greeting]:hi hows life treating you
-[greeting]:good morning how have you been
-[greeting]:hey there whats happening with you
-[greeting]:hi how are things going so far
-[greeting]:hello hows your week been
-[greeting]:hey whats the latest with you
-[greeting]:hi there how are you holding up
-[greeting]:good afternoon hows everything going
-[greeting]:hello how has your day been
-[greeting]:hey hows it been going
-[greeting]:hi whats new with you
-[greeting]:good evening how are you feeling
-[greeting]:hello whats happening in your life
-[greeting]:hey hows it going today
-[greeting]:hello how are you keeping
-[greeting]:hey hows everything with you today
-[greeting]:hi there hows the day treating you
-[greeting]:hey whats cooking
-[greeting]:hello hows your morning going
-[greeting]:hi hows life been lately
-[greeting]:hey hows it rolling
-[greeting]:hi there whats new and exciting in your world
-[greeting]:good morning how are you feeling today
-[greeting]:hey hows life treating you these days
-[greeting]:hi hows it hanging today
-[greeting]:hi there hows your week been going
-[greeting]:good day whats happening in your world
-[greeting]:hi whats been going on with you
-[greeting]:hey hows everything under your roof
-[greeting]:hi there whats the latest and greatest
-[greeting]:hey hows life been lately
-[greeting]:hi hows your day treating you so far
-[greeting]:hi whats been cooking in your life
-[greeting]:hey there hows life rolling for you
-[greeting]:hi hows life treating you this fine day
-[greeting]:good day whats the buzz in your world
-[greeting]:hey there hows your universe treating you
-[greeting]:hi how are you
-[greeting]:hello how are you
-[greeting]:hi hows it going
-[greeting]:hello hows it going
-[greeting]:hi good morning
-[greeting]:hello good morning
-[greeting]:hi good afternoon
-[greeting]:hello good afternoon
-[greeting]:hi good evening
-[greeting]:hello good evening
-[greeting]:hi i hope you're well
-[greeting]:hello i hope you're well
-[greeting]:hi i hope you're having a good day
-[greeting]:hello i hope you're having a good day
-[greeting]:hi i hope you're having a great day
-[greeting]:hello i hope you're having a great day
-
-
-
-//! confirm audio
+// confirm audio
 can you hear me
 is my mic working
 is my microphone working
 does my audio work
+can you hear me okay
+is my mic on
+can you hear me or nah
+is my microphone working right
+am i coming through
+can you hear me at all
+is my audio working
+are you able to hear me
+am i muted or can you hear me
+is my mic working on your end
+can you hear my voice
+does my microphone work
+are you able to hear what im saying
+is the audio coming through
+can you hear what im saying
+is my sound working okay
+can you hear my audio
+is my mic working fine
+can you tell if my mic is on
+is my microphone picking up sound
+am i coming in clear
+can you hear me through the mic
+is my audio coming through alright
+does my mic work
+can you hear me through this
+is my mic even on
+does the microphone sound good
+can you hear me talking
+is my voice coming through the mic
+can you check if you hear me
 
-//! confirm audio + greeting
-[greeting]:hi do you hear me
-[greeting]:hey does my audio work
-
-
-
-//! ask for help
+// ask for help
 can you help me out
 can i ask something
 i need help with something
 i need you to help me out
 help me out with something real quick
-
-// ask for help + greeting
-[greeting]:hi can you help me
-[greeting]:hello can you help me
-[greeting]:hi can i ask a question
-[greeting]:hello can i ask a question
-[greeting]:hello i need some information
-[greeting]:hi i have a question
-[greeting]:hello i have a question
-[greeting]:hi can you provide some information
-[greeting]:hello can you provide some information
-[greeting]:hi can i get some details
-[greeting]:hello can i get some details
-[greeting]:hi do you have information
-[greeting]:hello do you have information
-[greeting]:hi i need details
-[greeting]:hello i need details
-[greeting]:hi could you give me some information
-[greeting]:hello could you give me some information
-[greeting]:hi i need to know something
-[greeting]:hello i need to know something
-[greeting]:hi can you tell me something
-[greeting]:hello can you tell me something
+can i ask you something real quick
+can you help me out for a sec
+mind if i ask a question
+i need to ask you for something
+can i make a request
+could you help me with something
+can i get some help here
+ive got a question can you help
+can i ask for your help
+is it cool if i ask you something
+can i request something from you
+can you help me with a quick question
+i need to ask for a little help
+you mind if i ask you something
+can i get your help with something
+can i make a quick request
+could you do me a favor real quick
+can you answer a question for me
+i need a little assistance can you help
+could i get your help with something
+is it alright if i ask you a question
+can you help me with a small thing
+can i request something from you real quick
+can i get your help real fast
+i need some help can you assist
+can i ask you a quick question
+can i ask for a little favor
+can you give me a hand with something
+ive got a request can you help
+mind helping me out with something real fast

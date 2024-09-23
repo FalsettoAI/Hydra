@@ -519,7 +519,7 @@ remove everything even the PREV_ITEM,0,1,0 with PREV_ADDON,3,1,1 on top
 cancel all items including the PREV_SIZE,0,1,2 PREV_ITEM,0,1,0 i ordered
 can you delete the order for PREV_NAME,0,1,0 with PREV_ITEM,0,1,0
 remove my order for PREV_ITEM,0,1,0 and PREV_ITEM,0,1,0
-yo can you cancel my order with PREV_ITEM,0,1,0 and PREV_ITEM,0,1,0
+can you cancel my order with PREV_ITEM,0,1,0 and PREV_ITEM,0,1,0
 i need to scratch that order with PREV_ITEM,0,1,0
 delete the order under PREV_NAME,0,1,0 with PREV_ITEM,0,1,0
 get rid of my order for PREV_ITEM,0,1,0 and PREV_ITEM,0,1,0

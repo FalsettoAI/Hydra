@@ -1,0 +1,144 @@
+// usual
+what is my usual order
+what do i usually order
+do you remember my usual
+whats my usual cart
+can you explain what is in my usual order
+what do i normally order
+can you tell me what my regular order is
+do you have my usual order saved
+whats my regular order
+do you know what i typically get
+can you check what i usually order
+what do i always order
+whats in my usual order
+do you know what my usual is
+can you remind me of my typical order
+what do i order most of the time
+can you tell me what my regular choice is
+do you have my go-to order saved
+can you bring up my usual order
+whats my common order
+can you tell me what i often get
+do you remember what i usually buy
+what do i get most often
+can you check my regular order
+what do i normally put in my cart
+do you know what i regularly order
+can you show me my usual items
+whats my frequent order
+can you find my standard order
+do you know what my standard order is
+what do i order all the time
+can you look up my usual cart
+can you bring up what i often get
+do you have a record of my usual order
+whats the order i usually get
+can you tell me what my typical choices are
+do you remember my frequent order
+can you pull up my last usual order
+what do i normally have in my cart
+do you know what i typically buy
+can you bring up what i ordered last time
+whats my most common order
+do you know what my regular items are
+can you check what my regular order contains
+can you tell me what i always get
+
+
+
+// order on specific date
+what did i order on DATE,0,1
+do you remember my order from DATE,0,1
+what was in my cart from DATE,0,1
+what was my order on DATE,0,1
+can you tell me what i got on DATE,0,1
+do you have a record of my order from DATE,0,1
+what did i get on DATE,0,1
+can you check what i ordered on DATE,0,1
+do you remember what i bought on DATE,0,1
+what was in my cart on DATE,0,1
+can you find my order from DATE,0,1
+what items did i order on DATE,0,1
+can you tell me what i purchased on DATE,0,1
+do you have a list of what i got on DATE,0,1
+can you look up my order from DATE,0,1
+what exactly did i order on DATE,0,1
+do you know what i bought on DATE,0,1
+can you show me what was in my cart on DATE,0,1
+do you remember what i added to my cart on DATE,0,1
+can you bring up my order from DATE,0,1
+what did i have in my order on DATE,0,1
+can you check what i had in my cart on DATE,0,1
+do you have a record of my items from DATE,0,1
+can you tell me what i ordered that day DATE,0,1
+what was my purchase on DATE,0,1
+can you remind me what i got on DATE,0,1
+do you have details of my order from DATE,0,1
+can you find out what i had on DATE,0,1
+what did i put in my cart on DATE,0,1
+can you tell me what was included in my order on DATE,0,1
+do you remember the items i ordered on DATE,0,1
+can you retrieve my order from DATE,0,1
+what was everything i ordered on DATE,0,1
+do you know what i purchased on DATE,0,1
+can you look up the things i bought on DATE,0,1
+can you tell me the full order i placed on DATE,0,1
+do you recall my order from DATE,0,1
+what was listed in my cart on DATE,0,1
+can you find the details of my order on DATE,0,1
+do you have the order i placed on DATE,0,1
+what did i place in my cart on DATE,0,1
+can you go over what i ordered on DATE,0,1
+
+
+
+// order at specific time
+what did i order at TIME,0,1
+what was in my cart i made at TIME,0,1
+what did i get at TIME,0,1
+can you tell me what i ordered at TIME,0,1
+what was in my order from TIME,0,1
+do you know what i bought at TIME,0,1
+can you check my order at TIME,0,1
+what did i have in my cart at TIME,0,1
+can you look up what i ordered at TIME,0,1
+what was included in my order at TIME,0,1
+do you remember what i got at TIME,0,1
+can you show me what i purchased at TIME,0,1
+what exactly did i order at TIME,0,1
+can you bring up my order from TIME,0,1
+do you have a record of my order at TIME,0,1
+what items did i order at TIME,0,1
+can you tell me what was in my cart at TIME,0,1
+what did i add to my cart at TIME,0,1
+can you check what i had in my order at TIME,0,1
+do you remember the items i bought at TIME,0,1
+can you retrieve my order from TIME,0,1
+what was everything i ordered at TIME,0,1
+
+
+
+// order at specific time + date
+what did i order DATE,0,1 at TIME,0,1
+can you recall my order from DATE,0,1 at TIME,0,1
+what did i buy on DATE,0,1 at TIME,0,1
+can you tell me what i ordered on DATE,0,1 at TIME,0,1
+what was in my cart on DATE,0,1 at TIME,0,1
+can you check what i got on DATE,0,1 at TIME,0,1
+do you remember my order from DATE,0,1 at TIME,0,1
+what exactly did i order on DATE,0,1 at TIME,0,1
+can you look up my order from DATE,0,1 at TIME,0,1
+what items did i purchase on DATE,0,1 at TIME,0,1
+can you show me what was in my cart on DATE,0,1 at TIME,0,1
+do you have a record of my order from DATE,0,1 at TIME,0,1
+what did i put in my cart on DATE,0,1 at TIME,0,1
+can you tell me the details of my order on DATE,0,1 at TIME,0,1
+what did i add to my cart on DATE,0,1 at TIME,0,1
+can you recall what i ordered on DATE,0,1 at TIME,0,1
+what was everything i bought on DATE,0,1 at TIME,0,1
+can you retrieve my order from DATE,0,1 at TIME,0,1
+do you remember the items i ordered on DATE,0,1 at TIME,0,1
+can you bring up what i ordered on DATE,0,1 at TIME,0,1
+what did i select for my order on DATE,0,1 at TIME,0,1
+can you tell me what was in my order from DATE,0,1 at TIME,0,1

@@ -99,13 +99,3 @@ can I come in at TIME,0,1 on DATE,0,1
 are you open anytime before TIME,0,1 on DATE,0,1
 will you be closed after TIME,0,1 on DATE,0,1
 is the restaurant open at TIME,0,1 on DATE,0,1
-
-
-// greeting + hours_inquiry
-[greeting]:hey will you be closed after TIME,0,1 on DATE,0,1
-[greeting]:hi there are you open at TIME,0,1 on DATE,0,1
-[greeting]:hello there are you guys open after TIME,0,1
-[greeting]:greetings what are your opening hours
-[greeting]:howdy when do you open on DATE,0,1
-[greeting]:good day do you close late at night
-[greeting]:morning do you close around TIME,0,1

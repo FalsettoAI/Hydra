@@ -108,15 +108,3 @@ can you drop me the address
 send me your location details
 could you share your address link
 can you send the address to my number
-
-
-
-// location_inquiry + greeting
-[greeting]:hey there send the address through text
-[greeting]:good morning please send me your location
-[greeting]:good afternoon whats the easiest route to your spot
-[greeting]:good evening are you guys downtown
-[greeting]:hey where do I find your restaurant
-[greeting]:hi there send me the info on how to get there
-[greeting]:hello there what street is your business on
-[greeting]:greetings can you guide me from the nearest landmark

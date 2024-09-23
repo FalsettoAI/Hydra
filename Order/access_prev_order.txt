@@ -51,7 +51,7 @@ i called a couple minutes ago about placing an order
 we talked about placing an order a while ago
 sure i just placed an order with you earlier
 i think we talked not too long ago about an order
-hey i called a bit ago to order something
+i called a bit ago to order something
 we chatted earlier and i made an order
 just checking back on the order we talked about
 i spoke to you a few minutes back and made an order
@@ -68,7 +68,7 @@ i called earlier to talk about my order
 you and i spoke recently about an order i placed
 we discussed an order i made a little while back
 i was just on the phone placing an order with you
-hey we talked not too long ago about my order
+we talked not too long ago about my order
 i called to make an order a short while ago
 we had a quick chat earlier about an order i placed
 just following up on the order we discussed
@@ -77,7 +77,7 @@ we spoke earlier and i placed an order
 i called earlier to confirm an order i made
 we just talked about an order i placed
 i was just talking to you about placing an order
-hey we had a conversation about my order a bit ago
+we had a conversation about my order a bit ago
 just following up on the order we talked about earlier
 i called a little while back to order something
 we talked about my order a short time ago
@@ -152,46 +152,46 @@ lets change PREV_NAME,0,1,0s last purchase details
 i want to revise the recent order for PREV_NAME,0,1,0
 i need to adjust the order made for PREV_NAME,0,1,0
 i just made an order for PREV_NAME,0,1
-hi my name is PREV_NAME,0,1 and i just placed an order
+my name is PREV_NAME,0,1 and i just placed an order
 im PREV_NAME,0,1 and i placed an order in our previous call
 i just called in an order for PREV_NAME,0,1
 i placed an order for PREV_NAME,0,1 a couple minutes ago
 my name is PREV_NAME,0,1 and i just ordered
 i just called to place an order for PREV_NAME,0,1
-hey this is PREV_NAME,0,1 and i made an order earlier
-hi im PREV_NAME,0,1 and i recently ordered
+this is PREV_NAME,0,1 and i made an order earlier
+im PREV_NAME,0,1 and i recently ordered
 i called a bit ago to order under the name PREV_NAME,0,1
 this is PREV_NAME,0,1 and i placed an order a little while ago
 i just made an order for PREV_NAME,0,1 earlier today
 i ordered recently and the name is PREV_NAME,0,1
-hi this is PREV_NAME,0,1 and i called earlier
+this is PREV_NAME,0,1 and i called earlier
 im PREV_NAME,0,1 and i placed an order a bit ago
 my name is PREV_NAME,0,1 and i just talked to you about ordering
-hey this is PREV_NAME,0,1 and i called recently to order
+this is PREV_NAME,0,1 and i called recently to order
 i placed an order for PREV_NAME,0,1 earlier
 my name is PREV_NAME,0,1 and i ordered a short time ago
-hi im PREV_NAME,0,1 and we talked about my order earlier
+im PREV_NAME,0,1 and we talked about my order earlier
 i called a little while ago to order for PREV_NAME,0,1
 im PREV_NAME,0,1 and i made an order recently
 this is PREV_NAME,0,1 and i called not too long ago about ordering
 my name is PREV_NAME,0,1 and i just called to place an order
 i placed an order recently under PREV_NAME,0,1
-hey i ordered a bit ago for PREV_NAME,0,1
-hi this is PREV_NAME,0,1 and i just placed an order with you
+i ordered a bit ago for PREV_NAME,0,1
+this is PREV_NAME,0,1 and i just placed an order with you
 im PREV_NAME,0,1 and i called a short while back to order
 i called earlier and ordered under PREV_NAME,0,1
-hey this is PREV_NAME,0,1 and i recently ordered something
+this is PREV_NAME,0,1 and i recently ordered something
 im PREV_NAME,0,1 and i just called in an order
 i placed an order a bit ago under PREV_NAME,0,1
 my name is PREV_NAME,0,1 and i made an order earlier
-hi im PREV_NAME,0,1 and i just talked to you about ordering
-hey this is PREV_NAME,0,1 and i placed an order a little while ago
+im PREV_NAME,0,1 and i just talked to you about ordering
+this is PREV_NAME,0,1 and i placed an order a little while ago
 i called a bit earlier to place an order for PREV_NAME,0,1
 im PREV_NAME,0,1 and i just ordered something recently
 my name is PREV_NAME,0,1 and i called in an order earlier
-hi this is PREV_NAME,0,1 and i recently made an order
+this is PREV_NAME,0,1 and i recently made an order
 i placed an order under the name PREV_NAME,0,1 earlier today
-hey this is PREV_NAME,0,1 and i called a short while back to order
+this is PREV_NAME,0,1 and i called a short while back to order
 im PREV_NAME,0,1 and i ordered not too long ago
 i called a bit ago and ordered for PREV_NAME,0,1
 my name is PREV_NAME,0,1 and i recently placed an order
@@ -421,8 +421,8 @@ add NUMBER,0,0,2 ITEM,0,0,0s into the order i made before
 reference_prev_call:i just called you a couple minutes ago|id like to make some changes to what i ordered
 reference_prev_call:we just had a conversation a couple minutes ago|i want to add some items to my order
 reference_prev_call:i just talked to you|can i add some things to my order
-reference_prev_call:hi we just spoke a minute ago|can i swap a couple items in my order
-reference_prev_call:hey we just spoke not to long ago|i actually want to remove some stuff from my cart
+reference_prev_call:we just spoke a minute ago|can i swap a couple items in my order
+reference_prev_call:we just spoke not to long ago|i actually want to remove some stuff from my cart
 
 
 

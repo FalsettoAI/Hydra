@@ -32,6 +32,33 @@ whats up
 
 
 
+
+
+
+
+
+
+
+//                          **** inquiry + greeting ****
+
+
+// allergen_inquiry + greeting
+[allergen_inquiry]:aloha is it possible that the ADDON,2,1,2 on the side of my ITEM,0,1 has ALLERGEN,0,1,1 in it
+[allergen_inquiry]:good morning are there any traces of ALLERGEN,0,1,2 in the ADDON,3,1,3 on the ITEM,0,1
+[allergen_inquiry]:good afternoon is it possible for both OBJECT,0,1 or OBJECT,0,1 to contain ALLERGEN,0,1,1,2 or ALLERGEN,0,1,1,2
+[allergen_inquiry]:good evening are there any traces of ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 in the OBJECT,0,1 or OBJECT,0,1
+[allergen_inquiry]:hey does ALLERGEN,0,1,2,3 appear in the OBJECT,0,1 or the OBJECT,0,1
+[allergen_inquiry]:hi there is there any ALLERGEN,0,1,2,3 in either of the OBJECT,0,1 and OBJECT,0,1
+[allergen_inquiry]:hello everyone does that OBJECT,0,1 contain any ALLERGEN,0,1,1
+[allergen_inquiry]:hey guys is it possible that the OBJECT,0,1 has ALLERGEN,0,1,1 in it
+[allergen_inquiry]:hi team could you check if the OBJECT,0,1 has ALLERGEN,0,1,1
+
+// allergy_declaration + allergen_inquiry + greeting
+[allergen_inquiry,allergy_declaration]:good evening are there any traces of ALLERGEN,0,1,3,4 or ALLERGEN,0,1,3,4 in the OBJECT,0,1 or OBJECT,0,1 i have allergies
+[allergen_inquiry,allergy_declaration]:hey does ALLERGEN,0,1,2,3 appear in the OBJECT,0,1 or the OBJECT,0,1 because im allergic
+
+
+
 // greeting + ask for help
 [basic_inquiry]:good morning how are you
 [basic_inquiry]:hi there hows your day been
@@ -90,8 +117,6 @@ whats up
 [basic_inquiry]:hey there hows life going
 [basic_inquiry]:hi how are things with you
 
-
-
 // greeting + mood
 [basic_inquiry]:hi do you have a moment
 [basic_inquiry]:hello do you have a moment
@@ -114,3 +139,454 @@ whats up
 [basic_inquiry]:hi could i ask a question
 [basic_inquiry]:hello could i ask a question
 [basic_inquiry]:hi i need some information
+
+// current date + greeting
+[basic_inquiry]:yo man what day is it right now
+[basic_inquiry]:hello can you tell me what day tomorrow is
+[basic_inquiry]:hi what day is it again today
+
+// current time + greeting
+[basic_inquiry]:hello do you know the time right now
+[basic_inquiry]:yo what time are we looking at
+[basic_inquiry]:hey can you tell me the exact time
+[basic_inquiry]:hey dude whats the time at the moment
+
+// weather + greeting
+[basic_inquiry]:hi is it hot over there right now
+[basic_inquiry]:hello hows the weather treating you today
+[basic_inquiry]:hey is it humid where youre at
+[basic_inquiry]:hey man whats the weather been like today
+
+// confirm audio + greeting
+[basic_inquiry]:hi do you hear me
+[basic_inquiry]:hey does my audio work
+[basic_inquiry]:hello there can you hear my voice
+[basic_inquiry]:greetings is my audio coming through alright
+[basic_inquiry]:howdy is my microphone working
+[basic_inquiry]:good day is my mic working fine
+[basic_inquiry]:morning can you hear my voice
+[basic_inquiry]:afternoon can you hear me talking
+[basic_inquiry]:evening can you check if you hear me
+
+
+
+// greeting + hours_inquiry
+[hours_inquiry]:hey will you be closed after TIME,0,1 on DATE,0,1
+[hours_inquiry]:hi there are you open at TIME,0,1 on DATE,0,1
+[hours_inquiry]:hello there are you guys open after TIME,0,1
+[hours_inquiry]:greetings what are your opening hours
+[hours_inquiry]:howdy when do you open on DATE,0,1
+[hours_inquiry]:good day do you close late at night
+[hours_inquiry]:morning do you close around TIME,0,1
+
+
+
+// greeting + language_inquiry
+[language_inquiry]:hello all do you speak any asian languages
+[language_inquiry]:good day to you how many languages can you speak
+[language_inquiry]:hi there everyone can you speak mandarin
+[language_inquiry]:hello hello do you know how to speak german
+[language_inquiry]:hi hi what languages can you speak
+[language_inquiry]:hey hey are you able to speak russian
+[language_inquiry]:aloha can you speak tagalog
+
+
+
+// location_inquiry + greeting
+[location_inquiry]:hey there send the address through text
+[location_inquiry]:good morning please send me your location
+[location_inquiry]:good afternoon whats the easiest route to your spot
+[location_inquiry]:good evening are you guys downtown
+[location_inquiry]:hey where do I find your restaurant
+[location_inquiry]:hi there send me the info on how to get there
+[location_inquiry]:hello there what street is your business on
+[location_inquiry]:greetings can you guide me from the nearest landmark
+
+
+
+// greeting + manager_inquiry
+[manager_inquiry]:hello hello please put a real human on
+[manager_inquiry]:hi hi is there a human i can speak with
+[manager_inquiry]:hey hey give me the head person
+[manager_inquiry]:aloha let me talk to whoevers in charge
+[manager_inquiry]:salutations can you put a person on the phone
+[manager_inquiry]:hi y'all i need to speak with the owner
+[manager_inquiry]:whats up can you put me through to the owner
+
+
+
+// object_description_inquiry + greeting
+[object_description_inquiry]:hey guys can you tell me about the ITEM,0,1 with ADDON,3,1,1 in it
+[object_description_inquiry]:hi team what does the ITEM,0,1 with ADDON,3,1,1 on it consist of
+[object_description_inquiry]:hello all whats included with the ADDON,3,1,3 and ADDON,3,1,3 on my ITEM,0,1
+[object_description_inquiry]:good day to you whats in the ADDON,0,1,2 that comes with my ITEM,0,1
+[object_description_inquiry]:hi there everyone can you describe both the OBJECT,0,1 and OBJECT,0,1
+[object_description_inquiry]:hello hello tell me about the OBJECT,0,1
+
+
+
+// object_ingredient_inquiry + greeting
+[object_ingredient_inquiry]:good evening do either the ITEM,0,1 or ITEM,0,1 contain ADDON,3,1,1,2 ADDON,3,1,1,2 or ADDON,3,1,1,2
+[object_ingredient_inquiry]:hi there does the ITEM,0,1 contain ADDON,0,1,1 or ADDON,0,1,1
+[object_ingredient_inquiry]:hello there do yall put ADDON,2,1,2 in the ITEM,0,1
+
+
+
+// object_nutritional_inquiry + greeting
+[object_nutritional_inquiry]:hi hi how much sugar is in the OBJECT,0,1
+[object_nutritional_inquiry]:hey hey whats the cholesterol content in the OBJECT,0,1
+[object_nutritional_inquiry]:aloha how healthy would you say the OBJECT,0,1 is
+
+
+
+// object_recommendation_inquiry + greeting
+[object_recommendation_inquiry]:good morning anything you love adding to the ITEM,0,1
+[object_recommendation_inquiry]:good afternoon whats your most popular drink
+[object_recommendation_inquiry]:good evening got any good dinner dishes
+[object_recommendation_inquiry]:hey whats your best pasta dish
+
+
+
+// order_queue_inquiry + greeting
+[order_queue_inquiry]:hello there whats the wait time lookin like for pickup on DATE,0,1 at TIME,0,1
+[order_queue_inquiry]:greetings can you tell me how long my order will take
+[order_queue_inquiry]:yo how much longer until my ITEM,0,1 with ADDON,2,1,1 on the side is ready
+[order_queue_inquiry]:hi folks when is the stuff for NAME,0,1 going to be finished
+
+
+
+// possible_object_inquiry + greeting
+[possible_object_inquiry]:hi there everyone if i got a ITEM,0,1 or ITEM,0,1 could i add a ADDON,0,1,1,2 or a ADDON,0,1,1,2 to either
+[possible_object_inquiry]:hello hello can i choose to have ADDON,0,1,2,3 with either a ITEM,0,1 or a ITEM,0,1
+[possible_object_inquiry]:hi hi can i order a OBJECT,0,1 from your menu
+
+
+
+// possible_order_inquiry + greeting
+[possible_order_inquiry]:evening can i put in an order if i call
+[possible_order_inquiry]:yo can i place a phone order with yall
+[possible_order_inquiry]:hi folks do yall take phone orders
+[possible_order_inquiry]:hello everyone do you guys take orders
+
+
+
+// possible_reservation_inquiry + greeting
+[possible_reservation_inquiry]:hi hi can i make a reservation if i call you
+[possible_reservation_inquiry]:hey hey can i reserve a table without coming in
+[possible_reservation_inquiry]:aloha do yall let people reserve spots
+[possible_reservation_inquiry]:whats up are you taking reservations for tonight
+
+
+
+// price_inquiry + greeting
+[price_inquiry]:hey there could you provide the cost for a ITEM,0,1 and a ADDON,0,1,1 together
+[price_inquiry]:good morning what would NUMBER,0,1,2 OBJECT,0,1s cost
+[price_inquiry]:good evening could you tell me the price for a single OBJECT,0,1
+[price_inquiry]:hey how much does one OBJECT,0,1 with no addons cost
+
+
+
+// profile_inquiry + greeting
+[profile_inquiry]:yo can you retrieve my order from DATE,0,1 at TIME,0,1
+[profile_inquiry]:hi folks what do i always order
+[profile_inquiry]:hi team do you remember what i usually buy
+[profile_inquiry]:hello all do you have a record of my items from DATE,0,1
+
+
+
+// sms_inquiry + greeting
+[sms_inquiry]:hi hi is it possible to place my order via sms
+[sms_inquiry]:hey hey do you reply to questions sent by sms
+[sms_inquiry]:aloha do you respond if i text you
+
+
+
+// software_inquiry + greeting
+[software_inquiry]:good evening whos the team that made you
+[software_inquiry]:hey who coded this technology
+[software_inquiry]:hi there who assembled you
+[software_inquiry]:hello there is there a record of this chat
+[software_inquiry]:good day am i interacting with a human being
+
+
+
+// table_queue_inquiry + greeting
+[table_queue_inquiry]:good day do you have an estimate on the wait for NUMBER,0,1 people on DATE,0,1 at TIME,0,1
+[table_queue_inquiry]:morning when would i get a table if i walked in
+[table_queue_inquiry]:afternoon whats the wait looking like to sit right now
+[table_queue_inquiry]:evening whats the seating wait like for a party of NUMBER,0,1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//                          **** order intents + greeting ****
+
+
+// add_order_info + greeting
+[manage_order_info]:hi can i get an ITEM,0,0,0 with SIZE,0,0,3 ADDON,0,0,1
+[manage_order_info]:hello lets get an ITEM,0,0,0 without the ADDON,1,0,1
+[manage_order_info]:hey there add NUMBER,0,0,2 ITEM,0,0,0s and SIZE,0,0,4 ADDON,0,0,2
+[manage_order_info]:good morning gimme a SIZE,0,0,2 ITEM,0,0,0 with SIZE,0,0,4 ADDON,0,0,2
+[manage_order_info]:good afternoon lets get NUMBER,0,0,2 ITEM,0,0,0s with ADDON,2,0,2 served apart
+[manage_order_info]:good evening throw in a ITEM,0,0,0 ADDON,3,0,1 in it and NUMBER,0,0,5 SIZE,0,0,5 ITEM,0,0,0s
+[manage_order_info]:hey give me a SIZE,0,0,2 ITEM,0,0,0 ADDON,3,0,2 on it and NUMBER,0,0,5 ITEM,0,0,0s
+[manage_order_info]:hi there id like ITEM,0,0 ITEM,0,0 and a ITEM,0,0 all with ADDON,3,0,1,2,3 on top
+[manage_order_info]:hello there lets add a ITEM,0,0 and a ITEM,0,0 with ADDON,0,0,1,2 for each
+[manage_order_info]:greetings NAME,0,0,0 here gimme a SIZE,0,0,3 ITEM,0,0,0 ADDON,3,0,3 if you could
+[manage_order_info]:howdy for NAME,0,0,0 can we do an ITEM,0,0,0 and NUMBER,0,0,5 SIZE,0,0,5 ITEM,0,0,0s
+[manage_order_info]:afternoon lets add ITEM,0,0 with ADDON,0,0,1 and ADDON,0,0,1 but ill take NUMBER,0,0,2,3 of both those under NAME,0,0
+[manage_order_info]:evening lets add ADDON,0,0,2 to the PREV_ITEM,0,1,0
+[manage_order_info]:yo how about we toss some ADDON,3,0,2 on that PREV_ITEM,0,1,0
+[manage_order_info]:hi folks give me SIZE,0,0,2 ADDON,0,0,3,4,5 for each of my PREV_ITEM,0,1 PREV_ITEM,0,1 and PREV_ITEM,0,1
+[manage_order_info]:hello everyone change the PREV_ADDON,0,1,2 i had on the PREV_ITEM,0,1 to NUMBER,0,0,1
+[manage_order_info]:hey guys make all the PREV_ADDON,0,1,4 PREV_ADDON,0,1,4 and PREV_ADDON,0,1,4 from my PREV_ITEM,0,1 into SIZE,0,0,1,2,3
+[manage_order_info]:hi team we would like to have NUMBER,0,0,2 ITEM,0,0,0s and make NUMBER,0,0,5,6 of em SIZE,0,0,6*2,1,0*2,0,0
+[manage_order_info]:hello all put in NUMBER,0,0,2 ITEM,0,0,0s my way and slap ADDON,3,0,6 on NUMBER,0,0,5,6*2,1,0*2,0,0
+[manage_order_info]:good day to you i want the ITEM,0,0 that includes ADDON,0,1,1
+[manage_order_info]:hi there everyone could you add the ITEM,0,0 that already has ADDON,0,1,1 to my order
+[manage_order_info]:hello hello add an ITEM,0,0 with ADDON,0,0,1 but make sure theres no ALLERGEN,1,0,1
+[manage_order_info]:hi hi ill take NUMBER,0,0,2 ITEM,0,0s but please dont let there be any ALLERGEN,1,0,2
+[manage_order_info,allergy_declaration]:hi im going to get a ITEM,0,0 and i have an allergy to ALLERGEN,0,1
+[manage_order_info,allergy_declaration]:hello i need a ITEM,0,0 and have an allergy to ALLERGEN,1,0,1 so keep it out
+[manage_order_info,allergy_declaration]:hey there can you put an ITEM,0,0 with ADDON,0,0,1 in my cart but make sure theres no ALLERGEN,1,0,1 as im allergic
+
+
+
+// delete_order_info + greeting
+[manage_order_info]:hi can i remove an item
+[manage_order_info]:hello i need to delete an item
+[manage_order_info]:hey there delete the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 from my list
+[manage_order_info]:good morning can you remove that PREV_ITEM,1,0,0 i asked for
+[manage_order_info]:good afternoon scratch off the PREV_ITEM,1,0,0 from the order
+[manage_order_info]:good evening take away the PREV_ITEM,1,0,0 with no PREV_ADDON,1,1,1
+[manage_order_info]:evening take out NUMBER,0,0,2 of the PREV_ITEM,1,0
+[manage_order_info]:yo can you remove NUMBER,0,0,2 PREV_ITEM,1,0s for me
+[manage_order_info]:hi folks delete NUMBER,0,0,2,3 PREV_ITEM,1,0s and PREV_ITEM,1,0s from the list
+[manage_order_info]:hello everyone cancel the PREV_ITEM,1,0,0 and that PREV_SIZE,0,1,3 PREV_ITEM,1,0,0 with PREV_ADDON,0,1,3
+[manage_order_info]:hey guys can you get rid of the PREV_ITEM,1,0 and PREV_ITEM,1,0 that are both with ADDON,0,1,1,2
+[manage_order_info]:hi team help me delete the PREV_ITEM,1,0 and the PREV_ITEM,1,0 which are both SIZE,0,1,1,2
+
+
+
+// swap_order_info + greeting
+[manage_order_info]:hey there i wanna switch my PREV_ITEM,1,0,0 with a ITEM,0,0,0 and add ADDON,2,0,3 on the side
+[manage_order_info]:good morning swap the PREV_SIZE,0,1,2 PREV_ITEM,1,0,0 for a ITEM,0,0,0 with ADDON,0,0,3
+[manage_order_info]:hey remove NUMBER,0,0,2 of the PREV_ITEM,1,0 and swap it for a ITEM,0,0 and a ITEM,0,0 with ADDON,0,0,4
+[manage_order_info]:hi there lemme change the PREV_ITEM,1,0,0 and PREV_ITEM,1,0,0 to NUMBER,0,0,5 SIZE,0,0,5 ITEM,0,0,0s and a ITEM,0,0,0
+[manage_order_info]:hello there can you switch out my PREV_ITEM,1,0,0 and PREV_ITEM,1,0,0 for a SIZE,0,0,4 ITEM,0,0,0 and a ITEM,0,0,0
+[manage_order_info]:morning replace the PREV_ITEM,1,0,0 and PREV_ITEM,1,0,0 with NUMBER,0,0,5 SIZE,0,0,5 ITEM,0,0,0s and a ITEM,0,0,0
+[manage_order_info]:afternoon i need to replace my PREV_ITEM,1,0,0 with NUMBER,0,0,3 ITEM,0,0,0s containing SIZE,0,0,5 ADDON,0,0,3
+[manage_order_info]:evening could you take the ADDON,1,0,2 off my PREV_ITEM,1,0,0 and add some ADDON,0,0,2
+[manage_order_info]:yo make my PREV_ITEM,1,0,0 a SIZE,0,0,3 ITEM,0,0,0 with ADDON,0,0,3 instead
+[manage_order_info]:hi folks switch out my PREV_ITEM,1,0,0 for a ITEM,0,0,0 with SIZE,0,0,4 ADDON,0,0,2
+[manage_order_info]:hello everyone i need to swap the PREV_ITEM,1,0 and PREV_ITEM,1,0 for a SIZE,0,0,4 ITEM,0,0
+[manage_order_info]:hey guys is there a way to exchange an item in my cart
+[manage_order_info]:hi team mind if i modify one of my choices
+[manage_order_info]:hello all can we tweak one of the items i ordered
+[manage_order_info]:good day remove the PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 on the side and replace it with a SIZE,0,0,4 ITEM,0,0,0 with ADDON,0,0,4
+[manage_order_info]:hi there take out the PREV_ITEM,1,0,0 with PREV_ADDON,2,1,1 on the side and add a SIZE,0,0,4 ITEM,0,0,0
+
+
+
+// access_prev_order + greeting
+[access_prev_order]:hi could we revisit my last order and make a few edits
+[access_prev_order]:hello i just called in an order
+[access_prev_order]:hey there we just talked about the order i placed earlier
+[access_prev_order]:good morning lets update PREV_NAME,0,1,0s recent order details
+[access_prev_order]:good afternoon i called not too long ago about ordering
+[access_prev_order]:good evening cancel the PREV_ITEM,1,0,0 i mentioned in our last chat
+[access_prev_order]:hey drop PREV_NUMBER,0,0,2 PREV_ITEM,1,0,0s from my last order
+[access_prev_order]:good day trade the PREV_ITEM,1,0,0 from earlier for ITEM,0,0,0 and put ADDON,3,0,2 on it
+[access_prev_order]:morning i want to tweak PREV_NAME,0,1,0s last order
+[access_prev_order]:afternoon for the old order under PREV_NAME,0,1,0 i want to swap PREV_ITEM,1,0,0 for a ITEM,0,0,0 with ADDON,0,0,3
+[access_prev_order]:hello everyone id like to adjust the items in PREV_NAME,0,1,0s last purchase
+[access_prev_order]:hello hello could you help me add items the order that had PREV_ITEM,0,1,0
+[access_prev_order]:hi hi id like to adjust my order containing PREV_ITEM,0,1,0 and PREV_ADDON,0,1,1
+[access_prev_order]:hey hey can we modify what we got for PREV_NAME,0,1,0 in our last conversation
+[access_prev_order]:aloha just touching base on the order we discussed recently
+[access_prev_order]:salutations we just had a conversation where i placed an order
+
+
+
+// cancel_order + greeting
+[cancel_order]:hi delete my entire order but that PREV_ITEM,0,0 with PREV_ADDON,0,0,1
+[cancel_order]:hello clear my order but leave PREV_ITEM,0,0 with PREV_ADDON,3,0,1 on top
+[cancel_order]:hey there can we erase my whole order and start over with NUMBER,0,0,2 ITEM,0,0,0s and an ITEM,0,0,0
+[cancel_order]:good evening scratch all that lets go with SIZE,0,0,2 ITEM,0,0,0 and ADDON,2,0,2 on the side
+[cancel_order]:hey shred that order under PREV_NAME,0,1,0 with PREV_ITEM,0,1,0
+[cancel_order]:hi there bust up my order for PREV_ITEM,0,1,0 please
+[cancel_order]:howdy void all items in PREV_NAME,0,1,0s order now
+[cancel_order]:good day empty my cart entirely
+[cancel_order]:morning clear the slate for PREV_NAME,0,1,0s order
+[cancel_order]:hi team clear everything out of my cart
+[cancel_order]:hello all clear everything in my order fully
+[cancel_order]:good day to you can i remove all the items in my cart
+[cancel_order]:hi there everyone an you clear my cart for me
+[cancel_order]:hello hello clear my order of all items now please
+[cancel_order]:hi hi clear out my cart please
+[cancel_order]:whats up can you empty the whole cart
+
+
+
+// create_order + greeting
+[create_order]:hi this is NAME,0,0,0 i want to add NUMBER,0,0,3 ITEM,0,0,0s and a ITEM,0,0,0 to an order
+[create_order]:hello i need an order for NAME,0,0,0 including a ITEM,0,0,0 and SIZE,0,0,4 ITEM,0,0,0 with ADDON,2,0,4 on the side
+[create_order]:hey there can i get an order going under NAME,0,0,0
+[create_order]:hello there NAME,0,0,0 speaking id like to start my order
+[create_order]:greetings lets get an order rolling for NAME,0,0,0
+[create_order]:howdy im calling to place an order under NAME,0,0,0
+[create_order]:good day can you start an order with SIZE,0,0,2 ITEM,0,0,0 for me
+[create_order]:yo id like to start my order
+[create_order]:hi folks lets get an order rolling
+[create_order]:hello everyone could you get an order started for NAME,0,0,0
+[create_order]:hey guys id like to begin my order with NUMBER,0,0,2 ITEM,0,0,0s
+[create_order]:hi team lets get an order going with a ITEM,0,0,0 and put ADDON,3,0,1 on it
+[create_order]:hello all im putting in an order for NAME,0,0,0 lets get a SIZE,0,0,3 ITEM,0,0,0 with ADDON,0,0,3
+[create_order]:good day to you could you get an order started for me
+[create_order]:hi there everyone id like to begin an order
+[create_order]:hello hello ready to start my order
+[create_order]:hi hi im looking to make an order
+[create_order]:hey hey can you kick off a new order for me
+
+
+
+// view_order + greeting
+[view_order]:hi i want to view what's in my order right now
+[view_order]:hello show me the summary of my current order please
+[view_order]:hey there can you show me the items in my current order
+[view_order]:good morning display what's in my current order for me
+[view_order]:good afternoon let me check the items in my current order
+[view_order]:greetings show me what i've ordered so far
+[view_order]:howdy display my current order please
+[view_order]:good day i'd like to check my current cart
+[view_order]:morning what's in my order at the moment
+[view_order]:afternoon can you display my cart summary
+[view_order]:evening what food did i order it’s for PREV_NAME,0,1,0
+[view_order]:yo this is PREV_NAME,0,1,0 can you check what i ordered
+[view_order]:hello all can you list the details of my food order it’s under PREV_NAME,0,1,0
+[view_order]:good day to you did you add the correct size to my PREV_ITEM,0,1,0
+[view_order]:hi there everyone did you add PREV_ITEM,0,1,0 to my order
+[view_order]:hello hello how many PREV_ITEM,0,1,0's do i have
+[view_order]:hi hi is my PREV_ITEM,0,1,0 still there
+[view_order]:hey hey did you put any ADDON,0,1,2 on my PREV_ITEM,0,1,0
+[view_order]:aloha what PREV_ITEM,0,1,0 did you just add
+[view_order]:salutations is my PREV_ITEM,0,1,0 with ADDON,0,1,2
+
+
+
+
+
+
+//                          **** reservation intents + greeting ****
+
+// add_res_info + greeting
+[add_res_info]:hi my name is NAME,0,0,0 is it possible to set up a reservation on DATE,0,0,0
+[add_res_info]:hello is it possible to set up a reservation for NUMBER,0,0,0 under the NAME,0,0,0 on DATE,0,0,0 at TIME,0,0,0
+[add_res_info]:hey there please book a table for NAME,0,0,0 on DATE,0,0,0
+[add_res_info]:good morning i need to make a booking for NUMBER,0,0,0 on DATE,0,0,0
+[add_res_info]:good afternoon can i reserve a table for NAME,0,0,0 on DATE,0,0,0
+[add_res_info]:good evening i would like to have a table arranged for TIME,0,0,0
+[add_res_info]:hey my name is NAME,0,0,0 i would like to have a table arranged for NUMBER,0,0,0 on DATE,0,0,0 at TIME,0,0,0
+[add_res_info]:hi there can you get me a reservation for NUMBER,0,0,0 diners on the DATE,0,0,0 at TIME,0,0,0
+[add_res_info]:hello there i am looking to book a table for a party of NUMBER,0,0,0 at TIME,0,0,0 on DATE,0,0,0
+[add_res_info]:greetings would you be able to reserve a spot for NUMBER,0,0,0 guests on DATE,0,0,0 for TIME,0,0,0
+[add_res_info]:howdy could you request a reservation for NUMBER,0,0,0 people on DATE,0,0,0 at TIME,0,0,0
+[add_res_info]:good day i want to make a booking for TIME,0,0,0 on DATE,0,0,0 for a group of NUMBER,0,0,0
+[add_res_info]:morning can i reserve a spot for NUMBER,0,0,0 at TIME,0,0,0 on DATE,0,0,0 under NAME,0,0,0
+[add_res_info]:hey guys could you book a table for NUMBER,0,0,0 at TIME,0,0,0 on DATE,0,0,0 under NAME,0,0,0
+[add_res_info]:hi team i wanna make a reservation for NUMBER,0,0,0 under NAME,0,0,0 at TIME,0,0,0 on DATE,0,0,0
+[add_res_info]:hello all can you book a table for NAME,0,0,0 on DATE,0,0,0 at TIME,0,0,0 for NUMBER,0,0,0
+[add_res_info]:good day to you can you seat a NUMBER,0,0,0 chair table for NAME,0,0,0 at TIME,0,0,0
+[add_res_info]:hi there everyone can you seat a NUMBER,0,0,0 chair table for NAME,0,0,0
+[add_res_info]:hello hello can you book a reservation for DATE,0,0,0 at TIME,0,0,0 for a group of NUMBER,0,0,0
+[add_res_info]:hi hi we are hoping to reserve a spot for a party of NUMBER,0,0,0 at TIME,0,0,0 on DATE,0,0,0 please
+[add_res_info]:hey hey we require a reservation for NUMBER,0,0,0 people at TIME,0,0,0 on DATE,0,0,0 please
+[add_res_info]:aloha can you book me a table for NUMBER,0,0,0 guests on DATE,0,0,0 at TIME,0,0,0
+[add_res_info]:salutations i would like to book a spot for NUMBER,0,0,0 under NAME,0,0,0 on DATE,0,0,0 at TIME,0,0,0
+[add_res_info]:hi y'all i would like to book a spot for NUMBER,0,0,0 under the NAME,0,0,0
+[add_res_info]:whats up please set up a dining reservation for TIME,0,0,0
+
+
+
+// cancel_res + greeting
+[cancel_res]:hi im unable to attend my reservation on PREV_DATE,0,1,0 at PREV_TIME,0,1,0 please cancel
+[cancel_res]:hello please cancel the reservation i made for PREV_DATE,0,1,0 at PREV_TIME,0,1,0
+[cancel_res]:hey there i want to cancel the booking i made for PREV_DATE,0,1,0 at PREV_TIME,0,1,0
+[cancel_res]:good morning i have decided to cancel my reservation scheduled for PREV_DATE,0,1,0
+[cancel_res]:hi there unfortunately i must cancel the PREV_DATE,0,1,0 reservation i had made
+[cancel_res]:hello there i need to get my upcoming reservation on PREV_DATE,0,1,0 canceled
+[cancel_res]:greetings i wont be able to make it to the reservation scheduled on PREV_DATE,0,1,0
+[cancel_res]:howdy id like to request cancellation of the booking i had set for PREV_DATE,0,1,0
+[cancel_res]:good day unfortunately i have to cancel the reservation that was made for PREV_DATE,0,1,0
+[cancel_res]:morning please cancel my reservation scheduled for PREV_DATE,0,1,0
+[cancel_res]:afternoon i wont be able to make it on PREV_DATE,0,1,0 so i need to cancel
+[cancel_res]:hi folks please cancel my current reservation that was scheduled to take place on PREV_DATE,0,1,0 at PREV_TIME,0,1,0
+[cancel_res]:hello everyone i had made plans to attend my reservation on PREV_DATE,0,1,0 at PREV_TIME,0,1,0 but something came up and i have to cancel
+[cancel_res]:hey guys i want to cancel the reservation i made for PREV_DATE,0,1,0 at PREV_TIME,0,1,0
+[cancel_res]:hi team i need to cancel the appointment i have on PREV_DATE,0,1,0 at PREV_TIME,0,1,0
+[cancel_res]:hello all im looking to cancel my reservation that is scheduled for PREV_DATE,0,1,0 at PREV_TIME,0,1,0
+[cancel_res]:good day to you id like to cancel my reservation thats on PREV_DATE,0,1,0 at PREV_TIME,0,1,0
+[cancel_res]:hi there everyone im not going to be able to make it to my reservation on PREV_DATE,0,1,0 at PREV_TIME,0,1,0 please cancel
+[cancel_res]:hello hello i wont be able to come in for my reservation scheduled for PREV_DATE,0,1,0 please cancel it
+[cancel_res]:salutations can you cancel my reservation
+[cancel_res]:hi y'all is it possible to cancel my reservation
+[cancel_res]:whats up would you cancel my table reservation
+
+
+
+// change_res_info + greeting
+[change_res_info]:hi can you please look into modifying my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0
+[change_res_info]:good afternoon i need to shift my reservation time on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to TIME,0,0,0 if thats okay
+[change_res_info]:good evening i had booked a reservation for PREV_DATE,0,1,0 at PREV_TIME,1,0,0 but i need to amend it to TIME,0,0,0
+[change_res_info]:greetings would you kindly update my booking on PREV_DATE,0,1,0 from PREV_TIME,1,0,0 to accommodate NUMBER,0,0,0 people
+[change_res_info]:howdy i need to edit my reservation from PREV_DATE,1,0,0 to DATE,0,0,0
+[change_res_info]:good day can i adjust the time from PREV_TIME,1,0,0 to TIME,0,0,0
+[change_res_info]:morning can you change my reservation date from PREV_DATE,1,0,0 to DATE,0,0,0
+[change_res_info]:yo i want to switch my reservation from PREV_TIME,1,0,0 to TIME,0,0,0
+[change_res_info]:hi folks can i update my reservation on PREV_DATE,1,0,0 to DATE,0,0,0
+[change_res_info]:hello everyone could you update the time for my reservation on PREV_DATE,0,1,0 to TIME,0,0,0
+[change_res_info]:hey guys can i edit the reservation on PREV_DATE,0,1,0 to have a new time of TIME,0,0,0
+[change_res_info]:hi team please switch the party size from PREV_NUMBER,1,0,0 to NUMBER,0,0,0 on PREV_DATE,0,1,0
+[change_res_info]:hello all i need to change my reservation on PREV_DATE,0,1,0 to a new time of TIME,0,0,0
+[change_res_info]:good day to you i want to move my reservation date from PREV_DATE,1,0,0 to DATE,0,0,0
+[change_res_info]:hi there everyone please adjust my reservation date for PREV_NAME,0,1,0 to DATE,0,0,0
+[change_res_info]:aloha i want to remove the time TIME,1,0,0 from my reservation
+[change_res_info]:salutations can you delete the number of guests NUMBER,1,0,0 from my booking
+[change_res_info]:hi y'all please erase the date DATE,1,0,0 from my booking
+[change_res_info]:whats up can you help me change my reservation from PREV_DATE,1,0,0 at PREV_TIME,1,0,0 to DATE,0,0,0 at TIME,0,0,0 for NUMBER,0,0,0 people
+
+
+
+// view_res + greeting
+[view_res]:hi can you tell me the name on my booking
+[view_res]:hello what time did i reserve the table for
+[view_res]:hey there what's the time for my reservation
+[view_res]:good morning you can show booking details for PREV_NAME,0,1,0 on PREV_DATE,0,1,0
+[view_res]:good afternoon me need see PREV_NAME,0,1,0 reservation for PREV_DATE,0,1,0
+[view_res]:good evening i want to verify the details for the reservation made on PREV_DATE,0,1,0
+[view_res]:hey i should look at the reservation details for PREV_NUMBER,0,1,0 on PREV_DATE,0,1,0
+[view_res]:hi there can you check if i have a reservation for PREV_TIME,0,1,0 on PREV_DATE,0,1,0
+[view_res]:hello there got to pull up the reservation info for PREV_NUMBER,0,1,0 on PREV_DATE,0,1,0
+[view_res]:greetings i want to confirm the info for the booking at PREV_TIME,0,1,0 for PREV_NAME,0,1,0
+[view_res]:howdy are you able to view my reservation for PREV_TIME,0,1,0
+[view_res]:evening are there any tables saved for a party of PREV_NUMBER,0,1,0
+[view_res]:yo fill me in on that booking listed under PREV_NAME,0,1,0
+[view_res]:hi folks you have details for PREV_NAME,0,1,0 booking reservation
+[view_res]:hello everyone how many people did i book the table for
+[view_res]:hey guys can you give details for PREV_NAME,0,1,0 reservation on PREV_DATE,0,1,0 at PREV_TIME,0,1,0 with guests PREV_NUMBER,0,1,0
+[view_res]:hi team i was hoping to view the reservation details for PREV_NAME,0,1,0 with a party of PREV_NUMBER,0,1,0
+[view_res]:hello hello please show the reservation for PREV_NAME,0,1,0 on PREV_DATE,0,1,0
+[view_res]:hi hi is there a booking under PREV_NAME,0,1,0 at PREV_TIME,0,1,0 on PREV_DATE,0,1,0
+[view_res]:hey hey can i check the reservation for PREV_NUMBER,0,1,0 on PREV_DATE,0,1,0 for PREV_NAME,0,1,0
+[view_res]:aloha let me know PREV_NAME,0,1,0 booking details for PREV_DATE,0,1,0 time PREV_TIME,0,1,0 party count PREV_NUMBER,0,1,0
+[view_res]:salutations let me know reservation for PREV_NAME,0,1,0

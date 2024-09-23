@@ -36,13 +36,3 @@ can you speak finnish
 are you fluent in any other languages
 could you speak cantonese
 do you understand any other languages
-
-
-// greeting + language_inquiry
-[greeting]:hello all do you speak any asian languages
-[greeting]:good day to you how many languages can you speak
-[greeting]:hi there everyone can you speak mandarin
-[greeting]:hello hello do you know how to speak german
-[greeting]:hi hi what languages can you speak
-[greeting]:hey hey are you able to speak russian
-[greeting]:aloha can you speak tagalog

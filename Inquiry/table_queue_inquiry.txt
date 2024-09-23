@@ -1,6 +1,286 @@
 // basic sentences
+how long is the wait for a table right now
+what would you estimate the wait time would be to sit down right now
+when would i sit down if i came in right now
+how long am i waiting to get a table
+if i show up right now how long til im sitting
+whats the wait time looking like right now for a table
+any chance you know how long til i can sit down
+how longs the line for a table
+whats the current wait to sit
+how long til im grabbing a seat if i come in
+whats the wait to get a table right now
+when would i get a table if i walked in
+you know the wait time for a table right now
+how long am i waiting to sit down if i show up
+whats the ETA for a table if i head over
+how longs the line for seating
+whats the current wait time to sit
+any idea how long id wait for a table
+how long til im seated if i swing by
+whats the table wait looking like right now
+can you give me a rough wait time for a table
+how longs the wait for a seat if i pop in
+if i walk in now how longs the wait to sit
+how long would i wait to get a table
+whats the wait time to sit down if i head over
+any estimate on how long til id get a table
+how longs the wait right now to get a table
+if i come in now whats the table wait
+how long til im seated if i come through
+any idea how long to wait for a table
+whats the seating wait time like now
+how long am i waiting to get seated
+whats the wait looking like to sit right now
+
+// basic sentences + party size
+how long would it take for me to sit down with a party of NUMBER,0,1
+what would the wait time be for a table for NUMBER,0,1
+estimate the time it would take to sit NUMBER,0,1 right now
+how longs the wait for a table for NUMBER,0,1
+whats the wait time if ive got NUMBER,0,1 with me
+how long am i waiting for a table for NUMBER,0,1
+how longs the line to sit down with a party of NUMBER,0,1
+if i come in with NUMBER,0,1 how longs the wait
+how long til a table for NUMBER,0,1 is ready
+whats the current wait time for a group of NUMBER,0,1
+how long is the wait if were a party of NUMBER,0,1
+any idea how long til a table for NUMBER,0,1 is open
+if ive got NUMBER,0,1 people how long til we can sit
+whats the wait to get seated with NUMBER,0,1 folks
+how long to seat a party of NUMBER,0,1
+whats the estimated wait time for a group of NUMBER,0,1
+if i bring in NUMBER,0,1 people how longs the wait
+how long to sit down with NUMBER,0,1 in my group
+any chance you know how long for a table for NUMBER,0,1
+how long to get a table for a group of NUMBER,0,1
+whats the seating wait like for a party of NUMBER,0,1
+how longs the wait to sit NUMBER,0,1 at a table
+whats the wait time to get a table for NUMBER,0,1 people
+if were a group of NUMBER,0,1 how long is the wait
+how long till we get a table for NUMBER,0,1
+how longs the line for a group of NUMBER,0,1
+how long do you think wed wait with NUMBER,0,1 people
+any idea how long for a table for NUMBER,0,1 to be ready
+how long until we can get seated with NUMBER,0,1
+how longs the wait if were bringing NUMBER,0,1
+how long would it take to sit a group of NUMBER,0,1
+any chance you can tell me the wait for NUMBER,0,1 people
+how longs the table wait for a group of NUMBER,0,1
+
+
+
+// specific time
+how long will i have to wait for a table at TIME,0,1
+what would the usual wait for a table at TIME,0,1 be
+how long do you think i would have to wait for a table at TIME,0,1
+estimate how long i would need to wait for a table at TIME,0,1
+how long would it take to sit down if i showed up at TIME,0,1
+how longs the wait if i come in at TIME,0,1
+whats the typical wait time around TIME,0,1
+how long do you think id wait for a table if i showed up at TIME,0,1
+whats the usual wait for a table at TIME,0,1
+how long would it take to get a table if i arrive at TIME,0,1
+estimate the wait for a table around TIME,0,1
+if i get there at TIME,0,1 how long will i wait for a table
+whats the expected wait time for a table at TIME,0,1
+how long should i plan to wait if i come by at TIME,0,1
+how longs the average wait time for a table at TIME,0,1
+whats your guess for the wait time at TIME,0,1
+how long would it be to get seated if i came at TIME,0,1
+how longs the line for a table at TIME,0,1
+if i show up at TIME,0,1 how long will it take to sit
+how long do you think the wait for a table is at TIME,0,1
+whats the likely wait time for a table at TIME,0,1
+any idea how long the wait would be around TIME,0,1
+whats the normal wait time for a table at TIME,0,1
+how long will i be waiting for a table if i arrive at TIME,0,1
+how long should i expect to wait for a table at TIME,0,1
+any guess how long the wait will be for a table at TIME,0,1
+whats the usual line like for a table around TIME,0,1
+what would you estimate the wait time at TIME,0,1 to be
+how long do you think ill be waiting if i come in at TIME,0,1
+how long will the wait for a table be if im there at TIME,0,1
+whats the standard wait time for a table at TIME,0,1
+how long would i be waiting for a table if i come at TIME,0,1
+how long would i expect to wait for a table if i came at TIME,0,1
+how long do you figure the wait for a table is at TIME,0,1
+whats the anticipated wait time at TIME,0,1 for a table
+
+// specific time + party size
+how long would it take to seat NUMBER,0,1 people if we show up at TIME,0,1
+when would i get seated if i showed up with NUMBER,0,1 at TIME,0,1
+how long will it take to seat NUMBER,0,1 if we arrive at TIME,0,1
+whats the wait time for a group of NUMBER,0,1 at TIME,0,1
+if i come with NUMBER,0,1 people at TIME,0,1 how long will we wait
+how long would NUMBER,0,1 people have to wait if we get there at TIME,0,1
+estimate the wait for a table for NUMBER,0,1 at TIME,0,1
+whats the average wait time for NUMBER,0,1 people around TIME,0,1
+how long will it take for my group of NUMBER,0,1 to get seated at TIME,0,1
+if we show up at TIME,0,1 with NUMBER,0,1 how long will it take
+whats the wait for a table for NUMBER,0,1 at TIME,0,1
+how long should i expect to wait for a table for NUMBER,0,1 at TIME,0,1
+how longs the line for NUMBER,0,1 people if we come in at TIME,0,1
+how long do you think itll take to sit NUMBER,0,1 people at TIME,0,1
+whats your guess for a wait time for NUMBER,0,1 if we come at TIME,0,1
+how long is the usual wait for NUMBER,0,1 people at TIME,0,1
+if we get there at TIME,0,1 with NUMBER,0,1 how long until we sit
+whats the wait time for NUMBER,0,1 people at TIME,0,1 usually
+how long would we wait if i brought NUMBER,0,1 people at TIME,0,1
+whats the estimated wait time for NUMBER,0,1 people around TIME,0,1
+how longs the wait for a table for NUMBER,0,1 at TIME,0,1
+can you estimate how long wed wait to seat NUMBER,0,1 at TIME,0,1
+if we show up at TIME,0,1 with NUMBER,0,1 people when do you think well get a table
+how long would the wait be for NUMBER,0,1 people if we arrive at TIME,0,1
+whats the typical wait time for NUMBER,0,1 people at TIME,0,1
+how long would it take to seat NUMBER,0,1 people at TIME,0,1
+if i bring NUMBER,0,1 people at TIME,0,1 how long is the wait
+any idea how long itll take to seat NUMBER,0,1 at TIME,0,1
+whats the normal wait time for NUMBER,0,1 people if we show up at TIME,0,1
+how long should NUMBER,0,1 people wait if we come at TIME,0,1
+can you guess the wait time for NUMBER,0,1 people at TIME,0,1
+how long will NUMBER,0,1 people wait for a table if we arrive at TIME,0,1
+
+
+
+// specific date
+how long is the wait for a table on DATE,0,1
+whats usually the wait time to sit down on DATE,0,1
+how long will i have to wait for a table on DATE,0,1
+whats the typical wait for a table on DATE,0,1
+can you estimate the wait time for a table on DATE,0,1
+how longs the wait to sit down if i come in on DATE,0,1
+whats the usual wait time for a table on DATE,0,1
+how long would i need to wait for a table on DATE,0,1
+how long is the wait time for tables on DATE,0,1
+any idea what the wait will be like on DATE,0,1
+whats the average wait for a table on DATE,0,1
+how long do you think the wait will be on DATE,0,1
+whats the estimated wait time for tables on DATE,0,1
+how long does it usually take to get a table on DATE,0,1
+what do you expect the wait for a table will be on DATE,0,1
+is there typically a long wait for tables on DATE,0,1
+how long do people usually wait for a table on DATE,0,1
+how long is the wait for seating on DATE,0,1
+could you give me an idea of the wait time on DATE,0,1
+what would the expected wait for a table be on DATE,0,1
+how longs the line for a table on DATE,0,1
+do you know how long the wait usually is on DATE,0,1
+how long is the wait if i come in on DATE,0,1
+whats the average wait time for tables on DATE,0,1
+whats the expected wait on DATE,0,1 for a table
+how longs the typical wait on DATE,0,1
+whats the normal wait time for a table on DATE,0,1
+how long do you think ill wait for a table on DATE,0,1
+can you tell me what the wait time would be on DATE,0,1
+whats your estimate for the wait time on DATE,0,1
+how long does it take to get seated on DATE,0,1
+how long do people usually wait to get seated on DATE,0,1
+if i come on DATE,0,1 how longs the wait for a table
+
+// specific date + party size
+what do you think the wait would be to seat NUMBER,0,1 people on DATE,0,1
+on DATE,0,1 how long do you think it would take to seat NUMBER,0,1
+how long would it take to seat NUMBER,0,1 on DATE,0,1
+whats the wait time for a table for NUMBER,0,1 on DATE,0,1
+on DATE,0,1 how long will i wait to seat NUMBER,0,1
+how long will i have to wait to sit with NUMBER,0,1 on DATE,0,1
+what do you estimate the wait time will be for NUMBER,0,1 on DATE,0,1
+on DATE,0,1 how long would it take to seat a party of NUMBER,0,1
+how long is the wait for NUMBER,0,1 people on DATE,0,1
+how long will i wait for a table for NUMBER,0,1 on DATE,0,1
+can you tell me how long the wait will be for NUMBER,0,1 on DATE,0,1
+if i come with NUMBER,0,1 on DATE,0,1 how longs the wait
+how long will it take to sit down with NUMBER,0,1 on DATE,0,1
+how longs the typical wait to seat NUMBER,0,1 people on DATE,0,1
+on DATE,0,1 how long is the wait time for a party of NUMBER,0,1
+any idea what the wait for NUMBER,0,1 people is on DATE,0,1
+whats the usual wait to seat NUMBER,0,1 people on DATE,0,1
+on DATE,0,1 how long would it take to get a table for NUMBER,0,1
+do you know how long itll take to seat NUMBER,0,1 on DATE,0,1
+whats the expected wait for NUMBER,0,1 people on DATE,0,1
+how long do you think ill wait for a table for NUMBER,0,1 on DATE,0,1
+on DATE,0,1 how longs the wait to sit with NUMBER,0,1
+what do you think the wait will be for NUMBER,0,1 people on DATE,0,1
+can you estimate the wait time for NUMBER,0,1 on DATE,0,1
+how long does it take to get seated with NUMBER,0,1 on DATE,0,1
+on DATE,0,1 how longs the line to sit down with NUMBER,0,1
+how long would we have to wait to seat NUMBER,0,1 on DATE,0,1
+if i come on DATE,0,1 with NUMBER,0,1 how longs the wait
+whats your guess on the wait time for NUMBER,0,1 on DATE,0,1
+how long would it take to seat a group of NUMBER,0,1 on DATE,0,1
+can you tell me the wait time for NUMBER,0,1 on DATE,0,1
+how longs the wait to seat NUMBER,0,1 people on DATE,0,1
 
 
 
 
-// 
+// specific date & time
+what does the wait for a table usually look like on DATE,0,1 at TIME,0,1
+whats the usual wait to sit down on DATE,0,1 at TIME,0,1
+whats the typical wait time on DATE,0,1 at TIME,0,1
+how long do you think the wait will be on DATE,0,1 at TIME,0,1
+whats the usual wait for a table on DATE,0,1 at TIME,0,1
+any idea how long the wait is on DATE,0,1 at TIME,0,1
+how long will i wait on DATE,0,1 at TIME,0,1 to sit down
+how long does the wait tend to be on DATE,0,1 at TIME,0,1
+whats the average wait time on DATE,0,1 at TIME,0,1
+can you estimate the wait time on DATE,0,1 at TIME,0,1
+how longs the line to sit on DATE,0,1 at TIME,0,1
+whats the wait time for a table on DATE,0,1 at TIME,0,1
+can you give me a wait time estimate for DATE,0,1 at TIME,0,1
+how long would i wait to sit on DATE,0,1 at TIME,0,1
+whats the expected wait to sit down on DATE,0,1 at TIME,0,1
+on DATE,0,1 at TIME,0,1 whats the typical wait
+how long do people usually wait on DATE,0,1 at TIME,0,1
+how long is the wait to sit on DATE,0,1 at TIME,0,1
+whats the standard wait on DATE,0,1 at TIME,0,1
+any idea how long the line is on DATE,0,1 at TIME,0,1
+how longs the wait to sit on DATE,0,1 at TIME,0,1
+whats the estimated wait time on DATE,0,1 at TIME,0,1
+if i show up on DATE,0,1 at TIME,0,1 how longs the wait
+how long would i wait on DATE,0,1 at TIME,0,1 for a table
+on DATE,0,1 at TIME,0,1 how longs the wait usually
+can you tell me how long the wait is on DATE,0,1 at TIME,0,1
+what do you think the wait will be on DATE,0,1 at TIME,0,1
+how longs the typical wait on DATE,0,1 at TIME,0,1
+whats the line to sit down look like on DATE,0,1 at TIME,0,1
+on DATE,0,1 at TIME,0,1 how long do people usually wait for a table
+whats the wait time estimate for a table on DATE,0,1 at TIME,0,1
+can you tell me how long id wait for a table on DATE,0,1 at TIME,0,1
+
+
+// specific date & time + party size
+how long is the usual wait for NUMBER,0,1 people on DATE,0,1 around TIME,0,1
+what do you think the wait for a table would be on DATE,0,1 at TIME,0,1 for NUMBER,0,1 people
+guess what the wait would look like to sit NUMBER,0,1 people on DATE,0,1 at TIME,0,1
+how longs the wait to sit NUMBER,0,1 people on DATE,0,1 around TIME,0,1
+whats the estimated wait for NUMBER,0,1 people on DATE,0,1 at TIME,0,1
+any idea how long itll take to seat NUMBER,0,1 people on DATE,0,1 at TIME,0,1
+how long do you think well wait with a party of NUMBER,0,1 on DATE,0,1 at TIME,0,1
+can you tell me the wait time for NUMBER,0,1 people on DATE,0,1 at TIME,0,1
+if i bring NUMBER,0,1 people on DATE,0,1 at TIME,0,1 how longs the wait
+whats the usual wait time for NUMBER,0,1 people on DATE,0,1 at TIME,0,1
+how long would the wait be for NUMBER,0,1 people if we came in on DATE,0,1 at TIME,0,1
+how longs the wait for a table for NUMBER,0,1 on DATE,0,1 at TIME,0,1
+what do you think the wait would be for NUMBER,0,1 on DATE,0,1 at TIME,0,1
+on DATE,0,1 at TIME,0,1 how long would i wait to seat NUMBER,0,1 people
+estimate the wait time for a group of NUMBER,0,1 on DATE,0,1 at TIME,0,1
+how long would the wait be to sit NUMBER,0,1 people on DATE,0,1 at TIME,0,1
+how longs the line to seat NUMBER,0,1 people on DATE,0,1 at TIME,0,1
+on DATE,0,1 at TIME,0,1 how long is the wait to seat NUMBER,0,1
+do you have an estimate on the wait for NUMBER,0,1 people on DATE,0,1 at TIME,0,1
+how longs the expected wait for NUMBER,0,1 on DATE,0,1 at TIME,0,1
+whats the wait time estimate for NUMBER,0,1 on DATE,0,1 around TIME,0,1
+how long would i need to wait with NUMBER,0,1 people on DATE,0,1 at TIME,0,1
+what do you think the line looks like for NUMBER,0,1 people on DATE,0,1 at TIME,0,1
+how long do you think itll take to seat NUMBER,0,1 people on DATE,0,1 at TIME,0,1
+on DATE,0,1 at TIME,0,1 how long would it take to get a table for NUMBER,0,1
+can you give me an estimate for the wait time for NUMBER,0,1 on DATE,0,1 at TIME,0,1
+how long do you think the wait will be for NUMBER,0,1 people if we come on DATE,0,1 at TIME,0,1
+if i show up with NUMBER,0,1 people on DATE,0,1 at TIME,0,1 whats the wait like
+whats the typical wait for NUMBER,0,1 people on DATE,0,1 at TIME,0,1
+if we come with a party of NUMBER,0,1 on DATE,0,1 at TIME,0,1 how long would we wait
+any idea how long itd take to sit NUMBER,0,1 on DATE,0,1 at TIME,0,1
+on DATE,0,1 at TIME,0,1 how longs the wait for NUMBER,0,1
+whats the normal wait time for a group of NUMBER,0,1 on DATE,0,1 at TIME,0,1

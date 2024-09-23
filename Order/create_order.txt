@@ -1,54 +1,53 @@
 // no slots
-hi there im calling to place an order
+im calling to place an order
 could i start a new order please
 id like to begin an order if thats alright
 im ready to place my order
 can we get an order going
 calling to start an order
-hi im phoning in to make an order
+im phoning in to make an order
 lets kick off an order if you dont mind
 im hoping to place an order
 could you start an order for me please
 calling to get an order underway
 id like to set up an order
-hey id like to place an order
+id like to place an order
 can we start a new order
 im looking to make an order
 ready to start my order
-hi there id like to begin an order
+id like to begin an order
 could you get an order started for me
 im calling to place an order
 lets get an order rolling
-speaking id like to start my order
-hi can i get an order going
+can i get an order going
 id like to place an order please
 could we begin an order
-hey there looking to start an order
+looking to start an order
 id like to get an order going
 can i start placing an order
 wanting to make an order
-hi im calling to set up an order
+im calling to set up an order
 lets begin an order please
 im phoning to place an order
 could you start a new order for me
 calling to kick off an order
-hey id like to get an order started
+id like to get an order started
 can we initiate an order
 im ready to start my order
-hi there id like to commence an order
+id like to commence an order
 could you begin a new order
 looking to place an order
 lets get the ball rolling on an order
 im calling to start a new order
-hey there can i place an order
+can i place an order
 id like to get an order going
-hi im ready to start my order
+im ready to start my order
 could we get an order underway
 id like to begin placing my order
-hey there im looking to start an order
+im looking to start an order
 can you kick off a new order for me
 calling to initiate an order please
-hi there id like to get the ball rolling on an order
+id like to get the ball rolling on an order
 
 
 
@@ -91,56 +90,56 @@ can i make an order under NAME,0,0,0
 lets do an order for NAME,0,0,0
 i would like to create an order under the name NAME,0,0,0
 my name is NAME,0,0,0 and i would like to start an order
-hey there im calling to place an order for NAME,0,0,0
+im calling to place an order for NAME,0,0,0
 could i start a new order under NAME,0,0,0 please
 id like to begin an order and the names NAME,0,0,0
 im NAME,0,0,0 and im ready to place my order
 can we get an order going for NAME,0,0,0
 NAME,0,0,0 here looking to start an order
-hi im phoning in to make an order for NAME,0,0,0
+im phoning in to make an order for NAME,0,0,0
 lets kick off an order under the name NAME,0,0,0
 im hoping to place an order my names NAME,0,0,0
 could you start an order for NAME,0,0,0 please
 NAME,0,0,0 calling to get an order underway
 id like to set up an order for NAME,0,0,0
-hey im NAME,0,0,0 and id like to place an order
+im NAME,0,0,0 and id like to place an order
 can we start a new order its for NAME,0,0,0
 im looking to make an order under NAME,0,0,0
 NAME,0,0,0 here ready to start my order
-hi there id like to begin an order for NAME,0,0,0
+id like to begin an order for NAME,0,0,0
 could you get an order started for NAME,0,0,0
 im calling to place an order under NAME,0,0,0
 lets get an order rolling for NAME,0,0,0
 NAME,0,0,0 speaking id like to start my order
-hi can i get an order going under NAME,0,0,0
+can i get an order going under NAME,0,0,0
 im NAME,0,0,0 and id like to place an order please
 could we begin an order for NAME,0,0,0
-hey there im NAME,0,0,0 looking to start an order
+im NAME,0,0,0 looking to start an order
 id like to get an order going names NAME,0,0,0
 can i start placing an order for NAME,0,0,0
 NAME,0,0,0 here wanting to make an order
-hi im calling to set up an order for NAME,0,0,0
+im calling to set up an order for NAME,0,0,0
 lets begin an order under NAME,0,0,0 please
 im phoning to place an order my name is NAME,0,0,0
 could you start a new order for NAME,0,0,0
 NAME,0,0,0 calling to kick off an order
-hey id like to get an order started for NAME,0,0,0
+id like to get an order started for NAME,0,0,0
 can we initiate an order under NAME,0,0,0
 im NAME,0,0,0 and im ready to start my order
-hi there id like to commence an order for NAME,0,0,0
+id like to commence an order for NAME,0,0,0
 could you begin a new order its NAME,0,0,0 here
 NAME,0,0,0 speaking and im looking to place an order
 lets get the ball rolling on an order for NAME,0,0,0
 im calling to start a new order names NAME,0,0,0
-hey there can i place an order under NAME,0,0,0
+can i place an order under NAME,0,0,0
 NAME,0,0,0 here id like to get an order going
-hi im ready to start my order its NAME,0,0,0
+im ready to start my order its NAME,0,0,0
 could we get an order underway for NAME,0,0,0
 im NAME,0,0,0 and id like to begin placing my order
-hey there im looking to start an order for NAME,0,0,0
+im looking to start an order for NAME,0,0,0
 can you kick off a new order under NAME,0,0,0
 NAME,0,0,0 calling to initiate an order please
-hi there id like to get the ball rolling on an order for NAME,0,0,0
+id like to get the ball rolling on an order for NAME,0,0,0
 
 
 
@@ -150,7 +149,7 @@ im placing an order for NAME,0,0,0 lets get NUMBER,0,0,3 ITEM,0,0,0s with ADDON,
 im placing an order for NAME,0,0,0 can we get a SIZE,0,0,3 ITEM,0,0,0 and put ADDON,3,0,3 in it
 id like to place an order for NAME,0,0,0 can you add a SIZE,0,0,3 ITEM,0,0,0 with ADDON,3,0,3 on top
 i want to place an order under NAME,0,0,0 with NUMBER,0,0,3 ITEM,0,0,0s and a SIZE,0,0,5 ITEM,0,0,0
-hey im placing an order for NAME,0,0,0 lets get a SIZE,0,0,3 ITEM,0,0,0 with ADDON,2,0,3 on the side
+im placing an order for NAME,0,0,0 lets get a SIZE,0,0,3 ITEM,0,0,0 with ADDON,2,0,3 on the side
 this order is for NAME,0,0,0 can i get a ITEM,0,0,0 with SIZE,0,0,4 ADDON,0,0,2 and a NUMBER,0,0,6 ITEM,0,0,0s
 can you make an order for NAME,0,0,0 i need a SIZE,0,0,3 ITEM,0,0,0 with ADDON,3,0,2 on top
 please take an order under NAME,0,0,0 and toss in a NUMBER,0,0,3 ITEM,0,0,0s and a ITEM,0,0,0
