@@ -1,3 +1,4 @@
+// item addons
 sriracha mayo
 truffle oil
 chimichurri sauce
@@ -11,3 +12,396 @@ sauteed mushrooms
 ketchup
 mustard
 pickles
+cheese
+spicy ranch
+avocado slices
+crispy bacon
+grilled peppers
+honey mustard
+jalapeño slices
+blue cheese crumbles
+caramelized onions
+garlic aioli
+roasted red peppers
+barbecue sauce
+chipotle mayo
+fried egg
+buffalo sauce
+fresh cilantro
+creamy horseradish
+pickled onions
+sun-dried tomatoes
+sliced olives
+sour cream
+pineapple chunks
+shredded lettuce
+spicy relish
+pepper jack cheese
+herb butter
+creamy sriracha
+provolone cheese
+sesame seeds
+hummus spread
+crushed avocado
+zesty lemon aioli
+tzatziki sauce
+balsamic glaze
+sweet chili sauce
+wasabi mayo
+smoked gouda
+whipped cream cheese
+crunchy tortilla strips
+hot honey drizzle
+maple syrup
+brie cheese
+pomegranate seeds
+roasted garlic
+green chili salsa
+crispy shallots
+sweet corn
+vegan cheese
+marinara sauce
+habanero salsa
+bbq drizzle
+black olives
+pico de gallo
+sliced avocado
+ranch dressing
+sesame oil
+carrot slaw
+mango salsa
+fresh basil
+creamy alfredo
+romesco sauce
+artichoke hearts
+kimchi
+cilantro lime crema
+shaved parmesan
+pomegranate molasses
+thai peanut sauce
+tzatziki
+butter pickles
+toasted coconut
+cashew cream
+spicy kimchi
+fresh arugula
+cucumber ribbons
+lemon zest
+caper aioli
+beet hummus
+sweet soy glaze
+scallion pancakes
+sliced radishes
+spicy mango chutney
+sautéed spinach
+spiced chickpeas
+roasted eggplant
+crispy wonton strips
+herbed goat cheese
+pine nuts
+garlic chips
+truffle aioli
+ginger soy sauce
+miso butter
+harissa paste
+pickled cabbage
+smoked paprika
+mint yogurt
+fried plantains
+tangy tamarind sauce
+pickled daikon
+dill cream
+roasted tomatoes
+fig jam
+roast beef
+turkey slices
+smoked ham
+pastrami
+salami
+provolone
+swiss cheese
+cheddar
+pepper jack
+honey mustard
+spicy brown mustard
+mayonnaise
+horseradish spread
+pickles
+dill pickles
+lettuce
+tomato slices
+red onion
+banana peppers
+pickled jalapeños
+green peppers
+black olives
+sliced cucumbers
+arugula
+spinach
+sliced hard-boiled egg
+hummus
+balsamic vinegar
+oil and vinegar
+italian dressing
+basil pesto
+sun-dried tomatoes
+sliced avocado
+grilled chicken
+crispy bacon
+fried eggplant
+portobello mushrooms
+chipotle mayo
+feta cheese
+goat cheese
+cream cheese
+cole slaw
+sweet pickles
+giardiniera
+sliced apples
+cranberry sauce
+roasted red peppers
+russian dressing
+buffalo chicken
+fried onions
+honey dijon
+black beans
+pinto beans
+cilantro lime rice
+spanish rice
+grilled chicken
+carnitas
+carne asada
+barbacoa
+chorizo
+shredded beef
+al pastor
+fajita veggies
+grilled peppers
+grilled onions
+sour cream
+pico de gallo
+guacamole
+shredded lettuce
+shredded cheese
+cotija cheese
+queso fresco
+queso sauce
+jalapeños
+pickled jalapeños
+diced tomatoes
+salsa verde
+salsa roja
+chipotle sauce
+tomatillo salsa
+habanero salsa
+corn salsa
+roasted corn
+refried beans
+pickled onions
+cilantro
+lime wedges
+hot sauce
+avocado slices
+mole sauce
+fried plantains
+ranchero sauce
+green chile
+red chile
+chile con queso
+fresh radishes
+spicy crema
+crispy tortilla strips
+cilantro crema
+onion-cilantro mix
+grilled zucchini
+poblano peppers
+tikka masala sauce
+butter chicken sauce
+paneer cubes
+tandoori chicken
+lamb kebab
+mint chutney
+tamarind chutney
+raita
+mango chutney
+pickled mango
+samosas
+aloo gobi
+saag paneer
+dal makhani
+chana masala
+biryani rice
+garlic naan
+butter naan
+onion kulcha
+paratha
+papadum
+pickled onions
+achaar
+mango lassi
+masala fries
+cucumber salad
+bhindi masala
+keema
+tandoori prawns
+tandoori lamb
+baingan bharta
+malai kofta
+chicken korma
+lamb rogan josh
+chicken vindaloo
+spicy mango pickle
+aloo tikki
+paneer tikka
+fish curry
+lamb curry
+roasted cashews
+kashmiri naan
+saffron rice
+pomegranate seeds
+green chutney
+chili garlic sauce
+kachumber salad
+fried paneer
+jeera rice
+tandoori fish
+boondi raita
+avocado spread
+cream cheese
+bacon
+turkey bacon
+scrambled eggs
+fried egg
+poached egg
+sausage links
+vegan sausage
+ham slices
+smoked salmon
+cheddar cheese
+swiss cheese
+brie
+goat cheese
+provolone
+tomato slices
+sliced cucumber
+spinach
+arugula
+hash browns
+home fries
+sautéed mushrooms
+grilled onions
+bell peppers
+hollandaise sauce
+pesto
+chipotle aioli
+sriracha
+maple syrup
+honey
+peanut butter
+almond butter
+blueberry jam
+strawberry jam
+apricot preserves
+hazelnut spread
+whipped cream
+toasted almonds
+walnuts
+granola
+chia seeds
+flax seeds
+fresh berries
+sliced bananas
+apple slices
+cinnamon sugar
+oat milk
+almond milk
+coconut flakes
+chocolate chips
+
+
+
+// drink addons
+whipped cream
+vanilla
+caramel
+hazelnut
+mocha
+almond milk
+oat milk
+coconut milk
+chocolate shavings
+cinnamon powder
+honey
+marshmallows
+vanilla syrup
+caramel drizzle
+hazelnut syrup
+pumpkin spice
+cinnamon powder
+whipped cream
+almond milk
+oat milk
+coconut milk
+soy milk
+honey drizzle
+agave syrup
+brown sugar
+raw sugar
+simple syrup
+peppermint syrup
+toffee nut syrup
+mocha drizzle
+white chocolate syrup
+dark chocolate syrup
+maple syrup
+lavender syrup
+chai spice
+nutmeg sprinkle
+sea salt
+coconut flakes
+cacao nibs
+matcha powder
+espresso shot
+extra espresso shot
+decaf espresso
+cold foam
+sweet cream cold foam
+almond butter
+peanut butter
+protein powder
+collagen peptides
+turmeric
+maca powder
+ginger syrup
+lemon zest
+orange peel
+rose syrup
+cardamom
+clove
+lavender honey
+vanilla bean
+salted caramel
+butterscotch syrup
+saffron
+rose petals
+matcha syrup
+blue spirulina
+bee pollen
+chocolate shavings
+candy cane
+gingerbread syrup
+butterfly pea powder
+pumpkin puree
+coconut cream
+dulce de leche
+mint syrup
+orange syrup
+brown butter syrup
+chai concentrate
+espresso whipped cream
+ice cubes
+light ice
+extra foam
+steamed milk
+shot of espresso
+extra caramel

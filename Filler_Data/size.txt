@@ -1,5 +1,30 @@
+// regular sizes
 extra small
 small
 medium
 large
 extra large
+
+
+// drink specific sizes
+short
+tall
+grande
+venti
+trenta
+
+
+
+// abstract sizes
+a little bit of
+a tiny bit of
+easy on the
+half
+light
+lots of
+a lot of
+a whole bunch of
+heavy
+double
+triple
+extra

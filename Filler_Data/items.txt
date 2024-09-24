@@ -1,0 +1,1031 @@
+// food
+house breakfast plate
+meze breakfast
+greek style pancakes
+french toast
+scrambled egg plate
+tartines
+roasted pear granola and labneh bowl
+breakfast sandwich
+sausage breakfast sandwich
+croissant breakfast sandwich
+halloumi sunny side breakfast sandwich
+smoked salmon avocado and egg sandwich
+lamb hash
+egg in a hole
+spinach jerusalem artichoke and egg plate
+artichoke and feta quiche and salad
+leek potato and spinach quiche and salad
+tomato basil cup or bowl
+soup of the day cup or bowl
+quiche soup
+short rib and eggplant couscous bowl
+roasted squash and mushroom farro bowl
+lamb kebab plate
+roasted salmon and spring vegetable rice bowl
+chickpea and fava plate
+roasted eggplant couscous bowl
+vegetable cavatelli
+roasted mushroom spinach and potato bowl
+turkey avocado
+short rib grilled cheese
+grilled cheese
+chicken pita
+lamb kebab pita
+roasted salmon
+squash and mushroom
+chicken salad
+prosciutto and fig panini
+roasted cauliflower
+fresh mozzarella
+tuna
+spiced shrimp and avocado mousse salad
+crunchy halloumi
+green and nutty
+maple squash and chicken
+tuna nicoise
+fattoush
+smoked turkey and brie croissant
+beet and goat cheese salad
+grilled chicken and pesto panini
+blueberry almond french toast
+quinoa and roasted vegetable bowl
+coconut curry lentil soup
+chicken and waffle sandwich
+pulled pork breakfast burrito
+spinach and mushroom omelette
+caramelized onion and bacon tart
+wild mushroom risotto
+roasted beet and citrus salad
+spiced lamb gyro plate
+truffle mac and cheese
+roasted red pepper hummus wrap
+braised short rib tacos
+harissa chicken flatbread
+cauliflower and chickpea shawarma bowl
+maple pecan granola bowl
+crispy tofu and vegetable stir fry
+braised beef and sweet potato hash
+apple and cinnamon oatmeal
+roasted brussels sprout and bacon bowl
+grilled steak and avocado salad
+turkey sausage and egg skillet
+mediterranean grilled vegetable wrap
+almond butter and banana toast
+burrata and roasted tomato flatbread
+korean bbq chicken bowl
+butternut squash and sage ravioli
+sesame ginger salmon bowl
+chipotle black bean burger
+crispy duck and cabbage spring rolls
+caramelized pear and arugula salad
+saffron chicken and couscous plate
+roasted tomato basil quiche
+lemon ricotta pancakes
+miso glazed cod bowl
+spinach and ricotta stuffed shells
+balsamic fig and goat cheese pizza
+grilled peach and burrata salad
+turkey avocado club sandwich
+cilantro lime shrimp bowl
+charred broccoli and feta frittata
+sweet potato and black bean tacos
+roasted garlic and herb chicken breast
+buffalo cauliflower wrap
+chimichurri steak and rice bowl
+tahini kale and roasted chickpea bowl
+pistachio and cranberry granola parfait
+grilled zucchini and feta sandwich
+bbq pulled jackfruit sandwich
+crispy parmesan polenta fries
+lemon dill salmon and quinoa salad
+roasted vegetable and hummus platter
+garlic shrimp and spinach fettuccine
+spicy sausage and pepper penne
+mediterranean eggplant and lamb stew
+grilled chicken caesar wrap
+caramelized onion and gruyere frittata
+lemon thyme roasted chicken
+buffalo chicken quesadilla
+sesame crusted tuna poke bowl
+roasted butternut squash and goat cheese salad
+chicken burrito
+beef burrito
+veggie burrito
+carnitas burrito
+steak burrito
+barbacoa taco
+carnitas taco
+chicken taco
+al pastor taco
+fish taco
+shrimp taco
+veggie taco
+carne asada taco
+chorizo taco
+quesadilla
+chicken quesadilla
+steak quesadilla
+veggie quesadilla
+shrimp quesadilla
+cheese quesadilla
+chicken enchilada
+beef enchilada
+cheese enchilada
+carnitas enchilada
+steak enchilada
+chicken fajitas
+steak fajitas
+shrimp fajitas
+veggie fajitas
+carne asada plate
+chile relleno
+chicken tostada
+beef tostada
+carnitas tostada
+veggie tostada
+chicken flautas
+beef flautas
+carnitas flautas
+shrimp ceviche
+fish ceviche
+beef chimichanga
+chicken chimichanga
+veggie chimichanga
+carne asada nachos
+chicken nachos
+carnitas nachos
+beef tamales
+chicken tamales
+pork tamales
+chicken pozole
+beef pozole
+chicken tortilla soup
+albondigas soup
+menudo
+beef sopes
+chicken sopes
+carnitas sopes
+carne asada plate
+pollo asado
+beef taquitos
+chicken taquitos
+carnitas taquitos
+molletes
+huevos rancheros
+chicken mole
+beef barbacoa
+carnitas plate
+steak burrito bowl
+chicken burrito bowl
+veggie burrito bowl
+turkey sandwich
+ham sandwich
+roast beef sandwich
+egg salad sandwich
+chicken salad sandwich
+pastrami sandwich
+blt
+grilled cheese
+turkey club
+italian sub
+meatball sub
+tuna sandwich
+reuben
+corned beef sandwich
+philly cheesesteak
+chicken sandwich
+bacon egg and cheese
+sausage egg and cheese
+bbq chicken sandwich
+chicken caesar wrap
+veggie wrap
+turkey wrap
+chicken wrap
+roast beef wrap
+egg sandwich
+grilled ham and cheese
+smoked turkey sandwich
+italian hoagie
+turkey bacon sandwich
+chicken parm sandwich
+roast turkey sandwich
+deli ham sandwich
+chipotle chicken wrap
+italian combo
+buffalo chicken wrap
+eggplant parm
+roast beef sandwich
+bbq pulled pork sandwich
+chicken cutlet sandwich
+tuna salad sandwich
+egg salad sandwich
+smoked ham sandwich
+bacon club sandwich
+salami sandwich
+grilled veggie sandwich
+prosciutto sandwich
+spinach wrap
+roast turkey sandwich
+egg and bacon sandwich
+smoked turkey sandwich
+mortadella sandwich
+chicken caesar salad
+greek salad
+cobb salad
+chef salad
+tuna salad
+chicken salad
+pasta salad
+house salad
+chopped salad
+caesar salad
+mixed greens salad
+grilled chicken salad
+deli turkey sandwich
+ham sandwich
+turkey sandwich
+egg sandwich
+corned beef sandwich
+bibimbap
+bulgogi
+galbi
+spicy pork bulgogi
+chicken bulgogi
+kimchi fried rice
+beef fried rice
+vegetable fried rice
+seafood fried rice
+tofu bibimbap
+seafood bibimbap
+japchae
+tteokbokki
+soondubu jjigae
+kimchi jjigae
+doenjang jjigae
+sundae
+haemul pajeon
+kimchi pajeon
+samgyetang
+yukgaejang
+mandu
+beef mandu
+kimchi mandu
+jjajangmyeon
+jjampong
+dakgalbi
+bindaetteok
+kongguksu
+naengmyeon
+mul naengmyeon
+bibim naengmyeon
+kimchi bokkeumbap
+spicy chicken stir-fry
+gamjatang
+bossam
+jokbal
+seolleongtang
+samgyeopsal
+spicy braised chicken
+beef short rib soup
+spicy soft tofu stew
+soybean paste stew
+gopchang
+dwaeji gukbap
+grilled mackerel
+bulgogi rice bowl
+spicy pork rice bowl
+galbi rice bowl
+beef bulgogi rice bowl
+seafood stew
+army stew
+grilled eel
+haemul tang
+bibim guksu
+spicy beef soup
+pork katsu
+chicken katsu
+cheese tteokbokki
+shrimp tempura
+beef gimbap
+tuna gimbap
+vegetable gimbap
+bulgogi gimbap
+oxtail soup
+dakdoritang
+spicy stir-fried squid
+stir-fried octopus
+kimchi stew
+kalguksu
+lamb kebab
+chicken shish
+adana kebab
+iskender kebab
+lamb shank
+kofte
+chicken doner
+lamb doner
+mixed grill
+spinach pide
+cheese pide
+lahmacun
+manti
+lentil soup
+imam bayildi
+stuffed grape leaves
+grilled halloumi
+sigara borek
+patlican kebab
+grilled sea bass
+grilled salmon
+lamb chops
+chicken wings
+karniyarik
+dolma
+lamb guvec
+chicken guvec
+lamb musakka
+chicken musakka
+beef kebab
+hunkar begendi
+sultan’s delight
+iskender plate
+beyti kebab
+grilled lamb liver
+grilled calamari
+lamb kofte
+chicken kofte
+lamb adana
+chicken adana
+karides guvec
+meatball pide
+feta cheese pide
+spinach and cheese pide
+grilled octopus
+lamb tandir
+chicken tandir
+lamb sarma beyti
+chicken sarma beyti
+mixed meze platter
+hummus
+baba ganoush
+tabbouleh
+ezme salad
+cacik
+shepherd’s salad
+ezogelin soup
+yogurtlu kebab
+turkish ravioli
+fried mussels
+falafel plate
+lentil kofte
+grilled quail
+seafood guvec
+lahmacun wrap
+scrambled eggs
+pancakes
+waffles
+french toast
+eggs benedict
+sunny side up eggs
+breakfast burrito
+breakfast tacos
+avocado toast
+cinnamon roll
+blueberry muffin
+chocolate chip pancakes
+buttermilk pancakes
+banana pancakes
+granola parfait
+bacon and eggs
+sausage and eggs
+huevos rancheros
+breakfast quesadilla
+croissant sandwich
+bacon egg and cheese sandwich
+sausage egg and cheese sandwich
+lox bagel
+breakfast skillet
+hash browns
+home fries
+cinnamon pancakes
+fruit salad
+yogurt and granola
+egg white omelette
+spinach and feta omelette
+smoked salmon and eggs
+ham and cheese omelette
+veggie breakfast wrap
+cheese omelette
+mushroom omelette
+western omelette
+greek omelette
+breakfast pizza
+corned beef hash
+steak and eggs
+breakfast flatbread
+egg and cheese wrap
+buttermilk biscuits
+sausage gravy and biscuits
+apple cinnamon oatmeal
+chocolate croissant
+almond croissant
+quiche lorraine
+spinach and cheese quiche
+fruit smoothie bowl
+bacon breakfast burrito
+chia pudding
+french crêpes
+lemon poppyseed muffin
+coffee cake
+banana bread
+breakfast bagel sandwich
+fried egg sandwich
+peanut butter toast
+maple syrup pancakes
+breakfast frittata
+plain bagel
+sesame bagel
+everything bagel
+poppy seed bagel
+cinnamon raisin bagel
+onion bagel
+garlic bagel
+whole wheat bagel
+egg bagel
+salt bagel
+blueberry bagel
+pumpernickel bagel
+asiago bagel
+cheddar bagel
+jalapeño bagel
+chocolate chip bagel
+multigrain bagel
+french toast bagel
+marble rye bagel
+sun-dried tomato bagel
+spinach bagel
+sesame pretzel bagel
+asiago cheddar bagel
+roasted garlic bagel
+honey oat bagel
+cinnamon crunch bagel
+oat bran bagel
+maple bagel
+black sesame bagel
+cheddar jalapeño bagel
+rye bagel
+onion everything bagel
+swiss cheese bagel
+spinach and artichoke bagel
+cranberry bagel
+sourdough bagel
+parmesan bagel
+olive bagel
+toasted plain bagel
+toasted everything bagel
+toasted cinnamon raisin bagel
+toasted sesame bagel
+toasted whole wheat bagel
+toasted egg bagel
+toasted poppy seed bagel
+toasted pumpernickel bagel
+toasted asiago bagel
+toasted cheddar bagel
+toasted onion bagel
+toasted garlic bagel
+toasted jalapeño bagel
+toasted multigrain bagel
+toasted marble rye bagel
+toasted sun-dried tomato bagel
+toasted spinach bagel
+toasted sesame pretzel bagel
+toasted asiago cheddar bagel
+toasted roasted garlic bagel
+toasted honey oat bagel
+toasted cinnamon crunch bagel
+toasted oat bran bagel
+toasted maple bagel
+toasted black sesame bagel
+toasted cheddar jalapeño bagel
+toasted rye bagel
+toasted swiss cheese bagel
+toasted cranberry bagel
+toasted sourdough bagel
+toasted parmesan bagel
+toasted olive bagel
+kung pao chicken
+sesame chicken
+sweet and sour pork
+beef and broccoli
+chicken lo mein
+vegetable fried rice
+shrimp tempura
+spicy tuna roll
+teriyaki chicken
+miso soup
+hot and sour soup
+beef chow fun
+pork dumplings
+shrimp fried rice
+egg drop soup
+spicy beef noodle soup
+chicken teriyaki bento box
+tofu stir fry
+peking duck
+steamed pork buns
+pad thai
+thai red curry
+beef bulgogi
+general tso's chicken
+chicken katsu
+sashimi platter
+dragon roll
+udon noodles
+beef pho
+shrimp pad see ew
+thai green curry
+chicken satay
+pork belly bao
+mapo tofu
+vegetable spring rolls
+crispy honey shrimp
+tuna sashimi
+california roll
+spicy crab roll
+chicken pad thai
+yakisoba noodles
+tamago sushi
+beef yakitori
+shrimp shumai
+vegetable tempura
+miso ramen
+spicy pork ramen
+shrimp pad thai
+shrimp pho
+korean spicy chicken wings
+chicken wonton soup
+japanese curry
+pork belly ramen
+shrimp yaki udon
+chicken fried rice
+shrimp egg foo young
+crab rangoon
+thai basil chicken
+shrimp chow mein
+thai beef salad
+crispy duck
+spicy miso ramen
+tuna poke bowl
+seaweed salad
+grilled eel
+beef teriyaki
+pork tonkatsu
+thai shrimp curry
+chicken pho
+
+
+
+// drinks
+drip coffee
+cafe au lait
+cold brew
+nitro cold brew
+espresso double shot
+macchiato
+cortado
+cappuccino
+americano
+flat white
+tatte house latte
+latte
+iced latte
+mocha
+iced mocha
+assorted mem teas
+blood orange hibiscus
+apple berry
+lemon chamomile
+iced tea
+matcha latte
+chai latte
+hot chocolate
+mint lemonade
+kale and apple
+san pellegrino
+sparkling water
+san pellegrino limonata
+blood orange soda
+lemonade
+strawberry lemonade
+coke
+coca cola
+pepsi
+orange juice
+apple juice
+gatorade
+orange soda
+soda
+water
+iced caramel latte
+dirty chai latte
+vanilla latte
+salted caramel hot chocolate
+lavender honey latte
+spiced pumpkin latte
+hazelnut cappuccino
+cinnamon dolce latte
+maple pecan latte
+gingerbread latte
+white chocolate mocha
+raspberry mocha
+turmeric latte
+butterscotch latte
+peanut butter hot chocolate
+turkish coffee
+matcha lemonade
+strawberry matcha
+passionfruit iced tea
+jasmine green tea
+oolong tea
+earl grey tea
+peppermint tea
+ginger tea
+detox tea
+chamomile tea
+hibiscus iced tea
+ginger ale
+cream soda
+diet coke
+dr pepper
+root beer
+vanilla cream soda
+grape soda
+fruit punch
+tropical punch
+coconut water
+lime sparkling water
+blackberry sparkling water
+ginger beer
+arnold palmer
+energy drink
+iced milk tea
+taro milk tea
+thai iced tea
+jasmine milk tea
+wintermelon milk tea
+mango smoothie
+pineapple smoothie
+strawberry banana smoothie
+peach smoothie
+blueberry smoothie
+green smoothie
+watermelon juice
+cucumber juice
+beet juice
+grapefruit juice
+cranberry juice
+pomegranate juice
+cherry juice
+coconut milk
+almond milk
+soy milk
+golden milk
+bubble tea
+iced vanilla coffee
+toffee nut latte
+americano misto
+honey almond milk flat white
+mocha macchiato
+iced mocha macchiato
+blonde roast coffee
+iced blonde roast coffee
+salted caramel cold brew
+cinnamon almond milk macchiato
+hazelnut cold brew
+ginger honey tea
+black iced tea
+long black
+affogato
+café con leche
+irish coffee
+bombón coffee
+marocchino
+vietnamese iced coffee
+café de olla
+au lait
+bai drink
+ginger-turmeric latte
+peppermint mocha
+toffee nut cold brew
+honey oat milk latte
+double espresso
+coconut latte
+red eye
+blue eye
+babyccino
+quad shot espresso
+honey hibiscus iced tea
+rooibos tea
+matcha frappe
+passionfruit frappe
+chai frappe
+honeydew smoothie
+honey lemonade
+matcha green tea lemonade
+blue raspberry lemonade
+chocolate milk
+horchata
+agua fresca
+soursop juice
+cane juice
+tangerine juice
+lychee juice
+tamarind juice
+guava juice
+kefir
+kombucha
+whey protein shake
+carrot juice
+spinach juice
+spirulina shake
+acai berry juice
+papaya juice
+lychee soda
+pineapple soda
+yuzu tea
+sesame latte
+date milk
+matcha soy milk
+pistachio latte
+pistachio frappe
+honey ginger tea
+maple latte
+pumpkin spice iced coffee
+espresso tonic
+
+
+// abstract/specials names
+the number twenty two
+the number seven
+the number eight
+the number nine
+the number twenty four
+the number twenty
+the number nineteen
+the number eighteen
+the number twelve
+the number eleven
+the number ten
+the number fourteen
+the number fifteen
+the number six
+the number five
+the number one
+the number two
+the number there
+number fifteen
+number eight
+number five
+number three
+number two
+number nine
+number twenty two
+number twenty
+number twenty three
+the fifteen
+the six
+the three
+the two
+the number fifteen sandwich
+the number twelve sandwich
+the number ten sandwich
+the number eight sandwich
+the number seven sandwich
+the number three sandwich
+the sandwich number four
+the sandwich number three
+the number eight burrito
+the number three burrito
+the burrito number two
+the number five coffee
+the number three coffee
+the coffee number five
+the coffee number three
+
+the number twenty five
+the number twenty six
+the number twenty seven
+the number twenty eight
+the number twenty nine
+the number thirty
+the number thirty one
+the number thirty two
+the number thirty three
+the number thirty four
+the number thirty five
+the number thirty six
+the number thirty seven
+the number thirty eight
+the number thirty nine
+the number forty
+the number forty one
+the number forty two
+the number forty three
+the number forty four
+the number forty five
+the number forty six
+the number forty seven
+the number forty eight
+the number forty nine
+the number fifty
+number twenty five
+number twenty six
+number twenty seven
+number twenty eight
+number twenty nine
+number thirty
+number thirty one
+number thirty two
+number thirty three
+number thirty four
+number thirty five
+number thirty six
+number thirty seven
+number thirty eight
+number thirty nine
+number forty
+number forty one
+number forty two
+number forty three
+number forty four
+number forty five
+number forty six
+number forty seven
+number forty eight
+number forty nine
+number fifty
+the number twenty five plate
+the number thirty plate
+the number thirty five plate
+the number forty plate
+the number fifty plate
+the number twenty five drink
+the number thirty drink
+the number thirty five drink
+the number forty drink
+the number fifty drink
+the sandwich number thirty
+the sandwich number forty
+the sandwich number fifty
+the drink number thirty
+the drink number forty
+the drink number fifty
+
+marys special
+rehans chicken surprise
+matts sandwich special
+johns super soup
+the rodeo special
+the big kahuna burger
+grandma's secret chili
+captain's seafood delight
+the volcano burrito
+uncle joe's famous ribs
+chef's mystery pasta
+the mountain of nachos
+pirate's booty platter
+midnight madness pizza
+the atomic meatball sub
+grand slam breakfast skillet
+cowboy's cornbread feast
+the golden gate crab cake
+the dragon's fire ramen
+the farmer's garden omelet
+rebel's revenge hot wings
+texas tornado steak
+swamp monster gumbo
+blue moon sushi roll
+the lumberjack pancake stack
+the funky chicken wrap
+mamma mia's meatball madness
+sunset surf 'n' turf
+the dizzy lizard quesadilla
+the yodeling yaki udon
+rocket fuel espresso shot
+the snowstorm salad
+the big apple cider pork
+sizzling szechuan surprise
+the thunderbolt taco
+el dorado enchilada
+the wild west chili burger
+the cosmic curry bowl
+granny's sweet potato pie
+the samurai slider trio
+buffalo bill's bison burger
+the olympian gyro
+the jungle juice jamboree
+the cheesy comet calzone
+the sultan's falafel fiesta
+the crazy caprese
+the woolly mammoth melt
+the pink flamingo poke
+the galactic grilled cheese
+the mambo mango chicken
+the gladiator's roast
+the pirate’s parrot perch
+the funky falafel fiesta
+the chocolate avalanche cake
+el jefe’s loaded nachos
+the baconator’s breakfast
+the giant's pork shank
+the crispy cactus bites
+the king kong combo
+the voodoo voodoo shrimp
+the upside-down pizza puff
+the campfire s’mores pancake
+the whirlwind waffle
+the dragon’s breath beef bowl
+the drunken sailor stew
+the mambo italiano meatloaf
+the groovy green salad
+the jolly rancher burger
+the peanut butter pickle panini
+the seven seas seafood platter
+the raging bull burrito
+the hot diggity dog deluxe
+the fruity tootie smoothie
+the moonstruck milkshake
+grandpa’s sauerkraut special
+the crackling croissant club
+the polka dot pasta
+the mystic mushroom melt
+captain crunch's cod fillet
+the duke's dill pickle pizza
+the midnight munchies mac 'n' cheese
+the bigfoot burrito supreme
+the twisted pretzel panini
+the roaring twenties risotto
+the giddy goat cheese burger
+the phoenix fire wings
+the bayou crawfish boil
+the mount olympus meatloaf
+the neon noodle nest
+the spartan spinach pie
+the happy hippie hummus
+the dizzy dragon dumplings
+the howling wolf chili
+the electric eel roll
+the pirate's plank salmon
+the caramel cowboy crunch
+the tiki tiki tofu bowl
+the mad hatter meatball
+the flamingo fajita
+the pearl diver's paella
+the sweet tooth sundae
+the mambo minestrone
+the elvis egg sandwich
+the mambo king mahi-mahi
+the caramelized chaos chicken
+the caveman club sandwich
+the cheshire cheese platter
+the funky fiesta fajitas
+the mount kilimanjaro kebab
+the howdy partner hash
+the red velvet volcano cake
+the roaring raccoon roast
+the tango tamale
+the voodoo veggie wrap
+the leaping lemur lasagna
+the bazooka burrito
+the lumberjack lumber loaf
+the wizard’s wand waffle
+the funky philly cheesesteak
+the boss’s bruschetta
+the smoky mountain melt
+the baked alaska blizzard
+the gold rush guacamole
+the panda paradise potstickers
+the molten magma burger
+the polynesian piglet plate
+the tiger’s tooth taco
+the twisted tornado tortilla
+the greek goddess gyro
+the jalapeño jackpot jalopy
+the rainforest ramen
+the mighty minotaur meatballs
+the chili chariot
+the mystery meat mountain
+the sassy sesame sliders
+the aloha aloha ahi bowl
+the peppermint patty pizza
+the spaghetti skyscraper
+the dragonfruit dazzle smoothie
+the grandpa’s gravy platter
+the fortune cookie fried rice
+the nutty professor nachos
+the lemon twist linguine
+the caramel catfish combo
+the manhattan mushroom melt
+the runaway rooster wrap
+the emerald city eggplant
