@@ -413,21 +413,21 @@ put a ITEM,0,0 with ADDON,2,0,1 on the side in my cart|make sure there isnt any 
 i want to add a SIZE,0,0,2 ITEM,0,0|make sure it doesnt have any ALLERGEN,1,0,2
 add a ITEM,0,0 with ADDON,0,0,1|make sure theres no trace of ALLERGEN,1,0,1 in it
 
-//! add -> remove allergen + allergen_declaration
-can i add a ITEM,0,0 and a ITEM,0,0 to my order|[allergen_declaration]:make sure there is no ALLERGEN,1,0,1,2 on those cause im allergic
-give me a ITEM,0,0 with ADDON,0,0,1|[allergen_declaration]:be sure that doesnt have and ALLERGEN,1,0,1 because i have an allergy
-i need a ITEM,0,0 without ADDON,1,0,1|[allergen_declaration]:im allergic to ALLERGEN,1,0,1 so make sure it doesnt contain any
-i want to add NUMBER,0,0,2 ITEM,0,0s to my order|[allergen_declaration]:i have a ALLERGEN,1,0,2 allergy so make sure its not on that
-add a ITEM,0,0 with ADDON,0,0,1 to my order|[allergen_declaration]:make sure theres no ALLERGEN,1,0,1 on it im allergic
-can i add a ITEM,0,0 and ITEM,0,0 to my cart|[allergen_declaration]:take out any ALLERGEN,1,0,1,2 im allergic to it
-i want a ITEM,0,0 with ADDON,0,0,1|[allergen_declaration]:dont put ALLERGEN,1,0,1 on it cause i have an allergy
-add me a ITEM,0,0 and ITEM,0,0|[allergen_declaration]:make sure ALLERGEN,1,0,1,2 isnt on either im allergic
-give me a ITEM,0,0 with ADDON,0,0,1|[allergen_declaration]:be sure there is no ALLERGEN,1,0,1 im allergic
-let me get NUMBER,0,0,2 ITEM,0,0s|[allergen_declaration]:make sure no ALLERGEN,1,0,2 is included i have an allergy
-can i get a ITEM,0,0 with ADDON,2,0,1 on the side|[allergen_declaration]:take out ALLERGEN,1,0,1 im allergic to it
-i need NUMBER,0,0,2 ITEM,0,0s and ADDON,1,0,2 on top|[allergen_declaration]:remove ALLERGEN,1,0,2 from each cause im allergic
-i want a ITEM,0,0 and ADDON,2,0,1 on the side|[allergen_declaration]:make sure there is no ALLERGEN,1,0,1 im allergic
-add a NUMBER,0,0,2 ITEM,0,0 to my cart|[allergen_declaration]:make sure it doesnt have ALLERGEN,1,0,2 im allergic
-can i add a ITEM,0,0 with ADDON,0,0,1 to my order|[allergen_declaration]:dont include ALLERGEN,1,0,1 im allergic to that
-give me a ITEM,0,0 without ADDON,1,0,1|[allergen_declaration]:im allergic to ALLERGEN,1,0,1 so make sure its not there
-id like a ITEM,0,0 with ADDON,3,0,1 on top|[allergen_declaration]:remove ALLERGEN,1,0,1 im allergic
+//! add -> remove allergen + allergy_declaration
+can i add a ITEM,0,0 and a ITEM,0,0 to my order|[allergy_declaration]:make sure there is no ALLERGEN,1,0,1,2 on those cause im allergic
+give me a ITEM,0,0 with ADDON,0,0,1|[allergy_declaration]:be sure that doesnt have and ALLERGEN,1,0,1 because i have an allergy
+i need a ITEM,0,0 without ADDON,1,0,1|[allergy_declaration]:im allergic to ALLERGEN,1,0,1 so make sure it doesnt contain any
+i want to add NUMBER,0,0,2 ITEM,0,0s to my order|[allergy_declaration]:i have a ALLERGEN,1,0,2 allergy so make sure its not on that
+add a ITEM,0,0 with ADDON,0,0,1 to my order|[allergy_declaration]:make sure theres no ALLERGEN,1,0,1 on it im allergic
+can i add a ITEM,0,0 and ITEM,0,0 to my cart|[allergy_declaration]:take out any ALLERGEN,1,0,1,2 im allergic to it
+i want a ITEM,0,0 with ADDON,0,0,1|[allergy_declaration]:dont put ALLERGEN,1,0,1 on it cause i have an allergy
+add me a ITEM,0,0 and ITEM,0,0|[allergy_declaration]:make sure ALLERGEN,1,0,1,2 isnt on either im allergic
+give me a ITEM,0,0 with ADDON,0,0,1|[allergy_declaration]:be sure there is no ALLERGEN,1,0,1 im allergic
+let me get NUMBER,0,0,2 ITEM,0,0s|[allergy_declaration]:make sure no ALLERGEN,1,0,2 is included i have an allergy
+can i get a ITEM,0,0 with ADDON,2,0,1 on the side|[allergy_declaration]:take out ALLERGEN,1,0,1 im allergic to it
+i need NUMBER,0,0,2 ITEM,0,0s and ADDON,1,0,2 on top|[allergy_declaration]:remove ALLERGEN,1,0,2 from each cause im allergic
+i want a ITEM,0,0 and ADDON,2,0,1 on the side|[allergy_declaration]:make sure there is no ALLERGEN,1,0,1 im allergic
+add a NUMBER,0,0,2 ITEM,0,0 to my cart|[allergy_declaration]:make sure it doesnt have ALLERGEN,1,0,2 im allergic
+can i add a ITEM,0,0 with ADDON,0,0,1 to my order|[allergy_declaration]:dont include ALLERGEN,1,0,1 im allergic to that
+give me a ITEM,0,0 without ADDON,1,0,1|[allergy_declaration]:im allergic to ALLERGEN,1,0,1 so make sure its not there
+id like a ITEM,0,0 with ADDON,3,0,1 on top|[allergy_declaration]:remove ALLERGEN,1,0,1 im allergic

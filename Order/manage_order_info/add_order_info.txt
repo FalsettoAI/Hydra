@@ -1205,7 +1205,7 @@ add an ITEM,0,0|and throw on ADDON,0,0,2 while youre at it
 // add object(s) with addon - change addon orientation
 can i have a ITEM,0,0 with ADDON,0,0,1|you know what lets put that on the side*2,2,0,1
 lets add an ITEM,0,0 with ADDON,0,0,1 and ADDON,0,0,1|i want both of those on the top*2,3,0,1*2,3,0,1
-can i have a ITEM,0,0 with NUMBER,0,0,3 ADDON,0,0,1s|put em on top*,3,,03,1
+can i have a ITEM,0,0 with NUMBER,0,0,3 ADDON,0,0,1s|put em on top*3,0,3,1
 can we add NUMBER,0,0,2 ITEM,0,0s with ADDON,2,0,2 on the side|actually lets have it on top*3,3,0,2
 i would like to get a ITEM,0,0 and put ADDON,3,0,1 on top|actually lets put that on the side instead*2,2,0,1
 
@@ -1258,7 +1258,7 @@ can you toss in a SIZE,0,1 item|the ITEM,0,0 sounds good*1,0,0,2
 // add number - add object(s)
 id like NUMBER,0,1 of a specific item|im talking about the ITEM,0,0*1,0,0,2
 can i get NUMBER,0,1 of something|the ITEM,0,0*1,0,0,2
-imm going to need NUMBER,0,1 of a couple things|the ITEM,0,0 ITEM,0,0 and ITEM,0,0*1,0,0,2,3,4
+im going to need NUMBER,0,1 of a couple things|the ITEM,0,0 ITEM,0,0 and ITEM,0,0*1,0,0,2,3,4
 add NUMBER,0,1 items to my cart|only the ITEM,0,0*1,0,0,2
 lemme grab NUMBER,0,1 of something|the ITEM,0,0 sounds perfect*1,0,0,2
 i want NUMBER,0,1 items|just the ITEM,0,0*1,0,0,2

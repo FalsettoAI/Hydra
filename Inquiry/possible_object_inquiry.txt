@@ -57,14 +57,14 @@ does your menu feature a OBJECT,0,1 and also a OBJECT,0,1
 
 
 // ingredient on item
-would you be able to put a ADDON,3,1,2 n the ITEM,0,1
+would you be able to put a ADDON,3,1,2 in the ITEM,0,1
 is it possible to put a ADDON,0,1,2 with my ITEM,0,1
 if i got a ITEM,0,1 would i be able to add ADDON,0,1,1 with that
 could i put a ADDON,3,1,2 on a ITEM,0,1 if i got it
 would it be possible to add ADDON,0,1,2 to my ITEM,0,1 if i ordered it
 can i have a ITEM,0,1 with ADDON,0,1,1 if i wanted to
 could you put ADDON,0,1,2 with the ITEM,0,1 if i ask for it
-is there any way to get ADDON,0,1,1 on my ITEM,0,1, if i requested it
+is there any way to get ADDON,0,1,1 on my ITEM,0,1 if i requested it
 can i check if ADDON,3,1,2 can be put on a ITEM,0,1
 would you be able to add ADDON,0,1,2 to that ITEM,0,1 if i wanted to try it
 if i ordered a ITEM,0,1 would i be able to include ADDON,0,1,1 with it

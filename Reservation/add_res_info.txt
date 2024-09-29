@@ -4234,7 +4234,6 @@ let me get seating for NUMBER,0,0,0 people at TIME,0,0,0 on DATE,0,0,0
 let me get a spot for NUMBER,0,0,0 individuals on DATE,0,0,0 at TIME,0,0,0
 let me get a table reserved for NUMBER,0,0,0 diners at TIME,0,0,0 on DATE,0,0,0
 let me get arrangements made for NUMBER,0,0,0 patrons on DATE,0,0,0 at TIME,0,0,0
-let me get a confirmation for a reservation for NUMBER,0,0,0 at TIME,0,0,0 on DATE,0,0,0
 let me get a table booked for DATE,0,0,0 at TIME,0,0,0 for NUMBER,0,0,0 guests
 let me get a reservation locked in for NUMBER,0,0,0 people at TIME,0,0,0 on DATE,0,0,0
 let me get a booking secured for a group of NUMBER,0,0,0 on DATE,0,0,0 at TIME,0,0,0

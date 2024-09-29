@@ -951,9 +951,9 @@ can i switch up the specifics of my ITEM,0,1,0|lets do ADDON,0,0,0 instead of AD
 //              ****  View → Intent ****
 
 // basic sentences
-view_order:do i have a ITEM,0,1,0 in my cart|can you swap it for a ITEM,0,0,0*ITEM,1,0,1
-view_order:do i have a ITEM,0,1,0 in my cart|actually i said a ITEM,0,0,0*ITEM,1,0,1
-view_order:do i have a ITEM,0,1,0 in my cart|no i wanted a ITEM,0,0,0*ITEM,1,0,1
+view_order:do i have a ITEM,0,1,0 in my cart|can you swap it for a ITEM,0,0,0*1,1,0
+view_order:do i have a ITEM,0,1,0 in my cart|actually i said a ITEM,0,0,0*1,1,0
+view_order:do i have a ITEM,0,1,0 in my cart|no i wanted a ITEM,0,0,0*1,1,0
 
 
 
