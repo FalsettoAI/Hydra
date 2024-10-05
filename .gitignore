@@ -1,1 +1,4 @@
 processing/JERTmate_final_data.json
+
+*.keras
+*.h5
