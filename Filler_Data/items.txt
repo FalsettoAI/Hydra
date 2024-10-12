@@ -348,7 +348,7 @@ lamb musakka
 chicken musakka
 beef kebab
 hunkar begendi
-sultan’s delight
+sultans delight
 iskender plate
 beyti kebab
 grilled lamb liver
@@ -372,7 +372,7 @@ baba ganoush
 tabbouleh
 ezme salad
 cacik
-shepherd’s salad
+shepherds salad
 ezogelin soup
 yogurtlu kebab
 turkish ravioli
@@ -933,19 +933,19 @@ the pink flamingo poke
 the galactic grilled cheese
 the mambo mango chicken
 the gladiator's roast
-the pirate’s parrot perch
+the pirates parrot perch
 the funky falafel fiesta
 the chocolate avalanche cake
-el jefe’s loaded nachos
-the baconator’s breakfast
+el jefes loaded nachos
+the baconators breakfast
 the giant's pork shank
 the crispy cactus bites
 the king kong combo
 the voodoo voodoo shrimp
 the upside-down pizza puff
-the campfire s’mores pancake
+the campfire smores pancake
 the whirlwind waffle
-the dragon’s breath beef bowl
+the dragons breath beef bowl
 the drunken sailor stew
 the mambo italiano meatloaf
 the groovy green salad
@@ -956,7 +956,7 @@ the raging bull burrito
 the hot diggity dog deluxe
 the fruity tootie smoothie
 the moonstruck milkshake
-grandpa’s sauerkraut special
+grandpas sauerkraut special
 the crackling croissant club
 the polka dot pasta
 the mystic mushroom melt
@@ -999,16 +999,16 @@ the voodoo veggie wrap
 the leaping lemur lasagna
 the bazooka burrito
 the lumberjack lumber loaf
-the wizard’s wand waffle
+the wizards wand waffle
 the funky philly cheesesteak
-the boss’s bruschetta
+the bosss bruschetta
 the smoky mountain melt
 the baked alaska blizzard
 the gold rush guacamole
 the panda paradise potstickers
 the molten magma burger
 the polynesian piglet plate
-the tiger’s tooth taco
+the tigers tooth taco
 the twisted tornado tortilla
 the greek goddess gyro
 the jalapeño jackpot jalopy
@@ -1021,7 +1021,7 @@ the aloha aloha ahi bowl
 the peppermint patty pizza
 the spaghetti skyscraper
 the dragonfruit dazzle smoothie
-the grandpa’s gravy platter
+the grandpas gravy platter
 the fortune cookie fried rice
 the nutty professor nachos
 the lemon twist linguine
