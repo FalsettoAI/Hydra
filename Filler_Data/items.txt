@@ -435,7 +435,7 @@ spinach and cheese quiche
 fruit smoothie bowl
 bacon breakfast burrito
 chia pudding
-french crêpes
+french crepes
 lemon poppyseed muffin
 coffee cake
 banana bread
@@ -537,7 +537,7 @@ steamed pork buns
 pad thai
 thai red curry
 beef bulgogi
-general tso's chicken
+general tsos chicken
 chicken katsu
 sashimi platter
 dragon roll
@@ -888,28 +888,28 @@ matts sandwich special
 johns super soup
 the rodeo special
 the big kahuna burger
-grandma's secret chili
-captain's seafood delight
+grandmas secret chili
+captains seafood delight
 the volcano burrito
-uncle joe's famous ribs
-chef's mystery pasta
+uncle joes famous ribs
+chefs mystery pasta
 the mountain of nachos
-pirate's booty platter
+pirates booty platter
 midnight madness pizza
 the atomic meatball sub
 grand slam breakfast skillet
-cowboy's cornbread feast
+cowboys cornbread feast
 the golden gate crab cake
-the dragon's fire ramen
-the farmer's garden omelet
-rebel's revenge hot wings
+the dragons fire ramen
+the farmers garden omelet
+rebels revenge hot wings
 texas tornado steak
 swamp monster gumbo
 blue moon sushi roll
 the lumberjack pancake stack
 the funky chicken wrap
-mamma mia's meatball madness
-sunset surf 'n' turf
+mamma mias meatball madness
+sunset surf n turf
 the dizzy lizard quesadilla
 the yodeling yaki udon
 rocket fuel espresso shot
@@ -920,25 +920,25 @@ the thunderbolt taco
 el dorado enchilada
 the wild west chili burger
 the cosmic curry bowl
-granny's sweet potato pie
+grannys sweet potato pie
 the samurai slider trio
-buffalo bill's bison burger
+buffalo bills bison burger
 the olympian gyro
 the jungle juice jamboree
 the cheesy comet calzone
-the sultan's falafel fiesta
+the sultans falafel fiesta
 the crazy caprese
 the woolly mammoth melt
 the pink flamingo poke
 the galactic grilled cheese
 the mambo mango chicken
-the gladiator's roast
+the gladiators roast
 the pirates parrot perch
 the funky falafel fiesta
 the chocolate avalanche cake
 el jefes loaded nachos
 the baconators breakfast
-the giant's pork shank
+the giants pork shank
 the crispy cactus bites
 the king kong combo
 the voodoo voodoo shrimp
@@ -960,9 +960,9 @@ grandpas sauerkraut special
 the crackling croissant club
 the polka dot pasta
 the mystic mushroom melt
-captain crunch's cod fillet
-the duke's dill pickle pizza
-the midnight munchies mac 'n' cheese
+captain crunchs cod fillet
+the dukes dill pickle pizza
+the midnight munchies mac n cheese
 the bigfoot burrito supreme
 the twisted pretzel panini
 the roaring twenties risotto
@@ -976,12 +976,12 @@ the happy hippie hummus
 the dizzy dragon dumplings
 the howling wolf chili
 the electric eel roll
-the pirate's plank salmon
+the pirates plank salmon
 the caramel cowboy crunch
 the tiki tiki tofu bowl
 the mad hatter meatball
 the flamingo fajita
-the pearl diver's paella
+the pearl divers paella
 the sweet tooth sundae
 the mambo minestrone
 the elvis egg sandwich
